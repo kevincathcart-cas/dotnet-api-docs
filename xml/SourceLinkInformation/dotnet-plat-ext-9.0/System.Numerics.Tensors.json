@@ -1,0 +1,1092 @@
+{
+  "Assembly": "System.Numerics.Tensors",
+  "GUID": "19539C640BFC4A1A9CBB0E2A01A7C6E0FFFFFFFF",
+  "Types": [
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.Abs(System.ReadOnlySpan{System.Single},System.Span{System.Single})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/TensorPrimitives.Single.cs#L30C13-L30C72"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.Add(System.ReadOnlySpan{System.Single},System.ReadOnlySpan{System.Single},System.Span{System.Single})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/TensorPrimitives.Single.cs#L49C13-L49C74"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.Add(System.ReadOnlySpan{System.Single},System.Single,System.Span{System.Single})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/TensorPrimitives.Single.cs#L66C13-L66C76"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.AddMultiply(System.ReadOnlySpan{System.Single},System.ReadOnlySpan{System.Single},System.ReadOnlySpan{System.Single},System.Span{System.Single})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/TensorPrimitives.Single.cs#L87C13-L87C98"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.AddMultiply(System.ReadOnlySpan{System.Single},System.ReadOnlySpan{System.Single},System.Single,System.Span{System.Single})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/TensorPrimitives.Single.cs#L107C13-L107C100"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.AddMultiply(System.ReadOnlySpan{System.Single},System.Single,System.ReadOnlySpan{System.Single},System.Span{System.Single})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/TensorPrimitives.Single.cs#L127C13-L127C100"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.Cosh(System.ReadOnlySpan{System.Single},System.Span{System.Single})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/TensorPrimitives.Single.cs#L151C13-L151C68"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.CosineSimilarity(System.ReadOnlySpan{System.Single},System.ReadOnlySpan{System.Single})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/TensorPrimitives.Single.cs#L173C13-L173C39"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.Distance(System.ReadOnlySpan{System.Single},System.ReadOnlySpan{System.Single})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/TensorPrimitives.Single.cs#L201C13-L206C100"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.Divide(System.ReadOnlySpan{System.Single},System.ReadOnlySpan{System.Single},System.Span{System.Single})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/TensorPrimitives.Single.cs#L226C13-L226C77"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.Divide(System.ReadOnlySpan{System.Single},System.Single,System.Span{System.Single})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/TensorPrimitives.Single.cs#L243C13-L243C79"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.Dot(System.ReadOnlySpan{System.Single},System.ReadOnlySpan{System.Single})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/TensorPrimitives.Single.cs#L269C13-L269C73"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.Exp(System.ReadOnlySpan{System.Single},System.Span{System.Single})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/TensorPrimitives.Single.cs#L290C13-L290C67"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.IndexOfMax(System.ReadOnlySpan{System.Single})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/TensorPrimitives.Single.cs#L306C13-L306C67"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.IndexOfMaxMagnitude(System.ReadOnlySpan{System.Single})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/TensorPrimitives.Single.cs#L323C13-L323C76"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.IndexOfMin(System.ReadOnlySpan{System.Single})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/TensorPrimitives.Single.cs#L339C13-L339C67"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.IndexOfMinMagnitude(System.ReadOnlySpan{System.Single})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/TensorPrimitives.Single.cs#L356C13-L356C76"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.Log(System.ReadOnlySpan{System.Single},System.Span{System.Single})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/TensorPrimitives.Single.cs#L379C13-L379C67"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.Log2(System.ReadOnlySpan{System.Single},System.Span{System.Single})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/TensorPrimitives.Single.cs#L402C13-L402C68"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.Max(System.ReadOnlySpan{System.Single})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/TensorPrimitives.Single.cs#L419C13-L419C46"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.Max(System.ReadOnlySpan{System.Single},System.ReadOnlySpan{System.Single},System.Span{System.Single})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/TensorPrimitives.Single.cs#L443C13-L443C86"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.MaxMagnitude(System.ReadOnlySpan{System.Single})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/TensorPrimitives.Single.cs#L461C13-L461C55"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.MaxMagnitude(System.ReadOnlySpan{System.Single},System.ReadOnlySpan{System.Single},System.Span{System.Single})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/TensorPrimitives.Single.cs#L479C13-L479C95"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.Min(System.ReadOnlySpan{System.Single})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/TensorPrimitives.Single.cs#L496C13-L496C46"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.Min(System.ReadOnlySpan{System.Single},System.ReadOnlySpan{System.Single},System.Span{System.Single})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/TensorPrimitives.Single.cs#L520C13-L520C86"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.MinMagnitude(System.ReadOnlySpan{System.Single})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/TensorPrimitives.Single.cs#L538C13-L538C55"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.MinMagnitude(System.ReadOnlySpan{System.Single},System.ReadOnlySpan{System.Single},System.Span{System.Single})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/TensorPrimitives.Single.cs#L561C13-L561C95"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.Multiply(System.ReadOnlySpan{System.Single},System.ReadOnlySpan{System.Single},System.Span{System.Single})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/TensorPrimitives.Single.cs#L580C13-L580C79"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.Multiply(System.ReadOnlySpan{System.Single},System.Single,System.Span{System.Single})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/TensorPrimitives.Single.cs#L598C13-L598C81"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.MultiplyAdd(System.ReadOnlySpan{System.Single},System.ReadOnlySpan{System.Single},System.ReadOnlySpan{System.Single},System.Span{System.Single})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/TensorPrimitives.Single.cs#L619C13-L619C94"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.MultiplyAdd(System.ReadOnlySpan{System.Single},System.ReadOnlySpan{System.Single},System.Single,System.Span{System.Single})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/TensorPrimitives.Single.cs#L640C13-L640C96"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.MultiplyAdd(System.ReadOnlySpan{System.Single},System.Single,System.ReadOnlySpan{System.Single},System.Span{System.Single})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/TensorPrimitives.Single.cs#L660C13-L660C96"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.Negate(System.ReadOnlySpan{System.Single},System.Span{System.Single})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/TensorPrimitives.Single.cs#L676C13-L676C70"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.Norm(System.ReadOnlySpan{System.Single})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/TensorPrimitives.Single.cs#L696C13-L696C40"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.Product(System.ReadOnlySpan{System.Single})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/TensorPrimitives.Single.cs#L713C13-L718C83"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.ProductOfDifferences(System.ReadOnlySpan{System.Single},System.ReadOnlySpan{System.Single})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/TensorPrimitives.Single.cs#L744C13-L749C86"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.ProductOfSums(System.ReadOnlySpan{System.Single},System.ReadOnlySpan{System.Single})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/TensorPrimitives.Single.cs#L775C13-L780C81"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.Sigmoid(System.ReadOnlySpan{System.Single},System.Span{System.Single})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/TensorPrimitives.Single.cs#L800C13-L806C10"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.Sinh(System.ReadOnlySpan{System.Single},System.Span{System.Single})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/TensorPrimitives.Single.cs#L830C13-L830C68"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.SoftMax(System.ReadOnlySpan{System.Single},System.Span{System.Single})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/TensorPrimitives.Single.cs#L850C13-L865C10"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.Subtract(System.ReadOnlySpan{System.Single},System.ReadOnlySpan{System.Single},System.Span{System.Single})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/TensorPrimitives.Single.cs#L884C13-L884C79"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.Subtract(System.ReadOnlySpan{System.Single},System.Single,System.Span{System.Single})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/TensorPrimitives.Single.cs#L901C13-L901C81"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.Sum(System.ReadOnlySpan{System.Single})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/TensorPrimitives.Single.cs#L916C13-L916C70"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.SumOfMagnitudes(System.ReadOnlySpan{System.Single})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/TensorPrimitives.Single.cs#L937C13-L937C70"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.SumOfSquares(System.ReadOnlySpan{System.Single})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/TensorPrimitives.Single.cs#L958C13-L958C69"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.Tanh(System.ReadOnlySpan{System.Single},System.Span{System.Single})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/TensorPrimitives.Single.cs#L983C13-L983C68"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.Abs``1(System.ReadOnlySpan{``0},System.Span{``0})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.T.cs#L29C13-L29C71"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.Acos``1(System.ReadOnlySpan{``0},System.Span{``0})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.T.cs#L47C13-L47C67"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.Acosh``1(System.ReadOnlySpan{``0},System.Span{``0})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.T.cs#L65C13-L65C68"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.AcosPi``1(System.ReadOnlySpan{``0},System.Span{``0})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.T.cs#L83C13-L83C69"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.Asin``1(System.ReadOnlySpan{``0},System.Span{``0})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.T.cs#L101C13-L101C67"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.Asinh``1(System.ReadOnlySpan{``0},System.Span{``0})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.T.cs#L119C13-L119C68"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.AsinPi``1(System.ReadOnlySpan{``0},System.Span{``0})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.T.cs#L137C13-L137C69"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.Atan``1(System.ReadOnlySpan{``0},System.Span{``0})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.T.cs#L155C13-L155C67"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.Atanh``1(System.ReadOnlySpan{``0},System.Span{``0})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.T.cs#L173C13-L173C68"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.AtanPi``1(System.ReadOnlySpan{``0},System.Span{``0})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.T.cs#L191C13-L191C69"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.Atan2``1(System.ReadOnlySpan{``0},System.ReadOnlySpan{``0},System.Span{``0})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.T.cs#L212C13-L212C75"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.Atan2``1(System.ReadOnlySpan{``0},``0,System.Span{``0})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.T.cs#L231C13-L231C77"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.Atan2``1(``0,System.ReadOnlySpan{``0},System.Span{``0})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.T.cs#L250C13-L250C77"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.Atan2Pi``1(System.ReadOnlySpan{``0},System.ReadOnlySpan{``0},System.Span{``0})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.T.cs#L271C13-L271C77"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.Atan2Pi``1(System.ReadOnlySpan{``0},``0,System.Span{``0})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.T.cs#L290C13-L290C79"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.Atan2Pi``1(``0,System.ReadOnlySpan{``0},System.Span{``0})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.T.cs#L309C13-L309C79"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.Add``1(System.ReadOnlySpan{``0},System.ReadOnlySpan{``0},System.Span{``0})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.T.cs#L329C13-L329C73"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.Add``1(System.ReadOnlySpan{``0},``0,System.Span{``0})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.T.cs#L347C13-L347C75"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.AddMultiply``1(System.ReadOnlySpan{``0},System.ReadOnlySpan{``0},System.ReadOnlySpan{``0},System.Span{``0})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.T.cs#L369C13-L369C97"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.AddMultiply``1(System.ReadOnlySpan{``0},System.ReadOnlySpan{``0},``0,System.Span{``0})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.T.cs#L390C13-L390C99"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.AddMultiply``1(System.ReadOnlySpan{``0},``0,System.ReadOnlySpan{``0},System.Span{``0})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.T.cs#L411C13-L411C99"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.BitwiseAnd``1(System.ReadOnlySpan{``0},System.ReadOnlySpan{``0},System.Span{``0})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.T.cs#L428C13-L428C80"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.BitwiseAnd``1(System.ReadOnlySpan{``0},``0,System.Span{``0})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.T.cs#L443C13-L443C82"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.BitwiseOr``1(System.ReadOnlySpan{``0},System.ReadOnlySpan{``0},System.Span{``0})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.T.cs#L460C13-L460C79"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.BitwiseOr``1(System.ReadOnlySpan{``0},``0,System.Span{``0})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.T.cs#L475C13-L475C81"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.Ceiling``1(System.ReadOnlySpan{``0},System.Span{``0})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.T.cs#L489C13-L489C70"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.CopySign``1(System.ReadOnlySpan{``0},System.ReadOnlySpan{``0},System.Span{``0})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.T.cs#L506C13-L506C81"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.CopySign``1(System.ReadOnlySpan{``0},``0,System.Span{``0})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.T.cs#L521C13-L521C83"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.Cos``1(System.ReadOnlySpan{``0},System.Span{``0})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.T.cs#L542C13-L542C66"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.CosPi``1(System.ReadOnlySpan{``0},System.Span{``0})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.T.cs#L563C13-L563C68"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.Cosh``1(System.ReadOnlySpan{``0},System.Span{``0})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.T.cs#L588C13-L588C67"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.CosineSimilarity``1(System.ReadOnlySpan{``0},System.ReadOnlySpan{``0})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.T.cs#L611C13-L611C39"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.Cbrt``1(System.ReadOnlySpan{``0},System.Span{``0})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.T.cs#L625C13-L625C67"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.DegreesToRadians``1(System.ReadOnlySpan{``0},System.Span{``0})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.T.cs#L639C13-L639C79"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.Distance``1(System.ReadOnlySpan{``0},System.ReadOnlySpan{``0})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.T.cs#L668C13-L673C91"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.Divide``1(System.ReadOnlySpan{``0},System.ReadOnlySpan{``0},System.Span{``0})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.T.cs#L695C13-L695C76"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.Divide``1(System.ReadOnlySpan{``0},``0,System.Span{``0})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.T.cs#L714C13-L714C78"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.Divide``1(``0,System.ReadOnlySpan{``0},System.Span{``0})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.T.cs#L733C13-L733C78"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.Dot``1(System.ReadOnlySpan{``0},System.ReadOnlySpan{``0})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.T.cs#L760C13-L760C68"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.Exp``1(System.ReadOnlySpan{``0},System.Span{``0})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.T.cs#L782C13-L782C66"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.ExpM1``1(System.ReadOnlySpan{``0},System.Span{``0})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.T.cs#L800C13-L800C68"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.Exp2``1(System.ReadOnlySpan{``0},System.Span{``0})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.T.cs#L818C13-L818C67"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.Exp2M1``1(System.ReadOnlySpan{``0},System.Span{``0})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.T.cs#L836C13-L836C69"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.Exp10``1(System.ReadOnlySpan{``0},System.Span{``0})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.T.cs#L854C13-L854C68"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.Exp10M1``1(System.ReadOnlySpan{``0},System.Span{``0})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.T.cs#L872C13-L872C70"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.Floor``1(System.ReadOnlySpan{``0},System.Span{``0})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.T.cs#L886C13-L886C68"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.Hypot``1(System.ReadOnlySpan{``0},System.ReadOnlySpan{``0},System.Span{``0})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.T.cs#L903C13-L903C75"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.Ieee754Remainder``1(System.ReadOnlySpan{``0},System.ReadOnlySpan{``0},System.Span{``0})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.T.cs#L920C13-L920C86"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.Ieee754Remainder``1(System.ReadOnlySpan{``0},``0,System.Span{``0})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.T.cs#L936C13-L936C88"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.Ieee754Remainder``1(``0,System.ReadOnlySpan{``0},System.Span{``0})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.T.cs#L951C13-L951C88"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.ILogB``1(System.ReadOnlySpan{``0},System.Span{System.Int32})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.T.cs#L966C13-L976C10"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.IndexOfMax``1(System.ReadOnlySpan{``0})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.T.cs#L993C13-L993C59"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.IndexOfMaxMagnitude``1(System.ReadOnlySpan{``0})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.T.cs#L1011C13-L1011C68"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.IndexOfMin``1(System.ReadOnlySpan{``0})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.T.cs#L1028C13-L1028C59"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.IndexOfMinMagnitude``1(System.ReadOnlySpan{``0})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.T.cs#L1046C13-L1046C68"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.LeadingZeroCount``1(System.ReadOnlySpan{``0},System.Span{``0})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.T.cs#L1060C13-L1060C79"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.Lerp``1(System.ReadOnlySpan{``0},System.ReadOnlySpan{``0},System.ReadOnlySpan{``0},System.Span{``0})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.T.cs#L1082C13-L1082C86"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.Lerp``1(System.ReadOnlySpan{``0},System.ReadOnlySpan{``0},``0,System.Span{``0})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.T.cs#L1103C13-L1103C88"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.Lerp``1(System.ReadOnlySpan{``0},``0,System.ReadOnlySpan{``0},System.Span{``0})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.T.cs#L1124C13-L1124C88"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.Log``1(System.ReadOnlySpan{``0},System.Span{``0})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.T.cs#L1148C13-L1148C66"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.Log2``1(System.ReadOnlySpan{``0},System.Span{``0})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.T.cs#L1172C13-L1172C67"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.Log10``1(System.ReadOnlySpan{``0},System.Span{``0})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.T.cs#L1196C13-L1196C68"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.LogP1``1(System.ReadOnlySpan{``0},System.Span{``0})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.T.cs#L1220C13-L1220C68"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.Log2P1``1(System.ReadOnlySpan{``0},System.Span{``0})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.T.cs#L1244C13-L1244C69"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.Log10P1``1(System.ReadOnlySpan{``0},System.Span{``0})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.T.cs#L1268C13-L1268C70"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.Log``1(System.ReadOnlySpan{``0},System.ReadOnlySpan{``0},System.Span{``0})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.T.cs#L1289C13-L1289C77"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.Log``1(System.ReadOnlySpan{``0},``0,System.Span{``0})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.T.cs#L1308C13-L1308C79"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.Max``1(System.ReadOnlySpan{``0})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.T.cs#L1326C13-L1326C45"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.Max``1(System.ReadOnlySpan{``0},System.ReadOnlySpan{``0},System.Span{``0})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.T.cs#L1351C13-L1351C85"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.Max``1(System.ReadOnlySpan{``0},``0,System.Span{``0})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.T.cs#L1374C13-L1374C87"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.MaxMagnitude``1(System.ReadOnlySpan{``0})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.T.cs#L1393C13-L1393C54"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.MaxMagnitude``1(System.ReadOnlySpan{``0},System.ReadOnlySpan{``0},System.Span{``0})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.T.cs#L1412C13-L1412C94"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.MaxMagnitude``1(System.ReadOnlySpan{``0},``0,System.Span{``0})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.T.cs#L1429C13-L1429C96"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.Min``1(System.ReadOnlySpan{``0})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.T.cs#L1447C13-L1447C45"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.Min``1(System.ReadOnlySpan{``0},System.ReadOnlySpan{``0},System.Span{``0})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.T.cs#L1472C13-L1472C85"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.Min``1(System.ReadOnlySpan{``0},``0,System.Span{``0})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.T.cs#L1495C13-L1495C87"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.MinMagnitude``1(System.ReadOnlySpan{``0})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.T.cs#L1514C13-L1514C54"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.MinMagnitude``1(System.ReadOnlySpan{``0},System.ReadOnlySpan{``0},System.Span{``0})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.T.cs#L1538C13-L1538C94"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.MinMagnitude``1(System.ReadOnlySpan{``0},``0,System.Span{``0})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.T.cs#L1560C13-L1560C96"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.Multiply``1(System.ReadOnlySpan{``0},System.ReadOnlySpan{``0},System.Span{``0})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.T.cs#L1580C13-L1580C78"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.Multiply``1(System.ReadOnlySpan{``0},``0,System.Span{``0})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.T.cs#L1599C13-L1599C80"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.MultiplyAdd``1(System.ReadOnlySpan{``0},System.ReadOnlySpan{``0},System.ReadOnlySpan{``0},System.Span{``0})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.T.cs#L1621C13-L1621C93"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.MultiplyAdd``1(System.ReadOnlySpan{``0},System.ReadOnlySpan{``0},``0,System.Span{``0})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.T.cs#L1643C13-L1643C95"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.MultiplyAdd``1(System.ReadOnlySpan{``0},``0,System.ReadOnlySpan{``0},System.Span{``0})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.T.cs#L1664C13-L1664C95"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.FusedMultiplyAdd``1(System.ReadOnlySpan{``0},System.ReadOnlySpan{``0},System.ReadOnlySpan{``0},System.Span{``0})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.T.cs#L1686C13-L1686C98"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.FusedMultiplyAdd``1(System.ReadOnlySpan{``0},System.ReadOnlySpan{``0},``0,System.Span{``0})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.T.cs#L1708C13-L1708C100"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.FusedMultiplyAdd``1(System.ReadOnlySpan{``0},``0,System.ReadOnlySpan{``0},System.Span{``0})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.T.cs#L1729C13-L1729C100"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.Negate``1(System.ReadOnlySpan{``0},System.Span{``0})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.T.cs#L1746C13-L1746C69"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.Norm``1(System.ReadOnlySpan{``0})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.T.cs#L1767C13-L1767C36"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.OnesComplement``1(System.ReadOnlySpan{``0},System.Span{``0})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.T.cs#L1781C13-L1781C77"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.PopCount``1(System.ReadOnlySpan{``0},System.Span{``0})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.T.cs#L1795C13-L1795C71"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.Pow``1(System.ReadOnlySpan{``0},System.ReadOnlySpan{``0},System.Span{``0})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.T.cs#L1812C13-L1812C73"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.Pow``1(System.ReadOnlySpan{``0},``0,System.Span{``0})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.T.cs#L1827C13-L1827C75"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.Pow``1(``0,System.ReadOnlySpan{``0},System.Span{``0})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.T.cs#L1842C13-L1842C75"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.Product``1(System.ReadOnlySpan{``0})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.T.cs#L1860C13-L1865C78"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.ProductOfDifferences``1(System.ReadOnlySpan{``0},System.ReadOnlySpan{``0})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.T.cs#L1892C13-L1897C81"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.ProductOfSums``1(System.ReadOnlySpan{``0},System.ReadOnlySpan{``0})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.T.cs#L1924C13-L1929C76"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.RadiansToDegrees``1(System.ReadOnlySpan{``0},System.Span{``0})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.T.cs#L1944C13-L1944C79"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.Reciprocal``1(System.ReadOnlySpan{``0},System.Span{``0})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.T.cs#L1959C13-L1959C73"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.ReciprocalEstimate``1(System.ReadOnlySpan{``0},System.Span{``0})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.T.cs#L1974C13-L1974C81"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.ReciprocalSqrt``1(System.ReadOnlySpan{``0},System.Span{``0})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.T.cs#L1989C13-L1989C77"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.ReciprocalSqrtEstimate``1(System.ReadOnlySpan{``0},System.Span{``0})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.T.cs#L2004C13-L2004C85"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.RootN``1(System.ReadOnlySpan{``0},System.Int32,System.Span{``0})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.T.cs#L2020C13-L2032C10"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.RotateLeft``1(System.ReadOnlySpan{``0},System.Int32,System.Span{``0})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.T.cs#L2048C13-L2060C10"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.RotateRight``1(System.ReadOnlySpan{``0},System.Int32,System.Span{``0})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.T.cs#L2076C13-L2088C10"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.Round``1(System.ReadOnlySpan{``0},System.Span{``0})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.T.cs#L2102C13-L2102C70"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.Round``1(System.ReadOnlySpan{``0},System.MidpointRounding,System.Span{``0})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.T.cs#L2117C13-L2117C51"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.Round``1(System.ReadOnlySpan{``0},System.Int32,System.Span{``0})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.T.cs#L2131C13-L2131C67"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.Round``1(System.ReadOnlySpan{``0},System.Int32,System.MidpointRounding,System.Span{``0})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.T.cs#L2150C13-L2189C10"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.ScaleB``1(System.ReadOnlySpan{``0},System.Int32,System.Span{``0})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.T.cs#L2205C13-L2217C10"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.ShiftLeft``1(System.ReadOnlySpan{``0},System.Int32,System.Span{``0})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.T.cs#L2233C13-L2245C10"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.ShiftRightArithmetic``1(System.ReadOnlySpan{``0},System.Int32,System.Span{``0})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.T.cs#L2261C13-L2273C10"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.ShiftRightLogical``1(System.ReadOnlySpan{``0},System.Int32,System.Span{``0})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.T.cs#L2289C13-L2301C10"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.Sigmoid``1(System.ReadOnlySpan{``0},System.Span{``0})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.T.cs#L2321C13-L2327C10"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.Sin``1(System.ReadOnlySpan{``0},System.Span{``0})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.T.cs#L2348C13-L2348C66"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.SinPi``1(System.ReadOnlySpan{``0},System.Span{``0})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.T.cs#L2369C13-L2369C68"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.Sinh``1(System.ReadOnlySpan{``0},System.Span{``0})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.T.cs#L2394C13-L2394C67"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.SinCos``1(System.ReadOnlySpan{``0},System.Span{``0},System.Span{``0})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.T.cs#L2414C13-L2431C10"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.SinCosPi``1(System.ReadOnlySpan{``0},System.Span{``0},System.Span{``0})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.T.cs#L2451C13-L2468C10"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.SoftMax``1(System.ReadOnlySpan{``0},System.Span{``0})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.T.cs#L2489C13-L2504C10"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.Sqrt``1(System.ReadOnlySpan{``0},System.Span{``0})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.T.cs#L2518C13-L2518C67"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.Subtract``1(System.ReadOnlySpan{``0},System.ReadOnlySpan{``0},System.Span{``0})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.T.cs#L2538C13-L2538C78"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.Subtract``1(System.ReadOnlySpan{``0},``0,System.Span{``0})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.T.cs#L2556C13-L2556C80"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.Subtract``1(``0,System.ReadOnlySpan{``0},System.Span{``0})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.T.cs#L2574C13-L2574C80"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.Sum``1(System.ReadOnlySpan{``0})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.T.cs#L2590C13-L2590C65"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.SumOfMagnitudes``1(System.ReadOnlySpan{``0})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.T.cs#L2613C13-L2613C65"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.SumOfSquares``1(System.ReadOnlySpan{``0})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.T.cs#L2635C13-L2635C64"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.Tan``1(System.ReadOnlySpan{``0},System.Span{``0})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.T.cs#L2656C13-L2656C66"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.TanPi``1(System.ReadOnlySpan{``0},System.Span{``0})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.T.cs#L2677C13-L2677C68"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.Tanh``1(System.ReadOnlySpan{``0},System.Span{``0})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.T.cs#L2703C13-L2703C67"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.TrailingZeroCount``1(System.ReadOnlySpan{``0},System.Span{``0})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.T.cs#L2717C13-L2717C80"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.Truncate``1(System.ReadOnlySpan{``0},System.Span{``0})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.T.cs#L2731C13-L2731C71"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.Xor``1(System.ReadOnlySpan{``0},System.ReadOnlySpan{``0},System.Span{``0})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.T.cs#L2748C13-L2748C73"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.Xor``1(System.ReadOnlySpan{``0},``0,System.Span{``0})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.T.cs#L2763C13-L2763C75"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.ConvertToHalf(System.ReadOnlySpan{System.Single},System.Span{System.Half})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.netcore.cs#L54C13-L350C10"
+        },
+        {
+          "DocsId": "M:System.Numerics.Tensors.TensorPrimitives.ConvertToSingle(System.ReadOnlySpan{System.Half},System.Span{System.Single})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.netcore.cs#L369C13-L620C10"
+        },
+        {
+          "DocsId": "F:System.Numerics.Tensors.TensorPrimitives.NonTemporalByteThreshold",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/TensorPrimitives.Single.cs"
+        },
+        {
+          "DocsId": "T:System.Numerics.Tensors.TensorPrimitives.AddOperator`1",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.netcore.cs"
+        },
+        {
+          "DocsId": "T:System.Numerics.Tensors.TensorPrimitives.InvertedBinaryOperator`2",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.netcore.cs"
+        },
+        {
+          "DocsId": "T:System.Numerics.Tensors.TensorPrimitives.SubtractOperator`1",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.netcore.cs"
+        },
+        {
+          "DocsId": "T:System.Numerics.Tensors.TensorPrimitives.SubtractSquaredOperator`1",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.netcore.cs"
+        },
+        {
+          "DocsId": "T:System.Numerics.Tensors.TensorPrimitives.MultiplyOperator`1",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.netcore.cs"
+        },
+        {
+          "DocsId": "T:System.Numerics.Tensors.TensorPrimitives.DivideOperator`1",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.netcore.cs"
+        },
+        {
+          "DocsId": "T:System.Numerics.Tensors.TensorPrimitives.Ieee754RemainderOperator`1",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.netcore.cs"
+        },
+        {
+          "DocsId": "T:System.Numerics.Tensors.TensorPrimitives.ReciprocalOperator`1",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.netcore.cs"
+        },
+        {
+          "DocsId": "T:System.Numerics.Tensors.TensorPrimitives.ReciprocalSqrtOperator`1",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.netcore.cs"
+        },
+        {
+          "DocsId": "T:System.Numerics.Tensors.TensorPrimitives.ReciprocalEstimateOperator`1",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.netcore.cs"
+        },
+        {
+          "DocsId": "T:System.Numerics.Tensors.TensorPrimitives.ReciprocalSqrtEstimateOperator`1",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.netcore.cs"
+        },
+        {
+          "DocsId": "T:System.Numerics.Tensors.TensorPrimitives.BitwiseAndOperator`1",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.netcore.cs"
+        },
+        {
+          "DocsId": "T:System.Numerics.Tensors.TensorPrimitives.BitwiseOrOperator`1",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.netcore.cs"
+        },
+        {
+          "DocsId": "T:System.Numerics.Tensors.TensorPrimitives.XorOperator`1",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.netcore.cs"
+        },
+        {
+          "DocsId": "T:System.Numerics.Tensors.TensorPrimitives.OnesComplementOperator`1",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.netcore.cs"
+        },
+        {
+          "DocsId": "T:System.Numerics.Tensors.TensorPrimitives.MaxOperator`1",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.netcore.cs"
+        },
+        {
+          "DocsId": "T:System.Numerics.Tensors.TensorPrimitives.IIndexOfOperator`1",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/TensorPrimitives.Single.cs"
+        },
+        {
+          "DocsId": "T:System.Numerics.Tensors.TensorPrimitives.IndexOfMaxOperator`1",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.netcore.cs"
+        },
+        {
+          "DocsId": "T:System.Numerics.Tensors.TensorPrimitives.IndexOfMaxMagnitudeOperator`1",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.netcore.cs"
+        },
+        {
+          "DocsId": "T:System.Numerics.Tensors.TensorPrimitives.IndexOfMinOperator`1",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.netcore.cs"
+        },
+        {
+          "DocsId": "T:System.Numerics.Tensors.TensorPrimitives.IndexOfMinMagnitudeOperator`1",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.netcore.cs"
+        },
+        {
+          "DocsId": "T:System.Numerics.Tensors.TensorPrimitives.MaxPropagateNaNOperator`1",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.netcore.cs"
+        },
+        {
+          "DocsId": "T:System.Numerics.Tensors.TensorPrimitives.MaxMagnitudeOperator`1",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.netcore.cs"
+        },
+        {
+          "DocsId": "T:System.Numerics.Tensors.TensorPrimitives.MaxMagnitudePropagateNaNOperator`1",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.netcore.cs"
+        },
+        {
+          "DocsId": "T:System.Numerics.Tensors.TensorPrimitives.MinOperator`1",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.netcore.cs"
+        },
+        {
+          "DocsId": "T:System.Numerics.Tensors.TensorPrimitives.MinPropagateNaNOperator`1",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.netcore.cs"
+        },
+        {
+          "DocsId": "T:System.Numerics.Tensors.TensorPrimitives.MinMagnitudeOperator`1",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.netcore.cs"
+        },
+        {
+          "DocsId": "T:System.Numerics.Tensors.TensorPrimitives.MinMagnitudePropagateNaNOperator`1",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.netcore.cs"
+        },
+        {
+          "DocsId": "T:System.Numerics.Tensors.TensorPrimitives.NegateOperator`1",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.netcore.cs"
+        },
+        {
+          "DocsId": "T:System.Numerics.Tensors.TensorPrimitives.AddMultiplyOperator`1",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.netcore.cs"
+        },
+        {
+          "DocsId": "T:System.Numerics.Tensors.TensorPrimitives.MultiplyAddOperator`1",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.netcore.cs"
+        },
+        {
+          "DocsId": "T:System.Numerics.Tensors.TensorPrimitives.FusedMultiplyAddOperator`1",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.netcore.cs"
+        },
+        {
+          "DocsId": "T:System.Numerics.Tensors.TensorPrimitives.LerpOperator`1",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.netcore.cs"
+        },
+        {
+          "DocsId": "T:System.Numerics.Tensors.TensorPrimitives.IdentityOperator`1",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.netcore.cs"
+        },
+        {
+          "DocsId": "T:System.Numerics.Tensors.TensorPrimitives.SquaredOperator`1",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.netcore.cs"
+        },
+        {
+          "DocsId": "T:System.Numerics.Tensors.TensorPrimitives.AbsoluteOperator`1",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.netcore.cs"
+        },
+        {
+          "DocsId": "T:System.Numerics.Tensors.TensorPrimitives.ExpOperator`1",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.netcore.cs"
+        },
+        {
+          "DocsId": "T:System.Numerics.Tensors.TensorPrimitives.ExpM1Operator`1",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.netcore.cs"
+        },
+        {
+          "DocsId": "T:System.Numerics.Tensors.TensorPrimitives.Exp2Operator`1",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.netcore.cs"
+        },
+        {
+          "DocsId": "T:System.Numerics.Tensors.TensorPrimitives.Exp2M1Operator`1",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.netcore.cs"
+        },
+        {
+          "DocsId": "T:System.Numerics.Tensors.TensorPrimitives.Exp10Operator`1",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.netcore.cs"
+        },
+        {
+          "DocsId": "T:System.Numerics.Tensors.TensorPrimitives.Exp10M1Operator`1",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.netcore.cs"
+        },
+        {
+          "DocsId": "T:System.Numerics.Tensors.TensorPrimitives.PowOperator`1",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.netcore.cs"
+        },
+        {
+          "DocsId": "T:System.Numerics.Tensors.TensorPrimitives.SqrtOperator`1",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.netcore.cs"
+        },
+        {
+          "DocsId": "T:System.Numerics.Tensors.TensorPrimitives.CbrtOperator`1",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.netcore.cs"
+        },
+        {
+          "DocsId": "T:System.Numerics.Tensors.TensorPrimitives.HypotOperator`1",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.netcore.cs"
+        },
+        {
+          "DocsId": "T:System.Numerics.Tensors.TensorPrimitives.AcosOperator`1",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.netcore.cs"
+        },
+        {
+          "DocsId": "T:System.Numerics.Tensors.TensorPrimitives.AcoshOperator`1",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.netcore.cs"
+        },
+        {
+          "DocsId": "T:System.Numerics.Tensors.TensorPrimitives.AcosPiOperator`1",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.netcore.cs"
+        },
+        {
+          "DocsId": "T:System.Numerics.Tensors.TensorPrimitives.AsinOperator`1",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.netcore.cs"
+        },
+        {
+          "DocsId": "T:System.Numerics.Tensors.TensorPrimitives.AsinhOperator`1",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.netcore.cs"
+        },
+        {
+          "DocsId": "T:System.Numerics.Tensors.TensorPrimitives.AsinPiOperator`1",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.netcore.cs"
+        },
+        {
+          "DocsId": "T:System.Numerics.Tensors.TensorPrimitives.AtanOperator`1",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.netcore.cs"
+        },
+        {
+          "DocsId": "T:System.Numerics.Tensors.TensorPrimitives.AtanhOperator`1",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.netcore.cs"
+        },
+        {
+          "DocsId": "T:System.Numerics.Tensors.TensorPrimitives.AtanPiOperator`1",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.netcore.cs"
+        },
+        {
+          "DocsId": "T:System.Numerics.Tensors.TensorPrimitives.Atan2Operator`1",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.netcore.cs"
+        },
+        {
+          "DocsId": "T:System.Numerics.Tensors.TensorPrimitives.Atan2PiOperator`1",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.netcore.cs"
+        },
+        {
+          "DocsId": "T:System.Numerics.Tensors.TensorPrimitives.CosOperator`1",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.netcore.cs"
+        },
+        {
+          "DocsId": "T:System.Numerics.Tensors.TensorPrimitives.CosPiOperator`1",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.netcore.cs"
+        },
+        {
+          "DocsId": "T:System.Numerics.Tensors.TensorPrimitives.CoshOperator`1",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.netcore.cs"
+        },
+        {
+          "DocsId": "T:System.Numerics.Tensors.TensorPrimitives.SinOperator`1",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.netcore.cs"
+        },
+        {
+          "DocsId": "T:System.Numerics.Tensors.TensorPrimitives.SinPiOperator`1",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.netcore.cs"
+        },
+        {
+          "DocsId": "T:System.Numerics.Tensors.TensorPrimitives.SinhOperator`1",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.netcore.cs"
+        },
+        {
+          "DocsId": "T:System.Numerics.Tensors.TensorPrimitives.TanOperator`1",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.netcore.cs"
+        },
+        {
+          "DocsId": "T:System.Numerics.Tensors.TensorPrimitives.TanPiOperator`1",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.netcore.cs"
+        },
+        {
+          "DocsId": "T:System.Numerics.Tensors.TensorPrimitives.TanhOperator`1",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.netcore.cs"
+        },
+        {
+          "DocsId": "T:System.Numerics.Tensors.TensorPrimitives.LogOperator`1",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.netcore.cs"
+        },
+        {
+          "DocsId": "T:System.Numerics.Tensors.TensorPrimitives.Log2Operator`1",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.netcore.cs"
+        },
+        {
+          "DocsId": "T:System.Numerics.Tensors.TensorPrimitives.Log10Operator`1",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.netcore.cs"
+        },
+        {
+          "DocsId": "T:System.Numerics.Tensors.TensorPrimitives.LogP1Operator`1",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.netcore.cs"
+        },
+        {
+          "DocsId": "T:System.Numerics.Tensors.TensorPrimitives.Log2P1Operator`1",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.netcore.cs"
+        },
+        {
+          "DocsId": "T:System.Numerics.Tensors.TensorPrimitives.Log10P1Operator`1",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.netcore.cs"
+        },
+        {
+          "DocsId": "T:System.Numerics.Tensors.TensorPrimitives.LogBaseOperator`1",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.netcore.cs"
+        },
+        {
+          "DocsId": "T:System.Numerics.Tensors.TensorPrimitives.SigmoidOperator`1",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.netcore.cs"
+        },
+        {
+          "DocsId": "T:System.Numerics.Tensors.TensorPrimitives.CeilingOperator`1",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.netcore.cs"
+        },
+        {
+          "DocsId": "T:System.Numerics.Tensors.TensorPrimitives.FloorOperator`1",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.netcore.cs"
+        },
+        {
+          "DocsId": "T:System.Numerics.Tensors.TensorPrimitives.TruncateOperator`1",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.netcore.cs"
+        },
+        {
+          "DocsId": "T:System.Numerics.Tensors.TensorPrimitives.PopCountOperator`1",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.netcore.cs"
+        },
+        {
+          "DocsId": "T:System.Numerics.Tensors.TensorPrimitives.LeadingZeroCountOperator`1",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.netcore.cs"
+        },
+        {
+          "DocsId": "T:System.Numerics.Tensors.TensorPrimitives.TrailingZeroCountOperator`1",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.netcore.cs"
+        },
+        {
+          "DocsId": "T:System.Numerics.Tensors.TensorPrimitives.CopySignOperator`1",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.netcore.cs"
+        },
+        {
+          "DocsId": "T:System.Numerics.Tensors.TensorPrimitives.DegreesToRadiansOperator`1",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.netcore.cs"
+        },
+        {
+          "DocsId": "T:System.Numerics.Tensors.TensorPrimitives.RadiansToDegreesOperator`1",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.netcore.cs"
+        },
+        {
+          "DocsId": "T:System.Numerics.Tensors.TensorPrimitives.IUnaryOperator`1",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/TensorPrimitives.Single.cs"
+        },
+        {
+          "DocsId": "T:System.Numerics.Tensors.TensorPrimitives.IBinaryOperator`1",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/TensorPrimitives.Single.cs"
+        },
+        {
+          "DocsId": "T:System.Numerics.Tensors.TensorPrimitives.IAggregationOperator`1",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/netcore/TensorPrimitives.netcore.cs"
+        },
+        {
+          "DocsId": "T:System.Numerics.Tensors.TensorPrimitives.ITernaryOperator`1",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/TensorPrimitives.Single.cs"
+        }
+      ],
+      "DocsId": "T:System.Numerics.Tensors.TensorPrimitives",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Numerics.Tensors/src/System/Numerics/Tensors/TensorPrimitives.Single.cs"
+    }
+  ]
+}

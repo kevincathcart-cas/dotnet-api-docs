@@ -1,0 +1,176 @@
+{
+  "Assembly": "System.Net.Http.WinHttpHandler",
+  "GUID": "1152866025084D61822DF0625A41FDADFFFFFFFF",
+  "Types": [
+    {
+      "Members": [
+        {
+          "DocsId": "F:System.Net.Http.CookieUsePolicy.value__",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Net.Http.WinHttpHandler/Release/net7.0/System.Net.Http.WinHttpHandler.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Net.Http.CookieUsePolicy.IgnoreCookies",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Net.Http.WinHttpHandler/Release/net7.0/System.Net.Http.WinHttpHandler.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Net.Http.CookieUsePolicy.UseInternalCookieStoreOnly",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Net.Http.WinHttpHandler/Release/net7.0/System.Net.Http.WinHttpHandler.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Net.Http.CookieUsePolicy.UseSpecifiedCookieContainer",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Net.Http.WinHttpHandler/Release/net7.0/System.Net.Http.WinHttpHandler.notsupported.cs"
+        }
+      ],
+      "DocsId": "T:System.Net.Http.CookieUsePolicy",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Net.Http.WinHttpHandler/Release/net7.0/System.Net.Http.WinHttpHandler.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "F:System.Net.Http.WindowsProxyUsePolicy.value__",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Net.Http.WinHttpHandler/Release/net7.0/System.Net.Http.WinHttpHandler.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Net.Http.WindowsProxyUsePolicy.DoNotUseProxy",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Net.Http.WinHttpHandler/Release/net7.0/System.Net.Http.WinHttpHandler.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Net.Http.WindowsProxyUsePolicy.UseWinHttpProxy",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Net.Http.WinHttpHandler/Release/net7.0/System.Net.Http.WinHttpHandler.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Net.Http.WindowsProxyUsePolicy.UseWinInetProxy",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Net.Http.WinHttpHandler/Release/net7.0/System.Net.Http.WinHttpHandler.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Net.Http.WindowsProxyUsePolicy.UseCustomProxy",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Net.Http.WinHttpHandler/Release/net7.0/System.Net.Http.WinHttpHandler.notsupported.cs"
+        }
+      ],
+      "DocsId": "T:System.Net.Http.WindowsProxyUsePolicy",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Net.Http.WinHttpHandler/Release/net7.0/System.Net.Http.WinHttpHandler.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.Net.Http.WinHttpHandler.#ctor",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Net.Http.WinHttpHandler/Release/net7.0/System.Net.Http.WinHttpHandler.notsupported.cs#L24C9-L24C129"
+        },
+        {
+          "DocsId": "M:System.Net.Http.WinHttpHandler.Dispose(System.Boolean)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Net.Http.WinHttpHandler/Release/net7.0/System.Net.Http.WinHttpHandler.notsupported.cs#L51C59-L51C60"
+        },
+        {
+          "DocsId": "M:System.Net.Http.WinHttpHandler.SendAsync(System.Net.Http.HttpRequestMessage,System.Threading.CancellationToken)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Net.Http.WinHttpHandler/Release/net7.0/System.Net.Http.WinHttpHandler.notsupported.cs#L52C203-L52C297"
+        },
+        {
+          "DocsId": "P:System.Net.Http.WinHttpHandler.AutomaticDecompression",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Net.Http.WinHttpHandler/Release/net7.0/System.Net.Http.WinHttpHandler.notsupported.cs#L25C79-L25C173"
+        },
+        {
+          "DocsId": "P:System.Net.Http.WinHttpHandler.AutomaticRedirection",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Net.Http.WinHttpHandler/Release/net7.0/System.Net.Http.WinHttpHandler.notsupported.cs#L26C50-L26C144"
+        },
+        {
+          "DocsId": "P:System.Net.Http.WinHttpHandler.CheckCertificateRevocationList",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Net.Http.WinHttpHandler/Release/net7.0/System.Net.Http.WinHttpHandler.notsupported.cs#L27C60-L27C154"
+        },
+        {
+          "DocsId": "P:System.Net.Http.WinHttpHandler.ClientCertificateOption",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Net.Http.WinHttpHandler/Release/net7.0/System.Net.Http.WinHttpHandler.notsupported.cs#L28C88-L28C182"
+        },
+        {
+          "DocsId": "P:System.Net.Http.WinHttpHandler.ClientCertificates",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Net.Http.WinHttpHandler/Release/net7.0/System.Net.Http.WinHttpHandler.notsupported.cs#L29C116-L29C210"
+        },
+        {
+          "DocsId": "P:System.Net.Http.WinHttpHandler.CookieContainer",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Net.Http.WinHttpHandler/Release/net7.0/System.Net.Http.WinHttpHandler.notsupported.cs#L30C68-L30C162"
+        },
+        {
+          "DocsId": "P:System.Net.Http.WinHttpHandler.CookieUsePolicy",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Net.Http.WinHttpHandler/Release/net7.0/System.Net.Http.WinHttpHandler.notsupported.cs#L31C72-L31C166"
+        },
+        {
+          "DocsId": "P:System.Net.Http.WinHttpHandler.DefaultProxyCredentials",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Net.Http.WinHttpHandler/Release/net7.0/System.Net.Http.WinHttpHandler.notsupported.cs#L32C73-L32C167"
+        },
+        {
+          "DocsId": "P:System.Net.Http.WinHttpHandler.EnableMultipleHttp2Connections",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Net.Http.WinHttpHandler/Release/net7.0/System.Net.Http.WinHttpHandler.notsupported.cs#L33C60-L33C154"
+        },
+        {
+          "DocsId": "P:System.Net.Http.WinHttpHandler.MaxAutomaticRedirections",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Net.Http.WinHttpHandler/Release/net7.0/System.Net.Http.WinHttpHandler.notsupported.cs#L34C53-L34C147"
+        },
+        {
+          "DocsId": "P:System.Net.Http.WinHttpHandler.MaxConnectionsPerServer",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Net.Http.WinHttpHandler/Release/net7.0/System.Net.Http.WinHttpHandler.notsupported.cs#L35C52-L35C146"
+        },
+        {
+          "DocsId": "P:System.Net.Http.WinHttpHandler.MaxResponseDrainSize",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Net.Http.WinHttpHandler/Release/net7.0/System.Net.Http.WinHttpHandler.notsupported.cs#L36C49-L36C143"
+        },
+        {
+          "DocsId": "P:System.Net.Http.WinHttpHandler.MaxResponseHeadersLength",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Net.Http.WinHttpHandler/Release/net7.0/System.Net.Http.WinHttpHandler.notsupported.cs#L37C53-L37C147"
+        },
+        {
+          "DocsId": "P:System.Net.Http.WinHttpHandler.PreAuthenticate",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Net.Http.WinHttpHandler/Release/net7.0/System.Net.Http.WinHttpHandler.notsupported.cs#L38C45-L38C139"
+        },
+        {
+          "DocsId": "P:System.Net.Http.WinHttpHandler.Properties",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Net.Http.WinHttpHandler/Release/net7.0/System.Net.Http.WinHttpHandler.notsupported.cs#L39C90-L39C184"
+        },
+        {
+          "DocsId": "P:System.Net.Http.WinHttpHandler.Proxy",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Net.Http.WinHttpHandler/Release/net7.0/System.Net.Http.WinHttpHandler.notsupported.cs#L40C52-L40C146"
+        },
+        {
+          "DocsId": "P:System.Net.Http.WinHttpHandler.ReceiveDataTimeout",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Net.Http.WinHttpHandler/Release/net7.0/System.Net.Http.WinHttpHandler.notsupported.cs#L41C59-L41C153"
+        },
+        {
+          "DocsId": "P:System.Net.Http.WinHttpHandler.ReceiveHeadersTimeout",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Net.Http.WinHttpHandler/Release/net7.0/System.Net.Http.WinHttpHandler.notsupported.cs#L42C62-L42C156"
+        },
+        {
+          "DocsId": "P:System.Net.Http.WinHttpHandler.SendTimeout",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Net.Http.WinHttpHandler/Release/net7.0/System.Net.Http.WinHttpHandler.notsupported.cs#L43C52-L43C146"
+        },
+        {
+          "DocsId": "P:System.Net.Http.WinHttpHandler.ServerCertificateValidationCallback",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Net.Http.WinHttpHandler/Release/net7.0/System.Net.Http.WinHttpHandler.notsupported.cs#L44C273-L44C367"
+        },
+        {
+          "DocsId": "P:System.Net.Http.WinHttpHandler.ServerCredentials",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Net.Http.WinHttpHandler/Release/net7.0/System.Net.Http.WinHttpHandler.notsupported.cs#L45C67-L45C161"
+        },
+        {
+          "DocsId": "P:System.Net.Http.WinHttpHandler.SslProtocols",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Net.Http.WinHttpHandler/Release/net7.0/System.Net.Http.WinHttpHandler.notsupported.cs#L46C81-L46C175"
+        },
+        {
+          "DocsId": "P:System.Net.Http.WinHttpHandler.TcpKeepAliveEnabled",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Net.Http.WinHttpHandler/Release/net7.0/System.Net.Http.WinHttpHandler.notsupported.cs#L47C49-L47C143"
+        },
+        {
+          "DocsId": "P:System.Net.Http.WinHttpHandler.TcpKeepAliveTime",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Net.Http.WinHttpHandler/Release/net7.0/System.Net.Http.WinHttpHandler.notsupported.cs#L48C57-L48C151"
+        },
+        {
+          "DocsId": "P:System.Net.Http.WinHttpHandler.TcpKeepAliveInterval",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Net.Http.WinHttpHandler/Release/net7.0/System.Net.Http.WinHttpHandler.notsupported.cs#L49C61-L49C155"
+        },
+        {
+          "DocsId": "P:System.Net.Http.WinHttpHandler.WindowsProxyUsePolicy",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Net.Http.WinHttpHandler/Release/net7.0/System.Net.Http.WinHttpHandler.notsupported.cs#L50C84-L50C178"
+        }
+      ],
+      "DocsId": "T:System.Net.Http.WinHttpHandler",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Net.Http.WinHttpHandler/Release/net7.0/System.Net.Http.WinHttpHandler.notsupported.cs"
+    }
+  ]
+}

@@ -1,0 +1,522 @@
+{
+  "Assembly": "System.ServiceProcess.ServiceController",
+  "GUID": "39955AF852794B7D902C73AAF640B579FFFFFFFF",
+  "Types": [
+    {
+      "Members": [
+        {
+          "DocsId": "F:System.ServiceProcess.PowerBroadcastStatus.value__",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.ServiceProcess.ServiceController/Release/net9.0/System.ServiceProcess.ServiceController.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.ServiceProcess.PowerBroadcastStatus.QuerySuspend",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.ServiceProcess.ServiceController/Release/net9.0/System.ServiceProcess.ServiceController.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.ServiceProcess.PowerBroadcastStatus.QuerySuspendFailed",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.ServiceProcess.ServiceController/Release/net9.0/System.ServiceProcess.ServiceController.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.ServiceProcess.PowerBroadcastStatus.Suspend",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.ServiceProcess.ServiceController/Release/net9.0/System.ServiceProcess.ServiceController.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.ServiceProcess.PowerBroadcastStatus.ResumeCritical",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.ServiceProcess.ServiceController/Release/net9.0/System.ServiceProcess.ServiceController.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.ServiceProcess.PowerBroadcastStatus.ResumeSuspend",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.ServiceProcess.ServiceController/Release/net9.0/System.ServiceProcess.ServiceController.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.ServiceProcess.PowerBroadcastStatus.BatteryLow",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.ServiceProcess.ServiceController/Release/net9.0/System.ServiceProcess.ServiceController.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.ServiceProcess.PowerBroadcastStatus.PowerStatusChange",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.ServiceProcess.ServiceController/Release/net9.0/System.ServiceProcess.ServiceController.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.ServiceProcess.PowerBroadcastStatus.OemEvent",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.ServiceProcess.ServiceController/Release/net9.0/System.ServiceProcess.ServiceController.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.ServiceProcess.PowerBroadcastStatus.ResumeAutomatic",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.ServiceProcess.ServiceController/Release/net9.0/System.ServiceProcess.ServiceController.notsupported.cs"
+        }
+      ],
+      "DocsId": "T:System.ServiceProcess.PowerBroadcastStatus",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.ServiceProcess.ServiceController/Release/net9.0/System.ServiceProcess.ServiceController.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.ServiceProcess.ServiceBase.#ctor",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.ServiceProcess.ServiceController/Release/net9.0/System.ServiceProcess.ServiceController.notsupported.cs#L24C9-L24C129"
+        },
+        {
+          "DocsId": "M:System.ServiceProcess.ServiceBase.Dispose(System.Boolean)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.ServiceProcess.ServiceController/Release/net9.0/System.ServiceProcess.ServiceController.notsupported.cs#L44C59-L44C60"
+        },
+        {
+          "DocsId": "M:System.ServiceProcess.ServiceBase.OnContinue",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.ServiceProcess.ServiceController/Release/net9.0/System.ServiceProcess.ServiceController.notsupported.cs#L45C47-L45C144"
+        },
+        {
+          "DocsId": "M:System.ServiceProcess.ServiceBase.OnCustomCommand(System.Int32)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.ServiceProcess.ServiceController/Release/net9.0/System.ServiceProcess.ServiceController.notsupported.cs#L46C63-L46C160"
+        },
+        {
+          "DocsId": "M:System.ServiceProcess.ServiceBase.OnPause",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.ServiceProcess.ServiceController/Release/net9.0/System.ServiceProcess.ServiceController.notsupported.cs#L47C44-L47C141"
+        },
+        {
+          "DocsId": "M:System.ServiceProcess.ServiceBase.OnPowerEvent(System.ServiceProcess.PowerBroadcastStatus)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.ServiceProcess.ServiceController/Release/net9.0/System.ServiceProcess.ServiceController.notsupported.cs#L48C103-L48C200"
+        },
+        {
+          "DocsId": "M:System.ServiceProcess.ServiceBase.OnSessionChange(System.ServiceProcess.SessionChangeDescription)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.ServiceProcess.ServiceController/Release/net9.0/System.ServiceProcess.ServiceController.notsupported.cs#L49C116-L49C213"
+        },
+        {
+          "DocsId": "M:System.ServiceProcess.ServiceBase.OnShutdown",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.ServiceProcess.ServiceController/Release/net9.0/System.ServiceProcess.ServiceController.notsupported.cs#L50C47-L50C144"
+        },
+        {
+          "DocsId": "M:System.ServiceProcess.ServiceBase.OnStart(System.String[])",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.ServiceProcess.ServiceController/Release/net9.0/System.ServiceProcess.ServiceController.notsupported.cs#L51C57-L51C154"
+        },
+        {
+          "DocsId": "M:System.ServiceProcess.ServiceBase.OnStop",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.ServiceProcess.ServiceController/Release/net9.0/System.ServiceProcess.ServiceController.notsupported.cs#L52C43-L52C140"
+        },
+        {
+          "DocsId": "M:System.ServiceProcess.ServiceBase.RequestAdditionalTime(System.Int32)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.ServiceProcess.ServiceController/Release/net9.0/System.ServiceProcess.ServiceController.notsupported.cs#L53C63-L53C160"
+        },
+        {
+          "DocsId": "M:System.ServiceProcess.ServiceBase.Run(System.ServiceProcess.ServiceBase)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.ServiceProcess.ServiceController/Release/net9.0/System.ServiceProcess.ServiceController.notsupported.cs#L54C77-L54C174"
+        },
+        {
+          "DocsId": "M:System.ServiceProcess.ServiceBase.Run(System.ServiceProcess.ServiceBase[])",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.ServiceProcess.ServiceController/Release/net9.0/System.ServiceProcess.ServiceController.notsupported.cs#L55C80-L55C177"
+        },
+        {
+          "DocsId": "M:System.ServiceProcess.ServiceBase.ServiceMainCallback(System.Int32,System.IntPtr)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.ServiceProcess.ServiceController/Release/net9.0/System.ServiceProcess.ServiceController.notsupported.cs#L57C83-L57C180"
+        },
+        {
+          "DocsId": "M:System.ServiceProcess.ServiceBase.Stop",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.ServiceProcess.ServiceController/Release/net9.0/System.ServiceProcess.ServiceController.notsupported.cs#L58C30-L58C127"
+        },
+        {
+          "DocsId": "M:System.ServiceProcess.ServiceBase.RequestAdditionalTime(System.TimeSpan)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.ServiceProcess.ServiceController/Release/net9.0/System.ServiceProcess.ServiceController.netcoreapp.notsupported.cs#L11C67-L11C164"
+        },
+        {
+          "DocsId": "F:System.ServiceProcess.ServiceBase.MaxNameLength",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.ServiceProcess.ServiceController/Release/net9.0/System.ServiceProcess.ServiceController.notsupported.cs"
+        },
+        {
+          "DocsId": "P:System.ServiceProcess.ServiceBase.AutoLog",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.ServiceProcess.ServiceController/Release/net9.0/System.ServiceProcess.ServiceController.notsupported.cs#L26C37-L26C134"
+        },
+        {
+          "DocsId": "P:System.ServiceProcess.ServiceBase.CanHandlePowerEvent",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.ServiceProcess.ServiceController/Release/net9.0/System.ServiceProcess.ServiceController.notsupported.cs#L28C49-L28C146"
+        },
+        {
+          "DocsId": "P:System.ServiceProcess.ServiceBase.CanHandleSessionChangeEvent",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.ServiceProcess.ServiceController/Release/net9.0/System.ServiceProcess.ServiceController.notsupported.cs#L30C57-L30C154"
+        },
+        {
+          "DocsId": "P:System.ServiceProcess.ServiceBase.CanPauseAndContinue",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.ServiceProcess.ServiceController/Release/net9.0/System.ServiceProcess.ServiceController.notsupported.cs#L32C49-L32C146"
+        },
+        {
+          "DocsId": "P:System.ServiceProcess.ServiceBase.CanShutdown",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.ServiceProcess.ServiceController/Release/net9.0/System.ServiceProcess.ServiceController.notsupported.cs#L34C41-L34C138"
+        },
+        {
+          "DocsId": "P:System.ServiceProcess.ServiceBase.CanStop",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.ServiceProcess.ServiceController/Release/net9.0/System.ServiceProcess.ServiceController.notsupported.cs#L36C37-L36C134"
+        },
+        {
+          "DocsId": "P:System.ServiceProcess.ServiceBase.EventLog",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.ServiceProcess.ServiceController/Release/net9.0/System.ServiceProcess.ServiceController.notsupported.cs#L39C69-L39C166"
+        },
+        {
+          "DocsId": "P:System.ServiceProcess.ServiceBase.ExitCode",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.ServiceProcess.ServiceController/Release/net9.0/System.ServiceProcess.ServiceController.notsupported.cs#L40C37-L40C134"
+        },
+        {
+          "DocsId": "P:System.ServiceProcess.ServiceBase.ServiceHandle",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.ServiceProcess.ServiceController/Release/net9.0/System.ServiceProcess.ServiceController.notsupported.cs#L42C55-L42C152"
+        },
+        {
+          "DocsId": "P:System.ServiceProcess.ServiceBase.ServiceName",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.ServiceProcess.ServiceController/Release/net9.0/System.ServiceProcess.ServiceController.notsupported.cs#L43C43-L43C140"
+        }
+      ],
+      "DocsId": "T:System.ServiceProcess.ServiceBase",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.ServiceProcess.ServiceController/Release/net9.0/System.ServiceProcess.ServiceController.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.ServiceProcess.ServiceController.#ctor",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.ServiceProcess.ServiceController/Release/net9.0/System.ServiceProcess.ServiceController.notsupported.cs#L63C9-L63C135"
+        },
+        {
+          "DocsId": "M:System.ServiceProcess.ServiceController.#ctor(System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.ServiceProcess.ServiceController/Release/net9.0/System.ServiceProcess.ServiceController.notsupported.cs#L64C9-L64C146"
+        },
+        {
+          "DocsId": "M:System.ServiceProcess.ServiceController.#ctor(System.String,System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.ServiceProcess.ServiceController/Release/net9.0/System.ServiceProcess.ServiceController.notsupported.cs#L65C9-L65C166"
+        },
+        {
+          "DocsId": "M:System.ServiceProcess.ServiceController.Close",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.ServiceProcess.ServiceController/Release/net9.0/System.ServiceProcess.ServiceController.notsupported.cs#L78C31-L78C128"
+        },
+        {
+          "DocsId": "M:System.ServiceProcess.ServiceController.Continue",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.ServiceProcess.ServiceController/Release/net9.0/System.ServiceProcess.ServiceController.notsupported.cs#L79C34-L79C131"
+        },
+        {
+          "DocsId": "M:System.ServiceProcess.ServiceController.Dispose(System.Boolean)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.ServiceProcess.ServiceController/Release/net9.0/System.ServiceProcess.ServiceController.notsupported.cs#L80C59-L80C60"
+        },
+        {
+          "DocsId": "M:System.ServiceProcess.ServiceController.ExecuteCommand(System.Int32)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.ServiceProcess.ServiceController/Release/net9.0/System.ServiceProcess.ServiceController.notsupported.cs#L81C51-L81C148"
+        },
+        {
+          "DocsId": "M:System.ServiceProcess.ServiceController.GetDevices",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.ServiceProcess.ServiceController/Release/net9.0/System.ServiceProcess.ServiceController.notsupported.cs#L82C80-L82C177"
+        },
+        {
+          "DocsId": "M:System.ServiceProcess.ServiceController.GetDevices(System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.ServiceProcess.ServiceController/Release/net9.0/System.ServiceProcess.ServiceController.notsupported.cs#L83C98-L83C195"
+        },
+        {
+          "DocsId": "M:System.ServiceProcess.ServiceController.GetServices",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.ServiceProcess.ServiceController/Release/net9.0/System.ServiceProcess.ServiceController.notsupported.cs#L84C81-L84C178"
+        },
+        {
+          "DocsId": "M:System.ServiceProcess.ServiceController.GetServices(System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.ServiceProcess.ServiceController/Release/net9.0/System.ServiceProcess.ServiceController.notsupported.cs#L85C99-L85C196"
+        },
+        {
+          "DocsId": "M:System.ServiceProcess.ServiceController.Pause",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.ServiceProcess.ServiceController/Release/net9.0/System.ServiceProcess.ServiceController.notsupported.cs#L86C31-L86C128"
+        },
+        {
+          "DocsId": "M:System.ServiceProcess.ServiceController.Refresh",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.ServiceProcess.ServiceController/Release/net9.0/System.ServiceProcess.ServiceController.notsupported.cs#L87C33-L87C130"
+        },
+        {
+          "DocsId": "M:System.ServiceProcess.ServiceController.Start",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.ServiceProcess.ServiceController/Release/net9.0/System.ServiceProcess.ServiceController.notsupported.cs#L88C31-L88C128"
+        },
+        {
+          "DocsId": "M:System.ServiceProcess.ServiceController.Start(System.String[])",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.ServiceProcess.ServiceController/Release/net9.0/System.ServiceProcess.ServiceController.notsupported.cs#L89C44-L89C141"
+        },
+        {
+          "DocsId": "M:System.ServiceProcess.ServiceController.Stop",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.ServiceProcess.ServiceController/Release/net9.0/System.ServiceProcess.ServiceController.notsupported.cs#L90C30-L90C127"
+        },
+        {
+          "DocsId": "M:System.ServiceProcess.ServiceController.WaitForStatus(System.ServiceProcess.ServiceControllerStatus)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.ServiceProcess.ServiceController/Release/net9.0/System.ServiceProcess.ServiceController.notsupported.cs#L91C98-L91C195"
+        },
+        {
+          "DocsId": "M:System.ServiceProcess.ServiceController.WaitForStatus(System.ServiceProcess.ServiceControllerStatus,System.TimeSpan)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.ServiceProcess.ServiceController/Release/net9.0/System.ServiceProcess.ServiceController.notsupported.cs#L92C123-L92C220"
+        },
+        {
+          "DocsId": "M:System.ServiceProcess.ServiceController.Stop(System.Boolean)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.ServiceProcess.ServiceController/Release/net9.0/System.ServiceProcess.ServiceController.netcoreapp.notsupported.cs#L15C56-L15C153"
+        },
+        {
+          "DocsId": "P:System.ServiceProcess.ServiceController.CanPauseAndContinue",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.ServiceProcess.ServiceController/Release/net9.0/System.ServiceProcess.ServiceController.notsupported.cs#L66C49-L66C146"
+        },
+        {
+          "DocsId": "P:System.ServiceProcess.ServiceController.CanShutdown",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.ServiceProcess.ServiceController/Release/net9.0/System.ServiceProcess.ServiceController.notsupported.cs#L67C41-L67C138"
+        },
+        {
+          "DocsId": "P:System.ServiceProcess.ServiceController.CanStop",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.ServiceProcess.ServiceController/Release/net9.0/System.ServiceProcess.ServiceController.notsupported.cs#L68C37-L68C134"
+        },
+        {
+          "DocsId": "P:System.ServiceProcess.ServiceController.DependentServices",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.ServiceProcess.ServiceController/Release/net9.0/System.ServiceProcess.ServiceController.notsupported.cs#L69C84-L69C181"
+        },
+        {
+          "DocsId": "P:System.ServiceProcess.ServiceController.DisplayName",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.ServiceProcess.ServiceController/Release/net9.0/System.ServiceProcess.ServiceController.notsupported.cs#L70C43-L70C140"
+        },
+        {
+          "DocsId": "P:System.ServiceProcess.ServiceController.MachineName",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.ServiceProcess.ServiceController/Release/net9.0/System.ServiceProcess.ServiceController.notsupported.cs#L71C43-L71C140"
+        },
+        {
+          "DocsId": "P:System.ServiceProcess.ServiceController.ServiceHandle",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.ServiceProcess.ServiceController/Release/net9.0/System.ServiceProcess.ServiceController.notsupported.cs#L72C80-L72C177"
+        },
+        {
+          "DocsId": "P:System.ServiceProcess.ServiceController.ServiceName",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.ServiceProcess.ServiceController/Release/net9.0/System.ServiceProcess.ServiceController.notsupported.cs#L73C43-L73C140"
+        },
+        {
+          "DocsId": "P:System.ServiceProcess.ServiceController.ServicesDependedOn",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.ServiceProcess.ServiceController/Release/net9.0/System.ServiceProcess.ServiceController.notsupported.cs#L74C85-L74C182"
+        },
+        {
+          "DocsId": "P:System.ServiceProcess.ServiceController.ServiceType",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.ServiceProcess.ServiceController/Release/net9.0/System.ServiceProcess.ServiceController.notsupported.cs#L75C70-L75C167"
+        },
+        {
+          "DocsId": "P:System.ServiceProcess.ServiceController.StartType",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.ServiceProcess.ServiceController/Release/net9.0/System.ServiceProcess.ServiceController.notsupported.cs#L76C73-L76C170"
+        },
+        {
+          "DocsId": "P:System.ServiceProcess.ServiceController.Status",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.ServiceProcess.ServiceController/Release/net9.0/System.ServiceProcess.ServiceController.notsupported.cs#L77C77-L77C174"
+        }
+      ],
+      "DocsId": "T:System.ServiceProcess.ServiceController",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.ServiceProcess.ServiceController/Release/net9.0/System.ServiceProcess.ServiceController.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "F:System.ServiceProcess.ServiceControllerStatus.value__",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.ServiceProcess.ServiceController/Release/net9.0/System.ServiceProcess.ServiceController.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.ServiceProcess.ServiceControllerStatus.Stopped",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.ServiceProcess.ServiceController/Release/net9.0/System.ServiceProcess.ServiceController.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.ServiceProcess.ServiceControllerStatus.StartPending",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.ServiceProcess.ServiceController/Release/net9.0/System.ServiceProcess.ServiceController.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.ServiceProcess.ServiceControllerStatus.StopPending",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.ServiceProcess.ServiceController/Release/net9.0/System.ServiceProcess.ServiceController.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.ServiceProcess.ServiceControllerStatus.Running",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.ServiceProcess.ServiceController/Release/net9.0/System.ServiceProcess.ServiceController.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.ServiceProcess.ServiceControllerStatus.ContinuePending",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.ServiceProcess.ServiceController/Release/net9.0/System.ServiceProcess.ServiceController.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.ServiceProcess.ServiceControllerStatus.PausePending",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.ServiceProcess.ServiceController/Release/net9.0/System.ServiceProcess.ServiceController.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.ServiceProcess.ServiceControllerStatus.Paused",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.ServiceProcess.ServiceController/Release/net9.0/System.ServiceProcess.ServiceController.notsupported.cs"
+        }
+      ],
+      "DocsId": "T:System.ServiceProcess.ServiceControllerStatus",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.ServiceProcess.ServiceController/Release/net9.0/System.ServiceProcess.ServiceController.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.ServiceProcess.ServiceProcessDescriptionAttribute.#ctor(System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.ServiceProcess.ServiceController/Release/net9.0/System.ServiceProcess.ServiceController.notsupported.cs#L107C9-L107C170"
+        },
+        {
+          "DocsId": "P:System.ServiceProcess.ServiceProcessDescriptionAttribute.Description",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.ServiceProcess.ServiceController/Release/net9.0/System.ServiceProcess.ServiceController.notsupported.cs#L108C52-L108C149"
+        }
+      ],
+      "DocsId": "T:System.ServiceProcess.ServiceProcessDescriptionAttribute",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.ServiceProcess.ServiceController/Release/net9.0/System.ServiceProcess.ServiceController.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "F:System.ServiceProcess.ServiceStartMode.value__",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.ServiceProcess.ServiceController/Release/net9.0/System.ServiceProcess.ServiceController.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.ServiceProcess.ServiceStartMode.Boot",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.ServiceProcess.ServiceController/Release/net9.0/System.ServiceProcess.ServiceController.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.ServiceProcess.ServiceStartMode.System",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.ServiceProcess.ServiceController/Release/net9.0/System.ServiceProcess.ServiceController.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.ServiceProcess.ServiceStartMode.Automatic",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.ServiceProcess.ServiceController/Release/net9.0/System.ServiceProcess.ServiceController.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.ServiceProcess.ServiceStartMode.Manual",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.ServiceProcess.ServiceController/Release/net9.0/System.ServiceProcess.ServiceController.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.ServiceProcess.ServiceStartMode.Disabled",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.ServiceProcess.ServiceController/Release/net9.0/System.ServiceProcess.ServiceController.notsupported.cs"
+        }
+      ],
+      "DocsId": "T:System.ServiceProcess.ServiceStartMode",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.ServiceProcess.ServiceController/Release/net9.0/System.ServiceProcess.ServiceController.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "F:System.ServiceProcess.ServiceType.value__",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.ServiceProcess.ServiceController/Release/net9.0/System.ServiceProcess.ServiceController.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.ServiceProcess.ServiceType.KernelDriver",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.ServiceProcess.ServiceController/Release/net9.0/System.ServiceProcess.ServiceController.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.ServiceProcess.ServiceType.FileSystemDriver",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.ServiceProcess.ServiceController/Release/net9.0/System.ServiceProcess.ServiceController.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.ServiceProcess.ServiceType.Adapter",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.ServiceProcess.ServiceController/Release/net9.0/System.ServiceProcess.ServiceController.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.ServiceProcess.ServiceType.RecognizerDriver",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.ServiceProcess.ServiceController/Release/net9.0/System.ServiceProcess.ServiceController.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.ServiceProcess.ServiceType.Win32OwnProcess",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.ServiceProcess.ServiceController/Release/net9.0/System.ServiceProcess.ServiceController.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.ServiceProcess.ServiceType.Win32ShareProcess",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.ServiceProcess.ServiceController/Release/net9.0/System.ServiceProcess.ServiceController.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.ServiceProcess.ServiceType.InteractiveProcess",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.ServiceProcess.ServiceController/Release/net9.0/System.ServiceProcess.ServiceController.notsupported.cs"
+        }
+      ],
+      "DocsId": "T:System.ServiceProcess.ServiceType",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.ServiceProcess.ServiceController/Release/net9.0/System.ServiceProcess.ServiceController.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.ServiceProcess.SessionChangeDescription.Equals(System.Object)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.ServiceProcess.ServiceController/Release/net9.0/System.ServiceProcess.ServiceController.notsupported.cs#L134C113-L134C210"
+        },
+        {
+          "DocsId": "M:System.ServiceProcess.SessionChangeDescription.Equals(System.ServiceProcess.SessionChangeDescription)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.ServiceProcess.ServiceController/Release/net9.0/System.ServiceProcess.ServiceController.notsupported.cs#L135C96-L135C193"
+        },
+        {
+          "DocsId": "M:System.ServiceProcess.SessionChangeDescription.GetHashCode",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.ServiceProcess.ServiceController/Release/net9.0/System.ServiceProcess.ServiceController.notsupported.cs#L136C45-L136C142"
+        },
+        {
+          "DocsId": "M:System.ServiceProcess.SessionChangeDescription.op_Equality(System.ServiceProcess.SessionChangeDescription,System.ServiceProcess.SessionChangeDescription)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.ServiceProcess.ServiceController/Release/net9.0/System.ServiceProcess.ServiceController.notsupported.cs#L137C142-L137C239"
+        },
+        {
+          "DocsId": "M:System.ServiceProcess.SessionChangeDescription.op_Inequality(System.ServiceProcess.SessionChangeDescription,System.ServiceProcess.SessionChangeDescription)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.ServiceProcess.ServiceController/Release/net9.0/System.ServiceProcess.ServiceController.notsupported.cs#L138C142-L138C239"
+        },
+        {
+          "DocsId": "F:System.ServiceProcess.SessionChangeDescription._dummyPrimitive",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.ServiceProcess.ServiceController/Release/net9.0/System.ServiceProcess.ServiceController.netcoreapp.notsupported.cs"
+        },
+        {
+          "DocsId": "P:System.ServiceProcess.SessionChangeDescription.Reason",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.ServiceProcess.ServiceController/Release/net9.0/System.ServiceProcess.ServiceController.notsupported.cs#L132C73-L132C170"
+        },
+        {
+          "DocsId": "P:System.ServiceProcess.SessionChangeDescription.SessionId",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.ServiceProcess.ServiceController/Release/net9.0/System.ServiceProcess.ServiceController.notsupported.cs#L133C38-L133C135"
+        }
+      ],
+      "DocsId": "T:System.ServiceProcess.SessionChangeDescription",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.ServiceProcess.ServiceController/Release/net9.0/System.ServiceProcess.ServiceController.netcoreapp.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "F:System.ServiceProcess.SessionChangeReason.value__",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.ServiceProcess.ServiceController/Release/net9.0/System.ServiceProcess.ServiceController.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.ServiceProcess.SessionChangeReason.ConsoleConnect",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.ServiceProcess.ServiceController/Release/net9.0/System.ServiceProcess.ServiceController.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.ServiceProcess.SessionChangeReason.ConsoleDisconnect",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.ServiceProcess.ServiceController/Release/net9.0/System.ServiceProcess.ServiceController.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.ServiceProcess.SessionChangeReason.RemoteConnect",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.ServiceProcess.ServiceController/Release/net9.0/System.ServiceProcess.ServiceController.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.ServiceProcess.SessionChangeReason.RemoteDisconnect",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.ServiceProcess.ServiceController/Release/net9.0/System.ServiceProcess.ServiceController.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.ServiceProcess.SessionChangeReason.SessionLogon",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.ServiceProcess.ServiceController/Release/net9.0/System.ServiceProcess.ServiceController.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.ServiceProcess.SessionChangeReason.SessionLogoff",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.ServiceProcess.ServiceController/Release/net9.0/System.ServiceProcess.ServiceController.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.ServiceProcess.SessionChangeReason.SessionLock",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.ServiceProcess.ServiceController/Release/net9.0/System.ServiceProcess.ServiceController.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.ServiceProcess.SessionChangeReason.SessionUnlock",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.ServiceProcess.ServiceController/Release/net9.0/System.ServiceProcess.ServiceController.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.ServiceProcess.SessionChangeReason.SessionRemoteControl",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.ServiceProcess.ServiceController/Release/net9.0/System.ServiceProcess.ServiceController.notsupported.cs"
+        }
+      ],
+      "DocsId": "T:System.ServiceProcess.SessionChangeReason",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.ServiceProcess.ServiceController/Release/net9.0/System.ServiceProcess.ServiceController.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.ServiceProcess.TimeoutException.#ctor",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.ServiceProcess.ServiceController/Release/net9.0/System.ServiceProcess.ServiceController.notsupported.cs#L154C9-L154C134"
+        },
+        {
+          "DocsId": "M:System.ServiceProcess.TimeoutException.#ctor(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.ServiceProcess.ServiceController/Release/net9.0/System.ServiceProcess.ServiceController.notsupported.cs#L159C9-L159C243"
+        },
+        {
+          "DocsId": "M:System.ServiceProcess.TimeoutException.#ctor(System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.ServiceProcess.ServiceController/Release/net9.0/System.ServiceProcess.ServiceController.notsupported.cs#L160C9-L160C149"
+        },
+        {
+          "DocsId": "M:System.ServiceProcess.TimeoutException.#ctor(System.String,System.Exception)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.ServiceProcess.ServiceController/Release/net9.0/System.ServiceProcess.ServiceController.notsupported.cs#L161C9-L161C183"
+        }
+      ],
+      "DocsId": "T:System.ServiceProcess.TimeoutException",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.ServiceProcess.ServiceController/Release/net9.0/System.ServiceProcess.ServiceController.notsupported.cs"
+    }
+  ]
+}

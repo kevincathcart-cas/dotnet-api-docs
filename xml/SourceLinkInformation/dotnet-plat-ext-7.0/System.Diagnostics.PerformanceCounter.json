@@ -1,0 +1,970 @@
+{
+  "Assembly": "System.Diagnostics.PerformanceCounter",
+  "GUID": "C549C99C2E30483186DDA1B6FC6056E7FFFFFFFF",
+  "Types": [
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.Diagnostics.CounterCreationData.#ctor",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs#L11C9-L11C132"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.CounterCreationData.#ctor(System.String,System.String,System.Diagnostics.PerformanceCounterType)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs#L12C9-L12C225"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.CounterCreationData.CounterHelp",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs#L13C43-L13C135"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.CounterCreationData.CounterName",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs#L14C43-L14C135"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.CounterCreationData.CounterType",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs#L15C78-L15C170"
+        }
+      ],
+      "DocsId": "T:System.Diagnostics.CounterCreationData",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.Diagnostics.CounterCreationDataCollection.#ctor",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs#L19C9-L19C142"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.CounterCreationDataCollection.#ctor(System.Diagnostics.CounterCreationDataCollection)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs#L20C9-L20C196"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.CounterCreationDataCollection.#ctor(System.Diagnostics.CounterCreationData[])",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs#L21C9-L21C188"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.CounterCreationDataCollection.Add(System.Diagnostics.CounterCreationData)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs#L23C72-L23C164"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.CounterCreationDataCollection.AddRange(System.Diagnostics.CounterCreationDataCollection)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs#L24C88-L24C180"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.CounterCreationDataCollection.AddRange(System.Diagnostics.CounterCreationData[])",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs#L25C80-L25C172"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.CounterCreationDataCollection.Contains(System.Diagnostics.CounterCreationData)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs#L26C78-L26C170"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.CounterCreationDataCollection.CopyTo(System.Diagnostics.CounterCreationData[],System.Int32)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs#L27C89-L27C181"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.CounterCreationDataCollection.IndexOf(System.Diagnostics.CounterCreationData)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs#L28C76-L28C168"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.CounterCreationDataCollection.Insert(System.Int32,System.Diagnostics.CounterCreationData)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs#L29C87-L29C179"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.CounterCreationDataCollection.OnValidate(System.Object)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs#L30C60-L30C152"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.CounterCreationDataCollection.Remove(System.Diagnostics.CounterCreationData)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs#L31C84-L31C176"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.CounterCreationDataCollection.Item(System.Int32)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs#L22C79-L22C171"
+        }
+      ],
+      "DocsId": "T:System.Diagnostics.CounterCreationDataCollection",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.Diagnostics.CounterSample.#ctor(System.Int64,System.Int64,System.Int64,System.Int64,System.Int64,System.Int64,System.Diagnostics.PerformanceCounterType)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs#L37C202-L37C294"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.CounterSample.#ctor(System.Int64,System.Int64,System.Int64,System.Int64,System.Int64,System.Int64,System.Diagnostics.PerformanceCounterType,System.Int64)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs#L38C225-L38C317"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.CounterSample.Calculate(System.Diagnostics.CounterSample)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs#L47C89-L47C181"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.CounterSample.Calculate(System.Diagnostics.CounterSample,System.Diagnostics.CounterSample)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs#L48C141-L48C233"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.CounterSample.Equals(System.Diagnostics.CounterSample)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs#L49C71-L49C163"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.CounterSample.Equals(System.Object)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs#L50C49-L50C141"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.CounterSample.GetHashCode",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs#L51C45-L51C137"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.CounterSample.op_Equality(System.Diagnostics.CounterSample,System.Diagnostics.CounterSample)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs#L52C114-L52C206"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.CounterSample.op_Inequality(System.Diagnostics.CounterSample,System.Diagnostics.CounterSample)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs#L53C114-L53C206"
+        },
+        {
+          "DocsId": "F:System.Diagnostics.CounterSample._dummyPrimitive",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.netcoreapp.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Diagnostics.CounterSample.Empty",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.netcoreapp.notsupported.cs"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.CounterSample.BaseValue",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs#L39C39-L39C131"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.CounterSample.CounterFrequency",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs#L40C46-L40C138"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.CounterSample.CounterTimeStamp",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs#L41C46-L41C138"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.CounterSample.CounterType",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs#L42C78-L42C170"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.CounterSample.RawValue",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs#L43C38-L43C130"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.CounterSample.SystemFrequency",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs#L44C45-L44C137"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.CounterSample.TimeStamp",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs#L45C39-L45C131"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.CounterSample.TimeStamp100nSec",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs#L46C46-L46C138"
+        }
+      ],
+      "DocsId": "T:System.Diagnostics.CounterSample",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.netcoreapp.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.Diagnostics.CounterSampleCalculator.ComputeCounterValue(System.Diagnostics.CounterSample)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs#L57C95-L57C187"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.CounterSampleCalculator.ComputeCounterValue(System.Diagnostics.CounterSample,System.Diagnostics.CounterSample)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs#L58C139-L58C231"
+        }
+      ],
+      "DocsId": "T:System.Diagnostics.CounterSampleCalculator",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.Diagnostics.ICollectData.CloseData",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.ICollectData.CollectData(System.Int32,System.IntPtr,System.IntPtr,System.Int32,System.IntPtr@)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs"
+        }
+      ],
+      "DocsId": "T:System.Diagnostics.ICollectData",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.Diagnostics.InstanceData.#ctor(System.String,System.Diagnostics.CounterSample)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs#L68C9-L68C185"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.InstanceData.InstanceName",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs#L69C44-L69C136"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.InstanceData.RawValue",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs#L70C38-L70C130"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.InstanceData.Sample",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs#L71C64-L71C156"
+        }
+      ],
+      "DocsId": "T:System.Diagnostics.InstanceData",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.Diagnostics.InstanceDataCollection.#ctor(System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs#L76C9-L76C153"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.InstanceDataCollection.Contains(System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs#L81C53-L81C145"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.InstanceDataCollection.CopyTo(System.Diagnostics.InstanceData[],System.Int32)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs#L82C86-L82C178"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.InstanceDataCollection.CounterName",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs#L77C43-L77C135"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.InstanceDataCollection.Item(System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs#L78C82-L78C174"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.InstanceDataCollection.Keys",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs#L79C60-L79C152"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.InstanceDataCollection.Values",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs#L80C62-L80C154"
+        }
+      ],
+      "DocsId": "T:System.Diagnostics.InstanceDataCollection",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.Diagnostics.InstanceDataCollectionCollection.#ctor",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs#L87C9-L87C145"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.InstanceDataCollectionCollection.Contains(System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs#L91C52-L91C144"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.InstanceDataCollectionCollection.CopyTo(System.Diagnostics.InstanceDataCollection[],System.Int32)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs#L92C95-L92C187"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.InstanceDataCollectionCollection.Item(System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs#L88C91-L88C183"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.InstanceDataCollectionCollection.Keys",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs#L89C60-L89C152"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.InstanceDataCollectionCollection.Values",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs#L90C62-L90C154"
+        }
+      ],
+      "DocsId": "T:System.Diagnostics.InstanceDataCollectionCollection",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.Diagnostics.PerformanceCounter.#ctor",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs#L98C9-L98C131"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.PerformanceCounter.#ctor(System.String,System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs#L99C9-L99C170"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.PerformanceCounter.#ctor(System.String,System.String,System.Boolean)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs#L100C9-L100C185"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.PerformanceCounter.#ctor(System.String,System.String,System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs#L101C9-L101C191"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.PerformanceCounter.#ctor(System.String,System.String,System.String,System.Boolean)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs#L102C9-L102C206"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.PerformanceCounter.#ctor(System.String,System.String,System.String,System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs#L103C9-L103C211"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.PerformanceCounter.BeginInit",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs#L113C35-L113C127"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.PerformanceCounter.Close",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs#L114C31-L114C123"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.PerformanceCounter.CloseSharedResources",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs#L115C53-L115C145"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.PerformanceCounter.Decrement",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs#L116C35-L116C127"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.PerformanceCounter.Dispose(System.Boolean)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs#L117C59-L117C60"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.PerformanceCounter.EndInit",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs#L118C33-L118C125"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.PerformanceCounter.Increment",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs#L119C35-L119C127"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.PerformanceCounter.IncrementBy(System.Int64)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs#L120C47-L120C139"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.PerformanceCounter.NextSample",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs#L121C64-L121C156"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.PerformanceCounter.NextValue",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs#L122C36-L122C128"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.PerformanceCounter.RemoveInstance",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs#L123C40-L123C132"
+        },
+        {
+          "DocsId": "F:System.Diagnostics.PerformanceCounter.DefaultFileMappingSize",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.PerformanceCounter.CategoryName",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs#L104C44-L104C136"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.PerformanceCounter.CounterHelp",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs#L105C43-L105C135"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.PerformanceCounter.CounterName",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs#L106C43-L106C135"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.PerformanceCounter.CounterType",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs#L107C78-L107C170"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.PerformanceCounter.InstanceLifetime",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs#L108C95-L108C187"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.PerformanceCounter.InstanceName",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs#L109C44-L109C136"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.PerformanceCounter.MachineName",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs#L110C43-L110C135"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.PerformanceCounter.RawValue",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs#L111C38-L111C130"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.PerformanceCounter.ReadOnly",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs#L112C38-L112C130"
+        }
+      ],
+      "DocsId": "T:System.Diagnostics.PerformanceCounter",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.Diagnostics.PerformanceCounterCategory.#ctor",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs#L127C9-L127C139"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.PerformanceCounterCategory.#ctor(System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs#L128C9-L128C158"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.PerformanceCounterCategory.#ctor(System.String,System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs#L129C9-L129C178"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.PerformanceCounterCategory.CounterExists(System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs#L134C57-L134C149"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.PerformanceCounterCategory.CounterExists(System.String,System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs#L135C85-L135C177"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.PerformanceCounterCategory.CounterExists(System.String,System.String,System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs#L136C105-L136C197"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.PerformanceCounterCategory.Create(System.String,System.String,System.Diagnostics.CounterCreationDataCollection)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs#L138C182-L138C274"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.PerformanceCounterCategory.Create(System.String,System.String,System.Diagnostics.PerformanceCounterCategoryType,System.Diagnostics.CounterCreationDataCollection)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs#L139C246-L139C338"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.PerformanceCounterCategory.Create(System.String,System.String,System.Diagnostics.PerformanceCounterCategoryType,System.String,System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs#L140C224-L140C316"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.PerformanceCounterCategory.Create(System.String,System.String,System.String,System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs#L142C160-L142C252"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.PerformanceCounterCategory.Delete(System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs#L143C58-L143C150"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.PerformanceCounterCategory.Exists(System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs#L144C58-L144C150"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.PerformanceCounterCategory.Exists(System.String,System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs#L145C78-L145C170"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.PerformanceCounterCategory.GetCategories",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs#L146C89-L146C181"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.PerformanceCounterCategory.GetCategories(System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs#L147C107-L147C199"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.PerformanceCounterCategory.GetCounters",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs#L148C72-L148C164"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.PerformanceCounterCategory.GetCounters(System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs#L149C91-L149C183"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.PerformanceCounterCategory.GetInstanceNames",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs#L150C46-L150C138"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.PerformanceCounterCategory.InstanceExists(System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs#L151C59-L151C151"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.PerformanceCounterCategory.InstanceExists(System.String,System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs#L152C87-L152C179"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.PerformanceCounterCategory.InstanceExists(System.String,System.String,System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs#L153C107-L153C199"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.PerformanceCounterCategory.ReadCategory",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs#L154C85-L154C177"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.PerformanceCounterCategory.CategoryHelp",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs#L130C44-L130C136"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.PerformanceCounterCategory.CategoryName",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs#L131C44-L131C136"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.PerformanceCounterCategory.CategoryType",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs#L132C87-L132C179"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.PerformanceCounterCategory.MachineName",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs#L133C43-L133C135"
+        }
+      ],
+      "DocsId": "T:System.Diagnostics.PerformanceCounterCategory",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "F:System.Diagnostics.PerformanceCounterCategoryType.value__",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Diagnostics.PerformanceCounterCategoryType.Unknown",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Diagnostics.PerformanceCounterCategoryType.SingleInstance",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Diagnostics.PerformanceCounterCategoryType.MultiInstance",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs"
+        }
+      ],
+      "DocsId": "T:System.Diagnostics.PerformanceCounterCategoryType",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "F:System.Diagnostics.PerformanceCounterInstanceLifetime.value__",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Diagnostics.PerformanceCounterInstanceLifetime.Global",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Diagnostics.PerformanceCounterInstanceLifetime.Process",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs"
+        }
+      ],
+      "DocsId": "T:System.Diagnostics.PerformanceCounterInstanceLifetime",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.Diagnostics.PerformanceCounterManager.#ctor",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs#L170C9-L170C138"
+        }
+      ],
+      "DocsId": "T:System.Diagnostics.PerformanceCounterManager",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "F:System.Diagnostics.PerformanceCounterType.value__",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Diagnostics.PerformanceCounterType.NumberOfItemsHEX32",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Diagnostics.PerformanceCounterType.NumberOfItemsHEX64",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Diagnostics.PerformanceCounterType.NumberOfItems32",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Diagnostics.PerformanceCounterType.NumberOfItems64",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Diagnostics.PerformanceCounterType.CounterDelta32",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Diagnostics.PerformanceCounterType.CounterDelta64",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Diagnostics.PerformanceCounterType.SampleCounter",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Diagnostics.PerformanceCounterType.CountPerTimeInterval32",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Diagnostics.PerformanceCounterType.CountPerTimeInterval64",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Diagnostics.PerformanceCounterType.RateOfCountsPerSecond32",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Diagnostics.PerformanceCounterType.RateOfCountsPerSecond64",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Diagnostics.PerformanceCounterType.RawFraction",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Diagnostics.PerformanceCounterType.CounterTimer",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Diagnostics.PerformanceCounterType.Timer100Ns",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Diagnostics.PerformanceCounterType.SampleFraction",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Diagnostics.PerformanceCounterType.CounterTimerInverse",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Diagnostics.PerformanceCounterType.Timer100NsInverse",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Diagnostics.PerformanceCounterType.CounterMultiTimer",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Diagnostics.PerformanceCounterType.CounterMultiTimer100Ns",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Diagnostics.PerformanceCounterType.CounterMultiTimerInverse",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Diagnostics.PerformanceCounterType.CounterMultiTimer100NsInverse",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Diagnostics.PerformanceCounterType.AverageTimer32",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Diagnostics.PerformanceCounterType.ElapsedTime",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Diagnostics.PerformanceCounterType.AverageCount64",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Diagnostics.PerformanceCounterType.SampleBase",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Diagnostics.PerformanceCounterType.AverageBase",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Diagnostics.PerformanceCounterType.RawBase",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Diagnostics.PerformanceCounterType.CounterMultiBase",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs"
+        }
+      ],
+      "DocsId": "T:System.Diagnostics.PerformanceCounterType",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.Diagnostics.PerformanceData.CounterData.Decrement",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs#L215C35-L215C127"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.PerformanceData.CounterData.Increment",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs#L216C35-L216C127"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.PerformanceData.CounterData.IncrementBy(System.Int64)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs#L217C47-L217C139"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.PerformanceData.CounterData.RawValue",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs#L213C38-L213C130"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.PerformanceData.CounterData.Value",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs#L214C35-L214C127"
+        }
+      ],
+      "DocsId": "T:System.Diagnostics.PerformanceData.CounterData",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.Diagnostics.PerformanceData.CounterSet.#ctor(System.Guid,System.Guid,System.Diagnostics.PerformanceData.CounterSetInstanceType)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs#L221C9-L221C247"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.PerformanceData.CounterSet.AddCounter(System.Int32,System.Diagnostics.PerformanceData.CounterType)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs#L222C109-L222C201"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.PerformanceData.CounterSet.AddCounter(System.Int32,System.Diagnostics.PerformanceData.CounterType,System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs#L223C129-L223C221"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.PerformanceData.CounterSet.CreateCounterSetInstance(System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs#L224C118-L224C210"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.PerformanceData.CounterSet.Dispose",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs#L225C33-L225C34"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.PerformanceData.CounterSet.Dispose(System.Boolean)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs#L226C58-L226C59"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.PerformanceData.CounterSet.Finalize",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs#L227C23-L227C26"
+        }
+      ],
+      "DocsId": "T:System.Diagnostics.PerformanceData.CounterSet",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.Diagnostics.PerformanceData.CounterSetInstance.Dispose",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs#L233C33-L233C34"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.PerformanceData.CounterSetInstance.Finalize",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs#L234C31-L234C34"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.PerformanceData.CounterSetInstance.Counters",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs#L232C101-L232C193"
+        }
+      ],
+      "DocsId": "T:System.Diagnostics.PerformanceData.CounterSetInstance",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.Diagnostics.PerformanceData.CounterSetInstanceCounterDataSet.Dispose",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs#L241C33-L241C34"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.PerformanceData.CounterSetInstanceCounterDataSet.Finalize",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs#L242C45-L242C48"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.PerformanceData.CounterSetInstanceCounterDataSet.Item(System.Int32)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs#L239C91-L239C183"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.PerformanceData.CounterSetInstanceCounterDataSet.Item(System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs#L240C96-L240C188"
+        }
+      ],
+      "DocsId": "T:System.Diagnostics.PerformanceData.CounterSetInstanceCounterDataSet",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "F:System.Diagnostics.PerformanceData.CounterSetInstanceType.value__",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Diagnostics.PerformanceData.CounterSetInstanceType.Single",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Diagnostics.PerformanceData.CounterSetInstanceType.Multiple",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Diagnostics.PerformanceData.CounterSetInstanceType.GlobalAggregate",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Diagnostics.PerformanceData.CounterSetInstanceType.MultipleAggregate",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Diagnostics.PerformanceData.CounterSetInstanceType.GlobalAggregateWithHistory",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Diagnostics.PerformanceData.CounterSetInstanceType.InstanceAggregate",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs"
+        }
+      ],
+      "DocsId": "T:System.Diagnostics.PerformanceData.CounterSetInstanceType",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "F:System.Diagnostics.PerformanceData.CounterType.value__",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Diagnostics.PerformanceData.CounterType.RawDataHex32",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Diagnostics.PerformanceData.CounterType.RawDataHex64",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Diagnostics.PerformanceData.CounterType.RawData32",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Diagnostics.PerformanceData.CounterType.RawData64",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Diagnostics.PerformanceData.CounterType.Delta32",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Diagnostics.PerformanceData.CounterType.Delta64",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Diagnostics.PerformanceData.CounterType.SampleCounter",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Diagnostics.PerformanceData.CounterType.QueueLength",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Diagnostics.PerformanceData.CounterType.LargeQueueLength",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Diagnostics.PerformanceData.CounterType.QueueLength100Ns",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Diagnostics.PerformanceData.CounterType.QueueLengthObjectTime",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Diagnostics.PerformanceData.CounterType.RateOfCountPerSecond32",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Diagnostics.PerformanceData.CounterType.RateOfCountPerSecond64",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Diagnostics.PerformanceData.CounterType.RawFraction32",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Diagnostics.PerformanceData.CounterType.RawFraction64",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Diagnostics.PerformanceData.CounterType.PercentageActive",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Diagnostics.PerformanceData.CounterType.PrecisionSystemTimer",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Diagnostics.PerformanceData.CounterType.PercentageActive100Ns",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Diagnostics.PerformanceData.CounterType.PrecisionTimer100Ns",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Diagnostics.PerformanceData.CounterType.ObjectSpecificTimer",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Diagnostics.PerformanceData.CounterType.PrecisionObjectSpecificTimer",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Diagnostics.PerformanceData.CounterType.SampleFraction",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Diagnostics.PerformanceData.CounterType.PercentageNotActive",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Diagnostics.PerformanceData.CounterType.PercentageNotActive100Ns",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Diagnostics.PerformanceData.CounterType.MultiTimerPercentageActive",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Diagnostics.PerformanceData.CounterType.MultiTimerPercentageActive100Ns",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Diagnostics.PerformanceData.CounterType.MultiTimerPercentageNotActive",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Diagnostics.PerformanceData.CounterType.MultiTimerPercentageNotActive100Ns",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Diagnostics.PerformanceData.CounterType.AverageTimer32",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Diagnostics.PerformanceData.CounterType.ElapsedTime",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Diagnostics.PerformanceData.CounterType.AverageCount64",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Diagnostics.PerformanceData.CounterType.SampleBase",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Diagnostics.PerformanceData.CounterType.AverageBase",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Diagnostics.PerformanceData.CounterType.RawBase32",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Diagnostics.PerformanceData.CounterType.RawBase64",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Diagnostics.PerformanceData.CounterType.MultiTimerBase",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs"
+        }
+      ],
+      "DocsId": "T:System.Diagnostics.PerformanceData.CounterType",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Diagnostics.PerformanceCounter/Release/net7.0/System.Diagnostics.PerformanceCounter.notsupported.cs"
+    }
+  ]
+}

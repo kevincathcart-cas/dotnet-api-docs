@@ -1,0 +1,1790 @@
+{
+  "Assembly": "System.Net.NetworkInformation",
+  "GUID": "77AB93F1C481F76F7FDECBF48A43947EFFFFFFFF",
+  "Types": [
+    {
+      "Members": [
+        {
+          "DocsId": "F:System.Net.NetworkInformation.DuplicateAddressDetectionState.value__",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Net.NetworkInformation.DuplicateAddressDetectionState.Invalid",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Net.NetworkInformation.DuplicateAddressDetectionState.Tentative",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Net.NetworkInformation.DuplicateAddressDetectionState.Duplicate",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Net.NetworkInformation.DuplicateAddressDetectionState.Deprecated",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Net.NetworkInformation.DuplicateAddressDetectionState.Preferred",
+          "SourceLink": ""
+        }
+      ],
+      "DocsId": "T:System.Net.NetworkInformation.DuplicateAddressDetectionState",
+      "SourceLink": ""
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.Net.NetworkInformation.GatewayIPAddressInformation.#ctor",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.GatewayIPAddressInformation.Address",
+          "SourceLink": ""
+        }
+      ],
+      "DocsId": "T:System.Net.NetworkInformation.GatewayIPAddressInformation",
+      "SourceLink": ""
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.Net.NetworkInformation.GatewayIPAddressInformationCollection.#ctor",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Net.NetworkInformation/src/System/Net/NetworkInformation/GatewayIPAddressInformationCollection.cs#L12C9-L15C10"
+        },
+        {
+          "DocsId": "M:System.Net.NetworkInformation.GatewayIPAddressInformationCollection.CopyTo(System.Net.NetworkInformation.GatewayIPAddressInformation[],System.Int32)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Net.NetworkInformation/src/System/Net/NetworkInformation/GatewayIPAddressInformationCollection.cs#L24C13-L25C10"
+        },
+        {
+          "DocsId": "M:System.Net.NetworkInformation.GatewayIPAddressInformationCollection.Add(System.Net.NetworkInformation.GatewayIPAddressInformation)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Net.NetworkInformation/src/System/Net/NetworkInformation/GatewayIPAddressInformationCollection.cs#L53C13-L53C73"
+        },
+        {
+          "DocsId": "M:System.Net.NetworkInformation.GatewayIPAddressInformationCollection.Contains(System.Net.NetworkInformation.GatewayIPAddressInformation)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Net.NetworkInformation/src/System/Net/NetworkInformation/GatewayIPAddressInformationCollection.cs#L63C13-L63C49"
+        },
+        {
+          "DocsId": "M:System.Net.NetworkInformation.GatewayIPAddressInformationCollection.GetEnumerator",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Net.NetworkInformation/src/System/Net/NetworkInformation/GatewayIPAddressInformationCollection.cs#L68C13-L68C47"
+        },
+        {
+          "DocsId": "M:System.Net.NetworkInformation.GatewayIPAddressInformationCollection.Remove(System.Net.NetworkInformation.GatewayIPAddressInformation)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Net.NetworkInformation/src/System/Net/NetworkInformation/GatewayIPAddressInformationCollection.cs#L78C13-L78C73"
+        },
+        {
+          "DocsId": "M:System.Net.NetworkInformation.GatewayIPAddressInformationCollection.Clear",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Net.NetworkInformation/src/System/Net/NetworkInformation/GatewayIPAddressInformationCollection.cs#L83C13-L83C73"
+        },
+        {
+          "DocsId": "F:System.Net.NetworkInformation.GatewayIPAddressInformationCollection._addresses",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Net.NetworkInformation/src/System/Net/NetworkInformation/GatewayIPAddressInformationCollection.cs"
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.GatewayIPAddressInformationCollection.Count",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Net.NetworkInformation/src/System/Net/NetworkInformation/GatewayIPAddressInformationCollection.cs#L31C17-L31C41"
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.GatewayIPAddressInformationCollection.IsReadOnly",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Net.NetworkInformation/src/System/Net/NetworkInformation/GatewayIPAddressInformationCollection.cs#L39C17-L39C29"
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.GatewayIPAddressInformationCollection.Item(System.Int32)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Net.NetworkInformation/src/System/Net/NetworkInformation/GatewayIPAddressInformationCollection.cs#L47C17-L47C42"
+        }
+      ],
+      "DocsId": "T:System.Net.NetworkInformation.GatewayIPAddressInformationCollection",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Net.NetworkInformation/src/System/Net/NetworkInformation/GatewayIPAddressInformationCollection.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.Net.NetworkInformation.IcmpV4Statistics.#ctor",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.IcmpV4Statistics.AddressMaskRepliesReceived",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.IcmpV4Statistics.AddressMaskRepliesSent",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.IcmpV4Statistics.AddressMaskRequestsReceived",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.IcmpV4Statistics.AddressMaskRequestsSent",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.IcmpV4Statistics.DestinationUnreachableMessagesReceived",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.IcmpV4Statistics.DestinationUnreachableMessagesSent",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.IcmpV4Statistics.EchoRepliesReceived",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.IcmpV4Statistics.EchoRepliesSent",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.IcmpV4Statistics.EchoRequestsReceived",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.IcmpV4Statistics.EchoRequestsSent",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.IcmpV4Statistics.ErrorsReceived",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.IcmpV4Statistics.ErrorsSent",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.IcmpV4Statistics.MessagesReceived",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.IcmpV4Statistics.MessagesSent",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.IcmpV4Statistics.ParameterProblemsReceived",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.IcmpV4Statistics.ParameterProblemsSent",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.IcmpV4Statistics.RedirectsReceived",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.IcmpV4Statistics.RedirectsSent",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.IcmpV4Statistics.SourceQuenchesReceived",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.IcmpV4Statistics.SourceQuenchesSent",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.IcmpV4Statistics.TimeExceededMessagesReceived",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.IcmpV4Statistics.TimeExceededMessagesSent",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.IcmpV4Statistics.TimestampRepliesReceived",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.IcmpV4Statistics.TimestampRepliesSent",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.IcmpV4Statistics.TimestampRequestsReceived",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.IcmpV4Statistics.TimestampRequestsSent",
+          "SourceLink": ""
+        }
+      ],
+      "DocsId": "T:System.Net.NetworkInformation.IcmpV4Statistics",
+      "SourceLink": ""
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.Net.NetworkInformation.IcmpV6Statistics.#ctor",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.IcmpV6Statistics.DestinationUnreachableMessagesReceived",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.IcmpV6Statistics.DestinationUnreachableMessagesSent",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.IcmpV6Statistics.EchoRepliesReceived",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.IcmpV6Statistics.EchoRepliesSent",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.IcmpV6Statistics.EchoRequestsReceived",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.IcmpV6Statistics.EchoRequestsSent",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.IcmpV6Statistics.ErrorsReceived",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.IcmpV6Statistics.ErrorsSent",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.IcmpV6Statistics.MembershipQueriesReceived",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.IcmpV6Statistics.MembershipQueriesSent",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.IcmpV6Statistics.MembershipReductionsReceived",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.IcmpV6Statistics.MembershipReductionsSent",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.IcmpV6Statistics.MembershipReportsReceived",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.IcmpV6Statistics.MembershipReportsSent",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.IcmpV6Statistics.MessagesReceived",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.IcmpV6Statistics.MessagesSent",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.IcmpV6Statistics.NeighborAdvertisementsReceived",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.IcmpV6Statistics.NeighborAdvertisementsSent",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.IcmpV6Statistics.NeighborSolicitsReceived",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.IcmpV6Statistics.NeighborSolicitsSent",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.IcmpV6Statistics.PacketTooBigMessagesReceived",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.IcmpV6Statistics.PacketTooBigMessagesSent",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.IcmpV6Statistics.ParameterProblemsReceived",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.IcmpV6Statistics.ParameterProblemsSent",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.IcmpV6Statistics.RedirectsReceived",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.IcmpV6Statistics.RedirectsSent",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.IcmpV6Statistics.RouterAdvertisementsReceived",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.IcmpV6Statistics.RouterAdvertisementsSent",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.IcmpV6Statistics.RouterSolicitsReceived",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.IcmpV6Statistics.RouterSolicitsSent",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.IcmpV6Statistics.TimeExceededMessagesReceived",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.IcmpV6Statistics.TimeExceededMessagesSent",
+          "SourceLink": ""
+        }
+      ],
+      "DocsId": "T:System.Net.NetworkInformation.IcmpV6Statistics",
+      "SourceLink": ""
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.Net.NetworkInformation.IPAddressInformation.#ctor",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.IPAddressInformation.Address",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.IPAddressInformation.IsDnsEligible",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.IPAddressInformation.IsTransient",
+          "SourceLink": ""
+        }
+      ],
+      "DocsId": "T:System.Net.NetworkInformation.IPAddressInformation",
+      "SourceLink": ""
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.Net.NetworkInformation.IPAddressInformationCollection.CopyTo(System.Net.NetworkInformation.IPAddressInformation[],System.Int32)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Net.NetworkInformation/src/System/Net/NetworkInformation/IPAddressInformationCollection.cs#L18C13-L19C10"
+        },
+        {
+          "DocsId": "M:System.Net.NetworkInformation.IPAddressInformationCollection.Add(System.Net.NetworkInformation.IPAddressInformation)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Net.NetworkInformation/src/System/Net/NetworkInformation/IPAddressInformationCollection.cs#L39C13-L39C73"
+        },
+        {
+          "DocsId": "M:System.Net.NetworkInformation.IPAddressInformationCollection.Contains(System.Net.NetworkInformation.IPAddressInformation)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Net.NetworkInformation/src/System/Net/NetworkInformation/IPAddressInformationCollection.cs#L49C13-L49C49"
+        },
+        {
+          "DocsId": "M:System.Net.NetworkInformation.IPAddressInformationCollection.GetEnumerator",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Net.NetworkInformation/src/System/Net/NetworkInformation/IPAddressInformationCollection.cs#L59C13-L59C47"
+        },
+        {
+          "DocsId": "M:System.Net.NetworkInformation.IPAddressInformationCollection.Remove(System.Net.NetworkInformation.IPAddressInformation)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Net.NetworkInformation/src/System/Net/NetworkInformation/IPAddressInformationCollection.cs#L72C13-L72C73"
+        },
+        {
+          "DocsId": "M:System.Net.NetworkInformation.IPAddressInformationCollection.Clear",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Net.NetworkInformation/src/System/Net/NetworkInformation/IPAddressInformationCollection.cs#L77C13-L77C73"
+        },
+        {
+          "DocsId": "F:System.Net.NetworkInformation.IPAddressInformationCollection._addresses",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Net.NetworkInformation/src/System/Net/NetworkInformation/IPAddressInformationCollection.cs"
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.IPAddressInformationCollection.Count",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Net.NetworkInformation/src/System/Net/NetworkInformation/IPAddressInformationCollection.cs#L25C17-L25C41"
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.IPAddressInformationCollection.IsReadOnly",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Net.NetworkInformation/src/System/Net/NetworkInformation/IPAddressInformationCollection.cs#L33C17-L33C29"
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.IPAddressInformationCollection.Item(System.Int32)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Net.NetworkInformation/src/System/Net/NetworkInformation/IPAddressInformationCollection.cs#L66C17-L66C42"
+        }
+      ],
+      "DocsId": "T:System.Net.NetworkInformation.IPAddressInformationCollection",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Net.NetworkInformation/src/System/Net/NetworkInformation/IPAddressInformationCollection.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.Net.NetworkInformation.IPGlobalProperties.GetIPGlobalProperties",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Net.NetworkInformation/src/System/Net/NetworkInformation/IPGlobalProperties.cs#L19C13-L19C66"
+        },
+        {
+          "DocsId": "M:System.Net.NetworkInformation.IPGlobalProperties.GetActiveUdpListeners",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Net.NetworkInformation/src/System/Net/NetworkInformation/IPGlobalProperties.cs"
+        },
+        {
+          "DocsId": "M:System.Net.NetworkInformation.IPGlobalProperties.GetActiveTcpListeners",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Net.NetworkInformation/src/System/Net/NetworkInformation/IPGlobalProperties.cs"
+        },
+        {
+          "DocsId": "M:System.Net.NetworkInformation.IPGlobalProperties.GetActiveTcpConnections",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Net.NetworkInformation/src/System/Net/NetworkInformation/IPGlobalProperties.cs"
+        },
+        {
+          "DocsId": "M:System.Net.NetworkInformation.IPGlobalProperties.BeginGetUnicastAddresses(System.AsyncCallback,System.Object)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Net.NetworkInformation/src/System/Net/NetworkInformation/IPGlobalProperties.cs#L69C13-L69C92"
+        },
+        {
+          "DocsId": "M:System.Net.NetworkInformation.IPGlobalProperties.EndGetUnicastAddresses(System.IAsyncResult)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Net.NetworkInformation/src/System/Net/NetworkInformation/IPGlobalProperties.cs#L74C13-L74C92"
+        },
+        {
+          "DocsId": "M:System.Net.NetworkInformation.IPGlobalProperties.GetTcpIPv4Statistics",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Net.NetworkInformation/src/System/Net/NetworkInformation/IPGlobalProperties.cs"
+        },
+        {
+          "DocsId": "M:System.Net.NetworkInformation.IPGlobalProperties.GetTcpIPv6Statistics",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Net.NetworkInformation/src/System/Net/NetworkInformation/IPGlobalProperties.cs"
+        },
+        {
+          "DocsId": "M:System.Net.NetworkInformation.IPGlobalProperties.GetUdpIPv4Statistics",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Net.NetworkInformation/src/System/Net/NetworkInformation/IPGlobalProperties.cs"
+        },
+        {
+          "DocsId": "M:System.Net.NetworkInformation.IPGlobalProperties.GetUdpIPv6Statistics",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Net.NetworkInformation/src/System/Net/NetworkInformation/IPGlobalProperties.cs"
+        },
+        {
+          "DocsId": "M:System.Net.NetworkInformation.IPGlobalProperties.GetIcmpV4Statistics",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Net.NetworkInformation/src/System/Net/NetworkInformation/IPGlobalProperties.cs"
+        },
+        {
+          "DocsId": "M:System.Net.NetworkInformation.IPGlobalProperties.GetIcmpV6Statistics",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Net.NetworkInformation/src/System/Net/NetworkInformation/IPGlobalProperties.cs"
+        },
+        {
+          "DocsId": "M:System.Net.NetworkInformation.IPGlobalProperties.GetIPv4GlobalStatistics",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Net.NetworkInformation/src/System/Net/NetworkInformation/IPGlobalProperties.cs"
+        },
+        {
+          "DocsId": "M:System.Net.NetworkInformation.IPGlobalProperties.GetIPv6GlobalStatistics",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Net.NetworkInformation/src/System/Net/NetworkInformation/IPGlobalProperties.cs"
+        },
+        {
+          "DocsId": "M:System.Net.NetworkInformation.IPGlobalProperties.GetUnicastAddresses",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Net.NetworkInformation/src/System/Net/NetworkInformation/IPGlobalProperties.cs#L117C13-L117C92"
+        },
+        {
+          "DocsId": "M:System.Net.NetworkInformation.IPGlobalProperties.GetUnicastAddressesAsync",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Net.NetworkInformation/src/System/Net/NetworkInformation/IPGlobalProperties.cs#L126C13-L126C92"
+        },
+        {
+          "DocsId": "M:System.Net.NetworkInformation.IPGlobalProperties.#ctor",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Net.NetworkInformation/src/System/Net/NetworkInformation/IPGlobalProperties.cs"
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.IPGlobalProperties.DhcpScopeName",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Net.NetworkInformation/src/System/Net/NetworkInformation/IPGlobalProperties.cs"
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.IPGlobalProperties.DomainName",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Net.NetworkInformation/src/System/Net/NetworkInformation/IPGlobalProperties.cs"
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.IPGlobalProperties.HostName",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Net.NetworkInformation/src/System/Net/NetworkInformation/IPGlobalProperties.cs"
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.IPGlobalProperties.IsWinsProxy",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Net.NetworkInformation/src/System/Net/NetworkInformation/IPGlobalProperties.cs"
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.IPGlobalProperties.NodeType",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Net.NetworkInformation/src/System/Net/NetworkInformation/IPGlobalProperties.cs"
+        }
+      ],
+      "DocsId": "T:System.Net.NetworkInformation.IPGlobalProperties",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Net.NetworkInformation/src/System/Net/NetworkInformation/IPGlobalProperties.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.Net.NetworkInformation.IPGlobalStatistics.#ctor",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.IPGlobalStatistics.DefaultTtl",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.IPGlobalStatistics.ForwardingEnabled",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.IPGlobalStatistics.NumberOfInterfaces",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.IPGlobalStatistics.NumberOfIPAddresses",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.IPGlobalStatistics.OutputPacketRequests",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.IPGlobalStatistics.OutputPacketRoutingDiscards",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.IPGlobalStatistics.OutputPacketsDiscarded",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.IPGlobalStatistics.OutputPacketsWithNoRoute",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.IPGlobalStatistics.PacketFragmentFailures",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.IPGlobalStatistics.PacketReassembliesRequired",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.IPGlobalStatistics.PacketReassemblyFailures",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.IPGlobalStatistics.PacketReassemblyTimeout",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.IPGlobalStatistics.PacketsFragmented",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.IPGlobalStatistics.PacketsReassembled",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.IPGlobalStatistics.ReceivedPackets",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.IPGlobalStatistics.ReceivedPacketsDelivered",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.IPGlobalStatistics.ReceivedPacketsDiscarded",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.IPGlobalStatistics.ReceivedPacketsForwarded",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.IPGlobalStatistics.ReceivedPacketsWithAddressErrors",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.IPGlobalStatistics.ReceivedPacketsWithHeadersErrors",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.IPGlobalStatistics.ReceivedPacketsWithUnknownProtocol",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.IPGlobalStatistics.NumberOfRoutes",
+          "SourceLink": ""
+        }
+      ],
+      "DocsId": "T:System.Net.NetworkInformation.IPGlobalStatistics",
+      "SourceLink": ""
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.Net.NetworkInformation.IPInterfaceProperties.GetIPv4Properties",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "M:System.Net.NetworkInformation.IPInterfaceProperties.GetIPv6Properties",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "M:System.Net.NetworkInformation.IPInterfaceProperties.#ctor",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.IPInterfaceProperties.IsDnsEnabled",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.IPInterfaceProperties.DnsSuffix",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.IPInterfaceProperties.IsDynamicDnsEnabled",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.IPInterfaceProperties.UnicastAddresses",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.IPInterfaceProperties.MulticastAddresses",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.IPInterfaceProperties.AnycastAddresses",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.IPInterfaceProperties.DnsAddresses",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.IPInterfaceProperties.GatewayAddresses",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.IPInterfaceProperties.DhcpServerAddresses",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.IPInterfaceProperties.WinsServersAddresses",
+          "SourceLink": ""
+        }
+      ],
+      "DocsId": "T:System.Net.NetworkInformation.IPInterfaceProperties",
+      "SourceLink": ""
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.Net.NetworkInformation.IPInterfaceStatistics.#ctor",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.IPInterfaceStatistics.BytesReceived",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.IPInterfaceStatistics.BytesSent",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.IPInterfaceStatistics.IncomingPacketsDiscarded",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.IPInterfaceStatistics.IncomingPacketsWithErrors",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.IPInterfaceStatistics.IncomingUnknownProtocolPackets",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.IPInterfaceStatistics.NonUnicastPacketsReceived",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.IPInterfaceStatistics.NonUnicastPacketsSent",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.IPInterfaceStatistics.OutgoingPacketsDiscarded",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.IPInterfaceStatistics.OutgoingPacketsWithErrors",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.IPInterfaceStatistics.OutputQueueLength",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.IPInterfaceStatistics.UnicastPacketsReceived",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.IPInterfaceStatistics.UnicastPacketsSent",
+          "SourceLink": ""
+        }
+      ],
+      "DocsId": "T:System.Net.NetworkInformation.IPInterfaceStatistics",
+      "SourceLink": ""
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.Net.NetworkInformation.IPv4InterfaceProperties.#ctor",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.IPv4InterfaceProperties.UsesWins",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.IPv4InterfaceProperties.IsDhcpEnabled",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.IPv4InterfaceProperties.IsAutomaticPrivateAddressingActive",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.IPv4InterfaceProperties.IsAutomaticPrivateAddressingEnabled",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.IPv4InterfaceProperties.Index",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.IPv4InterfaceProperties.IsForwardingEnabled",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.IPv4InterfaceProperties.Mtu",
+          "SourceLink": ""
+        }
+      ],
+      "DocsId": "T:System.Net.NetworkInformation.IPv4InterfaceProperties",
+      "SourceLink": ""
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.Net.NetworkInformation.IPv4InterfaceStatistics.#ctor",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Net.NetworkInformation/src/System/Net/NetworkInformation/Ipv4InterfaceStatistics.cs#L13C9-L13C48"
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.IPv4InterfaceStatistics.BytesReceived",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Net.NetworkInformation/src/System/Net/NetworkInformation/Ipv4InterfaceStatistics.cs"
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.IPv4InterfaceStatistics.BytesSent",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Net.NetworkInformation/src/System/Net/NetworkInformation/Ipv4InterfaceStatistics.cs"
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.IPv4InterfaceStatistics.IncomingPacketsDiscarded",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Net.NetworkInformation/src/System/Net/NetworkInformation/Ipv4InterfaceStatistics.cs"
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.IPv4InterfaceStatistics.IncomingPacketsWithErrors",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Net.NetworkInformation/src/System/Net/NetworkInformation/Ipv4InterfaceStatistics.cs"
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.IPv4InterfaceStatistics.IncomingUnknownProtocolPackets",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Net.NetworkInformation/src/System/Net/NetworkInformation/Ipv4InterfaceStatistics.cs"
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.IPv4InterfaceStatistics.NonUnicastPacketsReceived",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Net.NetworkInformation/src/System/Net/NetworkInformation/Ipv4InterfaceStatistics.cs"
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.IPv4InterfaceStatistics.NonUnicastPacketsSent",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Net.NetworkInformation/src/System/Net/NetworkInformation/Ipv4InterfaceStatistics.cs"
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.IPv4InterfaceStatistics.OutgoingPacketsDiscarded",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Net.NetworkInformation/src/System/Net/NetworkInformation/Ipv4InterfaceStatistics.cs"
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.IPv4InterfaceStatistics.OutgoingPacketsWithErrors",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Net.NetworkInformation/src/System/Net/NetworkInformation/Ipv4InterfaceStatistics.cs"
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.IPv4InterfaceStatistics.OutputQueueLength",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Net.NetworkInformation/src/System/Net/NetworkInformation/Ipv4InterfaceStatistics.cs"
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.IPv4InterfaceStatistics.UnicastPacketsReceived",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Net.NetworkInformation/src/System/Net/NetworkInformation/Ipv4InterfaceStatistics.cs"
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.IPv4InterfaceStatistics.UnicastPacketsSent",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Net.NetworkInformation/src/System/Net/NetworkInformation/Ipv4InterfaceStatistics.cs"
+        }
+      ],
+      "DocsId": "T:System.Net.NetworkInformation.IPv4InterfaceStatistics",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Net.NetworkInformation/src/System/Net/NetworkInformation/Ipv4InterfaceStatistics.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.Net.NetworkInformation.IPv6InterfaceProperties.GetScopeId(System.Net.NetworkInformation.ScopeLevel)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Net.NetworkInformation/src/System/Net/NetworkInformation/IPv6InterfaceProperties.cs#L34C13-L34C92"
+        },
+        {
+          "DocsId": "M:System.Net.NetworkInformation.IPv6InterfaceProperties.#ctor",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Net.NetworkInformation/src/System/Net/NetworkInformation/IPv6InterfaceProperties.cs"
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.IPv6InterfaceProperties.Index",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Net.NetworkInformation/src/System/Net/NetworkInformation/IPv6InterfaceProperties.cs"
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.IPv6InterfaceProperties.Mtu",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Net.NetworkInformation/src/System/Net/NetworkInformation/IPv6InterfaceProperties.cs"
+        }
+      ],
+      "DocsId": "T:System.Net.NetworkInformation.IPv6InterfaceProperties",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Net.NetworkInformation/src/System/Net/NetworkInformation/IPv6InterfaceProperties.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.Net.NetworkInformation.MulticastIPAddressInformation.#ctor",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.MulticastIPAddressInformation.AddressPreferredLifetime",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.MulticastIPAddressInformation.AddressValidLifetime",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.MulticastIPAddressInformation.DhcpLeaseLifetime",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.MulticastIPAddressInformation.DuplicateAddressDetectionState",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.MulticastIPAddressInformation.PrefixOrigin",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.MulticastIPAddressInformation.SuffixOrigin",
+          "SourceLink": ""
+        }
+      ],
+      "DocsId": "T:System.Net.NetworkInformation.MulticastIPAddressInformation",
+      "SourceLink": ""
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.Net.NetworkInformation.MulticastIPAddressInformationCollection.#ctor",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Net.NetworkInformation/src/System/Net/NetworkInformation/MulticastIPAddressInformationCollection.cs#L10C9-L14C10"
+        },
+        {
+          "DocsId": "M:System.Net.NetworkInformation.MulticastIPAddressInformationCollection.CopyTo(System.Net.NetworkInformation.MulticastIPAddressInformation[],System.Int32)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Net.NetworkInformation/src/System/Net/NetworkInformation/MulticastIPAddressInformationCollection.cs#L18C13-L19C10"
+        },
+        {
+          "DocsId": "M:System.Net.NetworkInformation.MulticastIPAddressInformationCollection.Add(System.Net.NetworkInformation.MulticastIPAddressInformation)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Net.NetworkInformation/src/System/Net/NetworkInformation/MulticastIPAddressInformationCollection.cs#L39C13-L39C73"
+        },
+        {
+          "DocsId": "M:System.Net.NetworkInformation.MulticastIPAddressInformationCollection.Contains(System.Net.NetworkInformation.MulticastIPAddressInformation)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Net.NetworkInformation/src/System/Net/NetworkInformation/MulticastIPAddressInformationCollection.cs#L49C13-L49C49"
+        },
+        {
+          "DocsId": "M:System.Net.NetworkInformation.MulticastIPAddressInformationCollection.GetEnumerator",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Net.NetworkInformation/src/System/Net/NetworkInformation/MulticastIPAddressInformationCollection.cs#L59C13-L59C47"
+        },
+        {
+          "DocsId": "M:System.Net.NetworkInformation.MulticastIPAddressInformationCollection.Remove(System.Net.NetworkInformation.MulticastIPAddressInformation)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Net.NetworkInformation/src/System/Net/NetworkInformation/MulticastIPAddressInformationCollection.cs#L72C13-L72C73"
+        },
+        {
+          "DocsId": "M:System.Net.NetworkInformation.MulticastIPAddressInformationCollection.Clear",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Net.NetworkInformation/src/System/Net/NetworkInformation/MulticastIPAddressInformationCollection.cs#L77C13-L77C73"
+        },
+        {
+          "DocsId": "F:System.Net.NetworkInformation.MulticastIPAddressInformationCollection._addresses",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Net.NetworkInformation/src/System/Net/NetworkInformation/MulticastIPAddressInformationCollection.cs"
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.MulticastIPAddressInformationCollection.Count",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Net.NetworkInformation/src/System/Net/NetworkInformation/MulticastIPAddressInformationCollection.cs#L25C17-L25C41"
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.MulticastIPAddressInformationCollection.IsReadOnly",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Net.NetworkInformation/src/System/Net/NetworkInformation/MulticastIPAddressInformationCollection.cs#L33C17-L33C29"
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.MulticastIPAddressInformationCollection.Item(System.Int32)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Net.NetworkInformation/src/System/Net/NetworkInformation/MulticastIPAddressInformationCollection.cs#L66C17-L66C42"
+        }
+      ],
+      "DocsId": "T:System.Net.NetworkInformation.MulticastIPAddressInformationCollection",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Net.NetworkInformation/src/System/Net/NetworkInformation/MulticastIPAddressInformationCollection.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "F:System.Net.NetworkInformation.NetBiosNodeType.value__",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Net.NetworkInformation.NetBiosNodeType.Unknown",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Net.NetworkInformation.NetBiosNodeType.Broadcast",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Net.NetworkInformation.NetBiosNodeType.Peer2Peer",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Net.NetworkInformation.NetBiosNodeType.Mixed",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Net.NetworkInformation.NetBiosNodeType.Hybrid",
+          "SourceLink": ""
+        }
+      ],
+      "DocsId": "T:System.Net.NetworkInformation.NetBiosNodeType",
+      "SourceLink": ""
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.Net.NetworkInformation.NetworkChange.#ctor",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Net.NetworkInformation/src/System/Net/NetworkInformation/NetworkAddressChange.cs#L28C9-L30C10"
+        },
+        {
+          "DocsId": "M:System.Net.NetworkInformation.NetworkChange.RegisterNetworkChange(System.Net.NetworkInformation.NetworkChange)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Net.NetworkInformation/src/System/Net/NetworkInformation/NetworkAddressChange.cs#L35C70-L35C71"
+        },
+        {
+          "DocsId": "E:System.Net.NetworkInformation.NetworkChange.NetworkAvailabilityChanged",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Net.NetworkInformation/src/System/Net/NetworkInformation/NetworkAddressChange.Windows.cs#L22C17-L23C14"
+        },
+        {
+          "DocsId": "E:System.Net.NetworkInformation.NetworkChange.NetworkAddressChanged",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Net.NetworkInformation/src/System/Net/NetworkInformation/NetworkAddressChange.Windows.cs#L36C17-L37C14"
+        },
+        {
+          "DocsId": "F:System.Net.NetworkInformation.NetworkChange.s_addressChangedSubscribers",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Net.NetworkInformation/src/System/Net/NetworkInformation/NetworkAddressChange.cs"
+        },
+        {
+          "DocsId": "F:System.Net.NetworkInformation.NetworkChange.s_availabilityChangedSubscribers",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Net.NetworkInformation/src/System/Net/NetworkInformation/NetworkAddressChange.cs"
+        },
+        {
+          "DocsId": "F:System.Net.NetworkInformation.NetworkChange.s_availableEventArgs",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Net.NetworkInformation/src/System/Net/NetworkInformation/NetworkAddressChange.cs"
+        },
+        {
+          "DocsId": "F:System.Net.NetworkInformation.NetworkChange.s_notAvailableEventArgs",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Net.NetworkInformation/src/System/Net/NetworkInformation/NetworkAddressChange.cs"
+        },
+        {
+          "DocsId": "F:System.Net.NetworkInformation.NetworkChange.s_runHandlerAvailable",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Net.NetworkInformation/src/System/Net/NetworkInformation/NetworkAddressChange.cs"
+        },
+        {
+          "DocsId": "F:System.Net.NetworkInformation.NetworkChange.s_runHandlerNotAvailable",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Net.NetworkInformation/src/System/Net/NetworkInformation/NetworkAddressChange.cs"
+        },
+        {
+          "DocsId": "F:System.Net.NetworkInformation.NetworkChange.s_runAddressChangedHandler",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Net.NetworkInformation/src/System/Net/NetworkInformation/NetworkAddressChange.cs"
+        },
+        {
+          "DocsId": "F:System.Net.NetworkInformation.NetworkChange.s_globalLock",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Net.NetworkInformation/src/System/Net/NetworkInformation/NetworkAddressChange.cs"
+        },
+        {
+          "DocsId": "T:System.Net.NetworkInformation.NetworkChange.AvailabilityChangeListener",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Net.NetworkInformation/src/System/Net/NetworkInformation/NetworkAddressChange.Windows.cs"
+        },
+        {
+          "DocsId": "T:System.Net.NetworkInformation.NetworkChange.AddressChangeListener",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Net.NetworkInformation/src/System/Net/NetworkInformation/NetworkAddressChange.Windows.cs"
+        }
+      ],
+      "DocsId": "T:System.Net.NetworkInformation.NetworkChange",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Net.NetworkInformation/src/System/Net/NetworkInformation/NetworkAddressChange.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "F:System.Net.NetworkInformation.NetworkAvailabilityEventArgs._isAvailable",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Net.NetworkInformation/src/System/Net/NetworkInformation/NetworkAvailabilityEventArgs.cs"
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.NetworkAvailabilityEventArgs.IsAvailable",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Net.NetworkInformation/src/System/Net/NetworkInformation/NetworkAvailabilityEventArgs.cs#L19C17-L19C37"
+        }
+      ],
+      "DocsId": "T:System.Net.NetworkInformation.NetworkAvailabilityEventArgs",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Net.NetworkInformation/src/System/Net/NetworkInformation/NetworkAvailabilityEventArgs.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.Net.NetworkInformation.NetworkAddressChangedEventHandler.#ctor(System.Object,System.IntPtr)",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "M:System.Net.NetworkInformation.NetworkAddressChangedEventHandler.Invoke(System.Object,System.EventArgs)",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "M:System.Net.NetworkInformation.NetworkAddressChangedEventHandler.BeginInvoke(System.Object,System.EventArgs,System.AsyncCallback,System.Object)",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "M:System.Net.NetworkInformation.NetworkAddressChangedEventHandler.EndInvoke(System.IAsyncResult)",
+          "SourceLink": ""
+        }
+      ],
+      "DocsId": "T:System.Net.NetworkInformation.NetworkAddressChangedEventHandler",
+      "SourceLink": ""
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.Net.NetworkInformation.NetworkAvailabilityChangedEventHandler.#ctor(System.Object,System.IntPtr)",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "M:System.Net.NetworkInformation.NetworkAvailabilityChangedEventHandler.Invoke(System.Object,System.Net.NetworkInformation.NetworkAvailabilityEventArgs)",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "M:System.Net.NetworkInformation.NetworkAvailabilityChangedEventHandler.BeginInvoke(System.Object,System.Net.NetworkInformation.NetworkAvailabilityEventArgs,System.AsyncCallback,System.Object)",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "M:System.Net.NetworkInformation.NetworkAvailabilityChangedEventHandler.EndInvoke(System.IAsyncResult)",
+          "SourceLink": ""
+        }
+      ],
+      "DocsId": "T:System.Net.NetworkInformation.NetworkAvailabilityChangedEventHandler",
+      "SourceLink": ""
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.Net.NetworkInformation.NetworkInterface.GetAllNetworkInterfaces",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Net.NetworkInformation/src/System/Net/NetworkInformation/NetworkInterface.cs#L18C13-L18C66"
+        },
+        {
+          "DocsId": "M:System.Net.NetworkInformation.NetworkInterface.GetIsNetworkAvailable",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Net.NetworkInformation/src/System/Net/NetworkInformation/NetworkInterface.cs#L25C13-L25C64"
+        },
+        {
+          "DocsId": "M:System.Net.NetworkInformation.NetworkInterface.GetIPProperties",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Net.NetworkInformation/src/System/Net/NetworkInformation/NetworkInterface.cs#L66C13-L66C92"
+        },
+        {
+          "DocsId": "M:System.Net.NetworkInformation.NetworkInterface.GetIPStatistics",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Net.NetworkInformation/src/System/Net/NetworkInformation/NetworkInterface.cs#L76C13-L76C92"
+        },
+        {
+          "DocsId": "M:System.Net.NetworkInformation.NetworkInterface.GetIPv4Statistics",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Net.NetworkInformation/src/System/Net/NetworkInformation/NetworkInterface.cs#L88C13-L88C92"
+        },
+        {
+          "DocsId": "M:System.Net.NetworkInformation.NetworkInterface.GetPhysicalAddress",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Net.NetworkInformation/src/System/Net/NetworkInformation/NetworkInterface.cs#L117C13-L117C92"
+        },
+        {
+          "DocsId": "M:System.Net.NetworkInformation.NetworkInterface.Supports(System.Net.NetworkInformation.NetworkInterfaceComponent)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Net.NetworkInformation/src/System/Net/NetworkInformation/NetworkInterface.cs#L127C13-L127C92"
+        },
+        {
+          "DocsId": "M:System.Net.NetworkInformation.NetworkInterface.#ctor",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Net.NetworkInformation/src/System/Net/NetworkInformation/NetworkInterface.cs"
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.NetworkInterface.IPv6LoopbackInterfaceIndex",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Net.NetworkInformation/src/System/Net/NetworkInformation/NetworkInterface.cs#L34C17-L34C71"
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.NetworkInterface.LoopbackInterfaceIndex",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Net.NetworkInformation/src/System/Net/NetworkInformation/NetworkInterface.cs#L44C17-L44C67"
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.NetworkInterface.Id",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Net.NetworkInformation/src/System/Net/NetworkInformation/NetworkInterface.cs#L48C42-L48C123"
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.NetworkInterface.Name",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Net.NetworkInformation/src/System/Net/NetworkInformation/NetworkInterface.cs#L53C44-L53C125"
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.NetworkInterface.Description",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Net.NetworkInformation/src/System/Net/NetworkInformation/NetworkInterface.cs#L58C51-L58C132"
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.NetworkInterface.OperationalStatus",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Net.NetworkInformation/src/System/Net/NetworkInformation/NetworkInterface.cs#L94C68-L94C149"
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.NetworkInterface.Speed",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Net.NetworkInformation/src/System/Net/NetworkInformation/NetworkInterface.cs#L99C43-L99C124"
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.NetworkInterface.IsReceiveOnly",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Net.NetworkInformation/src/System/Net/NetworkInformation/NetworkInterface.cs#L104C51-L104C132"
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.NetworkInterface.SupportsMulticast",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Net.NetworkInformation/src/System/Net/NetworkInformation/NetworkInterface.cs#L109C55-L109C136"
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.NetworkInterface.NetworkInterfaceType",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Net.NetworkInformation/src/System/Net/NetworkInformation/NetworkInterface.cs#L123C74-L123C155"
+        }
+      ],
+      "DocsId": "T:System.Net.NetworkInformation.NetworkInterface",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Net.NetworkInformation/src/System/Net/NetworkInformation/NetworkInterface.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "F:System.Net.NetworkInformation.NetworkInterfaceComponent.value__",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Net.NetworkInformation.NetworkInterfaceComponent.IPv4",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Net.NetworkInformation.NetworkInterfaceComponent.IPv6",
+          "SourceLink": ""
+        }
+      ],
+      "DocsId": "T:System.Net.NetworkInformation.NetworkInterfaceComponent",
+      "SourceLink": ""
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "F:System.Net.NetworkInformation.NetworkInterfaceType.value__",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Net.NetworkInformation.NetworkInterfaceType.Unknown",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Net.NetworkInformation.NetworkInterfaceType.Ethernet",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Net.NetworkInformation.NetworkInterfaceType.TokenRing",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Net.NetworkInformation.NetworkInterfaceType.Fddi",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Net.NetworkInformation.NetworkInterfaceType.BasicIsdn",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Net.NetworkInformation.NetworkInterfaceType.PrimaryIsdn",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Net.NetworkInformation.NetworkInterfaceType.Ppp",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Net.NetworkInformation.NetworkInterfaceType.Loopback",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Net.NetworkInformation.NetworkInterfaceType.Ethernet3Megabit",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Net.NetworkInformation.NetworkInterfaceType.Slip",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Net.NetworkInformation.NetworkInterfaceType.Atm",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Net.NetworkInformation.NetworkInterfaceType.GenericModem",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Net.NetworkInformation.NetworkInterfaceType.FastEthernetT",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Net.NetworkInformation.NetworkInterfaceType.Isdn",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Net.NetworkInformation.NetworkInterfaceType.FastEthernetFx",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Net.NetworkInformation.NetworkInterfaceType.Wireless80211",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Net.NetworkInformation.NetworkInterfaceType.AsymmetricDsl",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Net.NetworkInformation.NetworkInterfaceType.RateAdaptDsl",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Net.NetworkInformation.NetworkInterfaceType.SymmetricDsl",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Net.NetworkInformation.NetworkInterfaceType.VeryHighSpeedDsl",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Net.NetworkInformation.NetworkInterfaceType.IPOverAtm",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Net.NetworkInformation.NetworkInterfaceType.GigabitEthernet",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Net.NetworkInformation.NetworkInterfaceType.Tunnel",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Net.NetworkInformation.NetworkInterfaceType.MultiRateSymmetricDsl",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Net.NetworkInformation.NetworkInterfaceType.HighPerformanceSerialBus",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Net.NetworkInformation.NetworkInterfaceType.Wman",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Net.NetworkInformation.NetworkInterfaceType.Wwanpp",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Net.NetworkInformation.NetworkInterfaceType.Wwanpp2",
+          "SourceLink": ""
+        }
+      ],
+      "DocsId": "T:System.Net.NetworkInformation.NetworkInterfaceType",
+      "SourceLink": ""
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "F:System.Net.NetworkInformation.OperationalStatus.value__",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Net.NetworkInformation.OperationalStatus.Up",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Net.NetworkInformation.OperationalStatus.Down",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Net.NetworkInformation.OperationalStatus.Testing",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Net.NetworkInformation.OperationalStatus.Unknown",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Net.NetworkInformation.OperationalStatus.Dormant",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Net.NetworkInformation.OperationalStatus.NotPresent",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Net.NetworkInformation.OperationalStatus.LowerLayerDown",
+          "SourceLink": ""
+        }
+      ],
+      "DocsId": "T:System.Net.NetworkInformation.OperationalStatus",
+      "SourceLink": ""
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.Net.NetworkInformation.PhysicalAddress.#ctor(System.Byte[])",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Net.NetworkInformation/src/System/Net/NetworkInformation/PhysicalAddress.cs#L16C9-L19C10"
+        },
+        {
+          "DocsId": "M:System.Net.NetworkInformation.PhysicalAddress.GetHashCode",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Net.NetworkInformation/src/System/Net/NetworkInformation/PhysicalAddress.cs#L23C13-L57C26"
+        },
+        {
+          "DocsId": "M:System.Net.NetworkInformation.PhysicalAddress.Equals(System.Object)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Net.NetworkInformation/src/System/Net/NetworkInformation/PhysicalAddress.cs#L61C13-L64C60"
+        },
+        {
+          "DocsId": "M:System.Net.NetworkInformation.PhysicalAddress.ToString",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Net.NetworkInformation/src/System/Net/NetworkInformation/PhysicalAddress.cs#L68C13-L68C59"
+        },
+        {
+          "DocsId": "M:System.Net.NetworkInformation.PhysicalAddress.GetAddressBytes",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Net.NetworkInformation/src/System/Net/NetworkInformation/PhysicalAddress.cs#L73C13-L73C45"
+        },
+        {
+          "DocsId": "M:System.Net.NetworkInformation.PhysicalAddress.Parse(System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Net.NetworkInformation/src/System/Net/NetworkInformation/PhysicalAddress.cs#L76C65-L76C113"
+        },
+        {
+          "DocsId": "M:System.Net.NetworkInformation.PhysicalAddress.Parse(System.ReadOnlySpan{System.Char})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Net.NetworkInformation/src/System/Net/NetworkInformation/PhysicalAddress.cs#L80C13-L83C26"
+        },
+        {
+          "DocsId": "M:System.Net.NetworkInformation.PhysicalAddress.TryParse(System.String,System.Net.NetworkInformation.PhysicalAddress@)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Net.NetworkInformation/src/System/Net/NetworkInformation/PhysicalAddress.cs#L88C13-L94C58"
+        },
+        {
+          "DocsId": "M:System.Net.NetworkInformation.PhysicalAddress.TryParse(System.ReadOnlySpan{System.Char},System.Net.NetworkInformation.PhysicalAddress@)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Net.NetworkInformation/src/System/Net/NetworkInformation/PhysicalAddress.cs#L100C13-L200C25"
+        },
+        {
+          "DocsId": "F:System.Net.NetworkInformation.PhysicalAddress._address",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Net.NetworkInformation/src/System/Net/NetworkInformation/PhysicalAddress.cs"
+        },
+        {
+          "DocsId": "F:System.Net.NetworkInformation.PhysicalAddress._hash",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Net.NetworkInformation/src/System/Net/NetworkInformation/PhysicalAddress.cs"
+        },
+        {
+          "DocsId": "F:System.Net.NetworkInformation.PhysicalAddress.None",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Net.NetworkInformation/src/System/Net/NetworkInformation/PhysicalAddress.cs"
+        }
+      ],
+      "DocsId": "T:System.Net.NetworkInformation.PhysicalAddress",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Net.NetworkInformation/src/System/Net/NetworkInformation/PhysicalAddress.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "F:System.Net.NetworkInformation.PrefixOrigin.value__",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Net.NetworkInformation.PrefixOrigin.Other",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Net.NetworkInformation.PrefixOrigin.Manual",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Net.NetworkInformation.PrefixOrigin.WellKnown",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Net.NetworkInformation.PrefixOrigin.Dhcp",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Net.NetworkInformation.PrefixOrigin.RouterAdvertisement",
+          "SourceLink": ""
+        }
+      ],
+      "DocsId": "T:System.Net.NetworkInformation.PrefixOrigin",
+      "SourceLink": ""
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "F:System.Net.NetworkInformation.ScopeLevel.value__",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Net.NetworkInformation.ScopeLevel.None",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Net.NetworkInformation.ScopeLevel.Interface",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Net.NetworkInformation.ScopeLevel.Link",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Net.NetworkInformation.ScopeLevel.Subnet",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Net.NetworkInformation.ScopeLevel.Admin",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Net.NetworkInformation.ScopeLevel.Site",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Net.NetworkInformation.ScopeLevel.Organization",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Net.NetworkInformation.ScopeLevel.Global",
+          "SourceLink": ""
+        }
+      ],
+      "DocsId": "T:System.Net.NetworkInformation.ScopeLevel",
+      "SourceLink": ""
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "F:System.Net.NetworkInformation.SuffixOrigin.value__",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Net.NetworkInformation.SuffixOrigin.Other",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Net.NetworkInformation.SuffixOrigin.Manual",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Net.NetworkInformation.SuffixOrigin.WellKnown",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Net.NetworkInformation.SuffixOrigin.OriginDhcp",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Net.NetworkInformation.SuffixOrigin.LinkLayerAddress",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Net.NetworkInformation.SuffixOrigin.Random",
+          "SourceLink": ""
+        }
+      ],
+      "DocsId": "T:System.Net.NetworkInformation.SuffixOrigin",
+      "SourceLink": ""
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.Net.NetworkInformation.TcpConnectionInformation.#ctor",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.TcpConnectionInformation.LocalEndPoint",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.TcpConnectionInformation.RemoteEndPoint",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.TcpConnectionInformation.State",
+          "SourceLink": ""
+        }
+      ],
+      "DocsId": "T:System.Net.NetworkInformation.TcpConnectionInformation",
+      "SourceLink": ""
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "F:System.Net.NetworkInformation.TcpState.value__",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Net.NetworkInformation.TcpState.Unknown",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Net.NetworkInformation.TcpState.Closed",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Net.NetworkInformation.TcpState.Listen",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Net.NetworkInformation.TcpState.SynSent",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Net.NetworkInformation.TcpState.SynReceived",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Net.NetworkInformation.TcpState.Established",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Net.NetworkInformation.TcpState.FinWait1",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Net.NetworkInformation.TcpState.FinWait2",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Net.NetworkInformation.TcpState.CloseWait",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Net.NetworkInformation.TcpState.Closing",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Net.NetworkInformation.TcpState.LastAck",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Net.NetworkInformation.TcpState.TimeWait",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Net.NetworkInformation.TcpState.DeleteTcb",
+          "SourceLink": ""
+        }
+      ],
+      "DocsId": "T:System.Net.NetworkInformation.TcpState",
+      "SourceLink": ""
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.Net.NetworkInformation.TcpStatistics.#ctor",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.TcpStatistics.ConnectionsAccepted",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.TcpStatistics.ConnectionsInitiated",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.TcpStatistics.CumulativeConnections",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.TcpStatistics.CurrentConnections",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.TcpStatistics.ErrorsReceived",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.TcpStatistics.FailedConnectionAttempts",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.TcpStatistics.MaximumConnections",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.TcpStatistics.MaximumTransmissionTimeout",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.TcpStatistics.MinimumTransmissionTimeout",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.TcpStatistics.ResetConnections",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.TcpStatistics.SegmentsReceived",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.TcpStatistics.SegmentsResent",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.TcpStatistics.SegmentsSent",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.TcpStatistics.ResetsSent",
+          "SourceLink": ""
+        }
+      ],
+      "DocsId": "T:System.Net.NetworkInformation.TcpStatistics",
+      "SourceLink": ""
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.Net.NetworkInformation.UdpStatistics.#ctor",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.UdpStatistics.DatagramsReceived",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.UdpStatistics.DatagramsSent",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.UdpStatistics.IncomingDatagramsDiscarded",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.UdpStatistics.IncomingDatagramsWithErrors",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.UdpStatistics.UdpListeners",
+          "SourceLink": ""
+        }
+      ],
+      "DocsId": "T:System.Net.NetworkInformation.UdpStatistics",
+      "SourceLink": ""
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.Net.NetworkInformation.UnicastIPAddressInformation.#ctor",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Net.NetworkInformation/src/System/Net/NetworkInformation/UnicastIPAddressInformation.cs"
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.UnicastIPAddressInformation.AddressPreferredLifetime",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Net.NetworkInformation/src/System/Net/NetworkInformation/UnicastIPAddressInformation.cs"
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.UnicastIPAddressInformation.AddressValidLifetime",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Net.NetworkInformation/src/System/Net/NetworkInformation/UnicastIPAddressInformation.cs"
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.UnicastIPAddressInformation.DhcpLeaseLifetime",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Net.NetworkInformation/src/System/Net/NetworkInformation/UnicastIPAddressInformation.cs"
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.UnicastIPAddressInformation.DuplicateAddressDetectionState",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Net.NetworkInformation/src/System/Net/NetworkInformation/UnicastIPAddressInformation.cs"
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.UnicastIPAddressInformation.PrefixOrigin",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Net.NetworkInformation/src/System/Net/NetworkInformation/UnicastIPAddressInformation.cs"
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.UnicastIPAddressInformation.SuffixOrigin",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Net.NetworkInformation/src/System/Net/NetworkInformation/UnicastIPAddressInformation.cs"
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.UnicastIPAddressInformation.IPv4Mask",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Net.NetworkInformation/src/System/Net/NetworkInformation/UnicastIPAddressInformation.cs"
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.UnicastIPAddressInformation.PrefixLength",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Net.NetworkInformation/src/System/Net/NetworkInformation/UnicastIPAddressInformation.cs#L60C17-L60C98"
+        }
+      ],
+      "DocsId": "T:System.Net.NetworkInformation.UnicastIPAddressInformation",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Net.NetworkInformation/src/System/Net/NetworkInformation/UnicastIPAddressInformation.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.Net.NetworkInformation.UnicastIPAddressInformationCollection.#ctor",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Net.NetworkInformation/src/System/Net/NetworkInformation/UnicastIPAddressInformationCollection.cs#L10C9-L15C10"
+        },
+        {
+          "DocsId": "M:System.Net.NetworkInformation.UnicastIPAddressInformationCollection.CopyTo(System.Net.NetworkInformation.UnicastIPAddressInformation[],System.Int32)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Net.NetworkInformation/src/System/Net/NetworkInformation/UnicastIPAddressInformationCollection.cs#L19C13-L20C10"
+        },
+        {
+          "DocsId": "M:System.Net.NetworkInformation.UnicastIPAddressInformationCollection.Add(System.Net.NetworkInformation.UnicastIPAddressInformation)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Net.NetworkInformation/src/System/Net/NetworkInformation/UnicastIPAddressInformationCollection.cs#L40C13-L40C73"
+        },
+        {
+          "DocsId": "M:System.Net.NetworkInformation.UnicastIPAddressInformationCollection.Contains(System.Net.NetworkInformation.UnicastIPAddressInformation)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Net.NetworkInformation/src/System/Net/NetworkInformation/UnicastIPAddressInformationCollection.cs#L50C13-L50C49"
+        },
+        {
+          "DocsId": "M:System.Net.NetworkInformation.UnicastIPAddressInformationCollection.GetEnumerator",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Net.NetworkInformation/src/System/Net/NetworkInformation/UnicastIPAddressInformationCollection.cs#L60C13-L60C47"
+        },
+        {
+          "DocsId": "M:System.Net.NetworkInformation.UnicastIPAddressInformationCollection.Remove(System.Net.NetworkInformation.UnicastIPAddressInformation)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Net.NetworkInformation/src/System/Net/NetworkInformation/UnicastIPAddressInformationCollection.cs#L73C13-L73C73"
+        },
+        {
+          "DocsId": "M:System.Net.NetworkInformation.UnicastIPAddressInformationCollection.Clear",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Net.NetworkInformation/src/System/Net/NetworkInformation/UnicastIPAddressInformationCollection.cs#L78C13-L78C73"
+        },
+        {
+          "DocsId": "F:System.Net.NetworkInformation.UnicastIPAddressInformationCollection._addresses",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Net.NetworkInformation/src/System/Net/NetworkInformation/UnicastIPAddressInformationCollection.cs"
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.UnicastIPAddressInformationCollection.Count",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Net.NetworkInformation/src/System/Net/NetworkInformation/UnicastIPAddressInformationCollection.cs#L26C17-L26C41"
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.UnicastIPAddressInformationCollection.IsReadOnly",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Net.NetworkInformation/src/System/Net/NetworkInformation/UnicastIPAddressInformationCollection.cs#L34C17-L34C29"
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.UnicastIPAddressInformationCollection.Item(System.Int32)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Net.NetworkInformation/src/System/Net/NetworkInformation/UnicastIPAddressInformationCollection.cs#L67C17-L67C42"
+        }
+      ],
+      "DocsId": "T:System.Net.NetworkInformation.UnicastIPAddressInformationCollection",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/System.Net.NetworkInformation/src/System/Net/NetworkInformation/UnicastIPAddressInformationCollection.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.Net.NetworkInformation.NetworkInformationException.#ctor",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/Common/src/System/Net/NetworkInformation/NetworkInformationException.cs#L25C48-L27C10"
+        },
+        {
+          "DocsId": "M:System.Net.NetworkInformation.NetworkInformationException.#ctor(System.Int32)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/Common/src/System/Net/NetworkInformation/NetworkInformationException.cs#L34C61-L36C10"
+        },
+        {
+          "DocsId": "M:System.Net.NetworkInformation.NetworkInformationException.#ctor(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/Common/src/System/Net/NetworkInformation/NetworkInformationException.cs#L42C121-L44C10"
+        },
+        {
+          "DocsId": "P:System.Net.NetworkInformation.NetworkInformationException.ErrorCode",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/Common/src/System/Net/NetworkInformation/NetworkInformationException.cs#L67C17-L67C40"
+        }
+      ],
+      "DocsId": "T:System.Net.NetworkInformation.NetworkInformationException",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/src/libraries/Common/src/System/Net/NetworkInformation/NetworkInformationException.cs"
+    }
+  ]
+}

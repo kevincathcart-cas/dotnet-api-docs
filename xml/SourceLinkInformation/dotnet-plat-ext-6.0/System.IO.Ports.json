@@ -1,0 +1,480 @@
+{
+  "Assembly": "System.IO.Ports",
+  "GUID": "D9C828B104C7470E901B1C51C5878BF4FFFFFFFF",
+  "Types": [
+    {
+      "Members": [
+        {
+          "DocsId": "F:System.IO.Ports.Handshake.value__",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.IO.Ports.Handshake.None",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.IO.Ports.Handshake.XOnXOff",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.IO.Ports.Handshake.RequestToSend",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.IO.Ports.Handshake.RequestToSendXOnXOff",
+          "SourceLink": ""
+        }
+      ],
+      "DocsId": "T:System.IO.Ports.Handshake",
+      "SourceLink": ""
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "F:System.IO.Ports.Parity.value__",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.IO.Ports.Parity.None",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.IO.Ports.Parity.Odd",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.IO.Ports.Parity.Even",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.IO.Ports.Parity.Mark",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.IO.Ports.Parity.Space",
+          "SourceLink": ""
+        }
+      ],
+      "DocsId": "T:System.IO.Ports.Parity",
+      "SourceLink": ""
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "F:System.IO.Ports.SerialData.value__",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.IO.Ports.SerialData.Chars",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.IO.Ports.SerialData.Eof",
+          "SourceLink": ""
+        }
+      ],
+      "DocsId": "T:System.IO.Ports.SerialData",
+      "SourceLink": ""
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "P:System.IO.Ports.SerialDataReceivedEventArgs.EventType",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.IO.Ports/net6.0-Release/System.IO.Ports.notsupported.cs#L32C61-L32C148"
+        }
+      ],
+      "DocsId": "T:System.IO.Ports.SerialDataReceivedEventArgs",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.IO.Ports/net6.0-Release/System.IO.Ports.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.IO.Ports.SerialDataReceivedEventHandler.#ctor(System.Object,System.IntPtr)",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "M:System.IO.Ports.SerialDataReceivedEventHandler.Invoke(System.Object,System.IO.Ports.SerialDataReceivedEventArgs)",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "M:System.IO.Ports.SerialDataReceivedEventHandler.BeginInvoke(System.Object,System.IO.Ports.SerialDataReceivedEventArgs,System.AsyncCallback,System.Object)",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "M:System.IO.Ports.SerialDataReceivedEventHandler.EndInvoke(System.IAsyncResult)",
+          "SourceLink": ""
+        }
+      ],
+      "DocsId": "T:System.IO.Ports.SerialDataReceivedEventHandler",
+      "SourceLink": ""
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "F:System.IO.Ports.SerialError.value__",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.IO.Ports.SerialError.RXOver",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.IO.Ports.SerialError.Overrun",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.IO.Ports.SerialError.RXParity",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.IO.Ports.SerialError.Frame",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.IO.Ports.SerialError.TXFull",
+          "SourceLink": ""
+        }
+      ],
+      "DocsId": "T:System.IO.Ports.SerialError",
+      "SourceLink": ""
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "P:System.IO.Ports.SerialErrorReceivedEventArgs.EventType",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.IO.Ports/net6.0-Release/System.IO.Ports.notsupported.cs#L46C62-L46C149"
+        }
+      ],
+      "DocsId": "T:System.IO.Ports.SerialErrorReceivedEventArgs",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.IO.Ports/net6.0-Release/System.IO.Ports.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.IO.Ports.SerialErrorReceivedEventHandler.#ctor(System.Object,System.IntPtr)",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "M:System.IO.Ports.SerialErrorReceivedEventHandler.Invoke(System.Object,System.IO.Ports.SerialErrorReceivedEventArgs)",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "M:System.IO.Ports.SerialErrorReceivedEventHandler.BeginInvoke(System.Object,System.IO.Ports.SerialErrorReceivedEventArgs,System.AsyncCallback,System.Object)",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "M:System.IO.Ports.SerialErrorReceivedEventHandler.EndInvoke(System.IAsyncResult)",
+          "SourceLink": ""
+        }
+      ],
+      "DocsId": "T:System.IO.Ports.SerialErrorReceivedEventHandler",
+      "SourceLink": ""
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "F:System.IO.Ports.SerialPinChange.value__",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.IO.Ports.SerialPinChange.CtsChanged",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.IO.Ports.SerialPinChange.DsrChanged",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.IO.Ports.SerialPinChange.CDChanged",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.IO.Ports.SerialPinChange.Break",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.IO.Ports.SerialPinChange.Ring",
+          "SourceLink": ""
+        }
+      ],
+      "DocsId": "T:System.IO.Ports.SerialPinChange",
+      "SourceLink": ""
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "P:System.IO.Ports.SerialPinChangedEventArgs.EventType",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.IO.Ports/net6.0-Release/System.IO.Ports.notsupported.cs#L60C66-L60C153"
+        }
+      ],
+      "DocsId": "T:System.IO.Ports.SerialPinChangedEventArgs",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.IO.Ports/net6.0-Release/System.IO.Ports.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.IO.Ports.SerialPinChangedEventHandler.#ctor(System.Object,System.IntPtr)",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "M:System.IO.Ports.SerialPinChangedEventHandler.Invoke(System.Object,System.IO.Ports.SerialPinChangedEventArgs)",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "M:System.IO.Ports.SerialPinChangedEventHandler.BeginInvoke(System.Object,System.IO.Ports.SerialPinChangedEventArgs,System.AsyncCallback,System.Object)",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "M:System.IO.Ports.SerialPinChangedEventHandler.EndInvoke(System.IAsyncResult)",
+          "SourceLink": ""
+        }
+      ],
+      "DocsId": "T:System.IO.Ports.SerialPinChangedEventHandler",
+      "SourceLink": ""
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.IO.Ports.SerialPort.#ctor",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.IO.Ports/net6.0-Release/System.IO.Ports.notsupported.cs#L66C9-L66C118"
+        },
+        {
+          "DocsId": "M:System.IO.Ports.SerialPort.#ctor(System.ComponentModel.IContainer)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.IO.Ports/net6.0-Release/System.IO.Ports.notsupported.cs#L67C9-L67C160"
+        },
+        {
+          "DocsId": "M:System.IO.Ports.SerialPort.#ctor(System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.IO.Ports/net6.0-Release/System.IO.Ports.notsupported.cs#L68C9-L68C133"
+        },
+        {
+          "DocsId": "M:System.IO.Ports.SerialPort.#ctor(System.String,System.Int32)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.IO.Ports/net6.0-Release/System.IO.Ports.notsupported.cs#L69C9-L69C147"
+        },
+        {
+          "DocsId": "M:System.IO.Ports.SerialPort.#ctor(System.String,System.Int32,System.IO.Ports.Parity)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.IO.Ports/net6.0-Release/System.IO.Ports.notsupported.cs#L70C9-L70C178"
+        },
+        {
+          "DocsId": "M:System.IO.Ports.SerialPort.#ctor(System.String,System.Int32,System.IO.Ports.Parity,System.Int32)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.IO.Ports/net6.0-Release/System.IO.Ports.notsupported.cs#L71C9-L71C192"
+        },
+        {
+          "DocsId": "M:System.IO.Ports.SerialPort.#ctor(System.String,System.Int32,System.IO.Ports.Parity,System.Int32,System.IO.Ports.StopBits)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.IO.Ports/net6.0-Release/System.IO.Ports.notsupported.cs#L72C9-L72C227"
+        },
+        {
+          "DocsId": "M:System.IO.Ports.SerialPort.Close",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.IO.Ports/net6.0-Release/System.IO.Ports.notsupported.cs#L101C31-L101C118"
+        },
+        {
+          "DocsId": "M:System.IO.Ports.SerialPort.DiscardInBuffer",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.IO.Ports/net6.0-Release/System.IO.Ports.notsupported.cs#L102C41-L102C128"
+        },
+        {
+          "DocsId": "M:System.IO.Ports.SerialPort.DiscardOutBuffer",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.IO.Ports/net6.0-Release/System.IO.Ports.notsupported.cs#L103C42-L103C129"
+        },
+        {
+          "DocsId": "M:System.IO.Ports.SerialPort.Dispose(System.Boolean)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.IO.Ports/net6.0-Release/System.IO.Ports.notsupported.cs#L104C59-L104C60"
+        },
+        {
+          "DocsId": "M:System.IO.Ports.SerialPort.GetPortNames",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.IO.Ports/net6.0-Release/System.IO.Ports.notsupported.cs#L105C49-L105C136"
+        },
+        {
+          "DocsId": "M:System.IO.Ports.SerialPort.Open",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.IO.Ports/net6.0-Release/System.IO.Ports.notsupported.cs#L106C30-L106C117"
+        },
+        {
+          "DocsId": "M:System.IO.Ports.SerialPort.Read(System.Byte[],System.Int32,System.Int32)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.IO.Ports/net6.0-Release/System.IO.Ports.notsupported.cs#L107C65-L107C152"
+        },
+        {
+          "DocsId": "M:System.IO.Ports.SerialPort.Read(System.Char[],System.Int32,System.Int32)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.IO.Ports/net6.0-Release/System.IO.Ports.notsupported.cs#L108C65-L108C152"
+        },
+        {
+          "DocsId": "M:System.IO.Ports.SerialPort.ReadByte",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.IO.Ports/net6.0-Release/System.IO.Ports.notsupported.cs#L109C33-L109C120"
+        },
+        {
+          "DocsId": "M:System.IO.Ports.SerialPort.ReadChar",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.IO.Ports/net6.0-Release/System.IO.Ports.notsupported.cs#L110C33-L110C120"
+        },
+        {
+          "DocsId": "M:System.IO.Ports.SerialPort.ReadExisting",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.IO.Ports/net6.0-Release/System.IO.Ports.notsupported.cs#L111C40-L111C127"
+        },
+        {
+          "DocsId": "M:System.IO.Ports.SerialPort.ReadLine",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.IO.Ports/net6.0-Release/System.IO.Ports.notsupported.cs#L112C36-L112C123"
+        },
+        {
+          "DocsId": "M:System.IO.Ports.SerialPort.ReadTo(System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.IO.Ports/net6.0-Release/System.IO.Ports.notsupported.cs#L113C46-L113C133"
+        },
+        {
+          "DocsId": "M:System.IO.Ports.SerialPort.Write(System.Byte[],System.Int32,System.Int32)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.IO.Ports/net6.0-Release/System.IO.Ports.notsupported.cs#L114C67-L114C154"
+        },
+        {
+          "DocsId": "M:System.IO.Ports.SerialPort.Write(System.Char[],System.Int32,System.Int32)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.IO.Ports/net6.0-Release/System.IO.Ports.notsupported.cs#L115C67-L115C154"
+        },
+        {
+          "DocsId": "M:System.IO.Ports.SerialPort.Write(System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.IO.Ports/net6.0-Release/System.IO.Ports.notsupported.cs#L116C42-L116C129"
+        },
+        {
+          "DocsId": "M:System.IO.Ports.SerialPort.WriteLine(System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.IO.Ports/net6.0-Release/System.IO.Ports.notsupported.cs#L117C46-L117C133"
+        },
+        {
+          "DocsId": "E:System.IO.Ports.SerialPort.DataReceived",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.IO.Ports/net6.0-Release/System.IO.Ports.notsupported.cs#L98C90-L98C177"
+        },
+        {
+          "DocsId": "E:System.IO.Ports.SerialPort.ErrorReceived",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.IO.Ports/net6.0-Release/System.IO.Ports.notsupported.cs#L99C92-L99C179"
+        },
+        {
+          "DocsId": "E:System.IO.Ports.SerialPort.PinChanged",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.IO.Ports/net6.0-Release/System.IO.Ports.notsupported.cs#L100C86-L100C173"
+        },
+        {
+          "DocsId": "F:System.IO.Ports.SerialPort.InfiniteTimeout",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.IO.Ports/net6.0-Release/System.IO.Ports.notsupported.cs"
+        },
+        {
+          "DocsId": "P:System.IO.Ports.SerialPort.BaseStream",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.IO.Ports/net6.0-Release/System.IO.Ports.notsupported.cs#L73C52-L73C139"
+        },
+        {
+          "DocsId": "P:System.IO.Ports.SerialPort.BaudRate",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.IO.Ports/net6.0-Release/System.IO.Ports.notsupported.cs#L74C37-L74C124"
+        },
+        {
+          "DocsId": "P:System.IO.Ports.SerialPort.BreakState",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.IO.Ports/net6.0-Release/System.IO.Ports.notsupported.cs#L75C40-L75C127"
+        },
+        {
+          "DocsId": "P:System.IO.Ports.SerialPort.BytesToRead",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.IO.Ports/net6.0-Release/System.IO.Ports.notsupported.cs#L76C40-L76C127"
+        },
+        {
+          "DocsId": "P:System.IO.Ports.SerialPort.BytesToWrite",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.IO.Ports/net6.0-Release/System.IO.Ports.notsupported.cs#L77C41-L77C128"
+        },
+        {
+          "DocsId": "P:System.IO.Ports.SerialPort.CDHolding",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.IO.Ports/net6.0-Release/System.IO.Ports.notsupported.cs#L78C39-L78C126"
+        },
+        {
+          "DocsId": "P:System.IO.Ports.SerialPort.CtsHolding",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.IO.Ports/net6.0-Release/System.IO.Ports.notsupported.cs#L79C40-L79C127"
+        },
+        {
+          "DocsId": "P:System.IO.Ports.SerialPort.DataBits",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.IO.Ports/net6.0-Release/System.IO.Ports.notsupported.cs#L80C37-L80C124"
+        },
+        {
+          "DocsId": "P:System.IO.Ports.SerialPort.DiscardNull",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.IO.Ports/net6.0-Release/System.IO.Ports.notsupported.cs#L81C41-L81C128"
+        },
+        {
+          "DocsId": "P:System.IO.Ports.SerialPort.DsrHolding",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.IO.Ports/net6.0-Release/System.IO.Ports.notsupported.cs#L82C40-L82C127"
+        },
+        {
+          "DocsId": "P:System.IO.Ports.SerialPort.DtrEnable",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.IO.Ports/net6.0-Release/System.IO.Ports.notsupported.cs#L83C39-L83C126"
+        },
+        {
+          "DocsId": "P:System.IO.Ports.SerialPort.Encoding",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.IO.Ports/net6.0-Release/System.IO.Ports.notsupported.cs#L84C54-L84C141"
+        },
+        {
+          "DocsId": "P:System.IO.Ports.SerialPort.Handshake",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.IO.Ports/net6.0-Release/System.IO.Ports.notsupported.cs#L85C60-L85C147"
+        },
+        {
+          "DocsId": "P:System.IO.Ports.SerialPort.IsOpen",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.IO.Ports/net6.0-Release/System.IO.Ports.notsupported.cs#L86C36-L86C123"
+        },
+        {
+          "DocsId": "P:System.IO.Ports.SerialPort.NewLine",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.IO.Ports/net6.0-Release/System.IO.Ports.notsupported.cs#L87C39-L87C126"
+        },
+        {
+          "DocsId": "P:System.IO.Ports.SerialPort.Parity",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.IO.Ports/net6.0-Release/System.IO.Ports.notsupported.cs#L88C54-L88C141"
+        },
+        {
+          "DocsId": "P:System.IO.Ports.SerialPort.ParityReplace",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.IO.Ports/net6.0-Release/System.IO.Ports.notsupported.cs#L89C43-L89C130"
+        },
+        {
+          "DocsId": "P:System.IO.Ports.SerialPort.PortName",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.IO.Ports/net6.0-Release/System.IO.Ports.notsupported.cs#L90C40-L90C127"
+        },
+        {
+          "DocsId": "P:System.IO.Ports.SerialPort.ReadBufferSize",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.IO.Ports/net6.0-Release/System.IO.Ports.notsupported.cs#L91C43-L91C130"
+        },
+        {
+          "DocsId": "P:System.IO.Ports.SerialPort.ReadTimeout",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.IO.Ports/net6.0-Release/System.IO.Ports.notsupported.cs#L92C40-L92C127"
+        },
+        {
+          "DocsId": "P:System.IO.Ports.SerialPort.ReceivedBytesThreshold",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.IO.Ports/net6.0-Release/System.IO.Ports.notsupported.cs#L93C51-L93C138"
+        },
+        {
+          "DocsId": "P:System.IO.Ports.SerialPort.RtsEnable",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.IO.Ports/net6.0-Release/System.IO.Ports.notsupported.cs#L94C39-L94C126"
+        },
+        {
+          "DocsId": "P:System.IO.Ports.SerialPort.StopBits",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.IO.Ports/net6.0-Release/System.IO.Ports.notsupported.cs#L95C58-L95C145"
+        },
+        {
+          "DocsId": "P:System.IO.Ports.SerialPort.WriteBufferSize",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.IO.Ports/net6.0-Release/System.IO.Ports.notsupported.cs#L96C44-L96C131"
+        },
+        {
+          "DocsId": "P:System.IO.Ports.SerialPort.WriteTimeout",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.IO.Ports/net6.0-Release/System.IO.Ports.notsupported.cs#L97C41-L97C128"
+        }
+      ],
+      "DocsId": "T:System.IO.Ports.SerialPort",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.IO.Ports/net6.0-Release/System.IO.Ports.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "F:System.IO.Ports.StopBits.value__",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.IO.Ports.StopBits.None",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.IO.Ports.StopBits.One",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.IO.Ports.StopBits.Two",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.IO.Ports.StopBits.OnePointFive",
+          "SourceLink": ""
+        }
+      ],
+      "DocsId": "T:System.IO.Ports.StopBits",
+      "SourceLink": ""
+    }
+  ]
+}

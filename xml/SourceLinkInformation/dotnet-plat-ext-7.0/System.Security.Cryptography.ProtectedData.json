@@ -1,0 +1,38 @@
+{
+  "Assembly": "System.Security.Cryptography.ProtectedData",
+  "GUID": "395D0ED6EA934457B10A1465FCE3C115FFFFFFFF",
+  "Types": [
+    {
+      "Members": [
+        {
+          "DocsId": "F:System.Security.Cryptography.DataProtectionScope.value__",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Security.Cryptography.ProtectedData/Release/net7.0/System.Security.Cryptography.ProtectedData.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Security.Cryptography.DataProtectionScope.CurrentUser",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Security.Cryptography.ProtectedData/Release/net7.0/System.Security.Cryptography.ProtectedData.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Security.Cryptography.DataProtectionScope.LocalMachine",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Security.Cryptography.ProtectedData/Release/net7.0/System.Security.Cryptography.ProtectedData.notsupported.cs"
+        }
+      ],
+      "DocsId": "T:System.Security.Cryptography.DataProtectionScope",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Security.Cryptography.ProtectedData/Release/net7.0/System.Security.Cryptography.ProtectedData.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.Security.Cryptography.ProtectedData.Protect(System.Byte[],System.Byte[],System.Security.Cryptography.DataProtectionScope)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Security.Cryptography.ProtectedData/Release/net7.0/System.Security.Cryptography.ProtectedData.notsupported.cs#L16C138-L16C243"
+        },
+        {
+          "DocsId": "M:System.Security.Cryptography.ProtectedData.Unprotect(System.Byte[],System.Byte[],System.Security.Cryptography.DataProtectionScope)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Security.Cryptography.ProtectedData/Release/net7.0/System.Security.Cryptography.ProtectedData.notsupported.cs#L17C145-L17C250"
+        }
+      ],
+      "DocsId": "T:System.Security.Cryptography.ProtectedData",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Security.Cryptography.ProtectedData/Release/net7.0/System.Security.Cryptography.ProtectedData.notsupported.cs"
+    }
+  ]
+}

@@ -1,0 +1,488 @@
+{
+  "Assembly": "Microsoft.Win32.SystemEvents",
+  "GUID": "A89A020C53924C078A0EC92D48588A6BFFFFFFFF",
+  "Types": [
+    {
+      "Members": [
+        {
+          "DocsId": "M:Microsoft.Win32.PowerModeChangedEventArgs.#ctor(Microsoft.Win32.PowerModes)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/Microsoft.Win32.SystemEvents/Release/net8.0/Microsoft.Win32.SystemEvents.notsupported.cs#L11C9-L11C169"
+        },
+        {
+          "DocsId": "P:Microsoft.Win32.PowerModeChangedEventArgs.Mode",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/Microsoft.Win32.SystemEvents/Release/net8.0/Microsoft.Win32.SystemEvents.notsupported.cs#L12C56-L12C148"
+        }
+      ],
+      "DocsId": "T:Microsoft.Win32.PowerModeChangedEventArgs",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/Microsoft.Win32.SystemEvents/Release/net8.0/Microsoft.Win32.SystemEvents.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:Microsoft.Win32.PowerModeChangedEventHandler.#ctor(System.Object,System.IntPtr)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/Microsoft.Win32.SystemEvents/Release/net8.0/Microsoft.Win32.SystemEvents.notsupported.cs"
+        },
+        {
+          "DocsId": "M:Microsoft.Win32.PowerModeChangedEventHandler.Invoke(System.Object,Microsoft.Win32.PowerModeChangedEventArgs)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/Microsoft.Win32.SystemEvents/Release/net8.0/Microsoft.Win32.SystemEvents.notsupported.cs"
+        },
+        {
+          "DocsId": "M:Microsoft.Win32.PowerModeChangedEventHandler.BeginInvoke(System.Object,Microsoft.Win32.PowerModeChangedEventArgs,System.AsyncCallback,System.Object)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/Microsoft.Win32.SystemEvents/Release/net8.0/Microsoft.Win32.SystemEvents.notsupported.cs"
+        },
+        {
+          "DocsId": "M:Microsoft.Win32.PowerModeChangedEventHandler.EndInvoke(System.IAsyncResult)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/Microsoft.Win32.SystemEvents/Release/net8.0/Microsoft.Win32.SystemEvents.notsupported.cs"
+        }
+      ],
+      "DocsId": "T:Microsoft.Win32.PowerModeChangedEventHandler",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/Microsoft.Win32.SystemEvents/Release/net8.0/Microsoft.Win32.SystemEvents.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "F:Microsoft.Win32.PowerModes.value__",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/Microsoft.Win32.SystemEvents/Release/net8.0/Microsoft.Win32.SystemEvents.notsupported.cs"
+        },
+        {
+          "DocsId": "F:Microsoft.Win32.PowerModes.Resume",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/Microsoft.Win32.SystemEvents/Release/net8.0/Microsoft.Win32.SystemEvents.notsupported.cs"
+        },
+        {
+          "DocsId": "F:Microsoft.Win32.PowerModes.StatusChange",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/Microsoft.Win32.SystemEvents/Release/net8.0/Microsoft.Win32.SystemEvents.notsupported.cs"
+        },
+        {
+          "DocsId": "F:Microsoft.Win32.PowerModes.Suspend",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/Microsoft.Win32.SystemEvents/Release/net8.0/Microsoft.Win32.SystemEvents.notsupported.cs"
+        }
+      ],
+      "DocsId": "T:Microsoft.Win32.PowerModes",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/Microsoft.Win32.SystemEvents/Release/net8.0/Microsoft.Win32.SystemEvents.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:Microsoft.Win32.SessionEndedEventArgs.#ctor(Microsoft.Win32.SessionEndReasons)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/Microsoft.Win32.SystemEvents/Release/net8.0/Microsoft.Win32.SystemEvents.notsupported.cs#L23C9-L23C174"
+        },
+        {
+          "DocsId": "P:Microsoft.Win32.SessionEndedEventArgs.Reason",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/Microsoft.Win32.SystemEvents/Release/net8.0/Microsoft.Win32.SystemEvents.notsupported.cs#L24C65-L24C157"
+        }
+      ],
+      "DocsId": "T:Microsoft.Win32.SessionEndedEventArgs",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/Microsoft.Win32.SystemEvents/Release/net8.0/Microsoft.Win32.SystemEvents.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:Microsoft.Win32.SessionEndedEventHandler.#ctor(System.Object,System.IntPtr)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/Microsoft.Win32.SystemEvents/Release/net8.0/Microsoft.Win32.SystemEvents.notsupported.cs"
+        },
+        {
+          "DocsId": "M:Microsoft.Win32.SessionEndedEventHandler.Invoke(System.Object,Microsoft.Win32.SessionEndedEventArgs)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/Microsoft.Win32.SystemEvents/Release/net8.0/Microsoft.Win32.SystemEvents.notsupported.cs"
+        },
+        {
+          "DocsId": "M:Microsoft.Win32.SessionEndedEventHandler.BeginInvoke(System.Object,Microsoft.Win32.SessionEndedEventArgs,System.AsyncCallback,System.Object)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/Microsoft.Win32.SystemEvents/Release/net8.0/Microsoft.Win32.SystemEvents.notsupported.cs"
+        },
+        {
+          "DocsId": "M:Microsoft.Win32.SessionEndedEventHandler.EndInvoke(System.IAsyncResult)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/Microsoft.Win32.SystemEvents/Release/net8.0/Microsoft.Win32.SystemEvents.notsupported.cs"
+        }
+      ],
+      "DocsId": "T:Microsoft.Win32.SessionEndedEventHandler",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/Microsoft.Win32.SystemEvents/Release/net8.0/Microsoft.Win32.SystemEvents.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:Microsoft.Win32.SessionEndingEventArgs.#ctor(Microsoft.Win32.SessionEndReasons)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/Microsoft.Win32.SystemEvents/Release/net8.0/Microsoft.Win32.SystemEvents.notsupported.cs#L29C9-L29C175"
+        },
+        {
+          "DocsId": "P:Microsoft.Win32.SessionEndingEventArgs.Cancel",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/Microsoft.Win32.SystemEvents/Release/net8.0/Microsoft.Win32.SystemEvents.notsupported.cs#L30C36-L30C128"
+        },
+        {
+          "DocsId": "P:Microsoft.Win32.SessionEndingEventArgs.Reason",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/Microsoft.Win32.SystemEvents/Release/net8.0/Microsoft.Win32.SystemEvents.notsupported.cs#L31C65-L31C157"
+        }
+      ],
+      "DocsId": "T:Microsoft.Win32.SessionEndingEventArgs",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/Microsoft.Win32.SystemEvents/Release/net8.0/Microsoft.Win32.SystemEvents.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:Microsoft.Win32.SessionEndingEventHandler.#ctor(System.Object,System.IntPtr)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/Microsoft.Win32.SystemEvents/Release/net8.0/Microsoft.Win32.SystemEvents.notsupported.cs"
+        },
+        {
+          "DocsId": "M:Microsoft.Win32.SessionEndingEventHandler.Invoke(System.Object,Microsoft.Win32.SessionEndingEventArgs)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/Microsoft.Win32.SystemEvents/Release/net8.0/Microsoft.Win32.SystemEvents.notsupported.cs"
+        },
+        {
+          "DocsId": "M:Microsoft.Win32.SessionEndingEventHandler.BeginInvoke(System.Object,Microsoft.Win32.SessionEndingEventArgs,System.AsyncCallback,System.Object)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/Microsoft.Win32.SystemEvents/Release/net8.0/Microsoft.Win32.SystemEvents.notsupported.cs"
+        },
+        {
+          "DocsId": "M:Microsoft.Win32.SessionEndingEventHandler.EndInvoke(System.IAsyncResult)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/Microsoft.Win32.SystemEvents/Release/net8.0/Microsoft.Win32.SystemEvents.notsupported.cs"
+        }
+      ],
+      "DocsId": "T:Microsoft.Win32.SessionEndingEventHandler",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/Microsoft.Win32.SystemEvents/Release/net8.0/Microsoft.Win32.SystemEvents.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "F:Microsoft.Win32.SessionEndReasons.value__",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/Microsoft.Win32.SystemEvents/Release/net8.0/Microsoft.Win32.SystemEvents.notsupported.cs"
+        },
+        {
+          "DocsId": "F:Microsoft.Win32.SessionEndReasons.Logoff",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/Microsoft.Win32.SystemEvents/Release/net8.0/Microsoft.Win32.SystemEvents.notsupported.cs"
+        },
+        {
+          "DocsId": "F:Microsoft.Win32.SessionEndReasons.SystemShutdown",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/Microsoft.Win32.SystemEvents/Release/net8.0/Microsoft.Win32.SystemEvents.notsupported.cs"
+        }
+      ],
+      "DocsId": "T:Microsoft.Win32.SessionEndReasons",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/Microsoft.Win32.SystemEvents/Release/net8.0/Microsoft.Win32.SystemEvents.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:Microsoft.Win32.SessionSwitchEventArgs.#ctor(Microsoft.Win32.SessionSwitchReason)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/Microsoft.Win32.SystemEvents/Release/net8.0/Microsoft.Win32.SystemEvents.notsupported.cs#L41C9-L41C177"
+        },
+        {
+          "DocsId": "P:Microsoft.Win32.SessionSwitchEventArgs.Reason",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/Microsoft.Win32.SystemEvents/Release/net8.0/Microsoft.Win32.SystemEvents.notsupported.cs#L42C67-L42C159"
+        }
+      ],
+      "DocsId": "T:Microsoft.Win32.SessionSwitchEventArgs",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/Microsoft.Win32.SystemEvents/Release/net8.0/Microsoft.Win32.SystemEvents.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:Microsoft.Win32.SessionSwitchEventHandler.#ctor(System.Object,System.IntPtr)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/Microsoft.Win32.SystemEvents/Release/net8.0/Microsoft.Win32.SystemEvents.notsupported.cs"
+        },
+        {
+          "DocsId": "M:Microsoft.Win32.SessionSwitchEventHandler.Invoke(System.Object,Microsoft.Win32.SessionSwitchEventArgs)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/Microsoft.Win32.SystemEvents/Release/net8.0/Microsoft.Win32.SystemEvents.notsupported.cs"
+        },
+        {
+          "DocsId": "M:Microsoft.Win32.SessionSwitchEventHandler.BeginInvoke(System.Object,Microsoft.Win32.SessionSwitchEventArgs,System.AsyncCallback,System.Object)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/Microsoft.Win32.SystemEvents/Release/net8.0/Microsoft.Win32.SystemEvents.notsupported.cs"
+        },
+        {
+          "DocsId": "M:Microsoft.Win32.SessionSwitchEventHandler.EndInvoke(System.IAsyncResult)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/Microsoft.Win32.SystemEvents/Release/net8.0/Microsoft.Win32.SystemEvents.notsupported.cs"
+        }
+      ],
+      "DocsId": "T:Microsoft.Win32.SessionSwitchEventHandler",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/Microsoft.Win32.SystemEvents/Release/net8.0/Microsoft.Win32.SystemEvents.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "F:Microsoft.Win32.SessionSwitchReason.value__",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/Microsoft.Win32.SystemEvents/Release/net8.0/Microsoft.Win32.SystemEvents.notsupported.cs"
+        },
+        {
+          "DocsId": "F:Microsoft.Win32.SessionSwitchReason.ConsoleConnect",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/Microsoft.Win32.SystemEvents/Release/net8.0/Microsoft.Win32.SystemEvents.notsupported.cs"
+        },
+        {
+          "DocsId": "F:Microsoft.Win32.SessionSwitchReason.ConsoleDisconnect",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/Microsoft.Win32.SystemEvents/Release/net8.0/Microsoft.Win32.SystemEvents.notsupported.cs"
+        },
+        {
+          "DocsId": "F:Microsoft.Win32.SessionSwitchReason.RemoteConnect",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/Microsoft.Win32.SystemEvents/Release/net8.0/Microsoft.Win32.SystemEvents.notsupported.cs"
+        },
+        {
+          "DocsId": "F:Microsoft.Win32.SessionSwitchReason.RemoteDisconnect",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/Microsoft.Win32.SystemEvents/Release/net8.0/Microsoft.Win32.SystemEvents.notsupported.cs"
+        },
+        {
+          "DocsId": "F:Microsoft.Win32.SessionSwitchReason.SessionLogon",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/Microsoft.Win32.SystemEvents/Release/net8.0/Microsoft.Win32.SystemEvents.notsupported.cs"
+        },
+        {
+          "DocsId": "F:Microsoft.Win32.SessionSwitchReason.SessionLogoff",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/Microsoft.Win32.SystemEvents/Release/net8.0/Microsoft.Win32.SystemEvents.notsupported.cs"
+        },
+        {
+          "DocsId": "F:Microsoft.Win32.SessionSwitchReason.SessionLock",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/Microsoft.Win32.SystemEvents/Release/net8.0/Microsoft.Win32.SystemEvents.notsupported.cs"
+        },
+        {
+          "DocsId": "F:Microsoft.Win32.SessionSwitchReason.SessionUnlock",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/Microsoft.Win32.SystemEvents/Release/net8.0/Microsoft.Win32.SystemEvents.notsupported.cs"
+        },
+        {
+          "DocsId": "F:Microsoft.Win32.SessionSwitchReason.SessionRemoteControl",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/Microsoft.Win32.SystemEvents/Release/net8.0/Microsoft.Win32.SystemEvents.notsupported.cs"
+        }
+      ],
+      "DocsId": "T:Microsoft.Win32.SessionSwitchReason",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/Microsoft.Win32.SystemEvents/Release/net8.0/Microsoft.Win32.SystemEvents.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:Microsoft.Win32.SystemEvents.CreateTimer(System.Int32)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/Microsoft.Win32.SystemEvents/Release/net8.0/Microsoft.Win32.SystemEvents.notsupported.cs#L77C65-L77C157"
+        },
+        {
+          "DocsId": "M:Microsoft.Win32.SystemEvents.InvokeOnEventsThread(System.Delegate)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/Microsoft.Win32.SystemEvents/Release/net8.0/Microsoft.Win32.SystemEvents.notsupported.cs#L78C75-L78C167"
+        },
+        {
+          "DocsId": "M:Microsoft.Win32.SystemEvents.KillTimer(System.IntPtr)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/Microsoft.Win32.SystemEvents/Release/net8.0/Microsoft.Win32.SystemEvents.notsupported.cs#L79C63-L79C155"
+        },
+        {
+          "DocsId": "E:Microsoft.Win32.SystemEvents.DisplaySettingsChanged",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/Microsoft.Win32.SystemEvents/Release/net8.0/Microsoft.Win32.SystemEvents.notsupported.cs#L60C81-L60C173"
+        },
+        {
+          "DocsId": "E:Microsoft.Win32.SystemEvents.DisplaySettingsChanging",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/Microsoft.Win32.SystemEvents/Release/net8.0/Microsoft.Win32.SystemEvents.notsupported.cs#L61C82-L61C174"
+        },
+        {
+          "DocsId": "E:Microsoft.Win32.SystemEvents.EventsThreadShutdown",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/Microsoft.Win32.SystemEvents/Release/net8.0/Microsoft.Win32.SystemEvents.notsupported.cs#L62C79-L62C171"
+        },
+        {
+          "DocsId": "E:Microsoft.Win32.SystemEvents.InstalledFontsChanged",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/Microsoft.Win32.SystemEvents/Release/net8.0/Microsoft.Win32.SystemEvents.notsupported.cs#L63C80-L63C172"
+        },
+        {
+          "DocsId": "E:Microsoft.Win32.SystemEvents.LowMemory",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/Microsoft.Win32.SystemEvents/Release/net8.0/Microsoft.Win32.SystemEvents.notsupported.cs#L67C68-L67C160"
+        },
+        {
+          "DocsId": "E:Microsoft.Win32.SystemEvents.PaletteChanged",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/Microsoft.Win32.SystemEvents/Release/net8.0/Microsoft.Win32.SystemEvents.notsupported.cs#L68C73-L68C165"
+        },
+        {
+          "DocsId": "E:Microsoft.Win32.SystemEvents.PowerModeChanged",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/Microsoft.Win32.SystemEvents/Release/net8.0/Microsoft.Win32.SystemEvents.notsupported.cs#L69C100-L69C192"
+        },
+        {
+          "DocsId": "E:Microsoft.Win32.SystemEvents.SessionEnded",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/Microsoft.Win32.SystemEvents/Release/net8.0/Microsoft.Win32.SystemEvents.notsupported.cs#L70C92-L70C184"
+        },
+        {
+          "DocsId": "E:Microsoft.Win32.SystemEvents.SessionEnding",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/Microsoft.Win32.SystemEvents/Release/net8.0/Microsoft.Win32.SystemEvents.notsupported.cs#L71C94-L71C186"
+        },
+        {
+          "DocsId": "E:Microsoft.Win32.SystemEvents.SessionSwitch",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/Microsoft.Win32.SystemEvents/Release/net8.0/Microsoft.Win32.SystemEvents.notsupported.cs#L72C94-L72C186"
+        },
+        {
+          "DocsId": "E:Microsoft.Win32.SystemEvents.TimeChanged",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/Microsoft.Win32.SystemEvents/Release/net8.0/Microsoft.Win32.SystemEvents.notsupported.cs#L73C70-L73C162"
+        },
+        {
+          "DocsId": "E:Microsoft.Win32.SystemEvents.TimerElapsed",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/Microsoft.Win32.SystemEvents/Release/net8.0/Microsoft.Win32.SystemEvents.notsupported.cs#L74C92-L74C184"
+        },
+        {
+          "DocsId": "E:Microsoft.Win32.SystemEvents.UserPreferenceChanged",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/Microsoft.Win32.SystemEvents/Release/net8.0/Microsoft.Win32.SystemEvents.notsupported.cs#L75C110-L75C202"
+        },
+        {
+          "DocsId": "E:Microsoft.Win32.SystemEvents.UserPreferenceChanging",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/Microsoft.Win32.SystemEvents/Release/net8.0/Microsoft.Win32.SystemEvents.notsupported.cs#L76C112-L76C204"
+        }
+      ],
+      "DocsId": "T:Microsoft.Win32.SystemEvents",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/Microsoft.Win32.SystemEvents/Release/net8.0/Microsoft.Win32.SystemEvents.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:Microsoft.Win32.TimerElapsedEventArgs.#ctor(System.IntPtr)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/Microsoft.Win32.SystemEvents/Release/net8.0/Microsoft.Win32.SystemEvents.notsupported.cs#L83C9-L83C155"
+        },
+        {
+          "DocsId": "P:Microsoft.Win32.TimerElapsedEventArgs.TimerId",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/Microsoft.Win32.SystemEvents/Release/net8.0/Microsoft.Win32.SystemEvents.notsupported.cs#L84C46-L84C138"
+        }
+      ],
+      "DocsId": "T:Microsoft.Win32.TimerElapsedEventArgs",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/Microsoft.Win32.SystemEvents/Release/net8.0/Microsoft.Win32.SystemEvents.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:Microsoft.Win32.TimerElapsedEventHandler.#ctor(System.Object,System.IntPtr)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/Microsoft.Win32.SystemEvents/Release/net8.0/Microsoft.Win32.SystemEvents.notsupported.cs"
+        },
+        {
+          "DocsId": "M:Microsoft.Win32.TimerElapsedEventHandler.Invoke(System.Object,Microsoft.Win32.TimerElapsedEventArgs)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/Microsoft.Win32.SystemEvents/Release/net8.0/Microsoft.Win32.SystemEvents.notsupported.cs"
+        },
+        {
+          "DocsId": "M:Microsoft.Win32.TimerElapsedEventHandler.BeginInvoke(System.Object,Microsoft.Win32.TimerElapsedEventArgs,System.AsyncCallback,System.Object)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/Microsoft.Win32.SystemEvents/Release/net8.0/Microsoft.Win32.SystemEvents.notsupported.cs"
+        },
+        {
+          "DocsId": "M:Microsoft.Win32.TimerElapsedEventHandler.EndInvoke(System.IAsyncResult)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/Microsoft.Win32.SystemEvents/Release/net8.0/Microsoft.Win32.SystemEvents.notsupported.cs"
+        }
+      ],
+      "DocsId": "T:Microsoft.Win32.TimerElapsedEventHandler",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/Microsoft.Win32.SystemEvents/Release/net8.0/Microsoft.Win32.SystemEvents.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "F:Microsoft.Win32.UserPreferenceCategory.value__",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/Microsoft.Win32.SystemEvents/Release/net8.0/Microsoft.Win32.SystemEvents.notsupported.cs"
+        },
+        {
+          "DocsId": "F:Microsoft.Win32.UserPreferenceCategory.Accessibility",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/Microsoft.Win32.SystemEvents/Release/net8.0/Microsoft.Win32.SystemEvents.notsupported.cs"
+        },
+        {
+          "DocsId": "F:Microsoft.Win32.UserPreferenceCategory.Color",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/Microsoft.Win32.SystemEvents/Release/net8.0/Microsoft.Win32.SystemEvents.notsupported.cs"
+        },
+        {
+          "DocsId": "F:Microsoft.Win32.UserPreferenceCategory.Desktop",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/Microsoft.Win32.SystemEvents/Release/net8.0/Microsoft.Win32.SystemEvents.notsupported.cs"
+        },
+        {
+          "DocsId": "F:Microsoft.Win32.UserPreferenceCategory.General",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/Microsoft.Win32.SystemEvents/Release/net8.0/Microsoft.Win32.SystemEvents.notsupported.cs"
+        },
+        {
+          "DocsId": "F:Microsoft.Win32.UserPreferenceCategory.Icon",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/Microsoft.Win32.SystemEvents/Release/net8.0/Microsoft.Win32.SystemEvents.notsupported.cs"
+        },
+        {
+          "DocsId": "F:Microsoft.Win32.UserPreferenceCategory.Keyboard",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/Microsoft.Win32.SystemEvents/Release/net8.0/Microsoft.Win32.SystemEvents.notsupported.cs"
+        },
+        {
+          "DocsId": "F:Microsoft.Win32.UserPreferenceCategory.Menu",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/Microsoft.Win32.SystemEvents/Release/net8.0/Microsoft.Win32.SystemEvents.notsupported.cs"
+        },
+        {
+          "DocsId": "F:Microsoft.Win32.UserPreferenceCategory.Mouse",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/Microsoft.Win32.SystemEvents/Release/net8.0/Microsoft.Win32.SystemEvents.notsupported.cs"
+        },
+        {
+          "DocsId": "F:Microsoft.Win32.UserPreferenceCategory.Policy",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/Microsoft.Win32.SystemEvents/Release/net8.0/Microsoft.Win32.SystemEvents.notsupported.cs"
+        },
+        {
+          "DocsId": "F:Microsoft.Win32.UserPreferenceCategory.Power",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/Microsoft.Win32.SystemEvents/Release/net8.0/Microsoft.Win32.SystemEvents.notsupported.cs"
+        },
+        {
+          "DocsId": "F:Microsoft.Win32.UserPreferenceCategory.Screensaver",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/Microsoft.Win32.SystemEvents/Release/net8.0/Microsoft.Win32.SystemEvents.notsupported.cs"
+        },
+        {
+          "DocsId": "F:Microsoft.Win32.UserPreferenceCategory.Window",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/Microsoft.Win32.SystemEvents/Release/net8.0/Microsoft.Win32.SystemEvents.notsupported.cs"
+        },
+        {
+          "DocsId": "F:Microsoft.Win32.UserPreferenceCategory.Locale",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/Microsoft.Win32.SystemEvents/Release/net8.0/Microsoft.Win32.SystemEvents.notsupported.cs"
+        },
+        {
+          "DocsId": "F:Microsoft.Win32.UserPreferenceCategory.VisualStyle",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/Microsoft.Win32.SystemEvents/Release/net8.0/Microsoft.Win32.SystemEvents.notsupported.cs"
+        }
+      ],
+      "DocsId": "T:Microsoft.Win32.UserPreferenceCategory",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/Microsoft.Win32.SystemEvents/Release/net8.0/Microsoft.Win32.SystemEvents.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:Microsoft.Win32.UserPreferenceChangedEventArgs.#ctor(Microsoft.Win32.UserPreferenceCategory)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/Microsoft.Win32.SystemEvents/Release/net8.0/Microsoft.Win32.SystemEvents.notsupported.cs#L106C9-L106C190"
+        },
+        {
+          "DocsId": "P:Microsoft.Win32.UserPreferenceChangedEventArgs.Category",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/Microsoft.Win32.SystemEvents/Release/net8.0/Microsoft.Win32.SystemEvents.notsupported.cs#L107C72-L107C164"
+        }
+      ],
+      "DocsId": "T:Microsoft.Win32.UserPreferenceChangedEventArgs",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/Microsoft.Win32.SystemEvents/Release/net8.0/Microsoft.Win32.SystemEvents.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:Microsoft.Win32.UserPreferenceChangedEventHandler.#ctor(System.Object,System.IntPtr)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/Microsoft.Win32.SystemEvents/Release/net8.0/Microsoft.Win32.SystemEvents.notsupported.cs"
+        },
+        {
+          "DocsId": "M:Microsoft.Win32.UserPreferenceChangedEventHandler.Invoke(System.Object,Microsoft.Win32.UserPreferenceChangedEventArgs)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/Microsoft.Win32.SystemEvents/Release/net8.0/Microsoft.Win32.SystemEvents.notsupported.cs"
+        },
+        {
+          "DocsId": "M:Microsoft.Win32.UserPreferenceChangedEventHandler.BeginInvoke(System.Object,Microsoft.Win32.UserPreferenceChangedEventArgs,System.AsyncCallback,System.Object)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/Microsoft.Win32.SystemEvents/Release/net8.0/Microsoft.Win32.SystemEvents.notsupported.cs"
+        },
+        {
+          "DocsId": "M:Microsoft.Win32.UserPreferenceChangedEventHandler.EndInvoke(System.IAsyncResult)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/Microsoft.Win32.SystemEvents/Release/net8.0/Microsoft.Win32.SystemEvents.notsupported.cs"
+        }
+      ],
+      "DocsId": "T:Microsoft.Win32.UserPreferenceChangedEventHandler",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/Microsoft.Win32.SystemEvents/Release/net8.0/Microsoft.Win32.SystemEvents.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:Microsoft.Win32.UserPreferenceChangingEventArgs.#ctor(Microsoft.Win32.UserPreferenceCategory)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/Microsoft.Win32.SystemEvents/Release/net8.0/Microsoft.Win32.SystemEvents.notsupported.cs#L112C9-L112C191"
+        },
+        {
+          "DocsId": "P:Microsoft.Win32.UserPreferenceChangingEventArgs.Category",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/Microsoft.Win32.SystemEvents/Release/net8.0/Microsoft.Win32.SystemEvents.notsupported.cs#L113C72-L113C164"
+        }
+      ],
+      "DocsId": "T:Microsoft.Win32.UserPreferenceChangingEventArgs",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/Microsoft.Win32.SystemEvents/Release/net8.0/Microsoft.Win32.SystemEvents.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:Microsoft.Win32.UserPreferenceChangingEventHandler.#ctor(System.Object,System.IntPtr)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/Microsoft.Win32.SystemEvents/Release/net8.0/Microsoft.Win32.SystemEvents.notsupported.cs"
+        },
+        {
+          "DocsId": "M:Microsoft.Win32.UserPreferenceChangingEventHandler.Invoke(System.Object,Microsoft.Win32.UserPreferenceChangingEventArgs)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/Microsoft.Win32.SystemEvents/Release/net8.0/Microsoft.Win32.SystemEvents.notsupported.cs"
+        },
+        {
+          "DocsId": "M:Microsoft.Win32.UserPreferenceChangingEventHandler.BeginInvoke(System.Object,Microsoft.Win32.UserPreferenceChangingEventArgs,System.AsyncCallback,System.Object)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/Microsoft.Win32.SystemEvents/Release/net8.0/Microsoft.Win32.SystemEvents.notsupported.cs"
+        },
+        {
+          "DocsId": "M:Microsoft.Win32.UserPreferenceChangingEventHandler.EndInvoke(System.IAsyncResult)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/Microsoft.Win32.SystemEvents/Release/net8.0/Microsoft.Win32.SystemEvents.notsupported.cs"
+        }
+      ],
+      "DocsId": "T:Microsoft.Win32.UserPreferenceChangingEventHandler",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/Microsoft.Win32.SystemEvents/Release/net8.0/Microsoft.Win32.SystemEvents.notsupported.cs"
+    }
+  ]
+}

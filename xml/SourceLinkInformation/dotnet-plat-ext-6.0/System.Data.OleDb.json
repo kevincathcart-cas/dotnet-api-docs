@@ -1,0 +1,1660 @@
+{
+  "Assembly": "System.Data.OleDb",
+  "GUID": "56960A4BF80D4A4691A5D89D3187C328FFFFFFFF",
+  "Types": [
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbCommand.#ctor",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L13C9-L13C118"
+        },
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbCommand.#ctor(System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L14C9-L14C133"
+        },
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbCommand.#ctor(System.String,System.Data.OleDb.OleDbConnection)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L15C9-L15C180"
+        },
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbCommand.#ctor(System.String,System.Data.OleDb.OleDbConnection,System.Data.OleDb.OleDbTransaction)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L16C9-L16C229"
+        },
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbCommand.Cancel",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L43C41-L43C126"
+        },
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbCommand.Clone",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L44C57-L44C142"
+        },
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbCommand.CreateDbParameter",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L45C81-L45C166"
+        },
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbCommand.CreateParameter",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L46C73-L46C158"
+        },
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbCommand.Dispose(System.Boolean)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L47C59-L47C60"
+        },
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbCommand.ExecuteDbDataReader(System.Data.CommandBehavior)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L48C120-L48C205"
+        },
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbCommand.ExecuteNonQuery",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L49C49-L49C134"
+        },
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbCommand.ExecuteReader",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L50C72-L50C157"
+        },
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbCommand.ExecuteReader(System.Data.CommandBehavior)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L51C108-L51C193"
+        },
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbCommand.ExecuteScalar",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L52C51-L52C136"
+        },
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbCommand.Prepare",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L53C42-L53C127"
+        },
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbCommand.ResetCommandTimeout",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L54C45-L54C130"
+        },
+        {
+          "DocsId": "P:System.Data.OleDb.OleDbCommand.CommandText",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L21C52-L21C137"
+        },
+        {
+          "DocsId": "P:System.Data.OleDb.OleDbCommand.CommandTimeout",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L22C52-L22C137"
+        },
+        {
+          "DocsId": "P:System.Data.OleDb.OleDbCommand.CommandType",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L25C69-L25C154"
+        },
+        {
+          "DocsId": "P:System.Data.OleDb.OleDbCommand.Connection",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L28C74-L28C159"
+        },
+        {
+          "DocsId": "P:System.Data.OleDb.OleDbCommand.DbConnection",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L29C82-L29C167"
+        },
+        {
+          "DocsId": "P:System.Data.OleDb.OleDbCommand.DbParameterCollection",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L30C99-L30C184"
+        },
+        {
+          "DocsId": "P:System.Data.OleDb.OleDbCommand.DbTransaction",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L31C84-L31C169"
+        },
+        {
+          "DocsId": "P:System.Data.OleDb.OleDbCommand.DesignTimeVisible",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L35C56-L35C141"
+        },
+        {
+          "DocsId": "P:System.Data.OleDb.OleDbCommand.Parameters",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L37C82-L37C167"
+        },
+        {
+          "DocsId": "P:System.Data.OleDb.OleDbCommand.Transaction",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L40C76-L40C161"
+        },
+        {
+          "DocsId": "P:System.Data.OleDb.OleDbCommand.UpdatedRowSource",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L42C78-L42C163"
+        }
+      ],
+      "DocsId": "T:System.Data.OleDb.OleDbCommand",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbCommandBuilder.#ctor",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L61C9-L61C125"
+        },
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbCommandBuilder.#ctor(System.Data.OleDb.OleDbDataAdapter)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L62C9-L62C168"
+        },
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbCommandBuilder.ApplyParameterInfo(System.Data.Common.DbParameter,System.Data.DataRow,System.Data.StatementType,System.Boolean)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L65C184-L65C269"
+        },
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbCommandBuilder.DeriveParameters(System.Data.OleDb.OleDbCommand)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L66C87-L66C172"
+        },
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbCommandBuilder.GetDeleteCommand",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L67C72-L67C157"
+        },
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbCommandBuilder.GetDeleteCommand(System.Boolean)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L68C104-L68C189"
+        },
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbCommandBuilder.GetInsertCommand",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L69C72-L69C157"
+        },
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbCommandBuilder.GetInsertCommand(System.Boolean)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L70C104-L70C189"
+        },
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbCommandBuilder.GetParameterName(System.Int32)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L71C76-L71C161"
+        },
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbCommandBuilder.GetParameterName(System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L72C76-L72C161"
+        },
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbCommandBuilder.GetParameterPlaceholder(System.Int32)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L73C83-L73C168"
+        },
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbCommandBuilder.GetUpdateCommand",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L74C72-L74C157"
+        },
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbCommandBuilder.GetUpdateCommand(System.Boolean)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L75C104-L75C189"
+        },
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbCommandBuilder.QuoteIdentifier(System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L76C77-L76C162"
+        },
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbCommandBuilder.QuoteIdentifier(System.String,System.Data.OleDb.OleDbConnection)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L77C115-L77C200"
+        },
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbCommandBuilder.SetRowUpdatingHandler(System.Data.Common.DbDataAdapter)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L78C99-L78C184"
+        },
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbCommandBuilder.UnquoteIdentifier(System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L79C77-L79C162"
+        },
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbCommandBuilder.UnquoteIdentifier(System.String,System.Data.OleDb.OleDbConnection)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L80C115-L80C200"
+        },
+        {
+          "DocsId": "P:System.Data.OleDb.OleDbCommandBuilder.DataAdapter",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L64C76-L64C161"
+        }
+      ],
+      "DocsId": "T:System.Data.OleDb.OleDbCommandBuilder",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbConnection.#ctor",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L85C9-L85C121"
+        },
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbConnection.#ctor(System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L86C9-L86C145"
+        },
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbConnection.BeginDbTransaction(System.Data.IsolationLevel)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L108C125-L108C210"
+        },
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbConnection.BeginTransaction",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L109C76-L109C161"
+        },
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbConnection.BeginTransaction(System.Data.IsolationLevel)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L110C117-L110C202"
+        },
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbConnection.ChangeDatabase(System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L111C61-L111C146"
+        },
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbConnection.Close",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L112C40-L112C125"
+        },
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbConnection.CreateCommand",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L113C69-L113C154"
+        },
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbConnection.CreateDbCommand",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L114C77-L114C162"
+        },
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbConnection.Dispose(System.Boolean)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L115C59-L115C60"
+        },
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbConnection.EnlistTransaction(System.Transactions.Transaction)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L116C96-L116C181"
+        },
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbConnection.GetOleDbSchemaTable(System.Guid,System.Object[])",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L117C106-L117C191"
+        },
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbConnection.GetSchema",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L118C61-L118C146"
+        },
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbConnection.GetSchema(System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L119C82-L119C167"
+        },
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbConnection.GetSchema(System.String,System.String[])",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L120C112-L120C197"
+        },
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbConnection.Open",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L121C39-L121C124"
+        },
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbConnection.ReleaseObjectPool",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L122C50-L122C135"
+        },
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbConnection.ResetState",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L123C36-L123C121"
+        },
+        {
+          "DocsId": "E:System.Data.OleDb.OleDbConnection.InfoMessage",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L107C90-L107C175"
+        },
+        {
+          "DocsId": "P:System.Data.OleDb.OleDbConnection.ConnectionString",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L93C57-L93C142"
+        },
+        {
+          "DocsId": "P:System.Data.OleDb.OleDbConnection.ConnectionTimeout",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L95C55-L95C140"
+        },
+        {
+          "DocsId": "P:System.Data.OleDb.OleDbConnection.Database",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L97C49-L97C134"
+        },
+        {
+          "DocsId": "P:System.Data.OleDb.OleDbConnection.DataSource",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L99C51-L99C136"
+        },
+        {
+          "DocsId": "P:System.Data.OleDb.OleDbConnection.Provider",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L102C40-L102C125"
+        },
+        {
+          "DocsId": "P:System.Data.OleDb.OleDbConnection.ServerVersion",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L103C54-L103C139"
+        },
+        {
+          "DocsId": "P:System.Data.OleDb.OleDbConnection.State",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L106C67-L106C152"
+        }
+      ],
+      "DocsId": "T:System.Data.OleDb.OleDbConnection",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbConnectionStringBuilder.#ctor",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L130C9-L130C134"
+        },
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbConnectionStringBuilder.#ctor(System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L131C9-L131C158"
+        },
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbConnectionStringBuilder.Clear",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L145C40-L145C125"
+        },
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbConnectionStringBuilder.ContainsKey(System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L146C60-L146C145"
+        },
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbConnectionStringBuilder.Remove(System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L147C55-L147C140"
+        },
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbConnectionStringBuilder.TryGetValue(System.String,System.Object@)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L148C131-L148C216"
+        },
+        {
+          "DocsId": "P:System.Data.OleDb.OleDbConnectionStringBuilder.DataSource",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L134C42-L134C127"
+        },
+        {
+          "DocsId": "P:System.Data.OleDb.OleDbConnectionStringBuilder.FileName",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L138C40-L138C125"
+        },
+        {
+          "DocsId": "P:System.Data.OleDb.OleDbConnectionStringBuilder.Item(System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L140C61-L140C146"
+        },
+        {
+          "DocsId": "P:System.Data.OleDb.OleDbConnectionStringBuilder.Keys",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L141C69-L141C154"
+        },
+        {
+          "DocsId": "P:System.Data.OleDb.OleDbConnectionStringBuilder.PersistSecurityInfo",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L144C49-L144C134"
+        },
+        {
+          "DocsId": "P:System.Data.OleDb.OleDbConnectionStringBuilder.OleDbServices",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.Manual.notsupported.cs#L22C42-L22C127"
+        },
+        {
+          "DocsId": "P:System.Data.OleDb.OleDbConnectionStringBuilder.Provider",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.Manual.notsupported.cs#L26C40-L26C125"
+        },
+        {
+          "DocsId": "T:System.Data.OleDb.OleDbConnectionStringBuilder.OleDbConnectionStringBuilderConverter",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs"
+        },
+        {
+          "DocsId": "T:System.Data.OleDb.OleDbConnectionStringBuilder.OleDbServicesConverter",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs"
+        },
+        {
+          "DocsId": "T:System.Data.OleDb.OleDbConnectionStringBuilder.OleDbProviderConverter",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs"
+        }
+      ],
+      "DocsId": "T:System.Data.OleDb.OleDbConnectionStringBuilder",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbDataAdapter.#ctor",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L154C9-L154C122"
+        },
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbDataAdapter.#ctor(System.Data.OleDb.OleDbCommand)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L155C9-L155C167"
+        },
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbDataAdapter.#ctor(System.String,System.Data.OleDb.OleDbConnection)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L156C9-L156C200"
+        },
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbDataAdapter.#ctor(System.String,System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L157C9-L157C179"
+        },
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbDataAdapter.CreateRowUpdatedEvent(System.Data.DataRow,System.Data.IDbCommand,System.Data.StatementType,System.Data.Common.DataTableMapping)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L176C244-L176C329"
+        },
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbDataAdapter.CreateRowUpdatingEvent(System.Data.DataRow,System.Data.IDbCommand,System.Data.StatementType,System.Data.Common.DataTableMapping)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L177C246-L177C331"
+        },
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbDataAdapter.Fill(System.Data.DataSet,System.Object,System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L178C96-L178C181"
+        },
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbDataAdapter.Fill(System.Data.DataTable,System.Object)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L179C83-L179C168"
+        },
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbDataAdapter.OnRowUpdated(System.Data.Common.RowUpdatedEventArgs)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L180C94-L180C179"
+        },
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbDataAdapter.OnRowUpdating(System.Data.Common.RowUpdatingEventArgs)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L181C96-L181C181"
+        },
+        {
+          "DocsId": "E:System.Data.OleDb.OleDbDataAdapter.RowUpdated",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L174C88-L174C173"
+        },
+        {
+          "DocsId": "E:System.Data.OleDb.OleDbDataAdapter.RowUpdating",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L175C90-L175C175"
+        },
+        {
+          "DocsId": "P:System.Data.OleDb.OleDbDataAdapter.DeleteCommand",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L160C74-L160C159"
+        },
+        {
+          "DocsId": "P:System.Data.OleDb.OleDbDataAdapter.InsertCommand",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L163C74-L163C159"
+        },
+        {
+          "DocsId": "P:System.Data.OleDb.OleDbDataAdapter.SelectCommand",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L166C74-L166C159"
+        },
+        {
+          "DocsId": "P:System.Data.OleDb.OleDbDataAdapter.UpdateCommand",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L173C74-L173C159"
+        }
+      ],
+      "DocsId": "T:System.Data.OleDb.OleDbDataAdapter",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbDataReader.Close",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L195C40-L195C125"
+        },
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbDataReader.GetBoolean(System.Int32)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L196C56-L196C141"
+        },
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbDataReader.GetByte(System.Int32)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L197C53-L197C138"
+        },
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbDataReader.GetBytes(System.Int32,System.Int64,System.Byte[],System.Int32,System.Int32)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L198C115-L198C200"
+        },
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbDataReader.GetChar(System.Int32)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L199C53-L199C138"
+        },
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbDataReader.GetChars(System.Int32,System.Int64,System.Char[],System.Int32,System.Int32)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L200C115-L200C200"
+        },
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbDataReader.GetData(System.Int32)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L201C77-L201C162"
+        },
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbDataReader.GetDataTypeName(System.Int32)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L202C61-L202C146"
+        },
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbDataReader.GetDateTime(System.Int32)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L203C68-L203C153"
+        },
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbDataReader.GetDbDataReader(System.Int32)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L204C91-L204C176"
+        },
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbDataReader.GetDecimal(System.Int32)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L205C59-L205C144"
+        },
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbDataReader.GetDouble(System.Int32)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L206C57-L206C142"
+        },
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbDataReader.GetEnumerator",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L207C74-L207C159"
+        },
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbDataReader.GetFieldType(System.Int32)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L208C63-L208C148"
+        },
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbDataReader.GetFloat(System.Int32)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L209C55-L209C140"
+        },
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbDataReader.GetGuid(System.Int32)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L210C60-L210C145"
+        },
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbDataReader.GetInt16(System.Int32)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L211C55-L211C140"
+        },
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbDataReader.GetInt32(System.Int32)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L212C53-L212C138"
+        },
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbDataReader.GetInt64(System.Int32)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L213C54-L213C139"
+        },
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbDataReader.GetName(System.Int32)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L214C53-L214C138"
+        },
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbDataReader.GetOrdinal(System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L215C55-L215C140"
+        },
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbDataReader.GetSchemaTable",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L216C67-L216C152"
+        },
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbDataReader.GetString(System.Int32)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L217C57-L217C142"
+        },
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbDataReader.GetTimeSpan(System.Int32)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L218C59-L218C144"
+        },
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbDataReader.GetValue(System.Int32)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L219C56-L219C141"
+        },
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbDataReader.GetValues(System.Object[])",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L220C58-L220C143"
+        },
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbDataReader.IsDBNull(System.Int32)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L221C54-L221C139"
+        },
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbDataReader.NextResult",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L222C45-L222C130"
+        },
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbDataReader.Read",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L223C39-L223C124"
+        },
+        {
+          "DocsId": "P:System.Data.OleDb.OleDbDataReader.Depth",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L187C43-L187C128"
+        },
+        {
+          "DocsId": "P:System.Data.OleDb.OleDbDataReader.FieldCount",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L188C48-L188C133"
+        },
+        {
+          "DocsId": "P:System.Data.OleDb.OleDbDataReader.HasRows",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L189C46-L189C131"
+        },
+        {
+          "DocsId": "P:System.Data.OleDb.OleDbDataReader.IsClosed",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L190C47-L190C132"
+        },
+        {
+          "DocsId": "P:System.Data.OleDb.OleDbDataReader.Item(System.Int32)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L191C56-L191C141"
+        },
+        {
+          "DocsId": "P:System.Data.OleDb.OleDbDataReader.Item(System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L192C58-L192C143"
+        },
+        {
+          "DocsId": "P:System.Data.OleDb.OleDbDataReader.RecordsAffected",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L193C53-L193C138"
+        },
+        {
+          "DocsId": "P:System.Data.OleDb.OleDbDataReader.VisibleFieldCount",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L194C55-L194C140"
+        }
+      ],
+      "DocsId": "T:System.Data.OleDb.OleDbDataReader",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbEnumerator.#ctor",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L227C9-L227C121"
+        },
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbEnumerator.GetElements",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L228C54-L228C139"
+        },
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbEnumerator.GetEnumerator(System.Type)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L229C91-L229C176"
+        },
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbEnumerator.GetRootEnumerator",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L230C79-L230C164"
+        }
+      ],
+      "DocsId": "T:System.Data.OleDb.OleDbEnumerator",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbError.ToString",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L239C45-L239C130"
+        },
+        {
+          "DocsId": "P:System.Data.OleDb.OleDbError.Message",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L235C39-L235C124"
+        },
+        {
+          "DocsId": "P:System.Data.OleDb.OleDbError.NativeError",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L236C40-L236C125"
+        },
+        {
+          "DocsId": "P:System.Data.OleDb.OleDbError.Source",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L237C38-L237C123"
+        },
+        {
+          "DocsId": "P:System.Data.OleDb.OleDbError.SQLState",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L238C40-L238C125"
+        }
+      ],
+      "DocsId": "T:System.Data.OleDb.OleDbError",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbErrorCollection.CopyTo(System.Array,System.Int32)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L249C61-L249C146"
+        },
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbErrorCollection.CopyTo(System.Data.OleDb.OleDbError[],System.Int32)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L250C79-L250C164"
+        },
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbErrorCollection.GetEnumerator",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L251C65-L251C150"
+        },
+        {
+          "DocsId": "P:System.Data.OleDb.OleDbErrorCollection.Count",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L245C34-L245C119"
+        },
+        {
+          "DocsId": "P:System.Data.OleDb.OleDbErrorCollection.Item(System.Int32)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L246C69-L246C154"
+        }
+      ],
+      "DocsId": "T:System.Data.OleDb.OleDbErrorCollection",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbException.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L258C152-L258C237"
+        },
+        {
+          "DocsId": "P:System.Data.OleDb.OleDbException.Errors",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L257C70-L257C155"
+        },
+        {
+          "DocsId": "P:System.Data.OleDb.OleDbException.ErrorCode",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.Manual.notsupported.cs#L35C47-L35C132"
+        },
+        {
+          "DocsId": "T:System.Data.OleDb.OleDbException.ErrorCodeConverter",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs"
+        }
+      ],
+      "DocsId": "T:System.Data.OleDb.OleDbException",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbFactory.CreateCommand",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L264C72-L264C157"
+        },
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbFactory.CreateCommandBuilder",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L265C86-L265C171"
+        },
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbFactory.CreateConnection",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L266C78-L266C163"
+        },
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbFactory.CreateConnectionStringBuilder",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L267C104-L267C189"
+        },
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbFactory.CreateDataAdapter",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L268C80-L268C165"
+        },
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbFactory.CreateParameter",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L269C76-L269C161"
+        },
+        {
+          "DocsId": "F:System.Data.OleDb.OleDbFactory.Instance",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs"
+        }
+      ],
+      "DocsId": "T:System.Data.OleDb.OleDbFactory",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbInfoMessageEventArgs.ToString",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L278C45-L278C130"
+        },
+        {
+          "DocsId": "P:System.Data.OleDb.OleDbInfoMessageEventArgs.ErrorCode",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L274C38-L274C123"
+        },
+        {
+          "DocsId": "P:System.Data.OleDb.OleDbInfoMessageEventArgs.Errors",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L275C70-L275C155"
+        },
+        {
+          "DocsId": "P:System.Data.OleDb.OleDbInfoMessageEventArgs.Message",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L276C39-L276C124"
+        },
+        {
+          "DocsId": "P:System.Data.OleDb.OleDbInfoMessageEventArgs.Source",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L277C39-L277C124"
+        }
+      ],
+      "DocsId": "T:System.Data.OleDb.OleDbInfoMessageEventArgs",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbInfoMessageEventHandler.#ctor(System.Object,System.IntPtr)",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbInfoMessageEventHandler.Invoke(System.Object,System.Data.OleDb.OleDbInfoMessageEventArgs)",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbInfoMessageEventHandler.BeginInvoke(System.Object,System.Data.OleDb.OleDbInfoMessageEventArgs,System.AsyncCallback,System.Object)",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbInfoMessageEventHandler.EndInvoke(System.IAsyncResult)",
+          "SourceLink": ""
+        }
+      ],
+      "DocsId": "T:System.Data.OleDb.OleDbInfoMessageEventHandler",
+      "SourceLink": ""
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "F:System.Data.OleDb.OleDbLiteral.value__",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Data.OleDb.OleDbLiteral.Invalid",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Data.OleDb.OleDbLiteral.Binary_Literal",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Data.OleDb.OleDbLiteral.Catalog_Name",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Data.OleDb.OleDbLiteral.Catalog_Separator",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Data.OleDb.OleDbLiteral.Char_Literal",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Data.OleDb.OleDbLiteral.Column_Alias",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Data.OleDb.OleDbLiteral.Column_Name",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Data.OleDb.OleDbLiteral.Correlation_Name",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Data.OleDb.OleDbLiteral.Cursor_Name",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Data.OleDb.OleDbLiteral.Escape_Percent_Prefix",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Data.OleDb.OleDbLiteral.Escape_Underscore_Prefix",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Data.OleDb.OleDbLiteral.Index_Name",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Data.OleDb.OleDbLiteral.Like_Percent",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Data.OleDb.OleDbLiteral.Like_Underscore",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Data.OleDb.OleDbLiteral.Procedure_Name",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Data.OleDb.OleDbLiteral.Quote_Prefix",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Data.OleDb.OleDbLiteral.Schema_Name",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Data.OleDb.OleDbLiteral.Table_Name",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Data.OleDb.OleDbLiteral.Text_Command",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Data.OleDb.OleDbLiteral.User_Name",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Data.OleDb.OleDbLiteral.View_Name",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Data.OleDb.OleDbLiteral.Cube_Name",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Data.OleDb.OleDbLiteral.Dimension_Name",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Data.OleDb.OleDbLiteral.Hierarchy_Name",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Data.OleDb.OleDbLiteral.Level_Name",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Data.OleDb.OleDbLiteral.Member_Name",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Data.OleDb.OleDbLiteral.Property_Name",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Data.OleDb.OleDbLiteral.Schema_Separator",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Data.OleDb.OleDbLiteral.Quote_Suffix",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Data.OleDb.OleDbLiteral.Escape_Percent_Suffix",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Data.OleDb.OleDbLiteral.Escape_Underscore_Suffix",
+          "SourceLink": ""
+        }
+      ],
+      "DocsId": "T:System.Data.OleDb.OleDbLiteral",
+      "SourceLink": ""
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "F:System.Data.OleDb.OleDbMetaDataCollectionNames.Catalogs",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Data.OleDb.OleDbMetaDataCollectionNames.Collations",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Data.OleDb.OleDbMetaDataCollectionNames.Columns",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Data.OleDb.OleDbMetaDataCollectionNames.Indexes",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Data.OleDb.OleDbMetaDataCollectionNames.ProcedureColumns",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Data.OleDb.OleDbMetaDataCollectionNames.ProcedureParameters",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Data.OleDb.OleDbMetaDataCollectionNames.Procedures",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Data.OleDb.OleDbMetaDataCollectionNames.Tables",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Data.OleDb.OleDbMetaDataCollectionNames.Views",
+          "SourceLink": ""
+        }
+      ],
+      "DocsId": "T:System.Data.OleDb.OleDbMetaDataCollectionNames",
+      "SourceLink": ""
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "F:System.Data.OleDb.OleDbMetaDataColumnNames.BooleanFalseLiteral",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Data.OleDb.OleDbMetaDataColumnNames.BooleanTrueLiteral",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Data.OleDb.OleDbMetaDataColumnNames.DateTimeDigits",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Data.OleDb.OleDbMetaDataColumnNames.NativeDataType",
+          "SourceLink": ""
+        }
+      ],
+      "DocsId": "T:System.Data.OleDb.OleDbMetaDataColumnNames",
+      "SourceLink": ""
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbParameter.#ctor",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L336C9-L336C120"
+        },
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbParameter.#ctor(System.String,System.Data.OleDb.OleDbType)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L337C9-L337C170"
+        },
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbParameter.#ctor(System.String,System.Data.OleDb.OleDbType,System.Int32)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L338C9-L338C180"
+        },
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbParameter.#ctor(System.String,System.Data.OleDb.OleDbType,System.Int32,System.Data.ParameterDirection,System.Boolean,System.Byte,System.Byte,System.String,System.Data.DataRowVersion,System.Object)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L339C9-L339C347"
+        },
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbParameter.#ctor(System.String,System.Data.OleDb.OleDbType,System.Int32,System.Data.ParameterDirection,System.Byte,System.Byte,System.String,System.Data.DataRowVersion,System.Boolean,System.Object)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L340C9-L340C366"
+        },
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbParameter.#ctor(System.String,System.Data.OleDb.OleDbType,System.Int32,System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L341C9-L341C199"
+        },
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbParameter.#ctor(System.String,System.Object)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L342C9-L342C147"
+        },
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbParameter.ResetDbType",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L364C46-L364C131"
+        },
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbParameter.ResetOleDbType",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L365C40-L365C125"
+        },
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbParameter.ToString",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L367C45-L367C130"
+        },
+        {
+          "DocsId": "P:System.Data.OleDb.OleDbParameter.DbType",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L343C59-L343C144"
+        },
+        {
+          "DocsId": "P:System.Data.OleDb.OleDbParameter.Direction",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L345C74-L345C159"
+        },
+        {
+          "DocsId": "P:System.Data.OleDb.OleDbParameter.IsNullable",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L346C49-L346C134"
+        },
+        {
+          "DocsId": "P:System.Data.OleDb.OleDbParameter.OleDbType",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L349C62-L349C147"
+        },
+        {
+          "DocsId": "P:System.Data.OleDb.OleDbParameter.ParameterName",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L351C54-L351C139"
+        },
+        {
+          "DocsId": "P:System.Data.OleDb.OleDbParameter.Precision",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L353C43-L353C128"
+        },
+        {
+          "DocsId": "P:System.Data.OleDb.OleDbParameter.Scale",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L355C39-L355C124"
+        },
+        {
+          "DocsId": "P:System.Data.OleDb.OleDbParameter.Size",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L356C42-L356C127"
+        },
+        {
+          "DocsId": "P:System.Data.OleDb.OleDbParameter.SourceColumn",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L358C53-L358C138"
+        },
+        {
+          "DocsId": "P:System.Data.OleDb.OleDbParameter.SourceColumnNullMapping",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L359C62-L359C147"
+        },
+        {
+          "DocsId": "P:System.Data.OleDb.OleDbParameter.SourceVersion",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L360C74-L360C159"
+        },
+        {
+          "DocsId": "P:System.Data.OleDb.OleDbParameter.Value",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L363C47-L363C132"
+        },
+        {
+          "DocsId": "T:System.Data.OleDb.OleDbParameter.OleDbParameterConverter",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs"
+        }
+      ],
+      "DocsId": "T:System.Data.OleDb.OleDbParameter",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbParameterCollection.Add(System.Data.OleDb.OleDbParameter)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L384C95-L384C180"
+        },
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbParameterCollection.Add(System.Object)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L385C49-L385C134"
+        },
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbParameterCollection.Add(System.String,System.Data.OleDb.OleDbType)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L386C117-L386C202"
+        },
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbParameterCollection.Add(System.String,System.Data.OleDb.OleDbType,System.Int32)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L387C127-L387C212"
+        },
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbParameterCollection.Add(System.String,System.Data.OleDb.OleDbType,System.Int32,System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L388C149-L388C234"
+        },
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbParameterCollection.Add(System.String,System.Object)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L389C93-L389C178"
+        },
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbParameterCollection.AddRange(System.Array)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L390C62-L390C147"
+        },
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbParameterCollection.AddRange(System.Data.OleDb.OleDbParameter[])",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L391C75-L391C160"
+        },
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbParameterCollection.AddWithValue(System.String,System.Object)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L392C102-L392C187"
+        },
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbParameterCollection.Clear",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L393C40-L393C125"
+        },
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbParameterCollection.Contains(System.Data.OleDb.OleDbParameter)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L394C72-L394C157"
+        },
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbParameterCollection.Contains(System.Object)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L395C55-L395C140"
+        },
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbParameterCollection.Contains(System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L396C55-L396C140"
+        },
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbParameterCollection.CopyTo(System.Array,System.Int32)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L397C70-L397C155"
+        },
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbParameterCollection.CopyTo(System.Data.OleDb.OleDbParameter[],System.Int32)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L398C83-L398C168"
+        },
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbParameterCollection.GetEnumerator",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L399C74-L399C159"
+        },
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbParameterCollection.GetParameter(System.Int32)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L400C85-L400C170"
+        },
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbParameterCollection.GetParameter(System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L401C96-L401C181"
+        },
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbParameterCollection.IndexOf(System.Data.OleDb.OleDbParameter)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L402C70-L402C155"
+        },
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbParameterCollection.IndexOf(System.Object)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L403C53-L403C138"
+        },
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbParameterCollection.IndexOf(System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L404C61-L404C146"
+        },
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbParameterCollection.Insert(System.Int32,System.Data.OleDb.OleDbParameter)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L405C81-L405C166"
+        },
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbParameterCollection.Insert(System.Int32,System.Object)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L406C64-L406C149"
+        },
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbParameterCollection.Remove(System.Data.OleDb.OleDbParameter)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L407C70-L407C155"
+        },
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbParameterCollection.Remove(System.Object)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L408C53-L408C138"
+        },
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbParameterCollection.RemoveAt(System.Int32)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L409C52-L409C137"
+        },
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbParameterCollection.RemoveAt(System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L410C63-L410C148"
+        },
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbParameterCollection.SetParameter(System.Int32,System.Data.Common.DbParameter)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L411C97-L411C182"
+        },
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbParameterCollection.SetParameter(System.String,System.Data.Common.DbParameter)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L412C108-L412C193"
+        },
+        {
+          "DocsId": "P:System.Data.OleDb.OleDbParameterCollection.Count",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L373C43-L373C128"
+        },
+        {
+          "DocsId": "P:System.Data.OleDb.OleDbParameterCollection.IsFixedSize",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L374C50-L374C135"
+        },
+        {
+          "DocsId": "P:System.Data.OleDb.OleDbParameterCollection.IsReadOnly",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L375C49-L375C134"
+        },
+        {
+          "DocsId": "P:System.Data.OleDb.OleDbParameterCollection.IsSynchronized",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L376C53-L376C138"
+        },
+        {
+          "DocsId": "P:System.Data.OleDb.OleDbParameterCollection.Item(System.Int32)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L379C77-L379C162"
+        },
+        {
+          "DocsId": "P:System.Data.OleDb.OleDbParameterCollection.Item(System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L382C88-L382C173"
+        },
+        {
+          "DocsId": "P:System.Data.OleDb.OleDbParameterCollection.SyncRoot",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L383C49-L383C134"
+        }
+      ],
+      "DocsId": "T:System.Data.OleDb.OleDbParameterCollection",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbRowUpdatedEventArgs.#ctor(System.Data.DataRow,System.Data.IDbCommand,System.Data.StatementType,System.Data.Common.DataTableMapping)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L416C196-L416C434"
+        },
+        {
+          "DocsId": "P:System.Data.OleDb.OleDbRowUpdatedEventArgs.Command",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L417C68-L417C153"
+        }
+      ],
+      "DocsId": "T:System.Data.OleDb.OleDbRowUpdatedEventArgs",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbRowUpdatedEventHandler.#ctor(System.Object,System.IntPtr)",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbRowUpdatedEventHandler.Invoke(System.Object,System.Data.OleDb.OleDbRowUpdatedEventArgs)",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbRowUpdatedEventHandler.BeginInvoke(System.Object,System.Data.OleDb.OleDbRowUpdatedEventArgs,System.AsyncCallback,System.Object)",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbRowUpdatedEventHandler.EndInvoke(System.IAsyncResult)",
+          "SourceLink": ""
+        }
+      ],
+      "DocsId": "T:System.Data.OleDb.OleDbRowUpdatedEventHandler",
+      "SourceLink": ""
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbRowUpdatingEventArgs.#ctor(System.Data.DataRow,System.Data.IDbCommand,System.Data.StatementType,System.Data.Common.DataTableMapping)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L422C197-L422C435"
+        },
+        {
+          "DocsId": "P:System.Data.OleDb.OleDbRowUpdatingEventArgs.BaseCommand",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L423C72-L423C157"
+        },
+        {
+          "DocsId": "P:System.Data.OleDb.OleDbRowUpdatingEventArgs.Command",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L424C68-L424C153"
+        }
+      ],
+      "DocsId": "T:System.Data.OleDb.OleDbRowUpdatingEventArgs",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbRowUpdatingEventHandler.#ctor(System.Object,System.IntPtr)",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbRowUpdatingEventHandler.Invoke(System.Object,System.Data.OleDb.OleDbRowUpdatingEventArgs)",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbRowUpdatingEventHandler.BeginInvoke(System.Object,System.Data.OleDb.OleDbRowUpdatingEventArgs,System.AsyncCallback,System.Object)",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbRowUpdatingEventHandler.EndInvoke(System.IAsyncResult)",
+          "SourceLink": ""
+        }
+      ],
+      "DocsId": "T:System.Data.OleDb.OleDbRowUpdatingEventHandler",
+      "SourceLink": ""
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbSchemaGuid.#ctor",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L466C9-L466C121"
+        },
+        {
+          "DocsId": "F:System.Data.OleDb.OleDbSchemaGuid.Assertions",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Data.OleDb.OleDbSchemaGuid.Catalogs",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Data.OleDb.OleDbSchemaGuid.Character_Sets",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Data.OleDb.OleDbSchemaGuid.Check_Constraints",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Data.OleDb.OleDbSchemaGuid.Check_Constraints_By_Table",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Data.OleDb.OleDbSchemaGuid.Collations",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Data.OleDb.OleDbSchemaGuid.Columns",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Data.OleDb.OleDbSchemaGuid.Column_Domain_Usage",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Data.OleDb.OleDbSchemaGuid.Column_Privileges",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Data.OleDb.OleDbSchemaGuid.Constraint_Column_Usage",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Data.OleDb.OleDbSchemaGuid.Constraint_Table_Usage",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Data.OleDb.OleDbSchemaGuid.DbInfoKeywords",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Data.OleDb.OleDbSchemaGuid.DbInfoLiterals",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Data.OleDb.OleDbSchemaGuid.Foreign_Keys",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Data.OleDb.OleDbSchemaGuid.Indexes",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Data.OleDb.OleDbSchemaGuid.Key_Column_Usage",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Data.OleDb.OleDbSchemaGuid.Primary_Keys",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Data.OleDb.OleDbSchemaGuid.Procedures",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Data.OleDb.OleDbSchemaGuid.Procedure_Columns",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Data.OleDb.OleDbSchemaGuid.Procedure_Parameters",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Data.OleDb.OleDbSchemaGuid.Provider_Types",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Data.OleDb.OleDbSchemaGuid.Referential_Constraints",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Data.OleDb.OleDbSchemaGuid.SchemaGuids",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Data.OleDb.OleDbSchemaGuid.Schemata",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Data.OleDb.OleDbSchemaGuid.Sql_Languages",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Data.OleDb.OleDbSchemaGuid.Statistics",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Data.OleDb.OleDbSchemaGuid.Tables",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Data.OleDb.OleDbSchemaGuid.Tables_Info",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Data.OleDb.OleDbSchemaGuid.Table_Constraints",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Data.OleDb.OleDbSchemaGuid.Table_Privileges",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Data.OleDb.OleDbSchemaGuid.Table_Statistics",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Data.OleDb.OleDbSchemaGuid.Translations",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Data.OleDb.OleDbSchemaGuid.Trustee",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Data.OleDb.OleDbSchemaGuid.Usage_Privileges",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Data.OleDb.OleDbSchemaGuid.Views",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Data.OleDb.OleDbSchemaGuid.View_Column_Usage",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Data.OleDb.OleDbSchemaGuid.View_Table_Usage",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs"
+        }
+      ],
+      "DocsId": "T:System.Data.OleDb.OleDbSchemaGuid",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbTransaction.Begin",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L474C61-L474C146"
+        },
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbTransaction.Begin(System.Data.IsolationLevel)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L475C96-L475C181"
+        },
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbTransaction.Commit",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L476C41-L476C126"
+        },
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbTransaction.Dispose(System.Boolean)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L477C59-L477C60"
+        },
+        {
+          "DocsId": "M:System.Data.OleDb.OleDbTransaction.Rollback",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L478C43-L478C128"
+        },
+        {
+          "DocsId": "P:System.Data.OleDb.OleDbTransaction.Connection",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L471C74-L471C159"
+        },
+        {
+          "DocsId": "P:System.Data.OleDb.OleDbTransaction.DbConnection",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L472C82-L472C167"
+        },
+        {
+          "DocsId": "P:System.Data.OleDb.OleDbTransaction.IsolationLevel",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs#L473C75-L473C160"
+        }
+      ],
+      "DocsId": "T:System.Data.OleDb.OleDbTransaction",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Data.OleDb/net6.0-Release/System.Data.OleDb.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "F:System.Data.OleDb.OleDbType.value__",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Data.OleDb.OleDbType.Empty",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Data.OleDb.OleDbType.SmallInt",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Data.OleDb.OleDbType.Integer",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Data.OleDb.OleDbType.Single",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Data.OleDb.OleDbType.Double",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Data.OleDb.OleDbType.Currency",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Data.OleDb.OleDbType.Date",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Data.OleDb.OleDbType.BSTR",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Data.OleDb.OleDbType.IDispatch",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Data.OleDb.OleDbType.Error",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Data.OleDb.OleDbType.Boolean",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Data.OleDb.OleDbType.Variant",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Data.OleDb.OleDbType.IUnknown",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Data.OleDb.OleDbType.Decimal",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Data.OleDb.OleDbType.TinyInt",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Data.OleDb.OleDbType.UnsignedTinyInt",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Data.OleDb.OleDbType.UnsignedSmallInt",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Data.OleDb.OleDbType.UnsignedInt",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Data.OleDb.OleDbType.BigInt",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Data.OleDb.OleDbType.UnsignedBigInt",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Data.OleDb.OleDbType.Filetime",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Data.OleDb.OleDbType.Guid",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Data.OleDb.OleDbType.Binary",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Data.OleDb.OleDbType.Char",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Data.OleDb.OleDbType.WChar",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Data.OleDb.OleDbType.Numeric",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Data.OleDb.OleDbType.DBDate",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Data.OleDb.OleDbType.DBTime",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Data.OleDb.OleDbType.DBTimeStamp",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Data.OleDb.OleDbType.PropVariant",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Data.OleDb.OleDbType.VarNumeric",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Data.OleDb.OleDbType.VarChar",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Data.OleDb.OleDbType.LongVarChar",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Data.OleDb.OleDbType.VarWChar",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Data.OleDb.OleDbType.LongVarWChar",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Data.OleDb.OleDbType.VarBinary",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Data.OleDb.OleDbType.LongVarBinary",
+          "SourceLink": ""
+        }
+      ],
+      "DocsId": "T:System.Data.OleDb.OleDbType",
+      "SourceLink": ""
+    }
+  ]
+}

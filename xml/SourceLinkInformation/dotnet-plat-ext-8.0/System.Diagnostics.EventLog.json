@@ -1,0 +1,1770 @@
+{
+  "Assembly": "System.Diagnostics.EventLog",
+  "GUID": "E863665433494887BF2B32BDEBEF7190FFFFFFFF",
+  "Types": [
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.Diagnostics.EntryWrittenEventArgs.#ctor",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L11C9-L11C130"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.EntryWrittenEventArgs.#ctor(System.Diagnostics.EventLogEntry)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L12C9-L12C168"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.EntryWrittenEventArgs.Entry",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L13C63-L13C151"
+        }
+      ],
+      "DocsId": "T:System.Diagnostics.EntryWrittenEventArgs",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.Diagnostics.EntryWrittenEventHandler.#ctor(System.Object,System.IntPtr)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.EntryWrittenEventHandler.Invoke(System.Object,System.Diagnostics.EntryWrittenEventArgs)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.EntryWrittenEventHandler.BeginInvoke(System.Object,System.Diagnostics.EntryWrittenEventArgs,System.AsyncCallback,System.Object)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.EntryWrittenEventHandler.EndInvoke(System.IAsyncResult)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs"
+        }
+      ],
+      "DocsId": "T:System.Diagnostics.EntryWrittenEventHandler",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.Diagnostics.EventInstance.#ctor(System.Int64,System.Int32)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L18C9-L18C153"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.EventInstance.#ctor(System.Int64,System.Int32,System.Diagnostics.EventLogEntryType)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L19C9-L19C201"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.EventInstance.CategoryId",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L20C39-L20C127"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.EventInstance.EntryType",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L21C71-L21C159"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.EventInstance.InstanceId",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L22C40-L22C128"
+        }
+      ],
+      "DocsId": "T:System.Diagnostics.EventInstance",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.Diagnostics.EventLog.#ctor",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L27C9-L27C117"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.EventLog.#ctor(System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L28C9-L28C131"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.EventLog.#ctor(System.String,System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L29C9-L29C151"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.EventLog.#ctor(System.String,System.String,System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L30C9-L30C166"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.EventLog.BeginInit",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L62C35-L62C123"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.EventLog.Clear",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L63C31-L63C119"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.EventLog.Close",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L64C31-L64C119"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.EventLog.CreateEventSource(System.Diagnostics.EventSourceCreationData)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L65C103-L65C191"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.EventLog.CreateEventSource(System.String,System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L66C79-L66C167"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.EventLog.CreateEventSource(System.String,System.String,System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L68C99-L68C187"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.EventLog.Delete(System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L69C53-L69C141"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.EventLog.Delete(System.String,System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L70C73-L70C161"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.EventLog.DeleteEventSource(System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L71C63-L71C151"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.EventLog.DeleteEventSource(System.String,System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L72C83-L72C171"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.EventLog.Dispose(System.Boolean)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L73C59-L73C60"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.EventLog.EndInit",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L74C33-L74C121"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.EventLog.Exists(System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L75C53-L75C141"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.EventLog.Exists(System.String,System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L76C73-L76C161"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.EventLog.GetEventLogs",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L77C70-L77C158"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.EventLog.GetEventLogs(System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L78C88-L78C176"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.EventLog.LogNameFromSourceName(System.String,System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L79C89-L79C177"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.EventLog.ModifyOverflowPolicy(System.Diagnostics.OverflowAction,System.Int32)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L80C105-L80C193"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.EventLog.RegisterDisplayName(System.String,System.Int64)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L81C81-L81C169"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.EventLog.SourceExists(System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L82C58-L82C146"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.EventLog.SourceExists(System.String,System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L83C78-L83C166"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.EventLog.WriteEntry(System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L84C50-L84C138"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.EventLog.WriteEntry(System.String,System.Diagnostics.EventLogEntryType)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L85C93-L85C181"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.EventLog.WriteEntry(System.String,System.Diagnostics.EventLogEntryType,System.Int32)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L86C106-L86C194"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.EventLog.WriteEntry(System.String,System.Diagnostics.EventLogEntryType,System.Int32,System.Int16)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L87C122-L87C210"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.EventLog.WriteEntry(System.String,System.Diagnostics.EventLogEntryType,System.Int32,System.Int16,System.Byte[])",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L88C138-L88C226"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.EventLog.WriteEntry(System.String,System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L89C72-L89C160"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.EventLog.WriteEntry(System.String,System.String,System.Diagnostics.EventLogEntryType)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L90C115-L90C203"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.EventLog.WriteEntry(System.String,System.String,System.Diagnostics.EventLogEntryType,System.Int32)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L91C128-L91C216"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.EventLog.WriteEntry(System.String,System.String,System.Diagnostics.EventLogEntryType,System.Int32,System.Int16)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L92C144-L92C232"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.EventLog.WriteEntry(System.String,System.String,System.Diagnostics.EventLogEntryType,System.Int32,System.Int16,System.Byte[])",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L93C160-L93C248"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.EventLog.WriteEvent(System.Diagnostics.EventInstance,System.Byte[],System.Object[])",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L94C114-L94C202"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.EventLog.WriteEvent(System.Diagnostics.EventInstance,System.Object[])",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L95C101-L95C189"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.EventLog.WriteEvent(System.String,System.Diagnostics.EventInstance,System.Byte[],System.Object[])",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L96C136-L96C224"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.EventLog.WriteEvent(System.String,System.Diagnostics.EventInstance,System.Object[])",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L97C123-L97C211"
+        },
+        {
+          "DocsId": "E:System.Diagnostics.EventLog.EntryWritten",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L61C87-L61C175"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.EventLog.EnableRaisingEvents",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L33C49-L33C137"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.EventLog.Entries",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L36C75-L36C163"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.EventLog.Log",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L40C35-L40C123"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.EventLog.LogDisplayName",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L42C46-L42C134"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.EventLog.MachineName",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L46C43-L46C131"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.EventLog.MaximumKilobytes",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L49C46-L49C134"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.EventLog.MinimumRetentionDays",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L51C49-L51C137"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.EventLog.OverflowAction",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L53C73-L53C161"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.EventLog.Source",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L57C38-L57C126"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.EventLog.SynchronizingObject",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L60C85-L60C173"
+        }
+      ],
+      "DocsId": "T:System.Diagnostics.EventLog",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.Diagnostics.EventLogEntry.Equals(System.Diagnostics.EventLogEntry)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L120C75-L120C163"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.EventLogEntry.Category",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L104C40-L104C128"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.EventLogEntry.CategoryNumber",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L105C45-L105C133"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.EventLogEntry.Data",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L106C36-L106C124"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.EventLogEntry.EntryType",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L107C71-L107C159"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.EventLogEntry.EventID",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L109C36-L109C124"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.EventLogEntry.Index",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L110C34-L110C122"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.EventLogEntry.InstanceId",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L111C40-L111C128"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.EventLogEntry.MachineName",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L112C43-L112C131"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.EventLogEntry.Message",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L114C39-L114C127"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.EventLogEntry.ReplacementStrings",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L115C52-L115C140"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.EventLogEntry.Source",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L116C38-L116C126"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.EventLogEntry.TimeGenerated",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L117C54-L117C142"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.EventLogEntry.TimeWritten",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L118C52-L118C140"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.EventLogEntry.UserName",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L119C40-L119C128"
+        }
+      ],
+      "DocsId": "T:System.Diagnostics.EventLogEntry",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.Diagnostics.EventLogEntryCollection.CopyTo(System.Diagnostics.EventLogEntry[],System.Int32)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L130C85-L130C173"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.EventLogEntryCollection.GetEnumerator",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L131C65-L131C153"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.EventLogEntryCollection.Count",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L126C34-L126C122"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.EventLogEntryCollection.Item(System.Int32)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L127C81-L127C169"
+        }
+      ],
+      "DocsId": "T:System.Diagnostics.EventLogEntryCollection",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "F:System.Diagnostics.EventLogEntryType.value__",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Diagnostics.EventLogEntryType.Error",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Diagnostics.EventLogEntryType.Warning",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Diagnostics.EventLogEntryType.Information",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Diagnostics.EventLogEntryType.SuccessAudit",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Diagnostics.EventLogEntryType.FailureAudit",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs"
+        }
+      ],
+      "DocsId": "T:System.Diagnostics.EventLogEntryType",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.Diagnostics.EventLogTraceListener.#ctor",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L144C9-L144C130"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.EventLogTraceListener.#ctor(System.Diagnostics.EventLog)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L145C9-L145C166"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.EventLogTraceListener.#ctor(System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L146C9-L146C143"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.EventLogTraceListener.Close",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L149C40-L149C128"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.EventLogTraceListener.Dispose(System.Boolean)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L150C59-L150C60"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.EventLogTraceListener.TraceData(System.Diagnostics.TraceEventCache,System.String,System.Diagnostics.TraceEventType,System.Int32,System.Object)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L152C169-L152C257"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.EventLogTraceListener.TraceData(System.Diagnostics.TraceEventCache,System.String,System.Diagnostics.TraceEventType,System.Int32,System.Object[])",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L154C178-L154C266"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.EventLogTraceListener.TraceEvent(System.Diagnostics.TraceEventCache,System.String,System.Diagnostics.TraceEventType,System.Int32,System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L156C173-L156C261"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.EventLogTraceListener.TraceEvent(System.Diagnostics.TraceEventCache,System.String,System.Diagnostics.TraceEventType,System.Int32,System.String,System.Object[])",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L158C194-L158C282"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.EventLogTraceListener.Write(System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L159C54-L159C142"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.EventLogTraceListener.WriteLine(System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L160C58-L160C146"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.EventLogTraceListener.EventLog",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L147C61-L147C149"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.EventLogTraceListener.Name",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L148C45-L148C133"
+        }
+      ],
+      "DocsId": "T:System.Diagnostics.EventLogTraceListener",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.Diagnostics.EventSourceCreationData.#ctor(System.String,System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L164C9-L164C161"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.EventSourceCreationData.CategoryCount",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L165C42-L165C130"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.EventSourceCreationData.CategoryResourceFile",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L166C52-L166C140"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.EventSourceCreationData.LogName",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L167C39-L167C127"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.EventSourceCreationData.MachineName",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L168C43-L168C131"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.EventSourceCreationData.MessageResourceFile",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L169C51-L169C139"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.EventSourceCreationData.ParameterResourceFile",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L170C53-L170C141"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.EventSourceCreationData.Source",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L171C38-L171C126"
+        }
+      ],
+      "DocsId": "T:System.Diagnostics.EventSourceCreationData",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "F:System.Diagnostics.OverflowAction.value__",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Diagnostics.OverflowAction.DoNotOverwrite",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Diagnostics.OverflowAction.OverwriteAsNeeded",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Diagnostics.OverflowAction.OverwriteOlder",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs"
+        }
+      ],
+      "DocsId": "T:System.Diagnostics.OverflowAction",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.Diagnostics.Eventing.Reader.EventBookmark.#ctor(System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.netcoreapp.notsupported.cs#L11C9-L11C140"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.Eventing.Reader.EventBookmark.BookmarkXml",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.netcoreapp.notsupported.cs#L12C43-L12C131"
+        }
+      ],
+      "DocsId": "T:System.Diagnostics.Eventing.Reader.EventBookmark",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "P:System.Diagnostics.Eventing.Reader.EventKeyword.DisplayName",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L189C43-L189C131"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.Eventing.Reader.EventKeyword.Name",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L190C36-L190C124"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.Eventing.Reader.EventKeyword.Value",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L191C35-L191C123"
+        }
+      ],
+      "DocsId": "T:System.Diagnostics.Eventing.Reader.EventKeyword",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "P:System.Diagnostics.Eventing.Reader.EventLevel.DisplayName",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L196C43-L196C131"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.Eventing.Reader.EventLevel.Name",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L197C36-L197C124"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.Eventing.Reader.EventLevel.Value",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L198C34-L198C122"
+        }
+      ],
+      "DocsId": "T:System.Diagnostics.Eventing.Reader.EventLevel",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.Diagnostics.Eventing.Reader.EventLogConfiguration.#ctor(System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L202C9-L202C144"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.Eventing.Reader.EventLogConfiguration.#ctor(System.String,System.Diagnostics.Eventing.Reader.EventLogSession)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L203C9-L203C204"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.Eventing.Reader.EventLogConfiguration.Dispose",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L222C33-L222C34"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.Eventing.Reader.EventLogConfiguration.Dispose(System.Boolean)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L223C58-L223C59"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.Eventing.Reader.EventLogConfiguration.SaveChanges",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L224C37-L224C125"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.Eventing.Reader.EventLogConfiguration.IsClassicLog",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L204C42-L204C130"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.Eventing.Reader.EventLogConfiguration.IsEnabled",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L205C39-L205C127"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.Eventing.Reader.EventLogConfiguration.LogFilePath",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L206C43-L206C131"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.Eventing.Reader.EventLogConfiguration.LogIsolation",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L207C90-L207C178"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.Eventing.Reader.EventLogConfiguration.LogMode",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L208C80-L208C168"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.Eventing.Reader.EventLogConfiguration.LogName",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L209C39-L209C127"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.Eventing.Reader.EventLogConfiguration.LogType",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L210C80-L210C168"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.Eventing.Reader.EventLogConfiguration.MaximumSizeInBytes",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L211C48-L211C136"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.Eventing.Reader.EventLogConfiguration.OwningProviderName",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L212C50-L212C138"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.Eventing.Reader.EventLogConfiguration.ProviderBufferSize",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L213C48-L213C136"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.Eventing.Reader.EventLogConfiguration.ProviderControlGuid",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L214C57-L214C145"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.Eventing.Reader.EventLogConfiguration.ProviderKeywords",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L215C47-L215C135"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.Eventing.Reader.EventLogConfiguration.ProviderLatency",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L216C45-L216C133"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.Eventing.Reader.EventLogConfiguration.ProviderLevel",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L217C43-L217C131"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.Eventing.Reader.EventLogConfiguration.ProviderMaximumNumberOfBuffers",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L218C60-L218C148"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.Eventing.Reader.EventLogConfiguration.ProviderMinimumNumberOfBuffers",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L219C60-L219C148"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.Eventing.Reader.EventLogConfiguration.ProviderNames",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L220C85-L220C173"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.Eventing.Reader.EventLogConfiguration.SecurityDescriptor",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L221C50-L221C138"
+        }
+      ],
+      "DocsId": "T:System.Diagnostics.Eventing.Reader.EventLogConfiguration",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.Diagnostics.Eventing.Reader.EventLogException.#ctor",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L228C9-L228C126"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.Eventing.Reader.EventLogException.#ctor(System.Int32)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L229C9-L229C142"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.Eventing.Reader.EventLogException.#ctor(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L234C9-L234C257"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.Eventing.Reader.EventLogException.#ctor(System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L235C9-L235C140"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.Eventing.Reader.EventLogException.#ctor(System.String,System.Exception)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L236C9-L236C173"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.Eventing.Reader.EventLogException.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L242C154-L242C242"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.Eventing.Reader.EventLogException.Message",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L237C48-L237C136"
+        }
+      ],
+      "DocsId": "T:System.Diagnostics.Eventing.Reader.EventLogException",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "P:System.Diagnostics.Eventing.Reader.EventLogInformation.Attributes",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L247C40-L247C128"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.Eventing.Reader.EventLogInformation.CreationTime",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L248C54-L248C142"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.Eventing.Reader.EventLogInformation.FileSize",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L249C39-L249C127"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.Eventing.Reader.EventLogInformation.IsLogFull",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L250C40-L250C128"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.Eventing.Reader.EventLogInformation.LastAccessTime",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L251C56-L251C144"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.Eventing.Reader.EventLogInformation.LastWriteTime",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L252C55-L252C143"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.Eventing.Reader.EventLogInformation.OldestRecordNumber",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L253C49-L253C137"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.Eventing.Reader.EventLogInformation.RecordCount",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L254C42-L254C130"
+        }
+      ],
+      "DocsId": "T:System.Diagnostics.Eventing.Reader.EventLogInformation",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.Diagnostics.Eventing.Reader.EventLogInvalidDataException.#ctor",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L258C9-L258C137"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.Eventing.Reader.EventLogInvalidDataException.#ctor(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L263C9-L263C268"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.Eventing.Reader.EventLogInvalidDataException.#ctor(System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L264C9-L264C151"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.Eventing.Reader.EventLogInvalidDataException.#ctor(System.String,System.Exception)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L265C9-L265C184"
+        }
+      ],
+      "DocsId": "T:System.Diagnostics.Eventing.Reader.EventLogInvalidDataException",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "F:System.Diagnostics.Eventing.Reader.EventLogIsolation.value__",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Diagnostics.Eventing.Reader.EventLogIsolation.Application",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Diagnostics.Eventing.Reader.EventLogIsolation.System",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Diagnostics.Eventing.Reader.EventLogIsolation.Custom",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs"
+        }
+      ],
+      "DocsId": "T:System.Diagnostics.Eventing.Reader.EventLogIsolation",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "P:System.Diagnostics.Eventing.Reader.EventLogLink.DisplayName",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L276C43-L276C131"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.Eventing.Reader.EventLogLink.IsImported",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L277C40-L277C128"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.Eventing.Reader.EventLogLink.LogName",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L278C39-L278C127"
+        }
+      ],
+      "DocsId": "T:System.Diagnostics.Eventing.Reader.EventLogLink",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "F:System.Diagnostics.Eventing.Reader.EventLogMode.value__",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Diagnostics.Eventing.Reader.EventLogMode.Circular",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Diagnostics.Eventing.Reader.EventLogMode.AutoBackup",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Diagnostics.Eventing.Reader.EventLogMode.Retain",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs"
+        }
+      ],
+      "DocsId": "T:System.Diagnostics.Eventing.Reader.EventLogMode",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.Diagnostics.Eventing.Reader.EventLogNotFoundException.#ctor",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L288C9-L288C134"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.Eventing.Reader.EventLogNotFoundException.#ctor(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L293C9-L293C265"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.Eventing.Reader.EventLogNotFoundException.#ctor(System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L294C9-L294C148"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.Eventing.Reader.EventLogNotFoundException.#ctor(System.String,System.Exception)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L295C9-L295C181"
+        }
+      ],
+      "DocsId": "T:System.Diagnostics.Eventing.Reader.EventLogNotFoundException",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.Diagnostics.Eventing.Reader.EventLogPropertySelector.#ctor(System.Collections.Generic.IEnumerable{System.String})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L299C9-L299C195"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.Eventing.Reader.EventLogPropertySelector.Dispose",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L300C33-L300C34"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.Eventing.Reader.EventLogPropertySelector.Dispose(System.Boolean)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L301C58-L301C59"
+        }
+      ],
+      "DocsId": "T:System.Diagnostics.Eventing.Reader.EventLogPropertySelector",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.Diagnostics.Eventing.Reader.EventLogProviderDisabledException.#ctor",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L305C9-L305C142"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.Eventing.Reader.EventLogProviderDisabledException.#ctor(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L310C9-L310C273"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.Eventing.Reader.EventLogProviderDisabledException.#ctor(System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L311C9-L311C156"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.Eventing.Reader.EventLogProviderDisabledException.#ctor(System.String,System.Exception)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L312C9-L312C189"
+        }
+      ],
+      "DocsId": "T:System.Diagnostics.Eventing.Reader.EventLogProviderDisabledException",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.Diagnostics.Eventing.Reader.EventLogQuery.#ctor(System.String,System.Diagnostics.Eventing.Reader.PathType)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L316C9-L316C187"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.Eventing.Reader.EventLogQuery.#ctor(System.String,System.Diagnostics.Eventing.Reader.PathType,System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L317C9-L317C201"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.Eventing.Reader.EventLogQuery.ReverseDirection",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L318C46-L318C134"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.Eventing.Reader.EventLogQuery.Session",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L319C83-L319C171"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.Eventing.Reader.EventLogQuery.TolerateQueryErrors",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L320C49-L320C137"
+        }
+      ],
+      "DocsId": "T:System.Diagnostics.Eventing.Reader.EventLogQuery",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.Diagnostics.Eventing.Reader.EventLogReader.#ctor(System.Diagnostics.Eventing.Reader.EventLogQuery)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L324C9-L324C182"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.Eventing.Reader.EventLogReader.#ctor(System.Diagnostics.Eventing.Reader.EventLogQuery,System.Diagnostics.Eventing.Reader.EventBookmark)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L325C9-L325C241"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.Eventing.Reader.EventLogReader.#ctor(System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L326C9-L326C134"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.Eventing.Reader.EventLogReader.#ctor(System.String,System.Diagnostics.Eventing.Reader.PathType)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L327C9-L327C188"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.Eventing.Reader.EventLogReader.CancelReading",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L330C39-L330C127"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.Eventing.Reader.EventLogReader.Dispose",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L331C33-L331C34"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.Eventing.Reader.EventLogReader.Dispose(System.Boolean)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L332C58-L332C59"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.Eventing.Reader.EventLogReader.ReadEvent",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L333C77-L333C165"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.Eventing.Reader.EventLogReader.ReadEvent(System.TimeSpan)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L334C100-L334C188"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.Eventing.Reader.EventLogReader.Seek(System.Diagnostics.Eventing.Reader.EventBookmark)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L335C87-L335C175"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.Eventing.Reader.EventLogReader.Seek(System.Diagnostics.Eventing.Reader.EventBookmark,System.Int64)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L336C100-L336C188"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.Eventing.Reader.EventLogReader.Seek(System.IO.SeekOrigin,System.Int64)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L337C70-L337C158"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.Eventing.Reader.EventLogReader.BatchSize",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L328C38-L328C126"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.Eventing.Reader.EventLogReader.LogStatus",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L329C118-L329C206"
+        }
+      ],
+      "DocsId": "T:System.Diagnostics.Eventing.Reader.EventLogReader",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.Diagnostics.Eventing.Reader.EventLogReadingException.#ctor",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L341C9-L341C133"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.Eventing.Reader.EventLogReadingException.#ctor(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L346C9-L346C264"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.Eventing.Reader.EventLogReadingException.#ctor(System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L347C9-L347C147"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.Eventing.Reader.EventLogReadingException.#ctor(System.String,System.Exception)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L348C9-L348C180"
+        }
+      ],
+      "DocsId": "T:System.Diagnostics.Eventing.Reader.EventLogReadingException",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.Diagnostics.Eventing.Reader.EventLogRecord.Dispose(System.Boolean)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L379C59-L379C60"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.Eventing.Reader.EventLogRecord.FormatDescription",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L380C54-L380C142"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.Eventing.Reader.EventLogRecord.FormatDescription(System.Collections.Generic.IEnumerable{System.Object})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L381C107-L381C195"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.Eventing.Reader.EventLogRecord.GetPropertyValues(System.Diagnostics.Eventing.Reader.EventLogPropertySelector)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L382C155-L382C243"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.Eventing.Reader.EventLogRecord.ToXml",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L383C42-L383C130"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.Eventing.Reader.EventLogRecord.ActivityId",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L353C57-L353C145"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.Eventing.Reader.EventLogRecord.Bookmark",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L354C91-L354C179"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.Eventing.Reader.EventLogRecord.ContainerLog",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L355C44-L355C132"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.Eventing.Reader.EventLogRecord.Id",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L356C40-L356C128"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.Eventing.Reader.EventLogRecord.Keywords",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L357C48-L357C136"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.Eventing.Reader.EventLogRecord.KeywordsDisplayNames",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L358C101-L358C189"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.Eventing.Reader.EventLogRecord.Level",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L359C45-L359C133"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.Eventing.Reader.EventLogRecord.LevelDisplayName",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L360C57-L360C145"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.Eventing.Reader.EventLogRecord.LogName",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L361C48-L361C136"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.Eventing.Reader.EventLogRecord.MachineName",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L362C52-L362C140"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.Eventing.Reader.EventLogRecord.MatchedQueryIds",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L363C84-L363C172"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.Eventing.Reader.EventLogRecord.Opcode",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L364C47-L364C135"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.Eventing.Reader.EventLogRecord.OpcodeDisplayName",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L365C58-L365C146"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.Eventing.Reader.EventLogRecord.ProcessId",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L366C48-L366C136"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.Eventing.Reader.EventLogRecord.Properties",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L367C127-L367C215"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.Eventing.Reader.EventLogRecord.ProviderId",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L368C57-L368C145"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.Eventing.Reader.EventLogRecord.ProviderName",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L369C53-L369C141"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.Eventing.Reader.EventLogRecord.Qualifiers",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L370C49-L370C137"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.Eventing.Reader.EventLogRecord.RecordId",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L371C48-L371C136"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.Eventing.Reader.EventLogRecord.RelatedActivityId",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L372C64-L372C152"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.Eventing.Reader.EventLogRecord.Task",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L373C43-L373C131"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.Eventing.Reader.EventLogRecord.TaskDisplayName",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L374C56-L374C144"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.Eventing.Reader.EventLogRecord.ThreadId",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L375C47-L375C135"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.Eventing.Reader.EventLogRecord.TimeCreated",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L376C62-L376C150"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.Eventing.Reader.EventLogRecord.UserId",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L377C85-L377C173"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.Eventing.Reader.EventLogRecord.Version",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L378C47-L378C135"
+        }
+      ],
+      "DocsId": "T:System.Diagnostics.Eventing.Reader.EventLogRecord",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.Diagnostics.Eventing.Reader.EventLogSession.#ctor",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L387C9-L387C124"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.Eventing.Reader.EventLogSession.#ctor(System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L388C9-L388C137"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.Eventing.Reader.EventLogSession.#ctor(System.String,System.String,System.String,System.Security.SecureString,System.Diagnostics.Eventing.Reader.SessionAuthentication)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L389C9-L389C272"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.Eventing.Reader.EventLogSession.CancelCurrentOperations",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L391C49-L391C137"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.Eventing.Reader.EventLogSession.ClearLog(System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L392C48-L392C136"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.Eventing.Reader.EventLogSession.ClearLog(System.String,System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L393C67-L393C155"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.Eventing.Reader.EventLogSession.Dispose",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L394C33-L394C34"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.Eventing.Reader.EventLogSession.Dispose(System.Boolean)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L395C58-L395C59"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.Eventing.Reader.EventLogSession.ExportLog(System.String,System.Diagnostics.Eventing.Reader.PathType,System.String,System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L396C137-L396C225"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.Eventing.Reader.EventLogSession.ExportLog(System.String,System.Diagnostics.Eventing.Reader.PathType,System.String,System.String,System.Boolean)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L397C163-L397C251"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.Eventing.Reader.EventLogSession.ExportLogAndMessages(System.String,System.Diagnostics.Eventing.Reader.PathType,System.String,System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L398C148-L398C236"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.Eventing.Reader.EventLogSession.ExportLogAndMessages(System.String,System.Diagnostics.Eventing.Reader.PathType,System.String,System.String,System.Boolean,System.Globalization.CultureInfo)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L399C226-L399C314"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.Eventing.Reader.EventLogSession.GetLogInformation(System.String,System.Diagnostics.Eventing.Reader.PathType)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L400C161-L400C249"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.Eventing.Reader.EventLogSession.GetLogNames",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L401C79-L401C167"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.Eventing.Reader.EventLogSession.GetProviderNames",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L402C84-L402C172"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.Eventing.Reader.EventLogSession.GlobalSession",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L390C96-L390C184"
+        }
+      ],
+      "DocsId": "T:System.Diagnostics.Eventing.Reader.EventLogSession",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "P:System.Diagnostics.Eventing.Reader.EventLogStatus.LogName",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L407C39-L407C127"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.Eventing.Reader.EventLogStatus.StatusCode",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L408C39-L408C127"
+        }
+      ],
+      "DocsId": "T:System.Diagnostics.Eventing.Reader.EventLogStatus",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "F:System.Diagnostics.Eventing.Reader.EventLogType.value__",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Diagnostics.Eventing.Reader.EventLogType.Administrative",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Diagnostics.Eventing.Reader.EventLogType.Operational",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Diagnostics.Eventing.Reader.EventLogType.Analytical",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Diagnostics.Eventing.Reader.EventLogType.Debug",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs"
+        }
+      ],
+      "DocsId": "T:System.Diagnostics.Eventing.Reader.EventLogType",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.Diagnostics.Eventing.Reader.EventLogWatcher.#ctor(System.Diagnostics.Eventing.Reader.EventLogQuery)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L419C9-L419C183"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.Eventing.Reader.EventLogWatcher.#ctor(System.Diagnostics.Eventing.Reader.EventLogQuery,System.Diagnostics.Eventing.Reader.EventBookmark)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L420C9-L420C242"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.Eventing.Reader.EventLogWatcher.#ctor(System.Diagnostics.Eventing.Reader.EventLogQuery,System.Diagnostics.Eventing.Reader.EventBookmark,System.Boolean)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L421C9-L421C267"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.Eventing.Reader.EventLogWatcher.#ctor(System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L422C9-L422C135"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.Eventing.Reader.EventLogWatcher.Dispose",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L425C33-L425C34"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.Eventing.Reader.EventLogWatcher.Dispose(System.Boolean)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L426C58-L426C59"
+        },
+        {
+          "DocsId": "E:System.Diagnostics.Eventing.Reader.EventLogWatcher.EventRecordWritten",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L424C133-L424C221"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.Eventing.Reader.EventLogWatcher.Enabled",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L423C37-L423C125"
+        }
+      ],
+      "DocsId": "T:System.Diagnostics.Eventing.Reader.EventLogWatcher",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "P:System.Diagnostics.Eventing.Reader.EventMetadata.Description",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L431C43-L431C131"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.Eventing.Reader.EventMetadata.Id",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L432C32-L432C120"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.Eventing.Reader.EventMetadata.Keywords",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L433C121-L433C209"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.Eventing.Reader.EventMetadata.Level",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L434C76-L434C164"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.Eventing.Reader.EventMetadata.LogLink",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L435C80-L435C168"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.Eventing.Reader.EventMetadata.Opcode",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L436C78-L436C166"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.Eventing.Reader.EventMetadata.Task",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L437C74-L437C162"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.Eventing.Reader.EventMetadata.Template",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L438C40-L438C128"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.Eventing.Reader.EventMetadata.Version",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L439C37-L439C125"
+        }
+      ],
+      "DocsId": "T:System.Diagnostics.Eventing.Reader.EventMetadata",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "P:System.Diagnostics.Eventing.Reader.EventOpcode.DisplayName",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L444C43-L444C131"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.Eventing.Reader.EventOpcode.Name",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L445C36-L445C124"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.Eventing.Reader.EventOpcode.Value",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L446C34-L446C122"
+        }
+      ],
+      "DocsId": "T:System.Diagnostics.Eventing.Reader.EventOpcode",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "P:System.Diagnostics.Eventing.Reader.EventProperty.Value",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L451C37-L451C125"
+        }
+      ],
+      "DocsId": "T:System.Diagnostics.Eventing.Reader.EventProperty",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.Diagnostics.Eventing.Reader.EventRecord.#ctor",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L455C9-L455C123"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.Eventing.Reader.EventRecord.Dispose",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L480C33-L480C34"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.Eventing.Reader.EventRecord.Dispose(System.Boolean)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L481C58-L481C59"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.Eventing.Reader.EventRecord.FormatDescription",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.Eventing.Reader.EventRecord.FormatDescription(System.Collections.Generic.IEnumerable{System.Object})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.Eventing.Reader.EventRecord.ToXml",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.Eventing.Reader.EventRecord.ActivityId",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.Eventing.Reader.EventRecord.Bookmark",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.Eventing.Reader.EventRecord.Id",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.Eventing.Reader.EventRecord.Keywords",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.Eventing.Reader.EventRecord.KeywordsDisplayNames",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.Eventing.Reader.EventRecord.Level",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.Eventing.Reader.EventRecord.LevelDisplayName",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.Eventing.Reader.EventRecord.LogName",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.Eventing.Reader.EventRecord.MachineName",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.Eventing.Reader.EventRecord.Opcode",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.Eventing.Reader.EventRecord.OpcodeDisplayName",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.Eventing.Reader.EventRecord.ProcessId",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.Eventing.Reader.EventRecord.Properties",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.Eventing.Reader.EventRecord.ProviderId",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.Eventing.Reader.EventRecord.ProviderName",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.Eventing.Reader.EventRecord.Qualifiers",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.Eventing.Reader.EventRecord.RecordId",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.Eventing.Reader.EventRecord.RelatedActivityId",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.Eventing.Reader.EventRecord.Task",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.Eventing.Reader.EventRecord.TaskDisplayName",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.Eventing.Reader.EventRecord.ThreadId",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.Eventing.Reader.EventRecord.TimeCreated",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.Eventing.Reader.EventRecord.UserId",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.Eventing.Reader.EventRecord.Version",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs"
+        }
+      ],
+      "DocsId": "T:System.Diagnostics.Eventing.Reader.EventRecord",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "P:System.Diagnostics.Eventing.Reader.EventRecordWrittenEventArgs.EventException",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L489C56-L489C144"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.Eventing.Reader.EventRecordWrittenEventArgs.EventRecord",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L490C83-L490C171"
+        }
+      ],
+      "DocsId": "T:System.Diagnostics.Eventing.Reader.EventRecordWrittenEventArgs",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "P:System.Diagnostics.Eventing.Reader.EventTask.DisplayName",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L495C43-L495C131"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.Eventing.Reader.EventTask.EventGuid",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L496C46-L496C134"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.Eventing.Reader.EventTask.Name",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L497C36-L497C124"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.Eventing.Reader.EventTask.Value",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L498C34-L498C122"
+        }
+      ],
+      "DocsId": "T:System.Diagnostics.Eventing.Reader.EventTask",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "F:System.Diagnostics.Eventing.Reader.PathType.value__",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Diagnostics.Eventing.Reader.PathType.LogName",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Diagnostics.Eventing.Reader.PathType.FilePath",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs"
+        }
+      ],
+      "DocsId": "T:System.Diagnostics.Eventing.Reader.PathType",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.Diagnostics.Eventing.Reader.ProviderMetadata.#ctor(System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L507C9-L507C144"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.Eventing.Reader.ProviderMetadata.#ctor(System.String,System.Diagnostics.Eventing.Reader.EventLogSession,System.Globalization.CultureInfo)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L508C9-L508C256"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.Eventing.Reader.ProviderMetadata.Dispose",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L522C33-L522C34"
+        },
+        {
+          "DocsId": "M:System.Diagnostics.Eventing.Reader.ProviderMetadata.Dispose(System.Boolean)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L523C58-L523C59"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.Eventing.Reader.ProviderMetadata.DisplayName",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L509C43-L509C131"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.Eventing.Reader.ProviderMetadata.Events",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L510C120-L510C208"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.Eventing.Reader.ProviderMetadata.HelpLink",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L511C44-L511C132"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.Eventing.Reader.ProviderMetadata.Id",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L512C39-L512C127"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.Eventing.Reader.ProviderMetadata.Keywords",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L513C115-L513C203"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.Eventing.Reader.ProviderMetadata.Levels",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L514C111-L514C199"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.Eventing.Reader.ProviderMetadata.LogLinks",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L515C115-L515C203"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.Eventing.Reader.ProviderMetadata.MessageFilePath",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L516C47-L516C135"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.Eventing.Reader.ProviderMetadata.Name",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L517C36-L517C124"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.Eventing.Reader.ProviderMetadata.Opcodes",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L518C113-L518C201"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.Eventing.Reader.ProviderMetadata.ParameterFilePath",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L519C49-L519C137"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.Eventing.Reader.ProviderMetadata.ResourceFilePath",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L520C48-L520C136"
+        },
+        {
+          "DocsId": "P:System.Diagnostics.Eventing.Reader.ProviderMetadata.Tasks",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs#L521C109-L521C197"
+        }
+      ],
+      "DocsId": "T:System.Diagnostics.Eventing.Reader.ProviderMetadata",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "F:System.Diagnostics.Eventing.Reader.SessionAuthentication.value__",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Diagnostics.Eventing.Reader.SessionAuthentication.Default",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Diagnostics.Eventing.Reader.SessionAuthentication.Negotiate",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Diagnostics.Eventing.Reader.SessionAuthentication.Kerberos",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Diagnostics.Eventing.Reader.SessionAuthentication.Ntlm",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs"
+        }
+      ],
+      "DocsId": "T:System.Diagnostics.Eventing.Reader.SessionAuthentication",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "F:System.Diagnostics.Eventing.Reader.StandardEventKeywords.value__",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Diagnostics.Eventing.Reader.StandardEventKeywords.None",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Diagnostics.Eventing.Reader.StandardEventKeywords.ResponseTime",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Diagnostics.Eventing.Reader.StandardEventKeywords.WdiContext",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Diagnostics.Eventing.Reader.StandardEventKeywords.WdiDiagnostic",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Diagnostics.Eventing.Reader.StandardEventKeywords.Sqm",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Diagnostics.Eventing.Reader.StandardEventKeywords.AuditFailure",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Diagnostics.Eventing.Reader.StandardEventKeywords.CorrelationHint",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Diagnostics.Eventing.Reader.StandardEventKeywords.AuditSuccess",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Diagnostics.Eventing.Reader.StandardEventKeywords.CorrelationHint2",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Diagnostics.Eventing.Reader.StandardEventKeywords.EventLogClassic",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs"
+        }
+      ],
+      "DocsId": "T:System.Diagnostics.Eventing.Reader.StandardEventKeywords",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "F:System.Diagnostics.Eventing.Reader.StandardEventLevel.value__",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Diagnostics.Eventing.Reader.StandardEventLevel.LogAlways",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Diagnostics.Eventing.Reader.StandardEventLevel.Critical",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Diagnostics.Eventing.Reader.StandardEventLevel.Error",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Diagnostics.Eventing.Reader.StandardEventLevel.Warning",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Diagnostics.Eventing.Reader.StandardEventLevel.Informational",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Diagnostics.Eventing.Reader.StandardEventLevel.Verbose",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs"
+        }
+      ],
+      "DocsId": "T:System.Diagnostics.Eventing.Reader.StandardEventLevel",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "F:System.Diagnostics.Eventing.Reader.StandardEventOpcode.value__",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Diagnostics.Eventing.Reader.StandardEventOpcode.Info",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Diagnostics.Eventing.Reader.StandardEventOpcode.Start",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Diagnostics.Eventing.Reader.StandardEventOpcode.Stop",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Diagnostics.Eventing.Reader.StandardEventOpcode.DataCollectionStart",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Diagnostics.Eventing.Reader.StandardEventOpcode.DataCollectionStop",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Diagnostics.Eventing.Reader.StandardEventOpcode.Extension",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Diagnostics.Eventing.Reader.StandardEventOpcode.Reply",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Diagnostics.Eventing.Reader.StandardEventOpcode.Resume",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Diagnostics.Eventing.Reader.StandardEventOpcode.Suspend",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Diagnostics.Eventing.Reader.StandardEventOpcode.Send",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Diagnostics.Eventing.Reader.StandardEventOpcode.Receive",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs"
+        }
+      ],
+      "DocsId": "T:System.Diagnostics.Eventing.Reader.StandardEventOpcode",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "F:System.Diagnostics.Eventing.Reader.StandardEventTask.value__",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Diagnostics.Eventing.Reader.StandardEventTask.None",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs"
+        }
+      ],
+      "DocsId": "T:System.Diagnostics.Eventing.Reader.StandardEventTask",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/5535e31a712343a63f5d7d796cd874e563e5ac14/artifacts/obj/System.Diagnostics.EventLog/Release/net8.0/System.Diagnostics.EventLog.notsupported.cs"
+    }
+  ]
+}

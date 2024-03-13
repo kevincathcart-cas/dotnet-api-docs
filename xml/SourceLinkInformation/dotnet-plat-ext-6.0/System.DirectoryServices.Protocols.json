@@ -1,0 +1,2437 @@
+{
+  "Assembly": "System.DirectoryServices.Protocols",
+  "GUID": "200CD8ADDDD74B29802702ED6654C318FFFFFFFF",
+  "Types": [
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.AddRequest.#ctor",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L11C9-L11C137"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.AddRequest.#ctor(System.String,System.DirectoryServices.Protocols.DirectoryAttribute[])",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L12C9-L12C236"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.AddRequest.#ctor(System.String,System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L13C9-L13C181"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.Protocols.AddRequest.Attributes",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L14C99-L14C205"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.Protocols.AddRequest.DistinguishedName",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L15C49-L15C155"
+        }
+      ],
+      "DocsId": "T:System.DirectoryServices.Protocols.AddRequest",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs"
+    },
+    {
+      "Members": [],
+      "DocsId": "T:System.DirectoryServices.Protocols.AddResponse",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.AsqRequestControl.#ctor",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L23C38-L23C216"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.AsqRequestControl.#ctor(System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L24C58-L24C236"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.AsqRequestControl.GetValue",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L26C45-L26C151"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.Protocols.AsqRequestControl.AttributeName",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L25C45-L25C151"
+        }
+      ],
+      "DocsId": "T:System.DirectoryServices.Protocols.AsqRequestControl",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "P:System.DirectoryServices.Protocols.AsqResponseControl.Result",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L31C77-L31C183"
+        }
+      ],
+      "DocsId": "T:System.DirectoryServices.Protocols.AsqResponseControl",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "F:System.DirectoryServices.Protocols.AuthType.value__",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.DirectoryServices.Protocols.AuthType.Anonymous",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.DirectoryServices.Protocols.AuthType.Basic",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.DirectoryServices.Protocols.AuthType.Negotiate",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.DirectoryServices.Protocols.AuthType.Ntlm",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.DirectoryServices.Protocols.AuthType.Digest",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.DirectoryServices.Protocols.AuthType.Sicily",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.DirectoryServices.Protocols.AuthType.Dpa",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.DirectoryServices.Protocols.AuthType.Msn",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.DirectoryServices.Protocols.AuthType.External",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.DirectoryServices.Protocols.AuthType.Kerberos",
+          "SourceLink": ""
+        }
+      ],
+      "DocsId": "T:System.DirectoryServices.Protocols.AuthType",
+      "SourceLink": ""
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.BerConversionException.#ctor",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L48C9-L48C149"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.BerConversionException.#ctor(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L49C9-L49C258"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.BerConversionException.#ctor(System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L50C9-L50C163"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.BerConversionException.#ctor(System.String,System.Exception)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L51C9-L51C187"
+        }
+      ],
+      "DocsId": "T:System.DirectoryServices.Protocols.BerConversionException",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.BerConverter.Decode(System.String,System.Byte[])",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L55C70-L55C176"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.BerConverter.Encode(System.String,System.Object[])",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L56C77-L56C183"
+        }
+      ],
+      "DocsId": "T:System.DirectoryServices.Protocols.BerConverter",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.CompareRequest.#ctor",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L60C9-L60C141"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.CompareRequest.#ctor(System.String,System.DirectoryServices.Protocols.DirectoryAttribute)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L61C9-L61C230"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.CompareRequest.#ctor(System.String,System.String,System.Byte[])",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L62C9-L62C201"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.CompareRequest.#ctor(System.String,System.String,System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L63C9-L63C201"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.CompareRequest.#ctor(System.String,System.String,System.Uri)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L64C9-L64C205"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.Protocols.CompareRequest.Assertion",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L65C88-L65C194"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.Protocols.CompareRequest.DistinguishedName",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L66C49-L66C155"
+        }
+      ],
+      "DocsId": "T:System.DirectoryServices.Protocols.CompareRequest",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs"
+    },
+    {
+      "Members": [],
+      "DocsId": "T:System.DirectoryServices.Protocols.CompareResponse",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.CrossDomainMoveControl.#ctor",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L74C43-L74C221"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.CrossDomainMoveControl.#ctor(System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L75C72-L75C250"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.CrossDomainMoveControl.GetValue",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L77C45-L77C151"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.Protocols.CrossDomainMoveControl.TargetDomainController",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L76C54-L76C160"
+        }
+      ],
+      "DocsId": "T:System.DirectoryServices.Protocols.CrossDomainMoveControl",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.DeleteRequest.#ctor",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L81C9-L81C140"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.DeleteRequest.#ctor(System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L82C9-L82C164"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.Protocols.DeleteRequest.DistinguishedName",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L83C49-L83C155"
+        }
+      ],
+      "DocsId": "T:System.DirectoryServices.Protocols.DeleteRequest",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs"
+    },
+    {
+      "Members": [],
+      "DocsId": "T:System.DirectoryServices.Protocols.DeleteResponse",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "F:System.DirectoryServices.Protocols.DereferenceAlias.value__",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.DirectoryServices.Protocols.DereferenceAlias.Never",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.DirectoryServices.Protocols.DereferenceAlias.InSearching",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.DirectoryServices.Protocols.DereferenceAlias.FindingBaseObject",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.DirectoryServices.Protocols.DereferenceAlias.Always",
+          "SourceLink": ""
+        }
+      ],
+      "DocsId": "T:System.DirectoryServices.Protocols.DereferenceAlias",
+      "SourceLink": ""
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.DereferenceConnectionCallback.#ctor(System.Object,System.IntPtr)",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.DereferenceConnectionCallback.Invoke(System.DirectoryServices.Protocols.LdapConnection,System.DirectoryServices.Protocols.LdapConnection)",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.DereferenceConnectionCallback.BeginInvoke(System.DirectoryServices.Protocols.LdapConnection,System.DirectoryServices.Protocols.LdapConnection,System.AsyncCallback,System.Object)",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.DereferenceConnectionCallback.EndInvoke(System.IAsyncResult)",
+          "SourceLink": ""
+        }
+      ],
+      "DocsId": "T:System.DirectoryServices.Protocols.DereferenceConnectionCallback",
+      "SourceLink": ""
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.DirectoryAttribute.#ctor",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L99C9-L99C145"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.DirectoryAttribute.#ctor(System.String,System.Byte[])",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L100C9-L100C170"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.DirectoryAttribute.#ctor(System.String,System.Object[])",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L101C9-L101C180"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.DirectoryAttribute.#ctor(System.String,System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L102C9-L102C170"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.DirectoryAttribute.#ctor(System.String,System.Uri)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L103C9-L103C174"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.DirectoryAttribute.Add(System.Byte[])",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L106C40-L106C146"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.DirectoryAttribute.Add(System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L107C40-L107C146"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.DirectoryAttribute.Add(System.Uri)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L108C44-L108C150"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.DirectoryAttribute.AddRange(System.Object[])",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L109C49-L109C155"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.DirectoryAttribute.Contains(System.Object)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L110C46-L110C152"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.DirectoryAttribute.CopyTo(System.Object[],System.Int32)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L111C57-L111C163"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.DirectoryAttribute.GetValues(System.Type)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L112C61-L112C167"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.DirectoryAttribute.IndexOf(System.Object)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L113C44-L113C150"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.DirectoryAttribute.Insert(System.Int32,System.Byte[])",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L114C55-L114C161"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.DirectoryAttribute.Insert(System.Int32,System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L115C55-L115C161"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.DirectoryAttribute.Insert(System.Int32,System.Uri)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L116C59-L116C165"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.DirectoryAttribute.OnValidate(System.Object)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L117C60-L117C166"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.DirectoryAttribute.Remove(System.Object)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L118C44-L118C150"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.Protocols.DirectoryAttribute.Item(System.Int32)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L104C47-L104C153"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.Protocols.DirectoryAttribute.Name",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L105C36-L105C142"
+        }
+      ],
+      "DocsId": "T:System.DirectoryServices.Protocols.DirectoryAttribute",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.DirectoryAttributeCollection.#ctor",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L122C9-L122C155"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.DirectoryAttributeCollection.Add(System.DirectoryServices.Protocols.DirectoryAttribute)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L124C91-L124C197"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.DirectoryAttributeCollection.AddRange(System.DirectoryServices.Protocols.DirectoryAttributeCollection)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L125C117-L125C223"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.DirectoryAttributeCollection.AddRange(System.DirectoryServices.Protocols.DirectoryAttribute[])",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L126C100-L126C206"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.DirectoryAttributeCollection.Contains(System.DirectoryServices.Protocols.DirectoryAttribute)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L127C93-L127C199"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.DirectoryAttributeCollection.CopyTo(System.DirectoryServices.Protocols.DirectoryAttribute[],System.Int32)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L128C104-L128C210"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.DirectoryAttributeCollection.IndexOf(System.DirectoryServices.Protocols.DirectoryAttribute)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L129C91-L129C197"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.DirectoryAttributeCollection.Insert(System.Int32,System.DirectoryServices.Protocols.DirectoryAttribute)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L130C102-L130C208"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.DirectoryAttributeCollection.OnValidate(System.Object)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L131C60-L131C166"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.DirectoryAttributeCollection.Remove(System.DirectoryServices.Protocols.DirectoryAttribute)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L132C91-L132C197"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.Protocols.DirectoryAttributeCollection.Item(System.Int32)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L123C94-L123C200"
+        }
+      ],
+      "DocsId": "T:System.DirectoryServices.Protocols.DirectoryAttributeCollection",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.DirectoryAttributeModification.#ctor",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L136C9-L136C157"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.Protocols.DirectoryAttributeModification.Operation",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L137C97-L137C203"
+        }
+      ],
+      "DocsId": "T:System.DirectoryServices.Protocols.DirectoryAttributeModification",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.DirectoryAttributeModificationCollection.#ctor",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L141C9-L141C167"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.DirectoryAttributeModificationCollection.Add(System.DirectoryServices.Protocols.DirectoryAttributeModification)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L143C103-L143C209"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.DirectoryAttributeModificationCollection.AddRange(System.DirectoryServices.Protocols.DirectoryAttributeModificationCollection)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L144C129-L144C235"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.DirectoryAttributeModificationCollection.AddRange(System.DirectoryServices.Protocols.DirectoryAttributeModification[])",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L145C112-L145C218"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.DirectoryAttributeModificationCollection.Contains(System.DirectoryServices.Protocols.DirectoryAttributeModification)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L146C105-L146C211"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.DirectoryAttributeModificationCollection.CopyTo(System.DirectoryServices.Protocols.DirectoryAttributeModification[],System.Int32)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L147C116-L147C222"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.DirectoryAttributeModificationCollection.IndexOf(System.DirectoryServices.Protocols.DirectoryAttributeModification)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L148C103-L148C209"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.DirectoryAttributeModificationCollection.Insert(System.Int32,System.DirectoryServices.Protocols.DirectoryAttributeModification)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L149C114-L149C220"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.DirectoryAttributeModificationCollection.OnValidate(System.Object)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L150C60-L150C166"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.DirectoryAttributeModificationCollection.Remove(System.DirectoryServices.Protocols.DirectoryAttributeModification)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L151C103-L151C209"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.Protocols.DirectoryAttributeModificationCollection.Item(System.Int32)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L142C106-L142C212"
+        }
+      ],
+      "DocsId": "T:System.DirectoryServices.Protocols.DirectoryAttributeModificationCollection",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "F:System.DirectoryServices.Protocols.DirectoryAttributeOperation.value__",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.DirectoryServices.Protocols.DirectoryAttributeOperation.Add",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.DirectoryServices.Protocols.DirectoryAttributeOperation.Delete",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.DirectoryServices.Protocols.DirectoryAttributeOperation.Replace",
+          "SourceLink": ""
+        }
+      ],
+      "DocsId": "T:System.DirectoryServices.Protocols.DirectoryAttributeOperation",
+      "SourceLink": ""
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.DirectoryConnection.#ctor",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L161C9-L161C149"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.DirectoryConnection.SendRequest(System.DirectoryServices.Protocols.DirectoryRequest)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.Protocols.DirectoryConnection.ClientCertificates",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L162C115-L162C221"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.Protocols.DirectoryConnection.Credential",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L163C72-L163C178"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.Protocols.DirectoryConnection.Directory",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L164C97-L164C203"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.Protocols.DirectoryConnection.Timeout",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L165C56-L165C162"
+        }
+      ],
+      "DocsId": "T:System.DirectoryServices.Protocols.DirectoryConnection",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.DirectoryControl.#ctor(System.String,System.Byte[],System.Boolean,System.Boolean)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L170C9-L170C202"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.DirectoryControl.GetValue",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L174C44-L174C150"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.Protocols.DirectoryControl.IsCritical",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L171C40-L171C146"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.Protocols.DirectoryControl.ServerSide",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L172C40-L172C146"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.Protocols.DirectoryControl.Type",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L173C36-L173C142"
+        }
+      ],
+      "DocsId": "T:System.DirectoryServices.Protocols.DirectoryControl",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.DirectoryControlCollection.#ctor",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L178C9-L178C153"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.DirectoryControlCollection.Add(System.DirectoryServices.Protocols.DirectoryControl)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L180C87-L180C193"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.DirectoryControlCollection.AddRange(System.DirectoryServices.Protocols.DirectoryControlCollection)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L181C113-L181C219"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.DirectoryControlCollection.AddRange(System.DirectoryServices.Protocols.DirectoryControl[])",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L182C96-L182C202"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.DirectoryControlCollection.Contains(System.DirectoryServices.Protocols.DirectoryControl)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L183C91-L183C197"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.DirectoryControlCollection.CopyTo(System.DirectoryServices.Protocols.DirectoryControl[],System.Int32)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L184C102-L184C208"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.DirectoryControlCollection.IndexOf(System.DirectoryServices.Protocols.DirectoryControl)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L185C89-L185C195"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.DirectoryControlCollection.Insert(System.Int32,System.DirectoryServices.Protocols.DirectoryControl)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L186C100-L186C206"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.DirectoryControlCollection.OnValidate(System.Object)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L187C60-L187C166"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.DirectoryControlCollection.Remove(System.DirectoryServices.Protocols.DirectoryControl)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L188C89-L188C195"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.Protocols.DirectoryControlCollection.Item(System.Int32)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L179C92-L179C198"
+        }
+      ],
+      "DocsId": "T:System.DirectoryServices.Protocols.DirectoryControlCollection",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.DirectoryException.#ctor",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L192C9-L192C145"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.DirectoryException.#ctor(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L193C9-L193C254"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.DirectoryException.#ctor(System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L194C9-L194C159"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.DirectoryException.#ctor(System.String,System.Exception)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L195C9-L195C183"
+        }
+      ],
+      "DocsId": "T:System.DirectoryServices.Protocols.DirectoryException",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.DirectoryIdentifier.#ctor",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L199C9-L199C149"
+        }
+      ],
+      "DocsId": "T:System.DirectoryServices.Protocols.DirectoryIdentifier",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.DirectoryNotificationControl.#ctor",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L203C49-L203C227"
+        }
+      ],
+      "DocsId": "T:System.DirectoryServices.Protocols.DirectoryNotificationControl",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.DirectoryOperation.#ctor",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L207C9-L207C148"
+        }
+      ],
+      "DocsId": "T:System.DirectoryServices.Protocols.DirectoryOperation",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.DirectoryOperationException.#ctor",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L211C9-L211C154"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.DirectoryOperationException.#ctor(System.DirectoryServices.Protocols.DirectoryResponse)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L212C9-L212C215"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.DirectoryOperationException.#ctor(System.DirectoryServices.Protocols.DirectoryResponse,System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L213C9-L213C231"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.DirectoryOperationException.#ctor(System.DirectoryServices.Protocols.DirectoryResponse,System.String,System.Exception)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L214C9-L214C255"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.DirectoryOperationException.#ctor(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L215C9-L215C263"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.DirectoryOperationException.#ctor(System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L216C9-L216C168"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.DirectoryOperationException.#ctor(System.String,System.Exception)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L217C9-L217C192"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.DirectoryOperationException.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L219C176-L219C282"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.Protocols.DirectoryOperationException.Response",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L218C86-L218C192"
+        }
+      ],
+      "DocsId": "T:System.DirectoryServices.Protocols.DirectoryOperationException",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "P:System.DirectoryServices.Protocols.DirectoryRequest.Controls",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L224C95-L224C201"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.Protocols.DirectoryRequest.RequestId",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L225C41-L225C147"
+        }
+      ],
+      "DocsId": "T:System.DirectoryServices.Protocols.DirectoryRequest",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "P:System.DirectoryServices.Protocols.DirectoryResponse.Controls",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L230C95-L230C201"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.Protocols.DirectoryResponse.ErrorMessage",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L231C52-L231C158"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.Protocols.DirectoryResponse.MatchedDN",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L232C49-L232C155"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.Protocols.DirectoryResponse.Referral",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L233C54-L233C160"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.Protocols.DirectoryResponse.RequestId",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L234C41-L234C147"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.Protocols.DirectoryResponse.ResultCode",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L235C89-L235C195"
+        }
+      ],
+      "DocsId": "T:System.DirectoryServices.Protocols.DirectoryResponse",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "F:System.DirectoryServices.Protocols.DirectorySynchronizationOptions.value__",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.DirectoryServices.Protocols.DirectorySynchronizationOptions.None",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.DirectoryServices.Protocols.DirectorySynchronizationOptions.ObjectSecurity",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.DirectoryServices.Protocols.DirectorySynchronizationOptions.ParentsFirst",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.DirectoryServices.Protocols.DirectorySynchronizationOptions.PublicDataOnly",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.DirectoryServices.Protocols.DirectorySynchronizationOptions.IncrementalValues",
+          "SourceLink": ""
+        }
+      ],
+      "DocsId": "T:System.DirectoryServices.Protocols.DirectorySynchronizationOptions",
+      "SourceLink": ""
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.DirSyncRequestControl.#ctor",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L248C42-L248C220"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.DirSyncRequestControl.#ctor(System.Byte[])",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L249C55-L249C233"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.DirSyncRequestControl.#ctor(System.Byte[],System.DirectoryServices.Protocols.DirectorySynchronizationOptions)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L250C130-L250C308"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.DirSyncRequestControl.#ctor(System.Byte[],System.DirectoryServices.Protocols.DirectorySynchronizationOptions,System.Int32)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L251C150-L251C328"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.DirSyncRequestControl.GetValue",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L255C45-L255C151"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.Protocols.DirSyncRequestControl.AttributeCount",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L252C43-L252C149"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.Protocols.DirSyncRequestControl.Cookie",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L253C38-L253C144"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.Protocols.DirSyncRequestControl.Option",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L254C98-L254C204"
+        }
+      ],
+      "DocsId": "T:System.DirectoryServices.Protocols.DirSyncRequestControl",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "P:System.DirectoryServices.Protocols.DirSyncResponseControl.Cookie",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L260C38-L260C144"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.Protocols.DirSyncResponseControl.MoreData",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L261C38-L261C144"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.Protocols.DirSyncResponseControl.ResultSize",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L262C39-L262C145"
+        }
+      ],
+      "DocsId": "T:System.DirectoryServices.Protocols.DirSyncResponseControl",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.DomainScopeControl.#ctor",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L266C39-L266C217"
+        }
+      ],
+      "DocsId": "T:System.DirectoryServices.Protocols.DomainScopeControl",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.DsmlAuthRequest.#ctor",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L270C9-L270C142"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.DsmlAuthRequest.#ctor(System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L271C9-L271C158"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.Protocols.DsmlAuthRequest.Principal",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L272C41-L272C147"
+        }
+      ],
+      "DocsId": "T:System.DirectoryServices.Protocols.DsmlAuthRequest",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.ExtendedDNControl.#ctor",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L276C38-L276C216"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.ExtendedDNControl.#ctor(System.DirectoryServices.Protocols.ExtendedDNFlag)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L277C92-L277C270"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.ExtendedDNControl.GetValue",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L279C45-L279C151"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.Protocols.ExtendedDNControl.Flag",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L278C79-L278C185"
+        }
+      ],
+      "DocsId": "T:System.DirectoryServices.Protocols.ExtendedDNControl",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "F:System.DirectoryServices.Protocols.ExtendedDNFlag.value__",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.DirectoryServices.Protocols.ExtendedDNFlag.HexString",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.DirectoryServices.Protocols.ExtendedDNFlag.StandardString",
+          "SourceLink": ""
+        }
+      ],
+      "DocsId": "T:System.DirectoryServices.Protocols.ExtendedDNFlag",
+      "SourceLink": ""
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.ExtendedRequest.#ctor",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L288C9-L288C142"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.ExtendedRequest.#ctor(System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L289C9-L289C160"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.ExtendedRequest.#ctor(System.String,System.Byte[])",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L290C9-L290C181"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.Protocols.ExtendedRequest.RequestName",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L291C43-L291C149"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.Protocols.ExtendedRequest.RequestValue",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L292C44-L292C150"
+        }
+      ],
+      "DocsId": "T:System.DirectoryServices.Protocols.ExtendedRequest",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "P:System.DirectoryServices.Protocols.ExtendedResponse.ResponseName",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L297C44-L297C150"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.Protocols.ExtendedResponse.ResponseValue",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L298C45-L298C151"
+        }
+      ],
+      "DocsId": "T:System.DirectoryServices.Protocols.ExtendedResponse",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.LazyCommitControl.#ctor",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L302C38-L302C216"
+        }
+      ],
+      "DocsId": "T:System.DirectoryServices.Protocols.LazyCommitControl",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.LdapConnection.#ctor(System.DirectoryServices.Protocols.LdapDirectoryIdentifier)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L306C9-L306C210"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.LdapConnection.#ctor(System.DirectoryServices.Protocols.LdapDirectoryIdentifier,System.Net.NetworkCredential)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L307C9-L307C251"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.LdapConnection.#ctor(System.DirectoryServices.Protocols.LdapDirectoryIdentifier,System.Net.NetworkCredential,System.DirectoryServices.Protocols.AuthType)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L308C9-L308C305"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.LdapConnection.#ctor(System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L309C9-L309C154"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.LdapConnection.Abort(System.IAsyncResult)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L315C62-L315C168"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.LdapConnection.BeginSendRequest(System.DirectoryServices.Protocols.DirectoryRequest,System.DirectoryServices.Protocols.PartialResultProcessing,System.AsyncCallback,System.Object)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L316C233-L316C339"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.LdapConnection.BeginSendRequest(System.DirectoryServices.Protocols.DirectoryRequest,System.TimeSpan,System.DirectoryServices.Protocols.PartialResultProcessing,System.AsyncCallback,System.Object)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L317C265-L317C371"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.LdapConnection.Bind",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L318C30-L318C136"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.LdapConnection.Bind(System.Net.NetworkCredential)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L319C72-L319C178"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.LdapConnection.Dispose",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L320C33-L320C34"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.LdapConnection.Dispose(System.Boolean)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L321C58-L321C59"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.LdapConnection.EndSendRequest(System.IAsyncResult)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L322C119-L322C225"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.LdapConnection.Finalize",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L323C27-L323C30"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.LdapConnection.GetPartialResults(System.IAsyncResult)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L324C129-L324C235"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.LdapConnection.SendRequest(System.DirectoryServices.Protocols.DirectoryRequest)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L325C153-L325C259"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.LdapConnection.SendRequest(System.DirectoryServices.Protocols.DirectoryRequest,System.TimeSpan)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L326C176-L326C282"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.Protocols.LdapConnection.AuthType",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L310C77-L310C183"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.Protocols.LdapConnection.AutoBind",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L311C38-L311C144"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.Protocols.LdapConnection.Credential",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L312C73-L312C179"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.Protocols.LdapConnection.SessionOptions",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L313C93-L313C199"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.Protocols.LdapConnection.Timeout",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L314C57-L314C163"
+        }
+      ],
+      "DocsId": "T:System.DirectoryServices.Protocols.LdapConnection",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.LdapDirectoryIdentifier.#ctor(System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L330C9-L330C163"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.LdapDirectoryIdentifier.#ctor(System.String,System.Boolean,System.Boolean)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L331C9-L331C216"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.LdapDirectoryIdentifier.#ctor(System.String,System.Int32)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L332C9-L332C179"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.LdapDirectoryIdentifier.#ctor(System.String,System.Int32,System.Boolean,System.Boolean)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L333C9-L333C232"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.LdapDirectoryIdentifier.#ctor(System.String[],System.Boolean,System.Boolean)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L334C9-L334C219"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.LdapDirectoryIdentifier.#ctor(System.String[],System.Int32,System.Boolean,System.Boolean)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L335C9-L335C235"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.Protocols.LdapDirectoryIdentifier.Connectionless",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L336C44-L336C150"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.Protocols.LdapDirectoryIdentifier.FullyQualifiedDnsHostName",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L337C55-L337C161"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.Protocols.LdapDirectoryIdentifier.PortNumber",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L338C39-L338C145"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.Protocols.LdapDirectoryIdentifier.Servers",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L339C41-L339C147"
+        }
+      ],
+      "DocsId": "T:System.DirectoryServices.Protocols.LdapDirectoryIdentifier",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.LdapException.#ctor",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L343C9-L343C140"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.LdapException.#ctor(System.Int32)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L344C9-L344C153"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.LdapException.#ctor(System.Int32,System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L345C9-L345C169"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.LdapException.#ctor(System.Int32,System.String,System.Exception)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L346C9-L346C193"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.LdapException.#ctor(System.Int32,System.String,System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L347C9-L347C196"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.LdapException.#ctor(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L348C9-L348C249"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.LdapException.#ctor(System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L349C9-L349C154"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.LdapException.#ctor(System.String,System.Exception)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L350C9-L350C178"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.LdapException.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L354C176-L354C282"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.Protocols.LdapException.ErrorCode",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L351C38-L351C144"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.Protocols.LdapException.PartialResults",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L352C99-L352C205"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.Protocols.LdapException.ServerErrorMessage",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L353C50-L353C156"
+        }
+      ],
+      "DocsId": "T:System.DirectoryServices.Protocols.LdapException",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.LdapSessionOptions.FastConcurrentBind",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L384C44-L384C150"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.LdapSessionOptions.StartTransportLayerSecurity(System.DirectoryServices.Protocols.DirectoryControlCollection)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L385C123-L385C229"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.LdapSessionOptions.StopTransportLayerSecurity",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L386C52-L386C158"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.Protocols.LdapSessionOptions.AutoReconnect",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L359C43-L359C149"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.Protocols.LdapSessionOptions.DomainName",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L360C42-L360C148"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.Protocols.LdapSessionOptions.HostName",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L361C40-L361C146"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.Protocols.LdapSessionOptions.HostReachable",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L362C43-L362C149"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.Protocols.LdapSessionOptions.LocatorFlag",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L363C84-L363C190"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.Protocols.LdapSessionOptions.PingKeepAliveTimeout",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L364C61-L364C167"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.Protocols.LdapSessionOptions.PingLimit",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L365C38-L365C144"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.Protocols.LdapSessionOptions.PingWaitTimeout",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L366C56-L366C162"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.Protocols.LdapSessionOptions.ProtocolVersion",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L367C44-L367C150"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.Protocols.LdapSessionOptions.QueryClientCertificate",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L368C113-L368C219"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.Protocols.LdapSessionOptions.ReferralCallback",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L369C93-L369C199"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.Protocols.LdapSessionOptions.ReferralChasing",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L370C98-L370C204"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.Protocols.LdapSessionOptions.ReferralHopLimit",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L371C45-L371C151"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.Protocols.LdapSessionOptions.RootDseCache",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L372C42-L372C148"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.Protocols.LdapSessionOptions.SaslMethod",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L373C42-L373C148"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.Protocols.LdapSessionOptions.Sealing",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L374C37-L374C143"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.Protocols.LdapSessionOptions.SecureSocketLayer",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L376C47-L376C153"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.Protocols.LdapSessionOptions.SecurityContext",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L377C47-L377C153"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.Protocols.LdapSessionOptions.SendTimeout",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L378C52-L378C158"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.Protocols.LdapSessionOptions.Signing",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L379C37-L379C143"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.Protocols.LdapSessionOptions.SslInformation",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L380C118-L380C224"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.Protocols.LdapSessionOptions.SspiFlag",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L381C37-L381C143"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.Protocols.LdapSessionOptions.TcpKeepAlive",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L382C42-L382C148"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.Protocols.LdapSessionOptions.VerifyServerCertificate",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L383C115-L383C221"
+        }
+      ],
+      "DocsId": "T:System.DirectoryServices.Protocols.LdapSessionOptions",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "F:System.DirectoryServices.Protocols.LocatorFlags.value__",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.DirectoryServices.Protocols.LocatorFlags.None",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.DirectoryServices.Protocols.LocatorFlags.ForceRediscovery",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.DirectoryServices.Protocols.LocatorFlags.DirectoryServicesRequired",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.DirectoryServices.Protocols.LocatorFlags.DirectoryServicesPreferred",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.DirectoryServices.Protocols.LocatorFlags.GCRequired",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.DirectoryServices.Protocols.LocatorFlags.PdcRequired",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.DirectoryServices.Protocols.LocatorFlags.IPRequired",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.DirectoryServices.Protocols.LocatorFlags.KdcRequired",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.DirectoryServices.Protocols.LocatorFlags.TimeServerRequired",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.DirectoryServices.Protocols.LocatorFlags.WriteableRequired",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.DirectoryServices.Protocols.LocatorFlags.GoodTimeServerPreferred",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.DirectoryServices.Protocols.LocatorFlags.AvoidSelf",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.DirectoryServices.Protocols.LocatorFlags.OnlyLdapNeeded",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.DirectoryServices.Protocols.LocatorFlags.IsFlatName",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.DirectoryServices.Protocols.LocatorFlags.IsDnsName",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.DirectoryServices.Protocols.LocatorFlags.ReturnDnsName",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.DirectoryServices.Protocols.LocatorFlags.ReturnFlatName",
+          "SourceLink": ""
+        }
+      ],
+      "DocsId": "T:System.DirectoryServices.Protocols.LocatorFlags",
+      "SourceLink": ""
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.ModifyDNRequest.#ctor",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L411C9-L411C142"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.ModifyDNRequest.#ctor(System.String,System.String,System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L412C9-L412C217"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.Protocols.ModifyDNRequest.DeleteOldRdn",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L413C42-L413C148"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.Protocols.ModifyDNRequest.DistinguishedName",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L414C49-L414C155"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.Protocols.ModifyDNRequest.NewName",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L415C39-L415C145"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.Protocols.ModifyDNRequest.NewParentDistinguishedName",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L416C58-L416C164"
+        }
+      ],
+      "DocsId": "T:System.DirectoryServices.Protocols.ModifyDNRequest",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs"
+    },
+    {
+      "Members": [],
+      "DocsId": "T:System.DirectoryServices.Protocols.ModifyDNResponse",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.ModifyRequest.#ctor",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L424C9-L424C140"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.ModifyRequest.#ctor(System.String,System.DirectoryServices.Protocols.DirectoryAttributeModification[])",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L425C9-L425C254"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.ModifyRequest.#ctor(System.String,System.DirectoryServices.Protocols.DirectoryAttributeOperation,System.String,System.Object[])",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L426C9-L426C284"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.Protocols.ModifyRequest.DistinguishedName",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L427C49-L427C155"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.Protocols.ModifyRequest.Modifications",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L428C114-L428C220"
+        }
+      ],
+      "DocsId": "T:System.DirectoryServices.Protocols.ModifyRequest",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs"
+    },
+    {
+      "Members": [],
+      "DocsId": "T:System.DirectoryServices.Protocols.ModifyResponse",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.NotifyOfNewConnectionCallback.#ctor(System.Object,System.IntPtr)",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.NotifyOfNewConnectionCallback.Invoke(System.DirectoryServices.Protocols.LdapConnection,System.DirectoryServices.Protocols.LdapConnection,System.String,System.DirectoryServices.Protocols.LdapDirectoryIdentifier,System.DirectoryServices.Protocols.LdapConnection,System.Net.NetworkCredential,System.Int64,System.Int32)",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.NotifyOfNewConnectionCallback.BeginInvoke(System.DirectoryServices.Protocols.LdapConnection,System.DirectoryServices.Protocols.LdapConnection,System.String,System.DirectoryServices.Protocols.LdapDirectoryIdentifier,System.DirectoryServices.Protocols.LdapConnection,System.Net.NetworkCredential,System.Int64,System.Int32,System.AsyncCallback,System.Object)",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.NotifyOfNewConnectionCallback.EndInvoke(System.IAsyncResult)",
+          "SourceLink": ""
+        }
+      ],
+      "DocsId": "T:System.DirectoryServices.Protocols.NotifyOfNewConnectionCallback",
+      "SourceLink": ""
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.PageResultRequestControl.#ctor",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L437C45-L437C223"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.PageResultRequestControl.#ctor(System.Byte[])",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L438C58-L438C236"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.PageResultRequestControl.#ctor(System.Int32)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L439C57-L439C235"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.PageResultRequestControl.GetValue",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L442C45-L442C151"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.Protocols.PageResultRequestControl.Cookie",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L440C38-L440C144"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.Protocols.PageResultRequestControl.PageSize",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L441C37-L441C143"
+        }
+      ],
+      "DocsId": "T:System.DirectoryServices.Protocols.PageResultRequestControl",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "P:System.DirectoryServices.Protocols.PageResultResponseControl.Cookie",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L447C38-L447C144"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.Protocols.PageResultResponseControl.TotalCount",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L448C39-L448C145"
+        }
+      ],
+      "DocsId": "T:System.DirectoryServices.Protocols.PageResultResponseControl",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "F:System.DirectoryServices.Protocols.PartialResultProcessing.value__",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.DirectoryServices.Protocols.PartialResultProcessing.NoPartialResultSupport",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.DirectoryServices.Protocols.PartialResultProcessing.ReturnPartialResults",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.DirectoryServices.Protocols.PartialResultProcessing.ReturnPartialResultsAndNotifyCallback",
+          "SourceLink": ""
+        }
+      ],
+      "DocsId": "T:System.DirectoryServices.Protocols.PartialResultProcessing",
+      "SourceLink": ""
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.PartialResultsCollection.Contains(System.Object)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L460C46-L460C152"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.PartialResultsCollection.CopyTo(System.Object[],System.Int32)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L461C58-L461C164"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.PartialResultsCollection.IndexOf(System.Object)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L462C44-L462C150"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.Protocols.PartialResultsCollection.Item(System.Int32)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L459C47-L459C153"
+        }
+      ],
+      "DocsId": "T:System.DirectoryServices.Protocols.PartialResultsCollection",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.PermissiveModifyControl.#ctor",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L466C44-L466C222"
+        }
+      ],
+      "DocsId": "T:System.DirectoryServices.Protocols.PermissiveModifyControl",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.QueryClientCertificateCallback.#ctor(System.Object,System.IntPtr)",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.QueryClientCertificateCallback.Invoke(System.DirectoryServices.Protocols.LdapConnection,System.Byte[][])",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.QueryClientCertificateCallback.BeginInvoke(System.DirectoryServices.Protocols.LdapConnection,System.Byte[][],System.AsyncCallback,System.Object)",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.QueryClientCertificateCallback.EndInvoke(System.IAsyncResult)",
+          "SourceLink": ""
+        }
+      ],
+      "DocsId": "T:System.DirectoryServices.Protocols.QueryClientCertificateCallback",
+      "SourceLink": ""
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.QueryForConnectionCallback.#ctor(System.Object,System.IntPtr)",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.QueryForConnectionCallback.Invoke(System.DirectoryServices.Protocols.LdapConnection,System.DirectoryServices.Protocols.LdapConnection,System.String,System.DirectoryServices.Protocols.LdapDirectoryIdentifier,System.Net.NetworkCredential,System.Int64)",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.QueryForConnectionCallback.BeginInvoke(System.DirectoryServices.Protocols.LdapConnection,System.DirectoryServices.Protocols.LdapConnection,System.String,System.DirectoryServices.Protocols.LdapDirectoryIdentifier,System.Net.NetworkCredential,System.Int64,System.AsyncCallback,System.Object)",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.QueryForConnectionCallback.EndInvoke(System.IAsyncResult)",
+          "SourceLink": ""
+        }
+      ],
+      "DocsId": "T:System.DirectoryServices.Protocols.QueryForConnectionCallback",
+      "SourceLink": ""
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.QuotaControl.#ctor",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L473C33-L473C211"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.QuotaControl.#ctor(System.Security.Principal.SecurityIdentifier)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L474C86-L474C264"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.QuotaControl.GetValue",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L476C45-L476C151"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.Protocols.QuotaControl.QuerySid",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L475C78-L475C184"
+        }
+      ],
+      "DocsId": "T:System.DirectoryServices.Protocols.QuotaControl",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.ReferralCallback.#ctor",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L480C9-L480C143"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.Protocols.ReferralCallback.DereferenceConnection",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L481C111-L481C217"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.Protocols.ReferralCallback.NotifyNewConnection",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L482C109-L482C215"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.Protocols.ReferralCallback.QueryForConnection",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L483C105-L483C211"
+        }
+      ],
+      "DocsId": "T:System.DirectoryServices.Protocols.ReferralCallback",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "F:System.DirectoryServices.Protocols.ReferralChasingOptions.value__",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.DirectoryServices.Protocols.ReferralChasingOptions.None",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.DirectoryServices.Protocols.ReferralChasingOptions.Subordinate",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.DirectoryServices.Protocols.ReferralChasingOptions.External",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.DirectoryServices.Protocols.ReferralChasingOptions.All",
+          "SourceLink": ""
+        }
+      ],
+      "DocsId": "T:System.DirectoryServices.Protocols.ReferralChasingOptions",
+      "SourceLink": ""
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "F:System.DirectoryServices.Protocols.ResultCode.value__",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.DirectoryServices.Protocols.ResultCode.Success",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.DirectoryServices.Protocols.ResultCode.OperationsError",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.DirectoryServices.Protocols.ResultCode.ProtocolError",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.DirectoryServices.Protocols.ResultCode.TimeLimitExceeded",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.DirectoryServices.Protocols.ResultCode.SizeLimitExceeded",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.DirectoryServices.Protocols.ResultCode.CompareFalse",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.DirectoryServices.Protocols.ResultCode.CompareTrue",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.DirectoryServices.Protocols.ResultCode.AuthMethodNotSupported",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.DirectoryServices.Protocols.ResultCode.StrongAuthRequired",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.DirectoryServices.Protocols.ResultCode.ReferralV2",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.DirectoryServices.Protocols.ResultCode.Referral",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.DirectoryServices.Protocols.ResultCode.AdminLimitExceeded",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.DirectoryServices.Protocols.ResultCode.UnavailableCriticalExtension",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.DirectoryServices.Protocols.ResultCode.ConfidentialityRequired",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.DirectoryServices.Protocols.ResultCode.SaslBindInProgress",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.DirectoryServices.Protocols.ResultCode.NoSuchAttribute",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.DirectoryServices.Protocols.ResultCode.UndefinedAttributeType",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.DirectoryServices.Protocols.ResultCode.InappropriateMatching",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.DirectoryServices.Protocols.ResultCode.ConstraintViolation",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.DirectoryServices.Protocols.ResultCode.AttributeOrValueExists",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.DirectoryServices.Protocols.ResultCode.InvalidAttributeSyntax",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.DirectoryServices.Protocols.ResultCode.NoSuchObject",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.DirectoryServices.Protocols.ResultCode.AliasProblem",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.DirectoryServices.Protocols.ResultCode.InvalidDNSyntax",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.DirectoryServices.Protocols.ResultCode.AliasDereferencingProblem",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.DirectoryServices.Protocols.ResultCode.InappropriateAuthentication",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.DirectoryServices.Protocols.ResultCode.InsufficientAccessRights",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.DirectoryServices.Protocols.ResultCode.Busy",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.DirectoryServices.Protocols.ResultCode.Unavailable",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.DirectoryServices.Protocols.ResultCode.UnwillingToPerform",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.DirectoryServices.Protocols.ResultCode.LoopDetect",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.DirectoryServices.Protocols.ResultCode.SortControlMissing",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.DirectoryServices.Protocols.ResultCode.OffsetRangeError",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.DirectoryServices.Protocols.ResultCode.NamingViolation",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.DirectoryServices.Protocols.ResultCode.ObjectClassViolation",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.DirectoryServices.Protocols.ResultCode.NotAllowedOnNonLeaf",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.DirectoryServices.Protocols.ResultCode.NotAllowedOnRdn",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.DirectoryServices.Protocols.ResultCode.EntryAlreadyExists",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.DirectoryServices.Protocols.ResultCode.ObjectClassModificationsProhibited",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.DirectoryServices.Protocols.ResultCode.ResultsTooLarge",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.DirectoryServices.Protocols.ResultCode.AffectsMultipleDsas",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.DirectoryServices.Protocols.ResultCode.VirtualListViewError",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.DirectoryServices.Protocols.ResultCode.Other",
+          "SourceLink": ""
+        }
+      ],
+      "DocsId": "T:System.DirectoryServices.Protocols.ResultCode",
+      "SourceLink": ""
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "F:System.DirectoryServices.Protocols.SearchOption.value__",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.DirectoryServices.Protocols.SearchOption.DomainScope",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.DirectoryServices.Protocols.SearchOption.PhantomRoot",
+          "SourceLink": ""
+        }
+      ],
+      "DocsId": "T:System.DirectoryServices.Protocols.SearchOption",
+      "SourceLink": ""
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.SearchOptionsControl.#ctor",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L546C41-L546C219"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.SearchOptionsControl.#ctor(System.DirectoryServices.Protocols.SearchOption)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L547C94-L547C272"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.SearchOptionsControl.GetValue",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L549C45-L549C151"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.Protocols.SearchOptionsControl.SearchOption",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L548C85-L548C191"
+        }
+      ],
+      "DocsId": "T:System.DirectoryServices.Protocols.SearchOptionsControl",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.SearchRequest.#ctor",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L553C9-L553C140"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.SearchRequest.#ctor(System.String,System.String,System.DirectoryServices.Protocols.SearchScope,System.String[])",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L554C9-L554C274"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.Protocols.SearchRequest.Aliases",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L555C84-L555C190"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.Protocols.SearchRequest.Attributes",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L556C83-L556C189"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.Protocols.SearchRequest.DistinguishedName",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L557C49-L557C155"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.Protocols.SearchRequest.Filter",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L558C38-L558C144"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.Protocols.SearchRequest.Scope",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L559C77-L559C183"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.Protocols.SearchRequest.SizeLimit",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L560C38-L560C144"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.Protocols.SearchRequest.TimeLimit",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L561C50-L561C156"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.Protocols.SearchRequest.TypesOnly",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L562C39-L562C145"
+        }
+      ],
+      "DocsId": "T:System.DirectoryServices.Protocols.SearchRequest",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "P:System.DirectoryServices.Protocols.SearchResponse.Controls",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L567C96-L567C202"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.Protocols.SearchResponse.Entries",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L568C95-L568C201"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.Protocols.SearchResponse.ErrorMessage",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L569C53-L569C159"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.Protocols.SearchResponse.MatchedDN",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L570C50-L570C156"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.Protocols.SearchResponse.References",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L571C102-L571C208"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.Protocols.SearchResponse.Referral",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L572C55-L572C161"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.Protocols.SearchResponse.ResultCode",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L573C90-L573C196"
+        }
+      ],
+      "DocsId": "T:System.DirectoryServices.Protocols.SearchResponse",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.SearchResultAttributeCollection.Contains(System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L581C54-L581C160"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.SearchResultAttributeCollection.CopyTo(System.DirectoryServices.Protocols.DirectoryAttribute[],System.Int32)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L582C104-L582C210"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.Protocols.SearchResultAttributeCollection.AttributeNames",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L578C70-L578C176"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.Protocols.SearchResultAttributeCollection.Item(System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L579C105-L579C211"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.Protocols.SearchResultAttributeCollection.Values",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L580C62-L580C168"
+        }
+      ],
+      "DocsId": "T:System.DirectoryServices.Protocols.SearchResultAttributeCollection",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "P:System.DirectoryServices.Protocols.SearchResultEntry.Attributes",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L587C102-L587C208"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.Protocols.SearchResultEntry.Controls",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L588C87-L588C193"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.Protocols.SearchResultEntry.DistinguishedName",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L589C49-L589C155"
+        }
+      ],
+      "DocsId": "T:System.DirectoryServices.Protocols.SearchResultEntry",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.SearchResultEntryCollection.Contains(System.DirectoryServices.Protocols.SearchResultEntry)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L595C92-L595C198"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.SearchResultEntryCollection.CopyTo(System.DirectoryServices.Protocols.SearchResultEntry[],System.Int32)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L596C104-L596C210"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.SearchResultEntryCollection.IndexOf(System.DirectoryServices.Protocols.SearchResultEntry)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L597C90-L597C196"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.Protocols.SearchResultEntryCollection.Item(System.Int32)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L594C93-L594C199"
+        }
+      ],
+      "DocsId": "T:System.DirectoryServices.Protocols.SearchResultEntryCollection",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "P:System.DirectoryServices.Protocols.SearchResultReference.Controls",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L602C87-L602C193"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.Protocols.SearchResultReference.Reference",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L603C47-L603C153"
+        }
+      ],
+      "DocsId": "T:System.DirectoryServices.Protocols.SearchResultReference",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.SearchResultReferenceCollection.Contains(System.DirectoryServices.Protocols.SearchResultReference)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L609C96-L609C202"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.SearchResultReferenceCollection.CopyTo(System.DirectoryServices.Protocols.SearchResultReference[],System.Int32)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L610C108-L610C214"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.SearchResultReferenceCollection.IndexOf(System.DirectoryServices.Protocols.SearchResultReference)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L611C94-L611C200"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.Protocols.SearchResultReferenceCollection.Item(System.Int32)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L608C97-L608C203"
+        }
+      ],
+      "DocsId": "T:System.DirectoryServices.Protocols.SearchResultReferenceCollection",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "F:System.DirectoryServices.Protocols.SearchScope.value__",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.DirectoryServices.Protocols.SearchScope.Base",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.DirectoryServices.Protocols.SearchScope.OneLevel",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.DirectoryServices.Protocols.SearchScope.Subtree",
+          "SourceLink": ""
+        }
+      ],
+      "DocsId": "T:System.DirectoryServices.Protocols.SearchScope",
+      "SourceLink": ""
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.SecurityDescriptorFlagControl.#ctor",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L621C50-L621C228"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.SecurityDescriptorFlagControl.#ctor(System.DirectoryServices.Protocols.SecurityMasks)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L622C104-L622C282"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.SecurityDescriptorFlagControl.GetValue",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L624C45-L624C151"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.Protocols.SecurityDescriptorFlagControl.SecurityMasks",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L623C87-L623C193"
+        }
+      ],
+      "DocsId": "T:System.DirectoryServices.Protocols.SecurityDescriptorFlagControl",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "F:System.DirectoryServices.Protocols.SecurityMasks.value__",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.DirectoryServices.Protocols.SecurityMasks.None",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.DirectoryServices.Protocols.SecurityMasks.Owner",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.DirectoryServices.Protocols.SecurityMasks.Group",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.DirectoryServices.Protocols.SecurityMasks.Dacl",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.DirectoryServices.Protocols.SecurityMasks.Sacl",
+          "SourceLink": ""
+        }
+      ],
+      "DocsId": "T:System.DirectoryServices.Protocols.SecurityMasks",
+      "SourceLink": ""
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "P:System.DirectoryServices.Protocols.SecurityPackageContextConnectionInformation.AlgorithmIdentifier",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L638C95-L638C201"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.Protocols.SecurityPackageContextConnectionInformation.CipherStrength",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L639C43-L639C149"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.Protocols.SecurityPackageContextConnectionInformation.ExchangeStrength",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L640C45-L640C151"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.Protocols.SecurityPackageContextConnectionInformation.Hash",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L641C78-L641C184"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.Protocols.SecurityPackageContextConnectionInformation.HashStrength",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L642C41-L642C147"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.Protocols.SecurityPackageContextConnectionInformation.KeyExchangeAlgorithm",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L643C49-L643C155"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.Protocols.SecurityPackageContextConnectionInformation.Protocol",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L644C85-L644C191"
+        }
+      ],
+      "DocsId": "T:System.DirectoryServices.Protocols.SecurityPackageContextConnectionInformation",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "F:System.DirectoryServices.Protocols.SecurityProtocol.value__",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.DirectoryServices.Protocols.SecurityProtocol.Pct1Server",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.DirectoryServices.Protocols.SecurityProtocol.Pct1Client",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.DirectoryServices.Protocols.SecurityProtocol.Ssl2Server",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.DirectoryServices.Protocols.SecurityProtocol.Ssl2Client",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.DirectoryServices.Protocols.SecurityProtocol.Ssl3Server",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.DirectoryServices.Protocols.SecurityProtocol.Ssl3Client",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.DirectoryServices.Protocols.SecurityProtocol.Tls1Server",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.DirectoryServices.Protocols.SecurityProtocol.Tls1Client",
+          "SourceLink": ""
+        }
+      ],
+      "DocsId": "T:System.DirectoryServices.Protocols.SecurityProtocol",
+      "SourceLink": ""
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.ShowDeletedControl.#ctor",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L659C39-L659C217"
+        }
+      ],
+      "DocsId": "T:System.DirectoryServices.Protocols.ShowDeletedControl",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.SortKey.#ctor",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L663C9-L663C134"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.SortKey.#ctor(System.String,System.String,System.Boolean)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L664C9-L664C194"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.Protocols.SortKey.AttributeName",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L665C45-L665C151"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.Protocols.SortKey.MatchingRule",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L666C44-L666C150"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.Protocols.SortKey.ReverseOrder",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L667C42-L667C148"
+        }
+      ],
+      "DocsId": "T:System.DirectoryServices.Protocols.SortKey",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.SortRequestControl.#ctor(System.DirectoryServices.Protocols.SortKey[])",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L671C99-L671C277"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.SortRequestControl.#ctor(System.String,System.Boolean)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L672C78-L672C256"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.SortRequestControl.#ctor(System.String,System.String,System.Boolean)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L673C99-L673C277"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.SortRequestControl.GetValue",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L675C45-L675C151"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.Protocols.SortRequestControl.SortKeys",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L674C78-L674C184"
+        }
+      ],
+      "DocsId": "T:System.DirectoryServices.Protocols.SortRequestControl",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "P:System.DirectoryServices.Protocols.SortResponseControl.AttributeName",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L680C45-L680C151"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.Protocols.SortResponseControl.Result",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L681C77-L681C183"
+        }
+      ],
+      "DocsId": "T:System.DirectoryServices.Protocols.SortResponseControl",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.TlsOperationException.#ctor",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L685C9-L685C148"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.TlsOperationException.#ctor(System.DirectoryServices.Protocols.DirectoryResponse)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L686C9-L686C209"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.TlsOperationException.#ctor(System.DirectoryServices.Protocols.DirectoryResponse,System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L687C9-L687C225"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.TlsOperationException.#ctor(System.DirectoryServices.Protocols.DirectoryResponse,System.String,System.Exception)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L688C9-L688C249"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.TlsOperationException.#ctor(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L689C9-L689C257"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.TlsOperationException.#ctor(System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L690C9-L690C162"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.TlsOperationException.#ctor(System.String,System.Exception)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L691C9-L691C186"
+        }
+      ],
+      "DocsId": "T:System.DirectoryServices.Protocols.TlsOperationException",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.TreeDeleteControl.#ctor",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L695C38-L695C216"
+        }
+      ],
+      "DocsId": "T:System.DirectoryServices.Protocols.TreeDeleteControl",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.VerifyNameControl.#ctor",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L699C38-L699C216"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.VerifyNameControl.#ctor(System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L700C55-L700C233"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.VerifyNameControl.#ctor(System.String,System.Int32)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L701C65-L701C243"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.VerifyNameControl.GetValue",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L704C45-L704C151"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.Protocols.VerifyNameControl.Flag",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L702C33-L702C139"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.Protocols.VerifyNameControl.ServerName",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L703C42-L703C148"
+        }
+      ],
+      "DocsId": "T:System.DirectoryServices.Protocols.VerifyNameControl",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.VerifyServerCertificateCallback.#ctor(System.Object,System.IntPtr)",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.VerifyServerCertificateCallback.Invoke(System.DirectoryServices.Protocols.LdapConnection,System.Security.Cryptography.X509Certificates.X509Certificate)",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.VerifyServerCertificateCallback.BeginInvoke(System.DirectoryServices.Protocols.LdapConnection,System.Security.Cryptography.X509Certificates.X509Certificate,System.AsyncCallback,System.Object)",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.VerifyServerCertificateCallback.EndInvoke(System.IAsyncResult)",
+          "SourceLink": ""
+        }
+      ],
+      "DocsId": "T:System.DirectoryServices.Protocols.VerifyServerCertificateCallback",
+      "SourceLink": ""
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.VlvRequestControl.#ctor",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L709C38-L709C216"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.VlvRequestControl.#ctor(System.Int32,System.Int32,System.Byte[])",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L710C84-L710C262"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.VlvRequestControl.#ctor(System.Int32,System.Int32,System.Int32)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L711C81-L711C259"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.VlvRequestControl.#ctor(System.Int32,System.Int32,System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L712C84-L712C262"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.Protocols.VlvRequestControl.GetValue",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L719C45-L719C151"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.Protocols.VlvRequestControl.AfterCount",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L713C39-L713C145"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.Protocols.VlvRequestControl.BeforeCount",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L714C40-L714C146"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.Protocols.VlvRequestControl.ContextId",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L715C41-L715C147"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.Protocols.VlvRequestControl.EstimateCount",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L716C42-L716C148"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.Protocols.VlvRequestControl.Offset",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L717C35-L717C141"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.Protocols.VlvRequestControl.Target",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L718C38-L718C144"
+        }
+      ],
+      "DocsId": "T:System.DirectoryServices.Protocols.VlvRequestControl",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "P:System.DirectoryServices.Protocols.VlvResponseControl.ContentCount",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L724C41-L724C147"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.Protocols.VlvResponseControl.ContextId",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L725C41-L725C147"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.Protocols.VlvResponseControl.Result",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L726C77-L726C183"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.Protocols.VlvResponseControl.TargetPosition",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs#L727C43-L727C149"
+        }
+      ],
+      "DocsId": "T:System.DirectoryServices.Protocols.VlvResponseControl",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.DirectoryServices.Protocols/net6.0-Release/System.DirectoryServices.Protocols.notsupported.cs"
+    }
+  ]
+}

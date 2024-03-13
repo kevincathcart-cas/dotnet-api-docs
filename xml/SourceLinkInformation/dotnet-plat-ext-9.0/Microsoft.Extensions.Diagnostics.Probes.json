@@ -1,0 +1,196 @@
+{
+  "Assembly": "Microsoft.Extensions.Diagnostics.Probes",
+  "GUID": "FB741F1C70214718A274A734A01752E7FFFFFFFF",
+  "Types": [
+    {
+      "Members": [
+        {
+          "DocsId": "M:Microsoft.Extensions.Diagnostics.Probes.KubernetesProbesOptions.#ctor",
+          "SourceLink": "https://github.com/dotnet/extensions/blob/acbe91ec5f89bd217cff1db5e6734ba0ff99d802/src/Libraries/Microsoft.Extensions.Diagnostics.Probes/KubernetesProbesOptions.cs#L21C67-L46C6"
+        },
+        {
+          "DocsId": "F:Microsoft.Extensions.Diagnostics.Probes.KubernetesProbesOptions.DefaultLivenessProbePort",
+          "SourceLink": "https://github.com/dotnet/extensions/blob/acbe91ec5f89bd217cff1db5e6734ba0ff99d802/src/Libraries/Microsoft.Extensions.Diagnostics.Probes/KubernetesProbesOptions.cs"
+        },
+        {
+          "DocsId": "F:Microsoft.Extensions.Diagnostics.Probes.KubernetesProbesOptions.DefaultStartupProbePort",
+          "SourceLink": "https://github.com/dotnet/extensions/blob/acbe91ec5f89bd217cff1db5e6734ba0ff99d802/src/Libraries/Microsoft.Extensions.Diagnostics.Probes/KubernetesProbesOptions.cs"
+        },
+        {
+          "DocsId": "F:Microsoft.Extensions.Diagnostics.Probes.KubernetesProbesOptions.DefaultReadinessProbePort",
+          "SourceLink": "https://github.com/dotnet/extensions/blob/acbe91ec5f89bd217cff1db5e6734ba0ff99d802/src/Libraries/Microsoft.Extensions.Diagnostics.Probes/KubernetesProbesOptions.cs"
+        },
+        {
+          "DocsId": "F:Microsoft.Extensions.Diagnostics.Probes.KubernetesProbesOptions.<LivenessProbe>k__BackingField",
+          "SourceLink": "https://github.com/dotnet/extensions/blob/acbe91ec5f89bd217cff1db5e6734ba0ff99d802/src/Libraries/Microsoft.Extensions.Diagnostics.Probes/KubernetesProbesOptions.cs"
+        },
+        {
+          "DocsId": "F:Microsoft.Extensions.Diagnostics.Probes.KubernetesProbesOptions.<StartupProbe>k__BackingField",
+          "SourceLink": "https://github.com/dotnet/extensions/blob/acbe91ec5f89bd217cff1db5e6734ba0ff99d802/src/Libraries/Microsoft.Extensions.Diagnostics.Probes/KubernetesProbesOptions.cs"
+        },
+        {
+          "DocsId": "F:Microsoft.Extensions.Diagnostics.Probes.KubernetesProbesOptions.<ReadinessProbe>k__BackingField",
+          "SourceLink": "https://github.com/dotnet/extensions/blob/acbe91ec5f89bd217cff1db5e6734ba0ff99d802/src/Libraries/Microsoft.Extensions.Diagnostics.Probes/KubernetesProbesOptions.cs"
+        },
+        {
+          "DocsId": "P:Microsoft.Extensions.Diagnostics.Probes.KubernetesProbesOptions.LivenessProbe",
+          "SourceLink": "https://github.com/dotnet/extensions/blob/acbe91ec5f89bd217cff1db5e6734ba0ff99d802/src/Libraries/Microsoft.Extensions.Diagnostics.Probes/KubernetesProbesOptions.cs#L21C53-L21C57"
+        },
+        {
+          "DocsId": "P:Microsoft.Extensions.Diagnostics.Probes.KubernetesProbesOptions.StartupProbe",
+          "SourceLink": "https://github.com/dotnet/extensions/blob/acbe91ec5f89bd217cff1db5e6734ba0ff99d802/src/Libraries/Microsoft.Extensions.Diagnostics.Probes/KubernetesProbesOptions.cs#L32C52-L32C56"
+        },
+        {
+          "DocsId": "P:Microsoft.Extensions.Diagnostics.Probes.KubernetesProbesOptions.ReadinessProbe",
+          "SourceLink": "https://github.com/dotnet/extensions/blob/acbe91ec5f89bd217cff1db5e6734ba0ff99d802/src/Libraries/Microsoft.Extensions.Diagnostics.Probes/KubernetesProbesOptions.cs#L43C54-L43C58"
+        }
+      ],
+      "DocsId": "T:Microsoft.Extensions.Diagnostics.Probes.KubernetesProbesOptions",
+      "SourceLink": "https://github.com/dotnet/extensions/blob/acbe91ec5f89bd217cff1db5e6734ba0ff99d802/src/Libraries/Microsoft.Extensions.Diagnostics.Probes/KubernetesProbesOptions.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "F:Microsoft.Extensions.Diagnostics.Probes.ProbeTags.Liveness",
+          "SourceLink": "https://github.com/dotnet/extensions/blob/acbe91ec5f89bd217cff1db5e6734ba0ff99d802/src/Libraries/Microsoft.Extensions.Diagnostics.Probes/ProbeTags.cs"
+        },
+        {
+          "DocsId": "F:Microsoft.Extensions.Diagnostics.Probes.ProbeTags.Startup",
+          "SourceLink": "https://github.com/dotnet/extensions/blob/acbe91ec5f89bd217cff1db5e6734ba0ff99d802/src/Libraries/Microsoft.Extensions.Diagnostics.Probes/ProbeTags.cs"
+        },
+        {
+          "DocsId": "F:Microsoft.Extensions.Diagnostics.Probes.ProbeTags.Readiness",
+          "SourceLink": "https://github.com/dotnet/extensions/blob/acbe91ec5f89bd217cff1db5e6734ba0ff99d802/src/Libraries/Microsoft.Extensions.Diagnostics.Probes/ProbeTags.cs"
+        }
+      ],
+      "DocsId": "T:Microsoft.Extensions.Diagnostics.Probes.ProbeTags",
+      "SourceLink": "https://github.com/dotnet/extensions/blob/acbe91ec5f89bd217cff1db5e6734ba0ff99d802/src/Libraries/Microsoft.Extensions.Diagnostics.Probes/ProbeTags.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:Microsoft.Extensions.Diagnostics.Probes.TcpEndpointProbesOptions.#ctor",
+          "SourceLink": "https://github.com/dotnet/extensions/blob/acbe91ec5f89bd217cff1db5e6734ba0ff99d802/src/Libraries/Microsoft.Extensions.Diagnostics.Probes/TcpEndpointProbesOptions.cs#L28C40-L46C84"
+        },
+        {
+          "DocsId": "F:Microsoft.Extensions.Diagnostics.Probes.TcpEndpointProbesOptions.DefaultMaxPendingConnections",
+          "SourceLink": "https://github.com/dotnet/extensions/blob/acbe91ec5f89bd217cff1db5e6734ba0ff99d802/src/Libraries/Microsoft.Extensions.Diagnostics.Probes/TcpEndpointProbesOptions.cs"
+        },
+        {
+          "DocsId": "F:Microsoft.Extensions.Diagnostics.Probes.TcpEndpointProbesOptions.DefaultTcpPort",
+          "SourceLink": "https://github.com/dotnet/extensions/blob/acbe91ec5f89bd217cff1db5e6734ba0ff99d802/src/Libraries/Microsoft.Extensions.Diagnostics.Probes/TcpEndpointProbesOptions.cs"
+        },
+        {
+          "DocsId": "F:Microsoft.Extensions.Diagnostics.Probes.TcpEndpointProbesOptions.<TcpPort>k__BackingField",
+          "SourceLink": "https://github.com/dotnet/extensions/blob/acbe91ec5f89bd217cff1db5e6734ba0ff99d802/src/Libraries/Microsoft.Extensions.Diagnostics.Probes/TcpEndpointProbesOptions.cs"
+        },
+        {
+          "DocsId": "F:Microsoft.Extensions.Diagnostics.Probes.TcpEndpointProbesOptions.<MaxPendingConnections>k__BackingField",
+          "SourceLink": "https://github.com/dotnet/extensions/blob/acbe91ec5f89bd217cff1db5e6734ba0ff99d802/src/Libraries/Microsoft.Extensions.Diagnostics.Probes/TcpEndpointProbesOptions.cs"
+        },
+        {
+          "DocsId": "F:Microsoft.Extensions.Diagnostics.Probes.TcpEndpointProbesOptions.<HealthAssessmentPeriod>k__BackingField",
+          "SourceLink": "https://github.com/dotnet/extensions/blob/acbe91ec5f89bd217cff1db5e6734ba0ff99d802/src/Libraries/Microsoft.Extensions.Diagnostics.Probes/TcpEndpointProbesOptions.cs"
+        },
+        {
+          "DocsId": "F:Microsoft.Extensions.Diagnostics.Probes.TcpEndpointProbesOptions.<FilterChecks>k__BackingField",
+          "SourceLink": "https://github.com/dotnet/extensions/blob/acbe91ec5f89bd217cff1db5e6734ba0ff99d802/src/Libraries/Microsoft.Extensions.Diagnostics.Probes/TcpEndpointProbesOptions.cs"
+        },
+        {
+          "DocsId": "P:Microsoft.Extensions.Diagnostics.Probes.TcpEndpointProbesOptions.TcpPort",
+          "SourceLink": "https://github.com/dotnet/extensions/blob/acbe91ec5f89bd217cff1db5e6734ba0ff99d802/src/Libraries/Microsoft.Extensions.Diagnostics.Probes/TcpEndpointProbesOptions.cs#L28C26-L28C30"
+        },
+        {
+          "DocsId": "P:Microsoft.Extensions.Diagnostics.Probes.TcpEndpointProbesOptions.MaxPendingConnections",
+          "SourceLink": "https://github.com/dotnet/extensions/blob/acbe91ec5f89bd217cff1db5e6734ba0ff99d802/src/Libraries/Microsoft.Extensions.Diagnostics.Probes/TcpEndpointProbesOptions.cs#L37C40-L37C44"
+        },
+        {
+          "DocsId": "P:Microsoft.Extensions.Diagnostics.Probes.TcpEndpointProbesOptions.HealthAssessmentPeriod",
+          "SourceLink": "https://github.com/dotnet/extensions/blob/acbe91ec5f89bd217cff1db5e6734ba0ff99d802/src/Libraries/Microsoft.Extensions.Diagnostics.Probes/TcpEndpointProbesOptions.cs#L46C46-L46C50"
+        },
+        {
+          "DocsId": "P:Microsoft.Extensions.Diagnostics.Probes.TcpEndpointProbesOptions.FilterChecks",
+          "SourceLink": "https://github.com/dotnet/extensions/blob/acbe91ec5f89bd217cff1db5e6734ba0ff99d802/src/Libraries/Microsoft.Extensions.Diagnostics.Probes/TcpEndpointProbesOptions.cs#L54C64-L54C68"
+        }
+      ],
+      "DocsId": "T:Microsoft.Extensions.Diagnostics.Probes.TcpEndpointProbesOptions",
+      "SourceLink": "https://github.com/dotnet/extensions/blob/acbe91ec5f89bd217cff1db5e6734ba0ff99d802/src/Libraries/Microsoft.Extensions.Diagnostics.Probes/TcpEndpointProbesOptions.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:Microsoft.Extensions.DependencyInjection.KubernetesProbesExtensions.AddKubernetesProbes(Microsoft.Extensions.DependencyInjection.IServiceCollection)",
+          "SourceLink": "https://github.com/dotnet/extensions/blob/acbe91ec5f89bd217cff1db5e6734ba0ff99d802/src/Libraries/Microsoft.Extensions.Diagnostics.Probes/KubernetesProbesExtensions.cs#L23C12-L23C52"
+        },
+        {
+          "DocsId": "M:Microsoft.Extensions.DependencyInjection.KubernetesProbesExtensions.AddKubernetesProbes(Microsoft.Extensions.DependencyInjection.IServiceCollection,Microsoft.Extensions.Configuration.IConfigurationSection)",
+          "SourceLink": "https://github.com/dotnet/extensions/blob/acbe91ec5f89bd217cff1db5e6734ba0ff99d802/src/Libraries/Microsoft.Extensions.Diagnostics.Probes/KubernetesProbesExtensions.cs#L16707566C0-L36C67"
+        },
+        {
+          "DocsId": "M:Microsoft.Extensions.DependencyInjection.KubernetesProbesExtensions.AddKubernetesProbes(Microsoft.Extensions.DependencyInjection.IServiceCollection,System.Action{Microsoft.Extensions.Diagnostics.Probes.KubernetesProbesOptions})",
+          "SourceLink": "https://github.com/dotnet/extensions/blob/acbe91ec5f89bd217cff1db5e6734ba0ff99d802/src/Libraries/Microsoft.Extensions.Diagnostics.Probes/KubernetesProbesExtensions.cs#L16707566C0-L94C16"
+        },
+        {
+          "DocsId": "T:Microsoft.Extensions.DependencyInjection.KubernetesProbesExtensions.<>c",
+          "SourceLink": "https://github.com/dotnet/extensions/blob/acbe91ec5f89bd217cff1db5e6734ba0ff99d802/src/Libraries/Microsoft.Extensions.Diagnostics.Probes/KubernetesProbesExtensions.cs"
+        },
+        {
+          "DocsId": "T:Microsoft.Extensions.DependencyInjection.KubernetesProbesExtensions.<>c__DisplayClass1_0",
+          "SourceLink": "https://github.com/dotnet/extensions/blob/acbe91ec5f89bd217cff1db5e6734ba0ff99d802/src/Libraries/Microsoft.Extensions.Diagnostics.Probes/KubernetesProbesExtensions.cs"
+        },
+        {
+          "DocsId": "T:Microsoft.Extensions.DependencyInjection.KubernetesProbesExtensions.<>c__DisplayClass2_0",
+          "SourceLink": "https://github.com/dotnet/extensions/blob/acbe91ec5f89bd217cff1db5e6734ba0ff99d802/src/Libraries/Microsoft.Extensions.Diagnostics.Probes/KubernetesProbesExtensions.cs"
+        },
+        {
+          "DocsId": "T:Microsoft.Extensions.DependencyInjection.KubernetesProbesExtensions.<>c__DisplayClass2_1",
+          "SourceLink": "https://github.com/dotnet/extensions/blob/acbe91ec5f89bd217cff1db5e6734ba0ff99d802/src/Libraries/Microsoft.Extensions.Diagnostics.Probes/KubernetesProbesExtensions.cs"
+        },
+        {
+          "DocsId": "T:Microsoft.Extensions.DependencyInjection.KubernetesProbesExtensions.<>c__DisplayClass2_2",
+          "SourceLink": "https://github.com/dotnet/extensions/blob/acbe91ec5f89bd217cff1db5e6734ba0ff99d802/src/Libraries/Microsoft.Extensions.Diagnostics.Probes/KubernetesProbesExtensions.cs"
+        },
+        {
+          "DocsId": "T:Microsoft.Extensions.DependencyInjection.KubernetesProbesExtensions.<>c__DisplayClass2_3",
+          "SourceLink": "https://github.com/dotnet/extensions/blob/acbe91ec5f89bd217cff1db5e6734ba0ff99d802/src/Libraries/Microsoft.Extensions.Diagnostics.Probes/KubernetesProbesExtensions.cs"
+        }
+      ],
+      "DocsId": "T:Microsoft.Extensions.DependencyInjection.KubernetesProbesExtensions",
+      "SourceLink": "https://github.com/dotnet/extensions/blob/acbe91ec5f89bd217cff1db5e6734ba0ff99d802/src/Libraries/Microsoft.Extensions.Diagnostics.Probes/KubernetesProbesExtensions.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:Microsoft.Extensions.DependencyInjection.TcpEndpointProbesExtensions.AddTcpEndpointProbe(Microsoft.Extensions.DependencyInjection.IServiceCollection)",
+          "SourceLink": "https://github.com/dotnet/extensions/blob/acbe91ec5f89bd217cff1db5e6734ba0ff99d802/src/Libraries/Microsoft.Extensions.Diagnostics.Probes/TcpEndpointProbesExtensions.cs#L28C9-L30C95"
+        },
+        {
+          "DocsId": "M:Microsoft.Extensions.DependencyInjection.TcpEndpointProbesExtensions.AddTcpEndpointProbe(Microsoft.Extensions.DependencyInjection.IServiceCollection,System.String)",
+          "SourceLink": "https://github.com/dotnet/extensions/blob/acbe91ec5f89bd217cff1db5e6734ba0ff99d802/src/Libraries/Microsoft.Extensions.Diagnostics.Probes/TcpEndpointProbesExtensions.cs#L16707566C0-L55C25"
+        },
+        {
+          "DocsId": "M:Microsoft.Extensions.DependencyInjection.TcpEndpointProbesExtensions.AddTcpEndpointProbe(Microsoft.Extensions.DependencyInjection.IServiceCollection,System.Action{Microsoft.Extensions.Diagnostics.Probes.TcpEndpointProbesOptions})",
+          "SourceLink": "https://github.com/dotnet/extensions/blob/acbe91ec5f89bd217cff1db5e6734ba0ff99d802/src/Libraries/Microsoft.Extensions.Diagnostics.Probes/TcpEndpointProbesExtensions.cs#L69C9-L74C47"
+        },
+        {
+          "DocsId": "M:Microsoft.Extensions.DependencyInjection.TcpEndpointProbesExtensions.AddTcpEndpointProbe(Microsoft.Extensions.DependencyInjection.IServiceCollection,System.String,System.Action{Microsoft.Extensions.Diagnostics.Probes.TcpEndpointProbesOptions})",
+          "SourceLink": "https://github.com/dotnet/extensions/blob/acbe91ec5f89bd217cff1db5e6734ba0ff99d802/src/Libraries/Microsoft.Extensions.Diagnostics.Probes/TcpEndpointProbesExtensions.cs#L90C9-L95C51"
+        },
+        {
+          "DocsId": "M:Microsoft.Extensions.DependencyInjection.TcpEndpointProbesExtensions.AddTcpEndpointProbe(Microsoft.Extensions.DependencyInjection.IServiceCollection,Microsoft.Extensions.Configuration.IConfigurationSection)",
+          "SourceLink": "https://github.com/dotnet/extensions/blob/acbe91ec5f89bd217cff1db5e6734ba0ff99d802/src/Libraries/Microsoft.Extensions.Diagnostics.Probes/TcpEndpointProbesExtensions.cs#L109C9-L114C47"
+        },
+        {
+          "DocsId": "M:Microsoft.Extensions.DependencyInjection.TcpEndpointProbesExtensions.AddTcpEndpointProbe(Microsoft.Extensions.DependencyInjection.IServiceCollection,System.String,Microsoft.Extensions.Configuration.IConfigurationSection)",
+          "SourceLink": "https://github.com/dotnet/extensions/blob/acbe91ec5f89bd217cff1db5e6734ba0ff99d802/src/Libraries/Microsoft.Extensions.Diagnostics.Probes/TcpEndpointProbesExtensions.cs#L130C9-L135C51"
+        },
+        {
+          "DocsId": "T:Microsoft.Extensions.DependencyInjection.TcpEndpointProbesExtensions.<>c__DisplayClass1_0",
+          "SourceLink": "https://github.com/dotnet/extensions/blob/acbe91ec5f89bd217cff1db5e6734ba0ff99d802/src/Libraries/Microsoft.Extensions.Diagnostics.Probes/TcpEndpointProbesExtensions.cs"
+        }
+      ],
+      "DocsId": "T:Microsoft.Extensions.DependencyInjection.TcpEndpointProbesExtensions",
+      "SourceLink": "https://github.com/dotnet/extensions/blob/acbe91ec5f89bd217cff1db5e6734ba0ff99d802/src/Libraries/Microsoft.Extensions.Diagnostics.Probes/TcpEndpointProbesExtensions.cs"
+    }
+  ]
+}

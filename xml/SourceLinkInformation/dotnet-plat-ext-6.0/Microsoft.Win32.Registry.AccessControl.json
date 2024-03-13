@@ -1,0 +1,24 @@
+{
+  "Assembly": "Microsoft.Win32.Registry.AccessControl",
+  "GUID": "D64285D7C0CC467CAE4D0489EB138350FFFFFFFF",
+  "Types": [
+    {
+      "Members": [
+        {
+          "DocsId": "M:Microsoft.Win32.RegistryAclExtensions.GetAccessControl(Microsoft.Win32.RegistryKey)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/Microsoft.Win32.Registry.AccessControl/net6.0-Release/Microsoft.Win32.Registry.AccessControl.notsupported.cs#L11C127-L11C228"
+        },
+        {
+          "DocsId": "M:Microsoft.Win32.RegistryAclExtensions.GetAccessControl(Microsoft.Win32.RegistryKey,System.Security.AccessControl.AccessControlSections)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/Microsoft.Win32.Registry.AccessControl/net6.0-Release/Microsoft.Win32.Registry.AccessControl.notsupported.cs#L12C196-L12C297"
+        },
+        {
+          "DocsId": "M:Microsoft.Win32.RegistryAclExtensions.SetAccessControl(Microsoft.Win32.RegistryKey,System.Security.AccessControl.RegistrySecurity)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/Microsoft.Win32.Registry.AccessControl/net6.0-Release/Microsoft.Win32.Registry.AccessControl.notsupported.cs#L13C150-L13C251"
+        }
+      ],
+      "DocsId": "T:Microsoft.Win32.RegistryAclExtensions",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/Microsoft.Win32.Registry.AccessControl/net6.0-Release/Microsoft.Win32.Registry.AccessControl.notsupported.cs"
+    }
+  ]
+}

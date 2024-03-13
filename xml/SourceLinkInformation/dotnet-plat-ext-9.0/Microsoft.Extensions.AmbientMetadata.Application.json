@@ -1,0 +1,94 @@
+{
+  "Assembly": "Microsoft.Extensions.AmbientMetadata.Application",
+  "GUID": "F865DE90290C4F1FAE2A3F9377A404C4FFFFFFFF",
+  "Types": [
+    {
+      "Members": [
+        {
+          "DocsId": "M:Microsoft.Extensions.DependencyInjection.ApplicationMetadataServiceCollectionExtensions.AddApplicationMetadata(Microsoft.Extensions.DependencyInjection.IServiceCollection,Microsoft.Extensions.Configuration.IConfigurationSection)",
+          "SourceLink": "https://github.com/dotnet/extensions/blob/acbe91ec5f89bd217cff1db5e6734ba0ff99d802/src/Libraries/Microsoft.Extensions.AmbientMetadata.Application/ApplicationMetadataServiceCollectionExtensions.cs#L25C9-L30C25"
+        },
+        {
+          "DocsId": "M:Microsoft.Extensions.DependencyInjection.ApplicationMetadataServiceCollectionExtensions.AddApplicationMetadata(Microsoft.Extensions.DependencyInjection.IServiceCollection,System.Action{Microsoft.Extensions.AmbientMetadata.ApplicationMetadata})",
+          "SourceLink": "https://github.com/dotnet/extensions/blob/acbe91ec5f89bd217cff1db5e6734ba0ff99d802/src/Libraries/Microsoft.Extensions.AmbientMetadata.Application/ApplicationMetadataServiceCollectionExtensions.cs#L42C9-L47C25"
+        }
+      ],
+      "DocsId": "T:Microsoft.Extensions.DependencyInjection.ApplicationMetadataServiceCollectionExtensions",
+      "SourceLink": "https://github.com/dotnet/extensions/blob/acbe91ec5f89bd217cff1db5e6734ba0ff99d802/src/Libraries/Microsoft.Extensions.AmbientMetadata.Application/ApplicationMetadataServiceCollectionExtensions.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:Microsoft.Extensions.Hosting.ApplicationMetadataHostBuilderExtensions.UseApplicationMetadata(Microsoft.Extensions.Hosting.IHostBuilder,System.String)",
+          "SourceLink": "https://github.com/dotnet/extensions/blob/acbe91ec5f89bd217cff1db5e6734ba0ff99d802/src/Libraries/Microsoft.Extensions.AmbientMetadata.Application/ApplicationMetadataHostBuilderExtensions.cs#L16707566C0-L33C175"
+        },
+        {
+          "DocsId": "F:Microsoft.Extensions.Hosting.ApplicationMetadataHostBuilderExtensions.DefaultSectionName",
+          "SourceLink": "https://github.com/dotnet/extensions/blob/acbe91ec5f89bd217cff1db5e6734ba0ff99d802/src/Libraries/Microsoft.Extensions.AmbientMetadata.Application/ApplicationMetadataHostBuilderExtensions.cs"
+        },
+        {
+          "DocsId": "T:Microsoft.Extensions.Hosting.ApplicationMetadataHostBuilderExtensions.<>c__DisplayClass1_0",
+          "SourceLink": "https://github.com/dotnet/extensions/blob/acbe91ec5f89bd217cff1db5e6734ba0ff99d802/src/Libraries/Microsoft.Extensions.AmbientMetadata.Application/ApplicationMetadataHostBuilderExtensions.cs"
+        }
+      ],
+      "DocsId": "T:Microsoft.Extensions.Hosting.ApplicationMetadataHostBuilderExtensions",
+      "SourceLink": "https://github.com/dotnet/extensions/blob/acbe91ec5f89bd217cff1db5e6734ba0ff99d802/src/Libraries/Microsoft.Extensions.AmbientMetadata.Application/ApplicationMetadataHostBuilderExtensions.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:Microsoft.Extensions.Configuration.ApplicationMetadataConfigurationBuilderExtensions.AddApplicationMetadata(Microsoft.Extensions.Configuration.IConfigurationBuilder,Microsoft.Extensions.Hosting.IHostEnvironment,System.String)",
+          "SourceLink": "https://github.com/dotnet/extensions/blob/acbe91ec5f89bd217cff1db5e6734ba0ff99d802/src/Libraries/Microsoft.Extensions.AmbientMetadata.Application/ApplicationMetadataConfigurationBuilderExtensions.cs#L29C9-L33C89"
+        },
+        {
+          "DocsId": "F:Microsoft.Extensions.Configuration.ApplicationMetadataConfigurationBuilderExtensions.DefaultSectionName",
+          "SourceLink": "https://github.com/dotnet/extensions/blob/acbe91ec5f89bd217cff1db5e6734ba0ff99d802/src/Libraries/Microsoft.Extensions.AmbientMetadata.Application/ApplicationMetadataConfigurationBuilderExtensions.cs"
+        }
+      ],
+      "DocsId": "T:Microsoft.Extensions.Configuration.ApplicationMetadataConfigurationBuilderExtensions",
+      "SourceLink": "https://github.com/dotnet/extensions/blob/acbe91ec5f89bd217cff1db5e6734ba0ff99d802/src/Libraries/Microsoft.Extensions.AmbientMetadata.Application/ApplicationMetadataConfigurationBuilderExtensions.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:Microsoft.Extensions.AmbientMetadata.ApplicationMetadata.#ctor",
+          "SourceLink": "https://github.com/dotnet/extensions/blob/acbe91ec5f89bd217cff1db5e6734ba0ff99d802/src/Libraries/Microsoft.Extensions.AmbientMetadata.Application/ApplicationMetadata.cs#L27C51-L33C63"
+        },
+        {
+          "DocsId": "F:Microsoft.Extensions.AmbientMetadata.ApplicationMetadata.<DeploymentRing>k__BackingField",
+          "SourceLink": "https://github.com/dotnet/extensions/blob/acbe91ec5f89bd217cff1db5e6734ba0ff99d802/src/Libraries/Microsoft.Extensions.AmbientMetadata.Application/ApplicationMetadata.cs"
+        },
+        {
+          "DocsId": "F:Microsoft.Extensions.AmbientMetadata.ApplicationMetadata.<BuildVersion>k__BackingField",
+          "SourceLink": "https://github.com/dotnet/extensions/blob/acbe91ec5f89bd217cff1db5e6734ba0ff99d802/src/Libraries/Microsoft.Extensions.AmbientMetadata.Application/ApplicationMetadata.cs"
+        },
+        {
+          "DocsId": "F:Microsoft.Extensions.AmbientMetadata.ApplicationMetadata.<ApplicationName>k__BackingField",
+          "SourceLink": "https://github.com/dotnet/extensions/blob/acbe91ec5f89bd217cff1db5e6734ba0ff99d802/src/Libraries/Microsoft.Extensions.AmbientMetadata.Application/ApplicationMetadata.cs"
+        },
+        {
+          "DocsId": "F:Microsoft.Extensions.AmbientMetadata.ApplicationMetadata.<EnvironmentName>k__BackingField",
+          "SourceLink": "https://github.com/dotnet/extensions/blob/acbe91ec5f89bd217cff1db5e6734ba0ff99d802/src/Libraries/Microsoft.Extensions.AmbientMetadata.Application/ApplicationMetadata.cs"
+        },
+        {
+          "DocsId": "P:Microsoft.Extensions.AmbientMetadata.ApplicationMetadata.DeploymentRing",
+          "SourceLink": "https://github.com/dotnet/extensions/blob/acbe91ec5f89bd217cff1db5e6734ba0ff99d802/src/Libraries/Microsoft.Extensions.AmbientMetadata.Application/ApplicationMetadata.cs#L16C37-L16C41"
+        },
+        {
+          "DocsId": "P:Microsoft.Extensions.AmbientMetadata.ApplicationMetadata.BuildVersion",
+          "SourceLink": "https://github.com/dotnet/extensions/blob/acbe91ec5f89bd217cff1db5e6734ba0ff99d802/src/Libraries/Microsoft.Extensions.AmbientMetadata.Application/ApplicationMetadata.cs#L21C35-L21C39"
+        },
+        {
+          "DocsId": "P:Microsoft.Extensions.AmbientMetadata.ApplicationMetadata.ApplicationName",
+          "SourceLink": "https://github.com/dotnet/extensions/blob/acbe91ec5f89bd217cff1db5e6734ba0ff99d802/src/Libraries/Microsoft.Extensions.AmbientMetadata.Application/ApplicationMetadata.cs#L27C37-L27C41"
+        },
+        {
+          "DocsId": "P:Microsoft.Extensions.AmbientMetadata.ApplicationMetadata.EnvironmentName",
+          "SourceLink": "https://github.com/dotnet/extensions/blob/acbe91ec5f89bd217cff1db5e6734ba0ff99d802/src/Libraries/Microsoft.Extensions.AmbientMetadata.Application/ApplicationMetadata.cs#L33C37-L33C41"
+        }
+      ],
+      "DocsId": "T:Microsoft.Extensions.AmbientMetadata.ApplicationMetadata",
+      "SourceLink": "https://github.com/dotnet/extensions/blob/acbe91ec5f89bd217cff1db5e6734ba0ff99d802/src/Libraries/Microsoft.Extensions.AmbientMetadata.Application/ApplicationMetadata.cs"
+    }
+  ]
+}

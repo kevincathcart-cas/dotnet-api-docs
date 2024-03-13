@@ -1,0 +1,936 @@
+{
+  "Assembly": "System.Runtime.InteropServices.JavaScript",
+  "GUID": "086CA848BB2545B9A8C9A03EAE77B6B2FFFFFFFF",
+  "Types": [
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.Runtime.InteropServices.JavaScript.JSImportAttribute.#ctor(System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L13C5-L13C171"
+        },
+        {
+          "DocsId": "M:System.Runtime.InteropServices.JavaScript.JSImportAttribute.#ctor(System.String,System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L14C5-L14C190"
+        },
+        {
+          "DocsId": "P:System.Runtime.InteropServices.JavaScript.JSImportAttribute.FunctionName",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L15C40-L15C158"
+        },
+        {
+          "DocsId": "P:System.Runtime.InteropServices.JavaScript.JSImportAttribute.ModuleName",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L16C39-L16C157"
+        }
+      ],
+      "DocsId": "T:System.Runtime.InteropServices.JavaScript.JSImportAttribute",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.Runtime.InteropServices.JavaScript.JSExportAttribute.#ctor",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L23C5-L23C152"
+        }
+      ],
+      "DocsId": "T:System.Runtime.InteropServices.JavaScript.JSExportAttribute",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.Runtime.InteropServices.JavaScript.JSMarshalAsAttribute`1.#ctor",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L30C5-L30C155"
+        }
+      ],
+      "DocsId": "T:System.Runtime.InteropServices.JavaScript.JSMarshalAsAttribute`1",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "T:System.Runtime.InteropServices.JavaScript.JSType.Void",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs"
+        },
+        {
+          "DocsId": "T:System.Runtime.InteropServices.JavaScript.JSType.Discard",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs"
+        },
+        {
+          "DocsId": "T:System.Runtime.InteropServices.JavaScript.JSType.Boolean",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs"
+        },
+        {
+          "DocsId": "T:System.Runtime.InteropServices.JavaScript.JSType.Number",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs"
+        },
+        {
+          "DocsId": "T:System.Runtime.InteropServices.JavaScript.JSType.BigInt",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs"
+        },
+        {
+          "DocsId": "T:System.Runtime.InteropServices.JavaScript.JSType.Date",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs"
+        },
+        {
+          "DocsId": "T:System.Runtime.InteropServices.JavaScript.JSType.String",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs"
+        },
+        {
+          "DocsId": "T:System.Runtime.InteropServices.JavaScript.JSType.Object",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs"
+        },
+        {
+          "DocsId": "T:System.Runtime.InteropServices.JavaScript.JSType.Error",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs"
+        },
+        {
+          "DocsId": "T:System.Runtime.InteropServices.JavaScript.JSType.MemoryView",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs"
+        },
+        {
+          "DocsId": "T:System.Runtime.InteropServices.JavaScript.JSType.Array`1",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs"
+        },
+        {
+          "DocsId": "T:System.Runtime.InteropServices.JavaScript.JSType.Promise`1",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs"
+        },
+        {
+          "DocsId": "T:System.Runtime.InteropServices.JavaScript.JSType.Function",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs"
+        },
+        {
+          "DocsId": "T:System.Runtime.InteropServices.JavaScript.JSType.Function`1",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs"
+        },
+        {
+          "DocsId": "T:System.Runtime.InteropServices.JavaScript.JSType.Function`2",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs"
+        },
+        {
+          "DocsId": "T:System.Runtime.InteropServices.JavaScript.JSType.Function`3",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs"
+        },
+        {
+          "DocsId": "T:System.Runtime.InteropServices.JavaScript.JSType.Function`4",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs"
+        },
+        {
+          "DocsId": "T:System.Runtime.InteropServices.JavaScript.JSType.Any",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs"
+        }
+      ],
+      "DocsId": "T:System.Runtime.InteropServices.JavaScript.JSType",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.Runtime.InteropServices.JavaScript.JSObject.Dispose",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L116C29-L116C30"
+        },
+        {
+          "DocsId": "M:System.Runtime.InteropServices.JavaScript.JSObject.HasProperty(System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L118C52-L118C170"
+        },
+        {
+          "DocsId": "M:System.Runtime.InteropServices.JavaScript.JSObject.GetTypeOfProperty(System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L119C60-L119C178"
+        },
+        {
+          "DocsId": "M:System.Runtime.InteropServices.JavaScript.JSObject.GetPropertyAsBoolean(System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L121C61-L121C179"
+        },
+        {
+          "DocsId": "M:System.Runtime.InteropServices.JavaScript.JSObject.GetPropertyAsInt32(System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L122C58-L122C176"
+        },
+        {
+          "DocsId": "M:System.Runtime.InteropServices.JavaScript.JSObject.GetPropertyAsDouble(System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L123C62-L123C180"
+        },
+        {
+          "DocsId": "M:System.Runtime.InteropServices.JavaScript.JSObject.GetPropertyAsString(System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L124C63-L124C181"
+        },
+        {
+          "DocsId": "M:System.Runtime.InteropServices.JavaScript.JSObject.GetPropertyAsJSObject(System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L125C67-L125C185"
+        },
+        {
+          "DocsId": "M:System.Runtime.InteropServices.JavaScript.JSObject.GetPropertyAsByteArray(System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L126C66-L126C184"
+        },
+        {
+          "DocsId": "M:System.Runtime.InteropServices.JavaScript.JSObject.SetProperty(System.String,System.Boolean)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L128C64-L128C182"
+        },
+        {
+          "DocsId": "M:System.Runtime.InteropServices.JavaScript.JSObject.SetProperty(System.String,System.Int32)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L129C63-L129C181"
+        },
+        {
+          "DocsId": "M:System.Runtime.InteropServices.JavaScript.JSObject.SetProperty(System.String,System.Double)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L130C66-L130C184"
+        },
+        {
+          "DocsId": "M:System.Runtime.InteropServices.JavaScript.JSObject.SetProperty(System.String,System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L131C67-L131C185"
+        },
+        {
+          "DocsId": "M:System.Runtime.InteropServices.JavaScript.JSObject.SetProperty(System.String,System.Runtime.InteropServices.JavaScript.JSObject)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L132C69-L132C187"
+        },
+        {
+          "DocsId": "M:System.Runtime.InteropServices.JavaScript.JSObject.SetProperty(System.String,System.Byte[])",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L133C67-L133C185"
+        },
+        {
+          "DocsId": "P:System.Runtime.InteropServices.JavaScript.JSObject.IsDisposed",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L115C36-L115C154"
+        }
+      ],
+      "DocsId": "T:System.Runtime.InteropServices.JavaScript.JSObject",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.Runtime.InteropServices.JavaScript.JSException.#ctor(System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L139C5-L139C156"
+        }
+      ],
+      "DocsId": "T:System.Runtime.InteropServices.JavaScript.JSException",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.Runtime.InteropServices.JavaScript.JSHost.ImportAsync(System.String,System.String,System.Threading.CancellationToken)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L147C172-L147C290"
+        },
+        {
+          "DocsId": "P:System.Runtime.InteropServices.JavaScript.JSHost.GlobalThis",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L145C47-L145C165"
+        },
+        {
+          "DocsId": "P:System.Runtime.InteropServices.JavaScript.JSHost.DotnetInstance",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L146C51-L146C169"
+        }
+      ],
+      "DocsId": "T:System.Runtime.InteropServices.JavaScript.JSHost",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.Runtime.InteropServices.JavaScript.JSFunctionBinding.InvokeJS(System.Runtime.InteropServices.JavaScript.JSFunctionBinding,System.Span{System.Runtime.InteropServices.JavaScript.JSMarshalerArgument})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L156C101-L156C219"
+        },
+        {
+          "DocsId": "M:System.Runtime.InteropServices.JavaScript.JSFunctionBinding.BindJSFunction(System.String,System.String,System.ReadOnlySpan{System.Runtime.InteropServices.JavaScript.JSMarshalerType})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L157C136-L157C254"
+        },
+        {
+          "DocsId": "M:System.Runtime.InteropServices.JavaScript.JSFunctionBinding.BindManagedFunction(System.String,System.Int32,System.ReadOnlySpan{System.Runtime.InteropServices.JavaScript.JSMarshalerType})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L158C147-L158C265"
+        }
+      ],
+      "DocsId": "T:System.Runtime.InteropServices.JavaScript.JSFunctionBinding",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.Runtime.InteropServices.JavaScript.JSMarshalerType.Nullable(System.Runtime.InteropServices.JavaScript.JSMarshalerType)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L184C73-L184C191"
+        },
+        {
+          "DocsId": "M:System.Runtime.InteropServices.JavaScript.JSMarshalerType.Task",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L185C44-L185C162"
+        },
+        {
+          "DocsId": "M:System.Runtime.InteropServices.JavaScript.JSMarshalerType.Task(System.Runtime.InteropServices.JavaScript.JSMarshalerType)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L186C66-L186C184"
+        },
+        {
+          "DocsId": "M:System.Runtime.InteropServices.JavaScript.JSMarshalerType.Array(System.Runtime.InteropServices.JavaScript.JSMarshalerType)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L187C68-L187C186"
+        },
+        {
+          "DocsId": "M:System.Runtime.InteropServices.JavaScript.JSMarshalerType.ArraySegment(System.Runtime.InteropServices.JavaScript.JSMarshalerType)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L188C75-L188C193"
+        },
+        {
+          "DocsId": "M:System.Runtime.InteropServices.JavaScript.JSMarshalerType.Span(System.Runtime.InteropServices.JavaScript.JSMarshalerType)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L189C67-L189C185"
+        },
+        {
+          "DocsId": "M:System.Runtime.InteropServices.JavaScript.JSMarshalerType.Action",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L190C46-L190C164"
+        },
+        {
+          "DocsId": "M:System.Runtime.InteropServices.JavaScript.JSMarshalerType.Action(System.Runtime.InteropServices.JavaScript.JSMarshalerType)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L191C66-L191C184"
+        },
+        {
+          "DocsId": "M:System.Runtime.InteropServices.JavaScript.JSMarshalerType.Action(System.Runtime.InteropServices.JavaScript.JSMarshalerType,System.Runtime.InteropServices.JavaScript.JSMarshalerType)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L192C88-L192C206"
+        },
+        {
+          "DocsId": "M:System.Runtime.InteropServices.JavaScript.JSMarshalerType.Action(System.Runtime.InteropServices.JavaScript.JSMarshalerType,System.Runtime.InteropServices.JavaScript.JSMarshalerType,System.Runtime.InteropServices.JavaScript.JSMarshalerType)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L193C110-L193C228"
+        },
+        {
+          "DocsId": "M:System.Runtime.InteropServices.JavaScript.JSMarshalerType.Function(System.Runtime.InteropServices.JavaScript.JSMarshalerType)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L194C70-L194C188"
+        },
+        {
+          "DocsId": "M:System.Runtime.InteropServices.JavaScript.JSMarshalerType.Function(System.Runtime.InteropServices.JavaScript.JSMarshalerType,System.Runtime.InteropServices.JavaScript.JSMarshalerType)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L195C92-L195C210"
+        },
+        {
+          "DocsId": "M:System.Runtime.InteropServices.JavaScript.JSMarshalerType.Function(System.Runtime.InteropServices.JavaScript.JSMarshalerType,System.Runtime.InteropServices.JavaScript.JSMarshalerType,System.Runtime.InteropServices.JavaScript.JSMarshalerType)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L196C114-L196C232"
+        },
+        {
+          "DocsId": "M:System.Runtime.InteropServices.JavaScript.JSMarshalerType.Function(System.Runtime.InteropServices.JavaScript.JSMarshalerType,System.Runtime.InteropServices.JavaScript.JSMarshalerType,System.Runtime.InteropServices.JavaScript.JSMarshalerType,System.Runtime.InteropServices.JavaScript.JSMarshalerType)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L197C136-L197C254"
+        },
+        {
+          "DocsId": "P:System.Runtime.InteropServices.JavaScript.JSMarshalerType.Void",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L166C48-L166C166"
+        },
+        {
+          "DocsId": "P:System.Runtime.InteropServices.JavaScript.JSMarshalerType.Discard",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L167C51-L167C169"
+        },
+        {
+          "DocsId": "P:System.Runtime.InteropServices.JavaScript.JSMarshalerType.Boolean",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L168C51-L168C169"
+        },
+        {
+          "DocsId": "P:System.Runtime.InteropServices.JavaScript.JSMarshalerType.Byte",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L169C48-L169C166"
+        },
+        {
+          "DocsId": "P:System.Runtime.InteropServices.JavaScript.JSMarshalerType.Char",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L170C48-L170C166"
+        },
+        {
+          "DocsId": "P:System.Runtime.InteropServices.JavaScript.JSMarshalerType.Int16",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L171C49-L171C167"
+        },
+        {
+          "DocsId": "P:System.Runtime.InteropServices.JavaScript.JSMarshalerType.Int32",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L172C49-L172C167"
+        },
+        {
+          "DocsId": "P:System.Runtime.InteropServices.JavaScript.JSMarshalerType.Int52",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L173C49-L173C167"
+        },
+        {
+          "DocsId": "P:System.Runtime.InteropServices.JavaScript.JSMarshalerType.BigInt64",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L174C52-L174C170"
+        },
+        {
+          "DocsId": "P:System.Runtime.InteropServices.JavaScript.JSMarshalerType.Double",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L175C50-L175C168"
+        },
+        {
+          "DocsId": "P:System.Runtime.InteropServices.JavaScript.JSMarshalerType.Single",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L176C50-L176C168"
+        },
+        {
+          "DocsId": "P:System.Runtime.InteropServices.JavaScript.JSMarshalerType.IntPtr",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L177C50-L177C168"
+        },
+        {
+          "DocsId": "P:System.Runtime.InteropServices.JavaScript.JSMarshalerType.JSObject",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L178C52-L178C170"
+        },
+        {
+          "DocsId": "P:System.Runtime.InteropServices.JavaScript.JSMarshalerType.Object",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L179C50-L179C168"
+        },
+        {
+          "DocsId": "P:System.Runtime.InteropServices.JavaScript.JSMarshalerType.String",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L180C50-L180C168"
+        },
+        {
+          "DocsId": "P:System.Runtime.InteropServices.JavaScript.JSMarshalerType.Exception",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L181C53-L181C171"
+        },
+        {
+          "DocsId": "P:System.Runtime.InteropServices.JavaScript.JSMarshalerType.DateTime",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L182C52-L182C170"
+        },
+        {
+          "DocsId": "P:System.Runtime.InteropServices.JavaScript.JSMarshalerType.DateTimeOffset",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L183C58-L183C176"
+        }
+      ],
+      "DocsId": "T:System.Runtime.InteropServices.JavaScript.JSMarshalerType",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.Runtime.InteropServices.JavaScript.JSMarshalerArgument.Initialize",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L209C32-L209C150"
+        },
+        {
+          "DocsId": "M:System.Runtime.InteropServices.JavaScript.JSMarshalerArgument.ToManaged(System.Boolean@)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L210C45-L210C163"
+        },
+        {
+          "DocsId": "M:System.Runtime.InteropServices.JavaScript.JSMarshalerArgument.ToJS(System.Boolean)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L211C36-L211C154"
+        },
+        {
+          "DocsId": "M:System.Runtime.InteropServices.JavaScript.JSMarshalerArgument.ToManaged(System.Nullable{System.Boolean}@)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L212C46-L212C164"
+        },
+        {
+          "DocsId": "M:System.Runtime.InteropServices.JavaScript.JSMarshalerArgument.ToJS(System.Nullable{System.Boolean})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L213C37-L213C155"
+        },
+        {
+          "DocsId": "M:System.Runtime.InteropServices.JavaScript.JSMarshalerArgument.ToManaged(System.Byte@)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L214C45-L214C163"
+        },
+        {
+          "DocsId": "M:System.Runtime.InteropServices.JavaScript.JSMarshalerArgument.ToJS(System.Byte)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L215C36-L215C154"
+        },
+        {
+          "DocsId": "M:System.Runtime.InteropServices.JavaScript.JSMarshalerArgument.ToManaged(System.Nullable{System.Byte}@)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L216C46-L216C164"
+        },
+        {
+          "DocsId": "M:System.Runtime.InteropServices.JavaScript.JSMarshalerArgument.ToJS(System.Nullable{System.Byte})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L217C37-L217C155"
+        },
+        {
+          "DocsId": "M:System.Runtime.InteropServices.JavaScript.JSMarshalerArgument.ToManaged(System.Byte[]@)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L218C48-L218C166"
+        },
+        {
+          "DocsId": "M:System.Runtime.InteropServices.JavaScript.JSMarshalerArgument.ToJS(System.Byte[])",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L219C39-L219C157"
+        },
+        {
+          "DocsId": "M:System.Runtime.InteropServices.JavaScript.JSMarshalerArgument.ToManaged(System.Char@)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L220C45-L220C163"
+        },
+        {
+          "DocsId": "M:System.Runtime.InteropServices.JavaScript.JSMarshalerArgument.ToJS(System.Char)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L221C36-L221C154"
+        },
+        {
+          "DocsId": "M:System.Runtime.InteropServices.JavaScript.JSMarshalerArgument.ToManaged(System.Nullable{System.Char}@)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L222C46-L222C164"
+        },
+        {
+          "DocsId": "M:System.Runtime.InteropServices.JavaScript.JSMarshalerArgument.ToJS(System.Nullable{System.Char})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L223C37-L223C155"
+        },
+        {
+          "DocsId": "M:System.Runtime.InteropServices.JavaScript.JSMarshalerArgument.ToManaged(System.Int16@)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L224C46-L224C164"
+        },
+        {
+          "DocsId": "M:System.Runtime.InteropServices.JavaScript.JSMarshalerArgument.ToJS(System.Int16)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L225C37-L225C155"
+        },
+        {
+          "DocsId": "M:System.Runtime.InteropServices.JavaScript.JSMarshalerArgument.ToManaged(System.Nullable{System.Int16}@)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L226C47-L226C165"
+        },
+        {
+          "DocsId": "M:System.Runtime.InteropServices.JavaScript.JSMarshalerArgument.ToJS(System.Nullable{System.Int16})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L227C38-L227C156"
+        },
+        {
+          "DocsId": "M:System.Runtime.InteropServices.JavaScript.JSMarshalerArgument.ToManaged(System.Int32@)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L228C44-L228C162"
+        },
+        {
+          "DocsId": "M:System.Runtime.InteropServices.JavaScript.JSMarshalerArgument.ToJS(System.Int32)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L229C35-L229C153"
+        },
+        {
+          "DocsId": "M:System.Runtime.InteropServices.JavaScript.JSMarshalerArgument.ToManaged(System.Nullable{System.Int32}@)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L230C45-L230C163"
+        },
+        {
+          "DocsId": "M:System.Runtime.InteropServices.JavaScript.JSMarshalerArgument.ToJS(System.Nullable{System.Int32})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L231C36-L231C154"
+        },
+        {
+          "DocsId": "M:System.Runtime.InteropServices.JavaScript.JSMarshalerArgument.ToManaged(System.Int32[]@)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L232C47-L232C165"
+        },
+        {
+          "DocsId": "M:System.Runtime.InteropServices.JavaScript.JSMarshalerArgument.ToJS(System.Int32[])",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L233C38-L233C156"
+        },
+        {
+          "DocsId": "M:System.Runtime.InteropServices.JavaScript.JSMarshalerArgument.ToManaged(System.Int64@)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L234C45-L234C163"
+        },
+        {
+          "DocsId": "M:System.Runtime.InteropServices.JavaScript.JSMarshalerArgument.ToJS(System.Int64)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L235C36-L235C154"
+        },
+        {
+          "DocsId": "M:System.Runtime.InteropServices.JavaScript.JSMarshalerArgument.ToManaged(System.Nullable{System.Int64}@)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L236C46-L236C164"
+        },
+        {
+          "DocsId": "M:System.Runtime.InteropServices.JavaScript.JSMarshalerArgument.ToJS(System.Nullable{System.Int64})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L237C37-L237C155"
+        },
+        {
+          "DocsId": "M:System.Runtime.InteropServices.JavaScript.JSMarshalerArgument.ToManagedBig(System.Int64@)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L238C48-L238C166"
+        },
+        {
+          "DocsId": "M:System.Runtime.InteropServices.JavaScript.JSMarshalerArgument.ToJSBig(System.Int64)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L239C39-L239C157"
+        },
+        {
+          "DocsId": "M:System.Runtime.InteropServices.JavaScript.JSMarshalerArgument.ToManagedBig(System.Nullable{System.Int64}@)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L240C49-L240C167"
+        },
+        {
+          "DocsId": "M:System.Runtime.InteropServices.JavaScript.JSMarshalerArgument.ToJSBig(System.Nullable{System.Int64})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L241C40-L241C158"
+        },
+        {
+          "DocsId": "M:System.Runtime.InteropServices.JavaScript.JSMarshalerArgument.ToManaged(System.Single@)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L242C46-L242C164"
+        },
+        {
+          "DocsId": "M:System.Runtime.InteropServices.JavaScript.JSMarshalerArgument.ToJS(System.Single)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L243C37-L243C155"
+        },
+        {
+          "DocsId": "M:System.Runtime.InteropServices.JavaScript.JSMarshalerArgument.ToManaged(System.Nullable{System.Single}@)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L244C47-L244C165"
+        },
+        {
+          "DocsId": "M:System.Runtime.InteropServices.JavaScript.JSMarshalerArgument.ToJS(System.Nullable{System.Single})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L245C38-L245C156"
+        },
+        {
+          "DocsId": "M:System.Runtime.InteropServices.JavaScript.JSMarshalerArgument.ToManaged(System.Double@)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L246C47-L246C165"
+        },
+        {
+          "DocsId": "M:System.Runtime.InteropServices.JavaScript.JSMarshalerArgument.ToJS(System.Double)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L247C38-L247C156"
+        },
+        {
+          "DocsId": "M:System.Runtime.InteropServices.JavaScript.JSMarshalerArgument.ToManaged(System.Nullable{System.Double}@)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L248C48-L248C166"
+        },
+        {
+          "DocsId": "M:System.Runtime.InteropServices.JavaScript.JSMarshalerArgument.ToJS(System.Nullable{System.Double})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L249C39-L249C157"
+        },
+        {
+          "DocsId": "M:System.Runtime.InteropServices.JavaScript.JSMarshalerArgument.ToManaged(System.Double[]@)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L250C50-L250C168"
+        },
+        {
+          "DocsId": "M:System.Runtime.InteropServices.JavaScript.JSMarshalerArgument.ToJS(System.Double[])",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L251C41-L251C159"
+        },
+        {
+          "DocsId": "M:System.Runtime.InteropServices.JavaScript.JSMarshalerArgument.ToManaged(System.IntPtr@)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L252C47-L252C165"
+        },
+        {
+          "DocsId": "M:System.Runtime.InteropServices.JavaScript.JSMarshalerArgument.ToJS(System.IntPtr)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L253C38-L253C156"
+        },
+        {
+          "DocsId": "M:System.Runtime.InteropServices.JavaScript.JSMarshalerArgument.ToManaged(System.Nullable{System.IntPtr}@)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L254C48-L254C166"
+        },
+        {
+          "DocsId": "M:System.Runtime.InteropServices.JavaScript.JSMarshalerArgument.ToJS(System.Nullable{System.IntPtr})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L255C39-L255C157"
+        },
+        {
+          "DocsId": "M:System.Runtime.InteropServices.JavaScript.JSMarshalerArgument.ToManaged(System.DateTimeOffset@)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L256C55-L256C173"
+        },
+        {
+          "DocsId": "M:System.Runtime.InteropServices.JavaScript.JSMarshalerArgument.ToJS(System.DateTimeOffset)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L257C46-L257C164"
+        },
+        {
+          "DocsId": "M:System.Runtime.InteropServices.JavaScript.JSMarshalerArgument.ToManaged(System.Nullable{System.DateTimeOffset}@)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L258C56-L258C174"
+        },
+        {
+          "DocsId": "M:System.Runtime.InteropServices.JavaScript.JSMarshalerArgument.ToJS(System.Nullable{System.DateTimeOffset})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L259C47-L259C165"
+        },
+        {
+          "DocsId": "M:System.Runtime.InteropServices.JavaScript.JSMarshalerArgument.ToManaged(System.DateTime@)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L260C49-L260C167"
+        },
+        {
+          "DocsId": "M:System.Runtime.InteropServices.JavaScript.JSMarshalerArgument.ToJS(System.DateTime)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L261C40-L261C158"
+        },
+        {
+          "DocsId": "M:System.Runtime.InteropServices.JavaScript.JSMarshalerArgument.ToManaged(System.Nullable{System.DateTime}@)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L262C50-L262C168"
+        },
+        {
+          "DocsId": "M:System.Runtime.InteropServices.JavaScript.JSMarshalerArgument.ToJS(System.Nullable{System.DateTime})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L263C41-L263C159"
+        },
+        {
+          "DocsId": "M:System.Runtime.InteropServices.JavaScript.JSMarshalerArgument.ToManaged(System.String@)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L264C48-L264C166"
+        },
+        {
+          "DocsId": "M:System.Runtime.InteropServices.JavaScript.JSMarshalerArgument.ToJS(System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L265C39-L265C157"
+        },
+        {
+          "DocsId": "M:System.Runtime.InteropServices.JavaScript.JSMarshalerArgument.ToManaged(System.String[]@)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L266C51-L266C169"
+        },
+        {
+          "DocsId": "M:System.Runtime.InteropServices.JavaScript.JSMarshalerArgument.ToJS(System.String[])",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L267C42-L267C160"
+        },
+        {
+          "DocsId": "M:System.Runtime.InteropServices.JavaScript.JSMarshalerArgument.ToManaged(System.Exception@)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L268C51-L268C169"
+        },
+        {
+          "DocsId": "M:System.Runtime.InteropServices.JavaScript.JSMarshalerArgument.ToJS(System.Exception)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L269C42-L269C160"
+        },
+        {
+          "DocsId": "M:System.Runtime.InteropServices.JavaScript.JSMarshalerArgument.ToManaged(System.Object@)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L270C48-L270C166"
+        },
+        {
+          "DocsId": "M:System.Runtime.InteropServices.JavaScript.JSMarshalerArgument.ToJS(System.Object)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L271C39-L271C157"
+        },
+        {
+          "DocsId": "M:System.Runtime.InteropServices.JavaScript.JSMarshalerArgument.ToManaged(System.Object[]@)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L272C51-L272C169"
+        },
+        {
+          "DocsId": "M:System.Runtime.InteropServices.JavaScript.JSMarshalerArgument.ToJS(System.Object[])",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L273C42-L273C160"
+        },
+        {
+          "DocsId": "M:System.Runtime.InteropServices.JavaScript.JSMarshalerArgument.ToManaged(System.Runtime.InteropServices.JavaScript.JSObject@)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L274C50-L274C168"
+        },
+        {
+          "DocsId": "M:System.Runtime.InteropServices.JavaScript.JSMarshalerArgument.ToJS(System.Runtime.InteropServices.JavaScript.JSObject)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L275C41-L275C159"
+        },
+        {
+          "DocsId": "M:System.Runtime.InteropServices.JavaScript.JSMarshalerArgument.ToManaged(System.Runtime.InteropServices.JavaScript.JSObject[]@)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L276C53-L276C171"
+        },
+        {
+          "DocsId": "M:System.Runtime.InteropServices.JavaScript.JSMarshalerArgument.ToJS(System.Runtime.InteropServices.JavaScript.JSObject[])",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L277C44-L277C162"
+        },
+        {
+          "DocsId": "M:System.Runtime.InteropServices.JavaScript.JSMarshalerArgument.ToManaged(System.Threading.Tasks.Task@)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L278C69-L278C187"
+        },
+        {
+          "DocsId": "M:System.Runtime.InteropServices.JavaScript.JSMarshalerArgument.ToJS(System.Threading.Tasks.Task)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L279C60-L279C178"
+        },
+        {
+          "DocsId": "M:System.Runtime.InteropServices.JavaScript.JSMarshalerArgument.ToManaged``1(System.Threading.Tasks.Task{``0}@,System.Runtime.InteropServices.JavaScript.JSMarshalerArgument.ArgumentToManagedCallback{``0})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L280C115-L280C233"
+        },
+        {
+          "DocsId": "M:System.Runtime.InteropServices.JavaScript.JSMarshalerArgument.ToJS``1(System.Threading.Tasks.Task{``0},System.Runtime.InteropServices.JavaScript.JSMarshalerArgument.ArgumentToJSCallback{``0})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L281C101-L281C219"
+        },
+        {
+          "DocsId": "M:System.Runtime.InteropServices.JavaScript.JSMarshalerArgument.ToManaged(System.Action@)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L282C48-L282C166"
+        },
+        {
+          "DocsId": "M:System.Runtime.InteropServices.JavaScript.JSMarshalerArgument.ToJS(System.Action)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L283C39-L283C157"
+        },
+        {
+          "DocsId": "M:System.Runtime.InteropServices.JavaScript.JSMarshalerArgument.ToManaged``1(System.Action{``0}@,System.Runtime.InteropServices.JavaScript.JSMarshalerArgument.ArgumentToJSCallback{``0})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L284C93-L284C211"
+        },
+        {
+          "DocsId": "M:System.Runtime.InteropServices.JavaScript.JSMarshalerArgument.ToJS``1(System.Action{``0},System.Runtime.InteropServices.JavaScript.JSMarshalerArgument.ArgumentToManagedCallback{``0})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L285C89-L285C207"
+        },
+        {
+          "DocsId": "M:System.Runtime.InteropServices.JavaScript.JSMarshalerArgument.ToManaged``2(System.Action{``0,``1}@,System.Runtime.InteropServices.JavaScript.JSMarshalerArgument.ArgumentToJSCallback{``0},System.Runtime.InteropServices.JavaScript.JSMarshalerArgument.ArgumentToJSCallback{``1})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L286C144-L286C262"
+        },
+        {
+          "DocsId": "M:System.Runtime.InteropServices.JavaScript.JSMarshalerArgument.ToJS``2(System.Action{``0,``1},System.Runtime.InteropServices.JavaScript.JSMarshalerArgument.ArgumentToManagedCallback{``0},System.Runtime.InteropServices.JavaScript.JSMarshalerArgument.ArgumentToManagedCallback{``1})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L287C145-L287C263"
+        },
+        {
+          "DocsId": "M:System.Runtime.InteropServices.JavaScript.JSMarshalerArgument.ToManaged``3(System.Action{``0,``1,``2}@,System.Runtime.InteropServices.JavaScript.JSMarshalerArgument.ArgumentToJSCallback{``0},System.Runtime.InteropServices.JavaScript.JSMarshalerArgument.ArgumentToJSCallback{``1},System.Runtime.InteropServices.JavaScript.JSMarshalerArgument.ArgumentToJSCallback{``2})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L288C192-L288C310"
+        },
+        {
+          "DocsId": "M:System.Runtime.InteropServices.JavaScript.JSMarshalerArgument.ToJS``3(System.Action{``0,``1,``2},System.Runtime.InteropServices.JavaScript.JSMarshalerArgument.ArgumentToManagedCallback{``0},System.Runtime.InteropServices.JavaScript.JSMarshalerArgument.ArgumentToManagedCallback{``1},System.Runtime.InteropServices.JavaScript.JSMarshalerArgument.ArgumentToManagedCallback{``2})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L289C198-L289C316"
+        },
+        {
+          "DocsId": "M:System.Runtime.InteropServices.JavaScript.JSMarshalerArgument.ToManaged``1(System.Func{``0}@,System.Runtime.InteropServices.JavaScript.JSMarshalerArgument.ArgumentToManagedCallback{``0})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L290C113-L290C231"
+        },
+        {
+          "DocsId": "M:System.Runtime.InteropServices.JavaScript.JSMarshalerArgument.ToJS``1(System.Func{``0},System.Runtime.InteropServices.JavaScript.JSMarshalerArgument.ArgumentToJSCallback{``0})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L291C99-L291C217"
+        },
+        {
+          "DocsId": "M:System.Runtime.InteropServices.JavaScript.JSMarshalerArgument.ToManaged``2(System.Func{``0,``1}@,System.Runtime.InteropServices.JavaScript.JSMarshalerArgument.ArgumentToJSCallback{``0},System.Runtime.InteropServices.JavaScript.JSMarshalerArgument.ArgumentToManagedCallback{``1})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L292C158-L292C276"
+        },
+        {
+          "DocsId": "M:System.Runtime.InteropServices.JavaScript.JSMarshalerArgument.ToJS``2(System.Func{``0,``1},System.Runtime.InteropServices.JavaScript.JSMarshalerArgument.ArgumentToManagedCallback{``0},System.Runtime.InteropServices.JavaScript.JSMarshalerArgument.ArgumentToJSCallback{``1})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L293C149-L293C267"
+        },
+        {
+          "DocsId": "M:System.Runtime.InteropServices.JavaScript.JSMarshalerArgument.ToManaged``3(System.Func{``0,``1,``2}@,System.Runtime.InteropServices.JavaScript.JSMarshalerArgument.ArgumentToJSCallback{``0},System.Runtime.InteropServices.JavaScript.JSMarshalerArgument.ArgumentToJSCallback{``1},System.Runtime.InteropServices.JavaScript.JSMarshalerArgument.ArgumentToManagedCallback{``2})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L294C209-L294C327"
+        },
+        {
+          "DocsId": "M:System.Runtime.InteropServices.JavaScript.JSMarshalerArgument.ToJS``3(System.Func{``0,``1,``2},System.Runtime.InteropServices.JavaScript.JSMarshalerArgument.ArgumentToManagedCallback{``0},System.Runtime.InteropServices.JavaScript.JSMarshalerArgument.ArgumentToManagedCallback{``1},System.Runtime.InteropServices.JavaScript.JSMarshalerArgument.ArgumentToJSCallback{``2})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L295C205-L295C323"
+        },
+        {
+          "DocsId": "M:System.Runtime.InteropServices.JavaScript.JSMarshalerArgument.ToManaged``4(System.Func{``0,``1,``2,``3}@,System.Runtime.InteropServices.JavaScript.JSMarshalerArgument.ArgumentToJSCallback{``0},System.Runtime.InteropServices.JavaScript.JSMarshalerArgument.ArgumentToJSCallback{``1},System.Runtime.InteropServices.JavaScript.JSMarshalerArgument.ArgumentToJSCallback{``2},System.Runtime.InteropServices.JavaScript.JSMarshalerArgument.ArgumentToManagedCallback{``3})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L296C257-L296C375"
+        },
+        {
+          "DocsId": "M:System.Runtime.InteropServices.JavaScript.JSMarshalerArgument.ToJS``4(System.Func{``0,``1,``2,``3},System.Runtime.InteropServices.JavaScript.JSMarshalerArgument.ArgumentToManagedCallback{``0},System.Runtime.InteropServices.JavaScript.JSMarshalerArgument.ArgumentToManagedCallback{``1},System.Runtime.InteropServices.JavaScript.JSMarshalerArgument.ArgumentToManagedCallback{``2},System.Runtime.InteropServices.JavaScript.JSMarshalerArgument.ArgumentToJSCallback{``3})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L297C258-L297C376"
+        },
+        {
+          "DocsId": "M:System.Runtime.InteropServices.JavaScript.JSMarshalerArgument.ToManaged(System.Void*@)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L298C53-L298C171"
+        },
+        {
+          "DocsId": "M:System.Runtime.InteropServices.JavaScript.JSMarshalerArgument.ToJS(System.Void*)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L299C44-L299C162"
+        },
+        {
+          "DocsId": "M:System.Runtime.InteropServices.JavaScript.JSMarshalerArgument.ToManaged(System.Span{System.Byte}@)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L300C51-L300C169"
+        },
+        {
+          "DocsId": "M:System.Runtime.InteropServices.JavaScript.JSMarshalerArgument.ToJS(System.Span{System.Byte})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L301C42-L301C160"
+        },
+        {
+          "DocsId": "M:System.Runtime.InteropServices.JavaScript.JSMarshalerArgument.ToManaged(System.ArraySegment{System.Byte}@)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L302C59-L302C177"
+        },
+        {
+          "DocsId": "M:System.Runtime.InteropServices.JavaScript.JSMarshalerArgument.ToJS(System.ArraySegment{System.Byte})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L303C50-L303C168"
+        },
+        {
+          "DocsId": "M:System.Runtime.InteropServices.JavaScript.JSMarshalerArgument.ToManaged(System.Span{System.Int32}@)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L304C50-L304C168"
+        },
+        {
+          "DocsId": "M:System.Runtime.InteropServices.JavaScript.JSMarshalerArgument.ToJS(System.Span{System.Int32})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L305C41-L305C159"
+        },
+        {
+          "DocsId": "M:System.Runtime.InteropServices.JavaScript.JSMarshalerArgument.ToManaged(System.Span{System.Double}@)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L306C53-L306C171"
+        },
+        {
+          "DocsId": "M:System.Runtime.InteropServices.JavaScript.JSMarshalerArgument.ToJS(System.Span{System.Double})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L307C44-L307C162"
+        },
+        {
+          "DocsId": "M:System.Runtime.InteropServices.JavaScript.JSMarshalerArgument.ToManaged(System.ArraySegment{System.Int32}@)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L308C58-L308C176"
+        },
+        {
+          "DocsId": "M:System.Runtime.InteropServices.JavaScript.JSMarshalerArgument.ToJS(System.ArraySegment{System.Int32})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L309C49-L309C167"
+        },
+        {
+          "DocsId": "M:System.Runtime.InteropServices.JavaScript.JSMarshalerArgument.ToManaged(System.ArraySegment{System.Double}@)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L310C61-L310C179"
+        },
+        {
+          "DocsId": "M:System.Runtime.InteropServices.JavaScript.JSMarshalerArgument.ToJS(System.ArraySegment{System.Double})",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs#L311C52-L311C170"
+        },
+        {
+          "DocsId": "T:System.Runtime.InteropServices.JavaScript.JSMarshalerArgument.ArgumentToManagedCallback`1",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs"
+        },
+        {
+          "DocsId": "T:System.Runtime.InteropServices.JavaScript.JSMarshalerArgument.ArgumentToJSCallback`1",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs"
+        }
+      ],
+      "DocsId": "T:System.Runtime.InteropServices.JavaScript.JSMarshalerArgument",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs"
+    },
+    {
+      "Members": [],
+      "DocsId": "T:System.Runtime.InteropServices.JavaScript.JSType.Void",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs"
+    },
+    {
+      "Members": [],
+      "DocsId": "T:System.Runtime.InteropServices.JavaScript.JSType.Discard",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs"
+    },
+    {
+      "Members": [],
+      "DocsId": "T:System.Runtime.InteropServices.JavaScript.JSType.Boolean",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs"
+    },
+    {
+      "Members": [],
+      "DocsId": "T:System.Runtime.InteropServices.JavaScript.JSType.Number",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs"
+    },
+    {
+      "Members": [],
+      "DocsId": "T:System.Runtime.InteropServices.JavaScript.JSType.BigInt",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs"
+    },
+    {
+      "Members": [],
+      "DocsId": "T:System.Runtime.InteropServices.JavaScript.JSType.Date",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs"
+    },
+    {
+      "Members": [],
+      "DocsId": "T:System.Runtime.InteropServices.JavaScript.JSType.String",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs"
+    },
+    {
+      "Members": [],
+      "DocsId": "T:System.Runtime.InteropServices.JavaScript.JSType.Object",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs"
+    },
+    {
+      "Members": [],
+      "DocsId": "T:System.Runtime.InteropServices.JavaScript.JSType.Error",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs"
+    },
+    {
+      "Members": [],
+      "DocsId": "T:System.Runtime.InteropServices.JavaScript.JSType.MemoryView",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs"
+    },
+    {
+      "Members": [],
+      "DocsId": "T:System.Runtime.InteropServices.JavaScript.JSType.Array`1",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs"
+    },
+    {
+      "Members": [],
+      "DocsId": "T:System.Runtime.InteropServices.JavaScript.JSType.Promise`1",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs"
+    },
+    {
+      "Members": [],
+      "DocsId": "T:System.Runtime.InteropServices.JavaScript.JSType.Function",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs"
+    },
+    {
+      "Members": [],
+      "DocsId": "T:System.Runtime.InteropServices.JavaScript.JSType.Function`1",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs"
+    },
+    {
+      "Members": [],
+      "DocsId": "T:System.Runtime.InteropServices.JavaScript.JSType.Function`2",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs"
+    },
+    {
+      "Members": [],
+      "DocsId": "T:System.Runtime.InteropServices.JavaScript.JSType.Function`3",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs"
+    },
+    {
+      "Members": [],
+      "DocsId": "T:System.Runtime.InteropServices.JavaScript.JSType.Function`4",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs"
+    },
+    {
+      "Members": [],
+      "DocsId": "T:System.Runtime.InteropServices.JavaScript.JSType.Any",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.Runtime.InteropServices.JavaScript.JSMarshalerArgument.ArgumentToManagedCallback`1.#ctor(System.Object,System.IntPtr)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs"
+        },
+        {
+          "DocsId": "M:System.Runtime.InteropServices.JavaScript.JSMarshalerArgument.ArgumentToManagedCallback`1.Invoke(System.Runtime.InteropServices.JavaScript.JSMarshalerArgument@,`0@)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs"
+        },
+        {
+          "DocsId": "M:System.Runtime.InteropServices.JavaScript.JSMarshalerArgument.ArgumentToManagedCallback`1.BeginInvoke(System.Runtime.InteropServices.JavaScript.JSMarshalerArgument@,`0@,System.AsyncCallback,System.Object)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs"
+        },
+        {
+          "DocsId": "M:System.Runtime.InteropServices.JavaScript.JSMarshalerArgument.ArgumentToManagedCallback`1.EndInvoke(System.Runtime.InteropServices.JavaScript.JSMarshalerArgument@,`0@,System.IAsyncResult)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs"
+        }
+      ],
+      "DocsId": "T:System.Runtime.InteropServices.JavaScript.JSMarshalerArgument.ArgumentToManagedCallback`1",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.Runtime.InteropServices.JavaScript.JSMarshalerArgument.ArgumentToJSCallback`1.#ctor(System.Object,System.IntPtr)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs"
+        },
+        {
+          "DocsId": "M:System.Runtime.InteropServices.JavaScript.JSMarshalerArgument.ArgumentToJSCallback`1.Invoke(System.Runtime.InteropServices.JavaScript.JSMarshalerArgument@,`0)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs"
+        },
+        {
+          "DocsId": "M:System.Runtime.InteropServices.JavaScript.JSMarshalerArgument.ArgumentToJSCallback`1.BeginInvoke(System.Runtime.InteropServices.JavaScript.JSMarshalerArgument@,`0,System.AsyncCallback,System.Object)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs"
+        },
+        {
+          "DocsId": "M:System.Runtime.InteropServices.JavaScript.JSMarshalerArgument.ArgumentToJSCallback`1.EndInvoke(System.Runtime.InteropServices.JavaScript.JSMarshalerArgument@,System.IAsyncResult)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs"
+        }
+      ],
+      "DocsId": "T:System.Runtime.InteropServices.JavaScript.JSMarshalerArgument.ArgumentToJSCallback`1",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Runtime.InteropServices.JavaScript/Release/net9.0/System.Runtime.InteropServices.JavaScript.notsupported.cs"
+    }
+  ]
+}

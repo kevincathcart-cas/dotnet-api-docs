@@ -1,0 +1,38 @@
+{
+  "Assembly": "System.Security.Cryptography.ProtectedData",
+  "GUID": "D9C1F4569E65484AB670AD4CAC75D2EBFFFFFFFF",
+  "Types": [
+    {
+      "Members": [
+        {
+          "DocsId": "F:System.Security.Cryptography.DataProtectionScope.value__",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Security.Cryptography.DataProtectionScope.CurrentUser",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "F:System.Security.Cryptography.DataProtectionScope.LocalMachine",
+          "SourceLink": ""
+        }
+      ],
+      "DocsId": "T:System.Security.Cryptography.DataProtectionScope",
+      "SourceLink": ""
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.Security.Cryptography.ProtectedData.Protect(System.Byte[],System.Byte[],System.Security.Cryptography.DataProtectionScope)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Security.Cryptography.ProtectedData/net6.0-Release/System.Security.Cryptography.ProtectedData.notsupported.cs#L16C138-L16C243"
+        },
+        {
+          "DocsId": "M:System.Security.Cryptography.ProtectedData.Unprotect(System.Byte[],System.Byte[],System.Security.Cryptography.DataProtectionScope)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Security.Cryptography.ProtectedData/net6.0-Release/System.Security.Cryptography.ProtectedData.notsupported.cs#L17C145-L17C250"
+        }
+      ],
+      "DocsId": "T:System.Security.Cryptography.ProtectedData",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/4822e3c3aa77eb82b2fb33c9321f923cf11ddde6/artifacts/obj/System.Security.Cryptography.ProtectedData/net6.0-Release/System.Security.Cryptography.ProtectedData.notsupported.cs"
+    }
+  ]
+}

@@ -1,0 +1,530 @@
+{
+  "Assembly": "System.Threading.AccessControl",
+  "GUID": "45A413C1693E4734AE370563582A5EEFFFFFFFFF",
+  "Types": [
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.Security.AccessControl.EventWaitHandleAccessRule.#ctor(System.Security.Principal.IdentityReference,System.Security.AccessControl.EventWaitHandleRights,System.Security.AccessControl.AccessControlType)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Threading.AccessControl/Release/net7.0/System.Threading.AccessControl.notsupported.cs#L11C217-L11C573"
+        },
+        {
+          "DocsId": "M:System.Security.AccessControl.EventWaitHandleAccessRule.#ctor(System.String,System.Security.AccessControl.EventWaitHandleRights,System.Security.AccessControl.AccessControlType)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Threading.AccessControl/Release/net7.0/System.Threading.AccessControl.notsupported.cs#L12C180-L12C536"
+        },
+        {
+          "DocsId": "P:System.Security.AccessControl.EventWaitHandleAccessRule.EventWaitHandleRights",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Threading.AccessControl/Release/net7.0/System.Threading.AccessControl.notsupported.cs#L13C98-L13C191"
+        }
+      ],
+      "DocsId": "T:System.Security.AccessControl.EventWaitHandleAccessRule",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Threading.AccessControl/Release/net7.0/System.Threading.AccessControl.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.Security.AccessControl.EventWaitHandleAuditRule.#ctor(System.Security.Principal.IdentityReference,System.Security.AccessControl.EventWaitHandleRights,System.Security.AccessControl.AuditFlags)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Threading.AccessControl/Release/net7.0/System.Threading.AccessControl.notsupported.cs#L17C210-L17C559"
+        },
+        {
+          "DocsId": "P:System.Security.AccessControl.EventWaitHandleAuditRule.EventWaitHandleRights",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Threading.AccessControl/Release/net7.0/System.Threading.AccessControl.notsupported.cs#L18C98-L18C191"
+        }
+      ],
+      "DocsId": "T:System.Security.AccessControl.EventWaitHandleAuditRule",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Threading.AccessControl/Release/net7.0/System.Threading.AccessControl.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "F:System.Security.AccessControl.EventWaitHandleRights.value__",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Threading.AccessControl/Release/net7.0/System.Threading.AccessControl.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Security.AccessControl.EventWaitHandleRights.Modify",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Threading.AccessControl/Release/net7.0/System.Threading.AccessControl.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Security.AccessControl.EventWaitHandleRights.Delete",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Threading.AccessControl/Release/net7.0/System.Threading.AccessControl.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Security.AccessControl.EventWaitHandleRights.ReadPermissions",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Threading.AccessControl/Release/net7.0/System.Threading.AccessControl.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Security.AccessControl.EventWaitHandleRights.ChangePermissions",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Threading.AccessControl/Release/net7.0/System.Threading.AccessControl.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Security.AccessControl.EventWaitHandleRights.TakeOwnership",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Threading.AccessControl/Release/net7.0/System.Threading.AccessControl.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Security.AccessControl.EventWaitHandleRights.Synchronize",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Threading.AccessControl/Release/net7.0/System.Threading.AccessControl.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Security.AccessControl.EventWaitHandleRights.FullControl",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Threading.AccessControl/Release/net7.0/System.Threading.AccessControl.notsupported.cs"
+        }
+      ],
+      "DocsId": "T:System.Security.AccessControl.EventWaitHandleRights",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Threading.AccessControl/Release/net7.0/System.Threading.AccessControl.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.Security.AccessControl.EventWaitHandleSecurity.#ctor",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Threading.AccessControl/Release/net7.0/System.Threading.AccessControl.notsupported.cs#L33C44-L33C213"
+        },
+        {
+          "DocsId": "M:System.Security.AccessControl.EventWaitHandleSecurity.AccessRuleFactory(System.Security.Principal.IdentityReference,System.Int32,System.Boolean,System.Security.AccessControl.InheritanceFlags,System.Security.AccessControl.PropagationFlags,System.Security.AccessControl.AccessControlType)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Threading.AccessControl/Release/net7.0/System.Threading.AccessControl.notsupported.cs#L37C367-L37C460"
+        },
+        {
+          "DocsId": "M:System.Security.AccessControl.EventWaitHandleSecurity.AddAccessRule(System.Security.AccessControl.EventWaitHandleAccessRule)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Threading.AccessControl/Release/net7.0/System.Threading.AccessControl.notsupported.cs#L38C99-L38C192"
+        },
+        {
+          "DocsId": "M:System.Security.AccessControl.EventWaitHandleSecurity.AddAuditRule(System.Security.AccessControl.EventWaitHandleAuditRule)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Threading.AccessControl/Release/net7.0/System.Threading.AccessControl.notsupported.cs#L39C97-L39C190"
+        },
+        {
+          "DocsId": "M:System.Security.AccessControl.EventWaitHandleSecurity.AuditRuleFactory(System.Security.Principal.IdentityReference,System.Int32,System.Boolean,System.Security.AccessControl.InheritanceFlags,System.Security.AccessControl.PropagationFlags,System.Security.AccessControl.AuditFlags)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Threading.AccessControl/Release/net7.0/System.Threading.AccessControl.notsupported.cs#L40C359-L40C452"
+        },
+        {
+          "DocsId": "M:System.Security.AccessControl.EventWaitHandleSecurity.RemoveAccessRule(System.Security.AccessControl.EventWaitHandleAccessRule)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Threading.AccessControl/Release/net7.0/System.Threading.AccessControl.notsupported.cs#L41C102-L41C195"
+        },
+        {
+          "DocsId": "M:System.Security.AccessControl.EventWaitHandleSecurity.RemoveAccessRuleAll(System.Security.AccessControl.EventWaitHandleAccessRule)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Threading.AccessControl/Release/net7.0/System.Threading.AccessControl.notsupported.cs#L42C105-L42C198"
+        },
+        {
+          "DocsId": "M:System.Security.AccessControl.EventWaitHandleSecurity.RemoveAccessRuleSpecific(System.Security.AccessControl.EventWaitHandleAccessRule)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Threading.AccessControl/Release/net7.0/System.Threading.AccessControl.notsupported.cs#L43C110-L43C203"
+        },
+        {
+          "DocsId": "M:System.Security.AccessControl.EventWaitHandleSecurity.RemoveAuditRule(System.Security.AccessControl.EventWaitHandleAuditRule)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Threading.AccessControl/Release/net7.0/System.Threading.AccessControl.notsupported.cs#L44C100-L44C193"
+        },
+        {
+          "DocsId": "M:System.Security.AccessControl.EventWaitHandleSecurity.RemoveAuditRuleAll(System.Security.AccessControl.EventWaitHandleAuditRule)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Threading.AccessControl/Release/net7.0/System.Threading.AccessControl.notsupported.cs#L45C103-L45C196"
+        },
+        {
+          "DocsId": "M:System.Security.AccessControl.EventWaitHandleSecurity.RemoveAuditRuleSpecific(System.Security.AccessControl.EventWaitHandleAuditRule)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Threading.AccessControl/Release/net7.0/System.Threading.AccessControl.notsupported.cs#L46C108-L46C201"
+        },
+        {
+          "DocsId": "M:System.Security.AccessControl.EventWaitHandleSecurity.ResetAccessRule(System.Security.AccessControl.EventWaitHandleAccessRule)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Threading.AccessControl/Release/net7.0/System.Threading.AccessControl.notsupported.cs#L47C101-L47C194"
+        },
+        {
+          "DocsId": "M:System.Security.AccessControl.EventWaitHandleSecurity.SetAccessRule(System.Security.AccessControl.EventWaitHandleAccessRule)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Threading.AccessControl/Release/net7.0/System.Threading.AccessControl.notsupported.cs#L48C99-L48C192"
+        },
+        {
+          "DocsId": "M:System.Security.AccessControl.EventWaitHandleSecurity.SetAuditRule(System.Security.AccessControl.EventWaitHandleAuditRule)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Threading.AccessControl/Release/net7.0/System.Threading.AccessControl.notsupported.cs#L49C97-L49C190"
+        },
+        {
+          "DocsId": "P:System.Security.AccessControl.EventWaitHandleSecurity.AccessRightType",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Threading.AccessControl/Release/net7.0/System.Threading.AccessControl.notsupported.cs#L34C61-L34C154"
+        },
+        {
+          "DocsId": "P:System.Security.AccessControl.EventWaitHandleSecurity.AccessRuleType",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Threading.AccessControl/Release/net7.0/System.Threading.AccessControl.notsupported.cs#L35C60-L35C153"
+        },
+        {
+          "DocsId": "P:System.Security.AccessControl.EventWaitHandleSecurity.AuditRuleType",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Threading.AccessControl/Release/net7.0/System.Threading.AccessControl.notsupported.cs#L36C59-L36C152"
+        }
+      ],
+      "DocsId": "T:System.Security.AccessControl.EventWaitHandleSecurity",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Threading.AccessControl/Release/net7.0/System.Threading.AccessControl.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.Security.AccessControl.MutexAccessRule.#ctor(System.Security.Principal.IdentityReference,System.Security.AccessControl.MutexRights,System.Security.AccessControl.AccessControlType)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Threading.AccessControl/Release/net7.0/System.Threading.AccessControl.notsupported.cs#L53C197-L53C553"
+        },
+        {
+          "DocsId": "M:System.Security.AccessControl.MutexAccessRule.#ctor(System.String,System.Security.AccessControl.MutexRights,System.Security.AccessControl.AccessControlType)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Threading.AccessControl/Release/net7.0/System.Threading.AccessControl.notsupported.cs#L54C160-L54C516"
+        },
+        {
+          "DocsId": "P:System.Security.AccessControl.MutexAccessRule.MutexRights",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Threading.AccessControl/Release/net7.0/System.Threading.AccessControl.notsupported.cs#L55C78-L55C171"
+        }
+      ],
+      "DocsId": "T:System.Security.AccessControl.MutexAccessRule",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Threading.AccessControl/Release/net7.0/System.Threading.AccessControl.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.Security.AccessControl.MutexAuditRule.#ctor(System.Security.Principal.IdentityReference,System.Security.AccessControl.MutexRights,System.Security.AccessControl.AuditFlags)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Threading.AccessControl/Release/net7.0/System.Threading.AccessControl.notsupported.cs#L59C190-L59C539"
+        },
+        {
+          "DocsId": "P:System.Security.AccessControl.MutexAuditRule.MutexRights",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Threading.AccessControl/Release/net7.0/System.Threading.AccessControl.notsupported.cs#L60C78-L60C171"
+        }
+      ],
+      "DocsId": "T:System.Security.AccessControl.MutexAuditRule",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Threading.AccessControl/Release/net7.0/System.Threading.AccessControl.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "F:System.Security.AccessControl.MutexRights.value__",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Threading.AccessControl/Release/net7.0/System.Threading.AccessControl.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Security.AccessControl.MutexRights.Modify",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Threading.AccessControl/Release/net7.0/System.Threading.AccessControl.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Security.AccessControl.MutexRights.Delete",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Threading.AccessControl/Release/net7.0/System.Threading.AccessControl.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Security.AccessControl.MutexRights.ReadPermissions",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Threading.AccessControl/Release/net7.0/System.Threading.AccessControl.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Security.AccessControl.MutexRights.ChangePermissions",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Threading.AccessControl/Release/net7.0/System.Threading.AccessControl.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Security.AccessControl.MutexRights.TakeOwnership",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Threading.AccessControl/Release/net7.0/System.Threading.AccessControl.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Security.AccessControl.MutexRights.Synchronize",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Threading.AccessControl/Release/net7.0/System.Threading.AccessControl.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Security.AccessControl.MutexRights.FullControl",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Threading.AccessControl/Release/net7.0/System.Threading.AccessControl.notsupported.cs"
+        }
+      ],
+      "DocsId": "T:System.Security.AccessControl.MutexRights",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Threading.AccessControl/Release/net7.0/System.Threading.AccessControl.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.Security.AccessControl.MutexSecurity.#ctor",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Threading.AccessControl/Release/net7.0/System.Threading.AccessControl.notsupported.cs#L75C34-L75C203"
+        },
+        {
+          "DocsId": "M:System.Security.AccessControl.MutexSecurity.#ctor(System.String,System.Security.AccessControl.AccessControlSections)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Threading.AccessControl/Release/net7.0/System.Threading.AccessControl.notsupported.cs#L76C114-L76C283"
+        },
+        {
+          "DocsId": "M:System.Security.AccessControl.MutexSecurity.AccessRuleFactory(System.Security.Principal.IdentityReference,System.Int32,System.Boolean,System.Security.AccessControl.InheritanceFlags,System.Security.AccessControl.PropagationFlags,System.Security.AccessControl.AccessControlType)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Threading.AccessControl/Release/net7.0/System.Threading.AccessControl.notsupported.cs#L80C367-L80C460"
+        },
+        {
+          "DocsId": "M:System.Security.AccessControl.MutexSecurity.AddAccessRule(System.Security.AccessControl.MutexAccessRule)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Threading.AccessControl/Release/net7.0/System.Threading.AccessControl.notsupported.cs#L81C89-L81C182"
+        },
+        {
+          "DocsId": "M:System.Security.AccessControl.MutexSecurity.AddAuditRule(System.Security.AccessControl.MutexAuditRule)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Threading.AccessControl/Release/net7.0/System.Threading.AccessControl.notsupported.cs#L82C87-L82C180"
+        },
+        {
+          "DocsId": "M:System.Security.AccessControl.MutexSecurity.AuditRuleFactory(System.Security.Principal.IdentityReference,System.Int32,System.Boolean,System.Security.AccessControl.InheritanceFlags,System.Security.AccessControl.PropagationFlags,System.Security.AccessControl.AuditFlags)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Threading.AccessControl/Release/net7.0/System.Threading.AccessControl.notsupported.cs#L83C359-L83C452"
+        },
+        {
+          "DocsId": "M:System.Security.AccessControl.MutexSecurity.RemoveAccessRule(System.Security.AccessControl.MutexAccessRule)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Threading.AccessControl/Release/net7.0/System.Threading.AccessControl.notsupported.cs#L84C92-L84C185"
+        },
+        {
+          "DocsId": "M:System.Security.AccessControl.MutexSecurity.RemoveAccessRuleAll(System.Security.AccessControl.MutexAccessRule)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Threading.AccessControl/Release/net7.0/System.Threading.AccessControl.notsupported.cs#L85C95-L85C188"
+        },
+        {
+          "DocsId": "M:System.Security.AccessControl.MutexSecurity.RemoveAccessRuleSpecific(System.Security.AccessControl.MutexAccessRule)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Threading.AccessControl/Release/net7.0/System.Threading.AccessControl.notsupported.cs#L86C100-L86C193"
+        },
+        {
+          "DocsId": "M:System.Security.AccessControl.MutexSecurity.RemoveAuditRule(System.Security.AccessControl.MutexAuditRule)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Threading.AccessControl/Release/net7.0/System.Threading.AccessControl.notsupported.cs#L87C90-L87C183"
+        },
+        {
+          "DocsId": "M:System.Security.AccessControl.MutexSecurity.RemoveAuditRuleAll(System.Security.AccessControl.MutexAuditRule)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Threading.AccessControl/Release/net7.0/System.Threading.AccessControl.notsupported.cs#L88C93-L88C186"
+        },
+        {
+          "DocsId": "M:System.Security.AccessControl.MutexSecurity.RemoveAuditRuleSpecific(System.Security.AccessControl.MutexAuditRule)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Threading.AccessControl/Release/net7.0/System.Threading.AccessControl.notsupported.cs#L89C98-L89C191"
+        },
+        {
+          "DocsId": "M:System.Security.AccessControl.MutexSecurity.ResetAccessRule(System.Security.AccessControl.MutexAccessRule)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Threading.AccessControl/Release/net7.0/System.Threading.AccessControl.notsupported.cs#L90C91-L90C184"
+        },
+        {
+          "DocsId": "M:System.Security.AccessControl.MutexSecurity.SetAccessRule(System.Security.AccessControl.MutexAccessRule)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Threading.AccessControl/Release/net7.0/System.Threading.AccessControl.notsupported.cs#L91C89-L91C182"
+        },
+        {
+          "DocsId": "M:System.Security.AccessControl.MutexSecurity.SetAuditRule(System.Security.AccessControl.MutexAuditRule)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Threading.AccessControl/Release/net7.0/System.Threading.AccessControl.notsupported.cs#L92C87-L92C180"
+        },
+        {
+          "DocsId": "P:System.Security.AccessControl.MutexSecurity.AccessRightType",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Threading.AccessControl/Release/net7.0/System.Threading.AccessControl.notsupported.cs#L77C61-L77C154"
+        },
+        {
+          "DocsId": "P:System.Security.AccessControl.MutexSecurity.AccessRuleType",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Threading.AccessControl/Release/net7.0/System.Threading.AccessControl.notsupported.cs#L78C60-L78C153"
+        },
+        {
+          "DocsId": "P:System.Security.AccessControl.MutexSecurity.AuditRuleType",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Threading.AccessControl/Release/net7.0/System.Threading.AccessControl.notsupported.cs#L79C59-L79C152"
+        }
+      ],
+      "DocsId": "T:System.Security.AccessControl.MutexSecurity",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Threading.AccessControl/Release/net7.0/System.Threading.AccessControl.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.Security.AccessControl.SemaphoreAccessRule.#ctor(System.Security.Principal.IdentityReference,System.Security.AccessControl.SemaphoreRights,System.Security.AccessControl.AccessControlType)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Threading.AccessControl/Release/net7.0/System.Threading.AccessControl.notsupported.cs#L96C205-L96C561"
+        },
+        {
+          "DocsId": "M:System.Security.AccessControl.SemaphoreAccessRule.#ctor(System.String,System.Security.AccessControl.SemaphoreRights,System.Security.AccessControl.AccessControlType)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Threading.AccessControl/Release/net7.0/System.Threading.AccessControl.notsupported.cs#L97C168-L97C524"
+        },
+        {
+          "DocsId": "P:System.Security.AccessControl.SemaphoreAccessRule.SemaphoreRights",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Threading.AccessControl/Release/net7.0/System.Threading.AccessControl.notsupported.cs#L98C86-L98C179"
+        }
+      ],
+      "DocsId": "T:System.Security.AccessControl.SemaphoreAccessRule",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Threading.AccessControl/Release/net7.0/System.Threading.AccessControl.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.Security.AccessControl.SemaphoreAuditRule.#ctor(System.Security.Principal.IdentityReference,System.Security.AccessControl.SemaphoreRights,System.Security.AccessControl.AuditFlags)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Threading.AccessControl/Release/net7.0/System.Threading.AccessControl.notsupported.cs#L102C198-L102C547"
+        },
+        {
+          "DocsId": "P:System.Security.AccessControl.SemaphoreAuditRule.SemaphoreRights",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Threading.AccessControl/Release/net7.0/System.Threading.AccessControl.notsupported.cs#L103C86-L103C179"
+        }
+      ],
+      "DocsId": "T:System.Security.AccessControl.SemaphoreAuditRule",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Threading.AccessControl/Release/net7.0/System.Threading.AccessControl.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "F:System.Security.AccessControl.SemaphoreRights.value__",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Threading.AccessControl/Release/net7.0/System.Threading.AccessControl.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Security.AccessControl.SemaphoreRights.Modify",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Threading.AccessControl/Release/net7.0/System.Threading.AccessControl.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Security.AccessControl.SemaphoreRights.Delete",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Threading.AccessControl/Release/net7.0/System.Threading.AccessControl.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Security.AccessControl.SemaphoreRights.ReadPermissions",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Threading.AccessControl/Release/net7.0/System.Threading.AccessControl.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Security.AccessControl.SemaphoreRights.ChangePermissions",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Threading.AccessControl/Release/net7.0/System.Threading.AccessControl.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Security.AccessControl.SemaphoreRights.TakeOwnership",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Threading.AccessControl/Release/net7.0/System.Threading.AccessControl.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Security.AccessControl.SemaphoreRights.Synchronize",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Threading.AccessControl/Release/net7.0/System.Threading.AccessControl.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Security.AccessControl.SemaphoreRights.FullControl",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Threading.AccessControl/Release/net7.0/System.Threading.AccessControl.notsupported.cs"
+        }
+      ],
+      "DocsId": "T:System.Security.AccessControl.SemaphoreRights",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Threading.AccessControl/Release/net7.0/System.Threading.AccessControl.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.Security.AccessControl.SemaphoreSecurity.#ctor",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Threading.AccessControl/Release/net7.0/System.Threading.AccessControl.notsupported.cs#L118C38-L118C207"
+        },
+        {
+          "DocsId": "M:System.Security.AccessControl.SemaphoreSecurity.#ctor(System.String,System.Security.AccessControl.AccessControlSections)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Threading.AccessControl/Release/net7.0/System.Threading.AccessControl.notsupported.cs#L119C118-L119C287"
+        },
+        {
+          "DocsId": "M:System.Security.AccessControl.SemaphoreSecurity.AccessRuleFactory(System.Security.Principal.IdentityReference,System.Int32,System.Boolean,System.Security.AccessControl.InheritanceFlags,System.Security.AccessControl.PropagationFlags,System.Security.AccessControl.AccessControlType)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Threading.AccessControl/Release/net7.0/System.Threading.AccessControl.notsupported.cs#L123C367-L123C460"
+        },
+        {
+          "DocsId": "M:System.Security.AccessControl.SemaphoreSecurity.AddAccessRule(System.Security.AccessControl.SemaphoreAccessRule)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Threading.AccessControl/Release/net7.0/System.Threading.AccessControl.notsupported.cs#L124C93-L124C186"
+        },
+        {
+          "DocsId": "M:System.Security.AccessControl.SemaphoreSecurity.AddAuditRule(System.Security.AccessControl.SemaphoreAuditRule)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Threading.AccessControl/Release/net7.0/System.Threading.AccessControl.notsupported.cs#L125C91-L125C184"
+        },
+        {
+          "DocsId": "M:System.Security.AccessControl.SemaphoreSecurity.AuditRuleFactory(System.Security.Principal.IdentityReference,System.Int32,System.Boolean,System.Security.AccessControl.InheritanceFlags,System.Security.AccessControl.PropagationFlags,System.Security.AccessControl.AuditFlags)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Threading.AccessControl/Release/net7.0/System.Threading.AccessControl.notsupported.cs#L126C359-L126C452"
+        },
+        {
+          "DocsId": "M:System.Security.AccessControl.SemaphoreSecurity.RemoveAccessRule(System.Security.AccessControl.SemaphoreAccessRule)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Threading.AccessControl/Release/net7.0/System.Threading.AccessControl.notsupported.cs#L127C96-L127C189"
+        },
+        {
+          "DocsId": "M:System.Security.AccessControl.SemaphoreSecurity.RemoveAccessRuleAll(System.Security.AccessControl.SemaphoreAccessRule)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Threading.AccessControl/Release/net7.0/System.Threading.AccessControl.notsupported.cs#L128C99-L128C192"
+        },
+        {
+          "DocsId": "M:System.Security.AccessControl.SemaphoreSecurity.RemoveAccessRuleSpecific(System.Security.AccessControl.SemaphoreAccessRule)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Threading.AccessControl/Release/net7.0/System.Threading.AccessControl.notsupported.cs#L129C104-L129C197"
+        },
+        {
+          "DocsId": "M:System.Security.AccessControl.SemaphoreSecurity.RemoveAuditRule(System.Security.AccessControl.SemaphoreAuditRule)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Threading.AccessControl/Release/net7.0/System.Threading.AccessControl.notsupported.cs#L130C94-L130C187"
+        },
+        {
+          "DocsId": "M:System.Security.AccessControl.SemaphoreSecurity.RemoveAuditRuleAll(System.Security.AccessControl.SemaphoreAuditRule)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Threading.AccessControl/Release/net7.0/System.Threading.AccessControl.notsupported.cs#L131C97-L131C190"
+        },
+        {
+          "DocsId": "M:System.Security.AccessControl.SemaphoreSecurity.RemoveAuditRuleSpecific(System.Security.AccessControl.SemaphoreAuditRule)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Threading.AccessControl/Release/net7.0/System.Threading.AccessControl.notsupported.cs#L132C102-L132C195"
+        },
+        {
+          "DocsId": "M:System.Security.AccessControl.SemaphoreSecurity.ResetAccessRule(System.Security.AccessControl.SemaphoreAccessRule)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Threading.AccessControl/Release/net7.0/System.Threading.AccessControl.notsupported.cs#L133C95-L133C188"
+        },
+        {
+          "DocsId": "M:System.Security.AccessControl.SemaphoreSecurity.SetAccessRule(System.Security.AccessControl.SemaphoreAccessRule)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Threading.AccessControl/Release/net7.0/System.Threading.AccessControl.notsupported.cs#L134C93-L134C186"
+        },
+        {
+          "DocsId": "M:System.Security.AccessControl.SemaphoreSecurity.SetAuditRule(System.Security.AccessControl.SemaphoreAuditRule)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Threading.AccessControl/Release/net7.0/System.Threading.AccessControl.notsupported.cs#L135C91-L135C184"
+        },
+        {
+          "DocsId": "P:System.Security.AccessControl.SemaphoreSecurity.AccessRightType",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Threading.AccessControl/Release/net7.0/System.Threading.AccessControl.notsupported.cs#L120C61-L120C154"
+        },
+        {
+          "DocsId": "P:System.Security.AccessControl.SemaphoreSecurity.AccessRuleType",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Threading.AccessControl/Release/net7.0/System.Threading.AccessControl.notsupported.cs#L121C60-L121C153"
+        },
+        {
+          "DocsId": "P:System.Security.AccessControl.SemaphoreSecurity.AuditRuleType",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Threading.AccessControl/Release/net7.0/System.Threading.AccessControl.notsupported.cs#L122C59-L122C152"
+        }
+      ],
+      "DocsId": "T:System.Security.AccessControl.SemaphoreSecurity",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Threading.AccessControl/Release/net7.0/System.Threading.AccessControl.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.Threading.EventWaitHandleAcl.Create(System.Boolean,System.Threading.EventResetMode,System.String,System.Boolean@,System.Security.AccessControl.EventWaitHandleSecurity)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Threading.AccessControl/Release/net7.0/System.Threading.AccessControl.Extensions.notsupported.cs#L11C227-L11C320"
+        },
+        {
+          "DocsId": "M:System.Threading.EventWaitHandleAcl.OpenExisting(System.String,System.Security.AccessControl.EventWaitHandleRights)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Threading.AccessControl/Release/net7.0/System.Threading.AccessControl.Extensions.notsupported.cs#L12C144-L12C237"
+        },
+        {
+          "DocsId": "M:System.Threading.EventWaitHandleAcl.TryOpenExisting(System.String,System.Security.AccessControl.EventWaitHandleRights,System.Threading.EventWaitHandle@)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Threading.AccessControl/Release/net7.0/System.Threading.AccessControl.Extensions.notsupported.cs#L13C226-L13C319"
+        }
+      ],
+      "DocsId": "T:System.Threading.EventWaitHandleAcl",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Threading.AccessControl/Release/net7.0/System.Threading.AccessControl.Extensions.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.Threading.MutexAcl.Create(System.Boolean,System.String,System.Boolean@,System.Security.AccessControl.MutexSecurity)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Threading.AccessControl/Release/net7.0/System.Threading.AccessControl.Extensions.notsupported.cs#L17C171-L17C264"
+        },
+        {
+          "DocsId": "M:System.Threading.MutexAcl.OpenExisting(System.String,System.Security.AccessControl.MutexRights)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Threading.AccessControl/Release/net7.0/System.Threading.AccessControl.Extensions.notsupported.cs#L18C124-L18C217"
+        },
+        {
+          "DocsId": "M:System.Threading.MutexAcl.TryOpenExisting(System.String,System.Security.AccessControl.MutexRights,System.Threading.Mutex@)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Threading.AccessControl/Release/net7.0/System.Threading.AccessControl.Extensions.notsupported.cs#L19C206-L19C299"
+        }
+      ],
+      "DocsId": "T:System.Threading.MutexAcl",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Threading.AccessControl/Release/net7.0/System.Threading.AccessControl.Extensions.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.Threading.SemaphoreAcl.Create(System.Int32,System.Int32,System.String,System.Boolean@,System.Security.AccessControl.SemaphoreSecurity)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Threading.AccessControl/Release/net7.0/System.Threading.AccessControl.Extensions.notsupported.cs#L23C198-L23C291"
+        },
+        {
+          "DocsId": "M:System.Threading.SemaphoreAcl.OpenExisting(System.String,System.Security.AccessControl.SemaphoreRights)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Threading.AccessControl/Release/net7.0/System.Threading.AccessControl.Extensions.notsupported.cs#L24C132-L24C225"
+        },
+        {
+          "DocsId": "M:System.Threading.SemaphoreAcl.TryOpenExisting(System.String,System.Security.AccessControl.SemaphoreRights,System.Threading.Semaphore@)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Threading.AccessControl/Release/net7.0/System.Threading.AccessControl.Extensions.notsupported.cs#L25C214-L25C307"
+        }
+      ],
+      "DocsId": "T:System.Threading.SemaphoreAcl",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Threading.AccessControl/Release/net7.0/System.Threading.AccessControl.Extensions.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.Threading.ThreadingAclExtensions.GetAccessControl(System.Threading.EventWaitHandle)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Threading.AccessControl/Release/net7.0/System.Threading.AccessControl.Extensions.notsupported.cs#L29C142-L29C235"
+        },
+        {
+          "DocsId": "M:System.Threading.ThreadingAclExtensions.GetAccessControl(System.Threading.Mutex)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Threading.AccessControl/Release/net7.0/System.Threading.AccessControl.Extensions.notsupported.cs#L30C121-L30C214"
+        },
+        {
+          "DocsId": "M:System.Threading.ThreadingAclExtensions.GetAccessControl(System.Threading.Semaphore)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Threading.AccessControl/Release/net7.0/System.Threading.AccessControl.Extensions.notsupported.cs#L31C133-L31C226"
+        },
+        {
+          "DocsId": "M:System.Threading.ThreadingAclExtensions.SetAccessControl(System.Threading.EventWaitHandle,System.Security.AccessControl.EventWaitHandleSecurity)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Threading.AccessControl/Release/net7.0/System.Threading.AccessControl.Extensions.notsupported.cs#L32C162-L32C255"
+        },
+        {
+          "DocsId": "M:System.Threading.ThreadingAclExtensions.SetAccessControl(System.Threading.Mutex,System.Security.AccessControl.MutexSecurity)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Threading.AccessControl/Release/net7.0/System.Threading.AccessControl.Extensions.notsupported.cs#L33C141-L33C234"
+        },
+        {
+          "DocsId": "M:System.Threading.ThreadingAclExtensions.SetAccessControl(System.Threading.Semaphore,System.Security.AccessControl.SemaphoreSecurity)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Threading.AccessControl/Release/net7.0/System.Threading.AccessControl.Extensions.notsupported.cs#L34C157-L34C250"
+        }
+      ],
+      "DocsId": "T:System.Threading.ThreadingAclExtensions",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/artifacts/obj/System.Threading.AccessControl/Release/net7.0/System.Threading.AccessControl.Extensions.notsupported.cs"
+    }
+  ]
+}

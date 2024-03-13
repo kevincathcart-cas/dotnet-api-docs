@@ -1,0 +1,1170 @@
+{
+  "Assembly": "System.DirectoryServices.AccountManagement",
+  "GUID": "82A44D7BA9B94CA38F93942684AEFB23FFFFFFFF",
+  "Types": [
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.DirectoryServices.AccountManagement.AdvancedFilters.#ctor(System.DirectoryServices.AccountManagement.Principal)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L11C9-L11C216"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.AccountManagement.AdvancedFilters.AccountExpirationDate(System.DateTime,System.DirectoryServices.AccountManagement.MatchType)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L12C137-L12C251"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.AccountManagement.AdvancedFilters.AccountLockoutTime(System.DateTime,System.DirectoryServices.AccountManagement.MatchType)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L13C131-L13C245"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.AccountManagement.AdvancedFilters.AdvancedFilterSet(System.String,System.Object,System.Type,System.DirectoryServices.AccountManagement.MatchType)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L14C157-L14C271"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.AccountManagement.AdvancedFilters.BadLogonCount(System.Int32,System.DirectoryServices.AccountManagement.MatchType)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L15C116-L15C230"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.AccountManagement.AdvancedFilters.LastBadPasswordAttempt(System.DateTime,System.DirectoryServices.AccountManagement.MatchType)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L16C135-L16C249"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.AccountManagement.AdvancedFilters.LastLogonTime(System.DateTime,System.DirectoryServices.AccountManagement.MatchType)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L17C124-L17C238"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.AccountManagement.AdvancedFilters.LastPasswordSetTime(System.DateTime,System.DirectoryServices.AccountManagement.MatchType)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L18C136-L18C250"
+        }
+      ],
+      "DocsId": "T:System.DirectoryServices.AccountManagement.AdvancedFilters",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.DirectoryServices.AccountManagement.AuthenticablePrincipal.#ctor(System.DirectoryServices.AccountManagement.PrincipalContext)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L23C9-L23C236"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.AccountManagement.AuthenticablePrincipal.#ctor(System.DirectoryServices.AccountManagement.PrincipalContext,System.String,System.String,System.Boolean)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L24C9-L24C290"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.AccountManagement.AuthenticablePrincipal.ChangePassword(System.String,System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L45C78-L45C192"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.AccountManagement.AuthenticablePrincipal.ExpirePasswordNow",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L46C43-L46C157"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.AccountManagement.AuthenticablePrincipal.FindByBadPasswordAttempt(System.DirectoryServices.AccountManagement.PrincipalContext,System.DateTime,System.DirectoryServices.AccountManagement.MatchType)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L47C332-L47C446"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.AccountManagement.AuthenticablePrincipal.FindByBadPasswordAttempt``1(System.DirectoryServices.AccountManagement.PrincipalContext,System.DateTime,System.DirectoryServices.AccountManagement.MatchType)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L48C274-L48C388"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.AccountManagement.AuthenticablePrincipal.FindByExpirationTime(System.DirectoryServices.AccountManagement.PrincipalContext,System.DateTime,System.DirectoryServices.AccountManagement.MatchType)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L49C328-L49C442"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.AccountManagement.AuthenticablePrincipal.FindByExpirationTime``1(System.DirectoryServices.AccountManagement.PrincipalContext,System.DateTime,System.DirectoryServices.AccountManagement.MatchType)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L50C270-L50C384"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.AccountManagement.AuthenticablePrincipal.FindByLockoutTime(System.DirectoryServices.AccountManagement.PrincipalContext,System.DateTime,System.DirectoryServices.AccountManagement.MatchType)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L51C325-L51C439"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.AccountManagement.AuthenticablePrincipal.FindByLockoutTime``1(System.DirectoryServices.AccountManagement.PrincipalContext,System.DateTime,System.DirectoryServices.AccountManagement.MatchType)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L52C267-L52C381"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.AccountManagement.AuthenticablePrincipal.FindByLogonTime(System.DirectoryServices.AccountManagement.PrincipalContext,System.DateTime,System.DirectoryServices.AccountManagement.MatchType)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L53C323-L53C437"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.AccountManagement.AuthenticablePrincipal.FindByLogonTime``1(System.DirectoryServices.AccountManagement.PrincipalContext,System.DateTime,System.DirectoryServices.AccountManagement.MatchType)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L54C265-L54C379"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.AccountManagement.AuthenticablePrincipal.FindByPasswordSetTime(System.DirectoryServices.AccountManagement.PrincipalContext,System.DateTime,System.DirectoryServices.AccountManagement.MatchType)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L55C329-L55C443"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.AccountManagement.AuthenticablePrincipal.FindByPasswordSetTime``1(System.DirectoryServices.AccountManagement.PrincipalContext,System.DateTime,System.DirectoryServices.AccountManagement.MatchType)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L56C271-L56C385"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.AccountManagement.AuthenticablePrincipal.IsAccountLockedOut",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L57C44-L57C158"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.AccountManagement.AuthenticablePrincipal.RefreshExpiredPassword",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L58C48-L58C162"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.AccountManagement.AuthenticablePrincipal.SetPassword(System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L59C55-L59C169"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.AccountManagement.AuthenticablePrincipal.UnlockAccount",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L60C39-L60C153"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.AccountManagement.AuthenticablePrincipal.AccountExpirationDate",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L25C63-L25C177"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.AccountManagement.AuthenticablePrincipal.AccountLockoutTime",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L26C60-L26C174"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.AccountManagement.AuthenticablePrincipal.AdvancedSearchFilter",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L27C112-L27C226"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.AccountManagement.AuthenticablePrincipal.AllowReversiblePasswordEncryption",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L28C63-L28C177"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.AccountManagement.AuthenticablePrincipal.BadLogonCount",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L29C42-L29C156"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.AccountManagement.AuthenticablePrincipal.Certificates",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L30C110-L30C224"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.AccountManagement.AuthenticablePrincipal.DelegationPermitted",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L31C49-L31C163"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.AccountManagement.AuthenticablePrincipal.Enabled",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L32C38-L32C152"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.AccountManagement.AuthenticablePrincipal.HomeDirectory",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L33C45-L33C159"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.AccountManagement.AuthenticablePrincipal.HomeDrive",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L34C41-L34C155"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.AccountManagement.AuthenticablePrincipal.LastBadPasswordAttempt",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L35C64-L35C178"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.AccountManagement.AuthenticablePrincipal.LastLogon",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L36C51-L36C165"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.AccountManagement.AuthenticablePrincipal.LastPasswordSet",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L37C57-L37C171"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.AccountManagement.AuthenticablePrincipal.PasswordNeverExpires",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L38C50-L38C164"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.AccountManagement.AuthenticablePrincipal.PasswordNotRequired",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L39C49-L39C163"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.AccountManagement.AuthenticablePrincipal.PermittedLogonTimes",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L40C51-L40C165"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.AccountManagement.AuthenticablePrincipal.PermittedWorkstations",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L41C122-L41C236"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.AccountManagement.AuthenticablePrincipal.ScriptPath",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L42C42-L42C156"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.AccountManagement.AuthenticablePrincipal.SmartcardLogonRequired",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L43C52-L43C166"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.AccountManagement.AuthenticablePrincipal.UserCannotChangePassword",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L44C54-L44C168"
+        }
+      ],
+      "DocsId": "T:System.DirectoryServices.AccountManagement.AuthenticablePrincipal",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.DirectoryServices.AccountManagement.ComputerPrincipal.#ctor(System.DirectoryServices.AccountManagement.PrincipalContext)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L65C105-L65C297"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.AccountManagement.ComputerPrincipal.#ctor(System.DirectoryServices.AccountManagement.PrincipalContext,System.String,System.String,System.Boolean)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L66C159-L66C351"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.AccountManagement.ComputerPrincipal.FindByBadPasswordAttempt(System.DirectoryServices.AccountManagement.PrincipalContext,System.DateTime,System.DirectoryServices.AccountManagement.MatchType)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L68C331-L68C445"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.AccountManagement.ComputerPrincipal.FindByExpirationTime(System.DirectoryServices.AccountManagement.PrincipalContext,System.DateTime,System.DirectoryServices.AccountManagement.MatchType)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L69C327-L69C441"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.AccountManagement.ComputerPrincipal.FindByIdentity(System.DirectoryServices.AccountManagement.PrincipalContext,System.DirectoryServices.AccountManagement.IdentityType,System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L70C266-L70C380"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.AccountManagement.ComputerPrincipal.FindByIdentity(System.DirectoryServices.AccountManagement.PrincipalContext,System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L71C196-L71C310"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.AccountManagement.ComputerPrincipal.FindByLockoutTime(System.DirectoryServices.AccountManagement.PrincipalContext,System.DateTime,System.DirectoryServices.AccountManagement.MatchType)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L72C324-L72C438"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.AccountManagement.ComputerPrincipal.FindByLogonTime(System.DirectoryServices.AccountManagement.PrincipalContext,System.DateTime,System.DirectoryServices.AccountManagement.MatchType)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L73C322-L73C436"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.AccountManagement.ComputerPrincipal.FindByPasswordSetTime(System.DirectoryServices.AccountManagement.PrincipalContext,System.DateTime,System.DirectoryServices.AccountManagement.MatchType)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L74C328-L74C442"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.AccountManagement.ComputerPrincipal.ServicePrincipalNames",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L67C122-L67C236"
+        }
+      ],
+      "DocsId": "T:System.DirectoryServices.AccountManagement.ComputerPrincipal",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "F:System.DirectoryServices.AccountManagement.ContextOptions.value__",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.DirectoryServices.AccountManagement.ContextOptions.Negotiate",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.DirectoryServices.AccountManagement.ContextOptions.SimpleBind",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.DirectoryServices.AccountManagement.ContextOptions.SecureSocketLayer",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.DirectoryServices.AccountManagement.ContextOptions.Signing",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.DirectoryServices.AccountManagement.ContextOptions.Sealing",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.DirectoryServices.AccountManagement.ContextOptions.ServerBind",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs"
+        }
+      ],
+      "DocsId": "T:System.DirectoryServices.AccountManagement.ContextOptions",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "F:System.DirectoryServices.AccountManagement.ContextType.value__",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.DirectoryServices.AccountManagement.ContextType.Machine",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.DirectoryServices.AccountManagement.ContextType.Domain",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.DirectoryServices.AccountManagement.ContextType.ApplicationDirectory",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs"
+        }
+      ],
+      "DocsId": "T:System.DirectoryServices.AccountManagement.ContextType",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.DirectoryServices.AccountManagement.DirectoryObjectClassAttribute.#ctor(System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L95C9-L95C182"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.AccountManagement.DirectoryObjectClassAttribute.Context",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L96C88-L96C202"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.AccountManagement.DirectoryObjectClassAttribute.ObjectClass",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L97C43-L97C157"
+        }
+      ],
+      "DocsId": "T:System.DirectoryServices.AccountManagement.DirectoryObjectClassAttribute",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.DirectoryServices.AccountManagement.DirectoryPropertyAttribute.#ctor(System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L102C9-L102C187"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.AccountManagement.DirectoryPropertyAttribute.Context",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L103C88-L103C202"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.AccountManagement.DirectoryPropertyAttribute.SchemaAttributeName",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L104C51-L104C165"
+        }
+      ],
+      "DocsId": "T:System.DirectoryServices.AccountManagement.DirectoryPropertyAttribute",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.DirectoryServices.AccountManagement.DirectoryRdnPrefixAttribute.#ctor(System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L109C9-L109C178"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.AccountManagement.DirectoryRdnPrefixAttribute.Context",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L110C88-L110C202"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.AccountManagement.DirectoryRdnPrefixAttribute.RdnPrefix",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L111C41-L111C155"
+        }
+      ],
+      "DocsId": "T:System.DirectoryServices.AccountManagement.DirectoryRdnPrefixAttribute",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.DirectoryServices.AccountManagement.GroupPrincipal.#ctor(System.DirectoryServices.AccountManagement.PrincipalContext)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L116C9-L116C216"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.AccountManagement.GroupPrincipal.#ctor(System.DirectoryServices.AccountManagement.PrincipalContext,System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L117C9-L117C239"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.AccountManagement.GroupPrincipal.Dispose",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L121C42-L121C43"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.AccountManagement.GroupPrincipal.FindByIdentity(System.DirectoryServices.AccountManagement.PrincipalContext,System.DirectoryServices.AccountManagement.IdentityType,System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L122C263-L122C377"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.AccountManagement.GroupPrincipal.FindByIdentity(System.DirectoryServices.AccountManagement.PrincipalContext,System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L123C193-L123C307"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.AccountManagement.GroupPrincipal.GetMembers",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L124C150-L124C264"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.AccountManagement.GroupPrincipal.GetMembers(System.Boolean)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L125C164-L125C278"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.AccountManagement.GroupPrincipal.GroupScope",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L118C90-L118C204"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.AccountManagement.GroupPrincipal.IsSecurityGroup",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L119C46-L119C160"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.AccountManagement.GroupPrincipal.Members",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L120C95-L120C209"
+        }
+      ],
+      "DocsId": "T:System.DirectoryServices.AccountManagement.GroupPrincipal",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "F:System.DirectoryServices.AccountManagement.GroupScope.value__",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.DirectoryServices.AccountManagement.GroupScope.Local",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.DirectoryServices.AccountManagement.GroupScope.Global",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.DirectoryServices.AccountManagement.GroupScope.Universal",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs"
+        }
+      ],
+      "DocsId": "T:System.DirectoryServices.AccountManagement.GroupScope",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "F:System.DirectoryServices.AccountManagement.IdentityType.value__",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.DirectoryServices.AccountManagement.IdentityType.SamAccountName",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.DirectoryServices.AccountManagement.IdentityType.Name",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.DirectoryServices.AccountManagement.IdentityType.UserPrincipalName",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.DirectoryServices.AccountManagement.IdentityType.DistinguishedName",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.DirectoryServices.AccountManagement.IdentityType.Sid",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.DirectoryServices.AccountManagement.IdentityType.Guid",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs"
+        }
+      ],
+      "DocsId": "T:System.DirectoryServices.AccountManagement.IdentityType",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "F:System.DirectoryServices.AccountManagement.MatchType.value__",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.DirectoryServices.AccountManagement.MatchType.Equals",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.DirectoryServices.AccountManagement.MatchType.NotEquals",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.DirectoryServices.AccountManagement.MatchType.GreaterThan",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.DirectoryServices.AccountManagement.MatchType.GreaterThanOrEquals",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.DirectoryServices.AccountManagement.MatchType.LessThan",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.DirectoryServices.AccountManagement.MatchType.LessThanOrEquals",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs"
+        }
+      ],
+      "DocsId": "T:System.DirectoryServices.AccountManagement.MatchType",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.DirectoryServices.AccountManagement.MultipleMatchesException.#ctor",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L153C9-L153C159"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.AccountManagement.MultipleMatchesException.#ctor(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L158C9-L158C268"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.AccountManagement.MultipleMatchesException.#ctor(System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L159C9-L159C173"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.AccountManagement.MultipleMatchesException.#ctor(System.String,System.Exception)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L160C9-L160C206"
+        }
+      ],
+      "DocsId": "T:System.DirectoryServices.AccountManagement.MultipleMatchesException",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.DirectoryServices.AccountManagement.NoMatchingPrincipalException.#ctor",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L164C9-L164C163"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.AccountManagement.NoMatchingPrincipalException.#ctor(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L169C9-L169C272"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.AccountManagement.NoMatchingPrincipalException.#ctor(System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L170C9-L170C177"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.AccountManagement.NoMatchingPrincipalException.#ctor(System.String,System.Exception)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L171C9-L171C210"
+        }
+      ],
+      "DocsId": "T:System.DirectoryServices.AccountManagement.NoMatchingPrincipalException",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.DirectoryServices.AccountManagement.PasswordException.#ctor",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L175C9-L175C152"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.AccountManagement.PasswordException.#ctor(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L180C9-L180C261"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.AccountManagement.PasswordException.#ctor(System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L181C9-L181C166"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.AccountManagement.PasswordException.#ctor(System.String,System.Exception)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L182C9-L182C199"
+        }
+      ],
+      "DocsId": "T:System.DirectoryServices.AccountManagement.PasswordException",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.DirectoryServices.AccountManagement.Principal.#ctor",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L187C9-L187C147"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.AccountManagement.Principal.CheckDisposedOrDeleted",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L203C51-L203C165"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.AccountManagement.Principal.Delete",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L204C32-L204C146"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.AccountManagement.Principal.Dispose",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L205C41-L205C42"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.AccountManagement.Principal.Equals(System.Object)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L206C49-L206C163"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.AccountManagement.Principal.ExtensionGet(System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L207C61-L207C175"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.AccountManagement.Principal.ExtensionSet(System.String,System.Object)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L208C71-L208C185"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.AccountManagement.Principal.FindByIdentity(System.DirectoryServices.AccountManagement.PrincipalContext,System.DirectoryServices.AccountManagement.IdentityType,System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L209C254-L209C368"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.AccountManagement.Principal.FindByIdentity(System.DirectoryServices.AccountManagement.PrincipalContext,System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L210C184-L210C298"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.AccountManagement.Principal.FindByIdentityWithType(System.DirectoryServices.AccountManagement.PrincipalContext,System.Type,System.DirectoryServices.AccountManagement.IdentityType,System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L212C292-L212C406"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.AccountManagement.Principal.FindByIdentityWithType(System.DirectoryServices.AccountManagement.PrincipalContext,System.Type,System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L214C222-L214C336"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.AccountManagement.Principal.GetGroups",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L215C149-L215C263"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.AccountManagement.Principal.GetGroups(System.DirectoryServices.AccountManagement.PrincipalContext)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L216C223-L216C337"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.AccountManagement.Principal.GetHashCode",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L217C45-L217C159"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.AccountManagement.Principal.GetUnderlyingObject",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L218C47-L218C161"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.AccountManagement.Principal.GetUnderlyingObjectType",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L219C56-L219C170"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.AccountManagement.Principal.IsMemberOf(System.DirectoryServices.AccountManagement.GroupPrincipal)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L220C99-L220C213"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.AccountManagement.Principal.IsMemberOf(System.DirectoryServices.AccountManagement.PrincipalContext,System.DirectoryServices.AccountManagement.IdentityType,System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L221C195-L221C309"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.AccountManagement.Principal.Save",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L222C30-L222C144"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.AccountManagement.Principal.Save(System.DirectoryServices.AccountManagement.PrincipalContext)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L223C97-L223C211"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.AccountManagement.Principal.ToString",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L224C45-L224C159"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.AccountManagement.Principal.Context",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L188C92-L188C206"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.AccountManagement.Principal.ContextRaw",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L191C107-L191C221"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.AccountManagement.Principal.ContextType",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L192C91-L192C205"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.AccountManagement.Principal.Description",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L193C43-L193C157"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.AccountManagement.Principal.DisplayName",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L194C43-L194C157"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.AccountManagement.Principal.DistinguishedName",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L195C49-L195C163"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.AccountManagement.Principal.Guid",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L196C42-L196C156"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.AccountManagement.Principal.Name",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L197C36-L197C150"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.AccountManagement.Principal.SamAccountName",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L198C46-L198C160"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.AccountManagement.Principal.Sid",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L199C73-L199C187"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.AccountManagement.Principal.StructuralObjectClass",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L200C53-L200C167"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.AccountManagement.Principal.UserPrincipalName",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L201C49-L201C163"
+        }
+      ],
+      "DocsId": "T:System.DirectoryServices.AccountManagement.Principal",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.DirectoryServices.AccountManagement.PrincipalCollection.Add(System.DirectoryServices.AccountManagement.ComputerPrincipal)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L236C98-L236C212"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.AccountManagement.PrincipalCollection.Add(System.DirectoryServices.AccountManagement.GroupPrincipal)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L237C92-L237C206"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.AccountManagement.PrincipalCollection.Add(System.DirectoryServices.AccountManagement.Principal)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L238C91-L238C205"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.AccountManagement.PrincipalCollection.Add(System.DirectoryServices.AccountManagement.PrincipalContext,System.DirectoryServices.AccountManagement.IdentityType,System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L239C188-L239C302"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.AccountManagement.PrincipalCollection.Add(System.DirectoryServices.AccountManagement.UserPrincipal)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L240C90-L240C204"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.AccountManagement.PrincipalCollection.Clear",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L241C31-L241C145"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.AccountManagement.PrincipalCollection.Contains(System.DirectoryServices.AccountManagement.ComputerPrincipal)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L242C103-L242C217"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.AccountManagement.PrincipalCollection.Contains(System.DirectoryServices.AccountManagement.GroupPrincipal)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L243C97-L243C211"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.AccountManagement.PrincipalCollection.Contains(System.DirectoryServices.AccountManagement.Principal)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L244C96-L244C210"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.AccountManagement.PrincipalCollection.Contains(System.DirectoryServices.AccountManagement.PrincipalContext,System.DirectoryServices.AccountManagement.IdentityType,System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L245C193-L245C307"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.AccountManagement.PrincipalCollection.Contains(System.DirectoryServices.AccountManagement.UserPrincipal)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L246C95-L246C209"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.AccountManagement.PrincipalCollection.CopyTo(System.DirectoryServices.AccountManagement.Principal[],System.Int32)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L247C103-L247C217"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.AccountManagement.PrincipalCollection.GetEnumerator",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L248C127-L248C241"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.AccountManagement.PrincipalCollection.Remove(System.DirectoryServices.AccountManagement.ComputerPrincipal)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L249C101-L249C215"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.AccountManagement.PrincipalCollection.Remove(System.DirectoryServices.AccountManagement.GroupPrincipal)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L250C95-L250C209"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.AccountManagement.PrincipalCollection.Remove(System.DirectoryServices.AccountManagement.Principal)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L251C94-L251C208"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.AccountManagement.PrincipalCollection.Remove(System.DirectoryServices.AccountManagement.PrincipalContext,System.DirectoryServices.AccountManagement.IdentityType,System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L252C191-L252C305"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.AccountManagement.PrincipalCollection.Remove(System.DirectoryServices.AccountManagement.UserPrincipal)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L253C93-L253C207"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.AccountManagement.PrincipalCollection.Count",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L229C34-L229C148"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.AccountManagement.PrincipalCollection.IsReadOnly",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L230C40-L230C154"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.AccountManagement.PrincipalCollection.IsSynchronized",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L231C44-L231C158"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.AccountManagement.PrincipalCollection.SyncRoot",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L232C40-L232C154"
+        }
+      ],
+      "DocsId": "T:System.DirectoryServices.AccountManagement.PrincipalCollection",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.DirectoryServices.AccountManagement.PrincipalContext.#ctor(System.DirectoryServices.AccountManagement.ContextType)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L259C9-L259C217"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.AccountManagement.PrincipalContext.#ctor(System.DirectoryServices.AccountManagement.ContextType,System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L260C9-L260C230"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.AccountManagement.PrincipalContext.#ctor(System.DirectoryServices.AccountManagement.ContextType,System.String,System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L261C9-L261C248"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.AccountManagement.PrincipalContext.#ctor(System.DirectoryServices.AccountManagement.ContextType,System.String,System.String,System.DirectoryServices.AccountManagement.ContextOptions)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L262C9-L262C315"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.AccountManagement.PrincipalContext.#ctor(System.DirectoryServices.AccountManagement.ContextType,System.String,System.String,System.DirectoryServices.AccountManagement.ContextOptions,System.String,System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L263C9-L263C349"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.AccountManagement.PrincipalContext.#ctor(System.DirectoryServices.AccountManagement.ContextType,System.String,System.String,System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L264C9-L264C264"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.AccountManagement.PrincipalContext.#ctor(System.DirectoryServices.AccountManagement.ContextType,System.String,System.String,System.String,System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L265C9-L265C282"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.AccountManagement.PrincipalContext.Dispose",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L272C33-L272C34"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.AccountManagement.PrincipalContext.ValidateCredentials(System.String,System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L273C77-L273C191"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.AccountManagement.PrincipalContext.ValidateCredentials(System.String,System.String,System.DirectoryServices.AccountManagement.ContextOptions)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L274C144-L274C258"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.AccountManagement.PrincipalContext.ConnectedServer",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L266C47-L266C161"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.AccountManagement.PrincipalContext.Container",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L267C41-L267C155"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.AccountManagement.PrincipalContext.ContextType",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L268C91-L268C205"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.AccountManagement.PrincipalContext.Name",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L269C36-L269C150"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.AccountManagement.PrincipalContext.Options",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L270C90-L270C204"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.AccountManagement.PrincipalContext.UserName",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L271C40-L271C154"
+        }
+      ],
+      "DocsId": "T:System.DirectoryServices.AccountManagement.PrincipalContext",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.DirectoryServices.AccountManagement.PrincipalException.#ctor(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L283C9-L283C262"
+        }
+      ],
+      "DocsId": "T:System.DirectoryServices.AccountManagement.PrincipalException",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.DirectoryServices.AccountManagement.PrincipalExistsException.#ctor",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L287C9-L287C159"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.AccountManagement.PrincipalExistsException.#ctor(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L292C9-L292C267"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.AccountManagement.PrincipalExistsException.#ctor(System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L293C9-L293C172"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.AccountManagement.PrincipalExistsException.#ctor(System.String,System.Exception)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L294C9-L294C206"
+        }
+      ],
+      "DocsId": "T:System.DirectoryServices.AccountManagement.PrincipalExistsException",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.DirectoryServices.AccountManagement.PrincipalOperationException.#ctor",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L298C9-L298C162"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.AccountManagement.PrincipalOperationException.#ctor(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L303C9-L303C271"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.AccountManagement.PrincipalOperationException.#ctor(System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L304C9-L304C176"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.AccountManagement.PrincipalOperationException.#ctor(System.String,System.Exception)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L305C9-L305C209"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.AccountManagement.PrincipalOperationException.#ctor(System.String,System.Exception,System.Int32)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L306C9-L306C224"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.AccountManagement.PrincipalOperationException.#ctor(System.String,System.Int32)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L307C9-L307C191"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.AccountManagement.PrincipalOperationException.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L313C154-L313C268"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.AccountManagement.PrincipalOperationException.ErrorCode",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L308C38-L308C152"
+        }
+      ],
+      "DocsId": "T:System.DirectoryServices.AccountManagement.PrincipalOperationException",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.DirectoryServices.AccountManagement.PrincipalSearcher.#ctor",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L317C9-L317C152"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.AccountManagement.PrincipalSearcher.#ctor(System.DirectoryServices.AccountManagement.Principal)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L318C9-L318C216"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.AccountManagement.PrincipalSearcher.Dispose",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L321C41-L321C42"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.AccountManagement.PrincipalSearcher.FindAll",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L322C147-L322C261"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.AccountManagement.PrincipalSearcher.FindOne",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L323C81-L323C195"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.AccountManagement.PrincipalSearcher.GetUnderlyingSearcher",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L324C49-L324C163"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.AccountManagement.PrincipalSearcher.GetUnderlyingSearcherType",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L325C58-L325C172"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.AccountManagement.PrincipalSearcher.Context",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L319C92-L319C206"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.AccountManagement.PrincipalSearcher.QueryFilter",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L320C89-L320C203"
+        }
+      ],
+      "DocsId": "T:System.DirectoryServices.AccountManagement.PrincipalSearcher",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.DirectoryServices.AccountManagement.PrincipalSearchResult`1.Dispose",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L330C33-L330C34"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.AccountManagement.PrincipalSearchResult`1.GetEnumerator",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L331C76-L331C190"
+        }
+      ],
+      "DocsId": "T:System.DirectoryServices.AccountManagement.PrincipalSearchResult`1",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.DirectoryServices.AccountManagement.PrincipalServerDownException.#ctor",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L336C9-L336C163"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.AccountManagement.PrincipalServerDownException.#ctor(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L341C158-L341C393"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.AccountManagement.PrincipalServerDownException.#ctor(System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L342C9-L342C177"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.AccountManagement.PrincipalServerDownException.#ctor(System.String,System.Exception)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L343C9-L343C210"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.AccountManagement.PrincipalServerDownException.#ctor(System.String,System.Exception,System.Int32)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L344C9-L344C225"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.AccountManagement.PrincipalServerDownException.#ctor(System.String,System.Exception,System.Int32,System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L345C9-L345C244"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.AccountManagement.PrincipalServerDownException.#ctor(System.String,System.Int32)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L346C9-L346C192"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.AccountManagement.PrincipalServerDownException.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L351C154-L351C268"
+        }
+      ],
+      "DocsId": "T:System.DirectoryServices.AccountManagement.PrincipalServerDownException",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.DirectoryServices.AccountManagement.PrincipalValueCollection`1.Add(`0)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L368C36-L368C150"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.AccountManagement.PrincipalValueCollection`1.Clear",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L369C31-L369C145"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.AccountManagement.PrincipalValueCollection`1.Contains(`0)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L370C41-L370C155"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.AccountManagement.PrincipalValueCollection`1.CopyTo(`0[],System.Int32)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L371C52-L371C166"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.AccountManagement.PrincipalValueCollection`1.GetEnumerator",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L372C76-L372C190"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.AccountManagement.PrincipalValueCollection`1.IndexOf(`0)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L373C39-L373C153"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.AccountManagement.PrincipalValueCollection`1.Insert(System.Int32,`0)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L374C50-L374C164"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.AccountManagement.PrincipalValueCollection`1.Remove(`0)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L375C39-L375C153"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.AccountManagement.PrincipalValueCollection`1.RemoveAt(System.Int32)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L376C43-L376C157"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.AccountManagement.PrincipalValueCollection`1.Count",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L356C34-L356C148"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.AccountManagement.PrincipalValueCollection`1.IsFixedSize",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L357C41-L357C155"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.AccountManagement.PrincipalValueCollection`1.IsReadOnly",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L358C40-L358C154"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.AccountManagement.PrincipalValueCollection`1.IsSynchronized",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L359C44-L359C158"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.AccountManagement.PrincipalValueCollection`1.Item(System.Int32)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L360C42-L360C156"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.AccountManagement.PrincipalValueCollection`1.SyncRoot",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L361C40-L361C154"
+        }
+      ],
+      "DocsId": "T:System.DirectoryServices.AccountManagement.PrincipalValueCollection`1",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.DirectoryServices.AccountManagement.UserPrincipal.#ctor(System.DirectoryServices.AccountManagement.PrincipalContext)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L390C101-L390C293"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.AccountManagement.UserPrincipal.#ctor(System.DirectoryServices.AccountManagement.PrincipalContext,System.String,System.String,System.Boolean)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L391C155-L391C347"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.AccountManagement.UserPrincipal.FindByBadPasswordAttempt(System.DirectoryServices.AccountManagement.PrincipalContext,System.DateTime,System.DirectoryServices.AccountManagement.MatchType)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L400C327-L400C441"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.AccountManagement.UserPrincipal.FindByExpirationTime(System.DirectoryServices.AccountManagement.PrincipalContext,System.DateTime,System.DirectoryServices.AccountManagement.MatchType)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L401C323-L401C437"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.AccountManagement.UserPrincipal.FindByIdentity(System.DirectoryServices.AccountManagement.PrincipalContext,System.DirectoryServices.AccountManagement.IdentityType,System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L402C262-L402C376"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.AccountManagement.UserPrincipal.FindByIdentity(System.DirectoryServices.AccountManagement.PrincipalContext,System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L403C192-L403C306"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.AccountManagement.UserPrincipal.FindByLockoutTime(System.DirectoryServices.AccountManagement.PrincipalContext,System.DateTime,System.DirectoryServices.AccountManagement.MatchType)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L404C320-L404C434"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.AccountManagement.UserPrincipal.FindByLogonTime(System.DirectoryServices.AccountManagement.PrincipalContext,System.DateTime,System.DirectoryServices.AccountManagement.MatchType)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L405C318-L405C432"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.AccountManagement.UserPrincipal.FindByPasswordSetTime(System.DirectoryServices.AccountManagement.PrincipalContext,System.DateTime,System.DirectoryServices.AccountManagement.MatchType)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L406C324-L406C438"
+        },
+        {
+          "DocsId": "M:System.DirectoryServices.AccountManagement.UserPrincipal.GetAuthorizationGroups",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L407C162-L407C276"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.AccountManagement.UserPrincipal.AdvancedSearchFilter",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L392C113-L392C227"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.AccountManagement.UserPrincipal.Current",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L393C96-L393C210"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.AccountManagement.UserPrincipal.EmailAddress",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L394C44-L394C158"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.AccountManagement.UserPrincipal.EmployeeId",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L395C42-L395C156"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.AccountManagement.UserPrincipal.GivenName",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L396C41-L396C155"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.AccountManagement.UserPrincipal.MiddleName",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L397C42-L397C156"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.AccountManagement.UserPrincipal.Surname",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L398C39-L398C153"
+        },
+        {
+          "DocsId": "P:System.DirectoryServices.AccountManagement.UserPrincipal.VoiceTelephoneNumber",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs#L399C52-L399C166"
+        }
+      ],
+      "DocsId": "T:System.DirectoryServices.AccountManagement.UserPrincipal",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.DirectoryServices.AccountManagement/Release/net9.0/System.DirectoryServices.AccountManagement.notsupported.cs"
+    }
+  ]
+}

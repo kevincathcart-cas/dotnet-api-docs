@@ -1,0 +1,206 @@
+{
+  "Assembly": "System.Windows.Extensions",
+  "GUID": "EF149E1E9EC7466D8AAEC29787AE3CBCFFFFFFFF",
+  "Types": [
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.Xaml.Permissions.XamlAccessLevel.AssemblyAccessTo(System.Reflection.Assembly)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Windows.Extensions/Release/net9.0/System.Windows.Extensions.notsupported.cs#L76C119-L76C224"
+        },
+        {
+          "DocsId": "M:System.Xaml.Permissions.XamlAccessLevel.AssemblyAccessTo(System.Reflection.AssemblyName)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Windows.Extensions/Release/net9.0/System.Windows.Extensions.notsupported.cs#L77C127-L77C232"
+        },
+        {
+          "DocsId": "M:System.Xaml.Permissions.XamlAccessLevel.PrivateAccessTo(System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Windows.Extensions/Release/net9.0/System.Windows.Extensions.notsupported.cs#L78C115-L78C220"
+        },
+        {
+          "DocsId": "M:System.Xaml.Permissions.XamlAccessLevel.PrivateAccessTo(System.Type)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Windows.Extensions/Release/net9.0/System.Windows.Extensions.notsupported.cs#L79C99-L79C204"
+        },
+        {
+          "DocsId": "P:System.Xaml.Permissions.XamlAccessLevel.AssemblyAccessToAssemblyName",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Windows.Extensions/Release/net9.0/System.Windows.Extensions.notsupported.cs#L74C84-L74C189"
+        },
+        {
+          "DocsId": "P:System.Xaml.Permissions.XamlAccessLevel.PrivateAccessToTypeName",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Windows.Extensions/Release/net9.0/System.Windows.Extensions.notsupported.cs#L75C56-L75C161"
+        }
+      ],
+      "DocsId": "T:System.Xaml.Permissions.XamlAccessLevel",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Windows.Extensions/Release/net9.0/System.Windows.Extensions.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.Security.Cryptography.X509Certificates.X509Certificate2UI.#ctor",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Windows.Extensions/Release/net9.0/System.Windows.Extensions.notsupported.cs#L57C9-L57C144"
+        },
+        {
+          "DocsId": "M:System.Security.Cryptography.X509Certificates.X509Certificate2UI.DisplayCertificate(System.Security.Cryptography.X509Certificates.X509Certificate2)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Windows.Extensions/Release/net9.0/System.Windows.Extensions.notsupported.cs#L58C125-L58C230"
+        },
+        {
+          "DocsId": "M:System.Security.Cryptography.X509Certificates.X509Certificate2UI.DisplayCertificate(System.Security.Cryptography.X509Certificates.X509Certificate2,System.IntPtr)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Windows.Extensions/Release/net9.0/System.Windows.Extensions.notsupported.cs#L59C151-L59C256"
+        },
+        {
+          "DocsId": "M:System.Security.Cryptography.X509Certificates.X509Certificate2UI.SelectFromCollection(System.Security.Cryptography.X509Certificates.X509Certificate2Collection,System.String,System.String,System.Security.Cryptography.X509Certificates.X509SelectionFlag)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Windows.Extensions/Release/net9.0/System.Windows.Extensions.notsupported.cs#L60C317-L60C422"
+        },
+        {
+          "DocsId": "M:System.Security.Cryptography.X509Certificates.X509Certificate2UI.SelectFromCollection(System.Security.Cryptography.X509Certificates.X509Certificate2Collection,System.String,System.String,System.Security.Cryptography.X509Certificates.X509SelectionFlag,System.IntPtr)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Windows.Extensions/Release/net9.0/System.Windows.Extensions.notsupported.cs#L61C343-L61C448"
+        }
+      ],
+      "DocsId": "T:System.Security.Cryptography.X509Certificates.X509Certificate2UI",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Windows.Extensions/Release/net9.0/System.Windows.Extensions.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "F:System.Security.Cryptography.X509Certificates.X509SelectionFlag.value__",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Windows.Extensions/Release/net9.0/System.Windows.Extensions.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Security.Cryptography.X509Certificates.X509SelectionFlag.SingleSelection",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Windows.Extensions/Release/net9.0/System.Windows.Extensions.notsupported.cs"
+        },
+        {
+          "DocsId": "F:System.Security.Cryptography.X509Certificates.X509SelectionFlag.MultiSelection",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Windows.Extensions/Release/net9.0/System.Windows.Extensions.notsupported.cs"
+        }
+      ],
+      "DocsId": "T:System.Security.Cryptography.X509Certificates.X509SelectionFlag",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Windows.Extensions/Release/net9.0/System.Windows.Extensions.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.Media.SoundPlayer.#ctor",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Windows.Extensions/Release/net9.0/System.Windows.Extensions.notsupported.cs#L12C9-L12C137"
+        },
+        {
+          "DocsId": "M:System.Media.SoundPlayer.#ctor(System.IO.Stream)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Windows.Extensions/Release/net9.0/System.Windows.Extensions.notsupported.cs#L13C9-L13C161"
+        },
+        {
+          "DocsId": "M:System.Media.SoundPlayer.#ctor(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Windows.Extensions/Release/net9.0/System.Windows.Extensions.notsupported.cs#L18C9-L18C259"
+        },
+        {
+          "DocsId": "M:System.Media.SoundPlayer.#ctor(System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Windows.Extensions/Release/net9.0/System.Windows.Extensions.notsupported.cs#L19C9-L19C157"
+        },
+        {
+          "DocsId": "M:System.Media.SoundPlayer.Load",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Windows.Extensions/Release/net9.0/System.Windows.Extensions.notsupported.cs#L28C30-L28C135"
+        },
+        {
+          "DocsId": "M:System.Media.SoundPlayer.LoadAsync",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Windows.Extensions/Release/net9.0/System.Windows.Extensions.notsupported.cs#L29C35-L29C140"
+        },
+        {
+          "DocsId": "M:System.Media.SoundPlayer.OnLoadCompleted(System.ComponentModel.AsyncCompletedEventArgs)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Windows.Extensions/Release/net9.0/System.Windows.Extensions.notsupported.cs#L30C99-L30C204"
+        },
+        {
+          "DocsId": "M:System.Media.SoundPlayer.OnSoundLocationChanged(System.EventArgs)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Windows.Extensions/Release/net9.0/System.Windows.Extensions.notsupported.cs#L31C77-L31C182"
+        },
+        {
+          "DocsId": "M:System.Media.SoundPlayer.OnStreamChanged(System.EventArgs)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Windows.Extensions/Release/net9.0/System.Windows.Extensions.notsupported.cs#L32C70-L32C175"
+        },
+        {
+          "DocsId": "M:System.Media.SoundPlayer.Play",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Windows.Extensions/Release/net9.0/System.Windows.Extensions.notsupported.cs#L33C30-L33C135"
+        },
+        {
+          "DocsId": "M:System.Media.SoundPlayer.PlayLooping",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Windows.Extensions/Release/net9.0/System.Windows.Extensions.notsupported.cs#L34C37-L34C142"
+        },
+        {
+          "DocsId": "M:System.Media.SoundPlayer.PlaySync",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Windows.Extensions/Release/net9.0/System.Windows.Extensions.notsupported.cs#L35C34-L35C139"
+        },
+        {
+          "DocsId": "M:System.Media.SoundPlayer.Stop",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Windows.Extensions/Release/net9.0/System.Windows.Extensions.notsupported.cs#L36C30-L36C135"
+        },
+        {
+          "DocsId": "E:System.Media.SoundPlayer.LoadCompleted",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Windows.Extensions/Release/net9.0/System.Windows.Extensions.notsupported.cs#L25C94-L25C199"
+        },
+        {
+          "DocsId": "E:System.Media.SoundPlayer.SoundLocationChanged",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Windows.Extensions/Release/net9.0/System.Windows.Extensions.notsupported.cs#L26C72-L26C177"
+        },
+        {
+          "DocsId": "E:System.Media.SoundPlayer.StreamChanged",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Windows.Extensions/Release/net9.0/System.Windows.Extensions.notsupported.cs#L27C65-L27C170"
+        },
+        {
+          "DocsId": "P:System.Media.SoundPlayer.IsLoadCompleted",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Windows.Extensions/Release/net9.0/System.Windows.Extensions.notsupported.cs#L20C45-L20C150"
+        },
+        {
+          "DocsId": "P:System.Media.SoundPlayer.LoadTimeout",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Windows.Extensions/Release/net9.0/System.Windows.Extensions.notsupported.cs#L21C40-L21C145"
+        },
+        {
+          "DocsId": "P:System.Media.SoundPlayer.SoundLocation",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Windows.Extensions/Release/net9.0/System.Windows.Extensions.notsupported.cs#L22C45-L22C150"
+        },
+        {
+          "DocsId": "P:System.Media.SoundPlayer.Stream",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Windows.Extensions/Release/net9.0/System.Windows.Extensions.notsupported.cs#L23C49-L23C154"
+        },
+        {
+          "DocsId": "P:System.Media.SoundPlayer.Tag",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Windows.Extensions/Release/net9.0/System.Windows.Extensions.notsupported.cs#L24C36-L24C141"
+        }
+      ],
+      "DocsId": "T:System.Media.SoundPlayer",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Windows.Extensions/Release/net9.0/System.Windows.Extensions.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.Media.SystemSound.Play",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Windows.Extensions/Release/net9.0/System.Windows.Extensions.notsupported.cs#L42C30-L42C135"
+        }
+      ],
+      "DocsId": "T:System.Media.SystemSound",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Windows.Extensions/Release/net9.0/System.Windows.Extensions.notsupported.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "P:System.Media.SystemSounds.Asterisk",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Windows.Extensions/Release/net9.0/System.Windows.Extensions.notsupported.cs#L46C65-L46C170"
+        },
+        {
+          "DocsId": "P:System.Media.SystemSounds.Beep",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Windows.Extensions/Release/net9.0/System.Windows.Extensions.notsupported.cs#L47C61-L47C166"
+        },
+        {
+          "DocsId": "P:System.Media.SystemSounds.Exclamation",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Windows.Extensions/Release/net9.0/System.Windows.Extensions.notsupported.cs#L48C68-L48C173"
+        },
+        {
+          "DocsId": "P:System.Media.SystemSounds.Hand",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Windows.Extensions/Release/net9.0/System.Windows.Extensions.notsupported.cs#L49C61-L49C166"
+        },
+        {
+          "DocsId": "P:System.Media.SystemSounds.Question",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Windows.Extensions/Release/net9.0/System.Windows.Extensions.notsupported.cs#L50C65-L50C170"
+        }
+      ],
+      "DocsId": "T:System.Media.SystemSounds",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/1d1bf92fcf43aa6981804dc53c5174445069c9e4/artifacts/obj/System.Windows.Extensions/Release/net9.0/System.Windows.Extensions.notsupported.cs"
+    }
+  ]
+}

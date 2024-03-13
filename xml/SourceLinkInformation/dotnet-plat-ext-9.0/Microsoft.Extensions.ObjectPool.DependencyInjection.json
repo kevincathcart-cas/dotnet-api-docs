@@ -1,0 +1,58 @@
+{
+  "Assembly": "Microsoft.Extensions.ObjectPool.DependencyInjection",
+  "GUID": "988CA9AD2F044EBCAC6D94AF5EACC246FFFFFFFF",
+  "Types": [
+    {
+      "Members": [
+        {
+          "DocsId": "M:Microsoft.Extensions.DependencyInjection.ObjectPoolServiceCollectionExtensions.AddPooled``1(Microsoft.Extensions.DependencyInjection.IServiceCollection,System.Action{Microsoft.Extensions.ObjectPool.DependencyInjectionPoolOptions})",
+          "SourceLink": "https://github.com/dotnet/extensions/blob/acbe91ec5f89bd217cff1db5e6734ba0ff99d802/src/Libraries/Microsoft.Extensions.ObjectPool.DependencyInjection/ObjectPoolServiceCollectionExtensions.cs#L37C9-L37C74"
+        },
+        {
+          "DocsId": "M:Microsoft.Extensions.DependencyInjection.ObjectPoolServiceCollectionExtensions.AddPooled``2(Microsoft.Extensions.DependencyInjection.IServiceCollection,System.Action{Microsoft.Extensions.ObjectPool.DependencyInjectionPoolOptions})",
+          "SourceLink": "https://github.com/dotnet/extensions/blob/acbe91ec5f89bd217cff1db5e6734ba0ff99d802/src/Libraries/Microsoft.Extensions.ObjectPool.DependencyInjection/ObjectPoolServiceCollectionExtensions.cs#L59C9-L59C81"
+        },
+        {
+          "DocsId": "M:Microsoft.Extensions.DependencyInjection.ObjectPoolServiceCollectionExtensions.ConfigurePool``1(Microsoft.Extensions.DependencyInjection.IServiceCollection,System.Action{Microsoft.Extensions.ObjectPool.DependencyInjectionPoolOptions})",
+          "SourceLink": "https://github.com/dotnet/extensions/blob/acbe91ec5f89bd217cff1db5e6734ba0ff99d802/src/Libraries/Microsoft.Extensions.ObjectPool.DependencyInjection/ObjectPoolServiceCollectionExtensions.cs#L72C9-L72C105"
+        },
+        {
+          "DocsId": "M:Microsoft.Extensions.DependencyInjection.ObjectPoolServiceCollectionExtensions.ConfigurePools(Microsoft.Extensions.DependencyInjection.IServiceCollection,Microsoft.Extensions.Configuration.IConfigurationSection)",
+          "SourceLink": "https://github.com/dotnet/extensions/blob/acbe91ec5f89bd217cff1db5e6734ba0ff99d802/src/Libraries/Microsoft.Extensions.ObjectPool.DependencyInjection/ObjectPoolServiceCollectionExtensions.cs#L83C31-L93C25"
+        },
+        {
+          "DocsId": "T:Microsoft.Extensions.DependencyInjection.ObjectPoolServiceCollectionExtensions.<>c__4`2",
+          "SourceLink": "https://github.com/dotnet/extensions/blob/acbe91ec5f89bd217cff1db5e6734ba0ff99d802/src/Libraries/Microsoft.Extensions.ObjectPool.DependencyInjection/ObjectPoolServiceCollectionExtensions.cs"
+        },
+        {
+          "DocsId": "T:Microsoft.Extensions.DependencyInjection.ObjectPoolServiceCollectionExtensions.<>c__DisplayClass3_0",
+          "SourceLink": "https://github.com/dotnet/extensions/blob/acbe91ec5f89bd217cff1db5e6734ba0ff99d802/src/Libraries/Microsoft.Extensions.ObjectPool.DependencyInjection/ObjectPoolServiceCollectionExtensions.cs"
+        }
+      ],
+      "DocsId": "T:Microsoft.Extensions.DependencyInjection.ObjectPoolServiceCollectionExtensions",
+      "SourceLink": "https://github.com/dotnet/extensions/blob/acbe91ec5f89bd217cff1db5e6734ba0ff99d802/src/Libraries/Microsoft.Extensions.ObjectPool.DependencyInjection/ObjectPoolServiceCollectionExtensions.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:Microsoft.Extensions.ObjectPool.DependencyInjectionPoolOptions.#ctor",
+          "SourceLink": "https://github.com/dotnet/extensions/blob/acbe91ec5f89bd217cff1db5e6734ba0ff99d802/src/Libraries/Microsoft.Extensions.ObjectPool.DependencyInjection/DependencyInjectionPoolOptions.cs#L19C41-L19C56"
+        },
+        {
+          "DocsId": "F:Microsoft.Extensions.ObjectPool.DependencyInjectionPoolOptions.DefaultCapacity",
+          "SourceLink": "https://github.com/dotnet/extensions/blob/acbe91ec5f89bd217cff1db5e6734ba0ff99d802/src/Libraries/Microsoft.Extensions.ObjectPool.DependencyInjection/DependencyInjectionPoolOptions.cs"
+        },
+        {
+          "DocsId": "F:Microsoft.Extensions.ObjectPool.DependencyInjectionPoolOptions.<Capacity>k__BackingField",
+          "SourceLink": "https://github.com/dotnet/extensions/blob/acbe91ec5f89bd217cff1db5e6734ba0ff99d802/src/Libraries/Microsoft.Extensions.ObjectPool.DependencyInjection/DependencyInjectionPoolOptions.cs"
+        },
+        {
+          "DocsId": "P:Microsoft.Extensions.ObjectPool.DependencyInjectionPoolOptions.Capacity",
+          "SourceLink": "https://github.com/dotnet/extensions/blob/acbe91ec5f89bd217cff1db5e6734ba0ff99d802/src/Libraries/Microsoft.Extensions.ObjectPool.DependencyInjection/DependencyInjectionPoolOptions.cs#L19C27-L19C31"
+        }
+      ],
+      "DocsId": "T:Microsoft.Extensions.ObjectPool.DependencyInjectionPoolOptions",
+      "SourceLink": "https://github.com/dotnet/extensions/blob/acbe91ec5f89bd217cff1db5e6734ba0ff99d802/src/Libraries/Microsoft.Extensions.ObjectPool.DependencyInjection/DependencyInjectionPoolOptions.cs"
+    }
+  ]
+}

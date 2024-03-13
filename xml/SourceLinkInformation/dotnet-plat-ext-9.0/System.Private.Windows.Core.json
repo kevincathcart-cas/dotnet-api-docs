@@ -1,0 +1,46 @@
+{
+  "Assembly": "System.Private.Windows.Core",
+  "GUID": "D4EE3F5E92F84129BF4A6D7148C59B38FFFFFFFF",
+  "Types": [
+    {
+      "Members": [
+        {
+          "DocsId": "F:Windows.Win32.UI.Controls.Dialogs.DEVNAMES.wDriverOffset",
+          "SourceLink": "https://github.com/dotnet/winforms/blob/e97b9849db6d156a262fa2354364c755103df8b1/src/System.Private.Windows.Core/src/Windows/Win32/UI/Controls/Dialogs/DEVNAMES.cs"
+        },
+        {
+          "DocsId": "F:Windows.Win32.UI.Controls.Dialogs.DEVNAMES.wDeviceOffset",
+          "SourceLink": "https://github.com/dotnet/winforms/blob/e97b9849db6d156a262fa2354364c755103df8b1/src/System.Private.Windows.Core/src/Windows/Win32/UI/Controls/Dialogs/DEVNAMES.cs"
+        },
+        {
+          "DocsId": "F:Windows.Win32.UI.Controls.Dialogs.DEVNAMES.wOutputOffset",
+          "SourceLink": "https://github.com/dotnet/winforms/blob/e97b9849db6d156a262fa2354364c755103df8b1/src/System.Private.Windows.Core/src/Windows/Win32/UI/Controls/Dialogs/DEVNAMES.cs"
+        },
+        {
+          "DocsId": "F:Windows.Win32.UI.Controls.Dialogs.DEVNAMES.wDefault",
+          "SourceLink": "https://github.com/dotnet/winforms/blob/e97b9849db6d156a262fa2354364c755103df8b1/src/System.Private.Windows.Core/src/Windows/Win32/UI/Controls/Dialogs/DEVNAMES.cs"
+        }
+      ],
+      "DocsId": "T:Windows.Win32.UI.Controls.Dialogs.DEVNAMES",
+      "SourceLink": "https://github.com/dotnet/winforms/blob/e97b9849db6d156a262fa2354364c755103df8b1/src/System.Private.Windows.Core/src/Windows/Win32/UI/Controls/Dialogs/DEVNAMES.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:Windows.Win32.System.Com.ComManagedStream.GetDataStream",
+          "SourceLink": "https://github.com/dotnet/winforms/blob/e97b9849db6d156a262fa2354364c755103df8b1/src/System.Private.Windows.Core/src/Windows/Win32/System/Com/Interop.GPStream.cs#L43C38-L43C49"
+        },
+        {
+          "DocsId": "F:Windows.Win32.System.Com.ComManagedStream._dataStream",
+          "SourceLink": "https://github.com/dotnet/winforms/blob/e97b9849db6d156a262fa2354364c755103df8b1/src/System.Private.Windows.Core/src/Windows/Win32/System/Com/Interop.GPStream.cs"
+        },
+        {
+          "DocsId": "F:Windows.Win32.System.Com.ComManagedStream._virtualPosition",
+          "SourceLink": "https://github.com/dotnet/winforms/blob/e97b9849db6d156a262fa2354364c755103df8b1/src/System.Private.Windows.Core/src/Windows/Win32/System/Com/Interop.GPStream.cs"
+        }
+      ],
+      "DocsId": "T:Windows.Win32.System.Com.ComManagedStream",
+      "SourceLink": "https://github.com/dotnet/winforms/blob/e97b9849db6d156a262fa2354364c755103df8b1/src/System.Private.Windows.Core/src/Windows/Win32/System/Com/Interop.GPStream.cs"
+    }
+  ]
+}

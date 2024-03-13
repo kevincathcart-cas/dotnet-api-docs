@@ -1,0 +1,1172 @@
+{
+  "Assembly": "System.Net.WebClient",
+  "GUID": "107B83319A855C493554A7EB5F75B8ECFFFFFFFF",
+  "Types": [
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.Net.WebClient.#ctor",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs#L32C9-L63C10"
+        },
+        {
+          "DocsId": "M:System.Net.WebClient.OnDownloadStringCompleted(System.Net.DownloadStringCompletedEventArgs)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs#L77C97-L77C137"
+        },
+        {
+          "DocsId": "M:System.Net.WebClient.OnDownloadDataCompleted(System.Net.DownloadDataCompletedEventArgs)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs#L78C93-L78C131"
+        },
+        {
+          "DocsId": "M:System.Net.WebClient.OnDownloadFileCompleted(System.ComponentModel.AsyncCompletedEventArgs)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs#L79C86-L79C124"
+        },
+        {
+          "DocsId": "M:System.Net.WebClient.OnDownloadProgressChanged(System.Net.DownloadProgressChangedEventArgs)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs#L80C97-L80C137"
+        },
+        {
+          "DocsId": "M:System.Net.WebClient.OnUploadStringCompleted(System.Net.UploadStringCompletedEventArgs)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs#L81C93-L81C131"
+        },
+        {
+          "DocsId": "M:System.Net.WebClient.OnUploadDataCompleted(System.Net.UploadDataCompletedEventArgs)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs#L82C89-L82C125"
+        },
+        {
+          "DocsId": "M:System.Net.WebClient.OnUploadFileCompleted(System.Net.UploadFileCompletedEventArgs)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs#L83C89-L83C125"
+        },
+        {
+          "DocsId": "M:System.Net.WebClient.OnUploadValuesCompleted(System.Net.UploadValuesCompletedEventArgs)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs#L84C93-L84C131"
+        },
+        {
+          "DocsId": "M:System.Net.WebClient.OnUploadProgressChanged(System.Net.UploadProgressChangedEventArgs)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs#L85C93-L85C131"
+        },
+        {
+          "DocsId": "M:System.Net.WebClient.OnOpenReadCompleted(System.Net.OpenReadCompletedEventArgs)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs#L86C85-L86C119"
+        },
+        {
+          "DocsId": "M:System.Net.WebClient.OnOpenWriteCompleted(System.Net.OpenWriteCompletedEventArgs)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs#L87C87-L87C122"
+        },
+        {
+          "DocsId": "M:System.Net.WebClient.GetWebRequest(System.Uri)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs#L220C13-L250C28"
+        },
+        {
+          "DocsId": "M:System.Net.WebClient.GetWebResponse(System.Net.WebRequest)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs#L255C13-L257C29"
+        },
+        {
+          "DocsId": "M:System.Net.WebClient.GetWebResponse(System.Net.WebRequest,System.IAsyncResult)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs#L262C13-L264C29"
+        },
+        {
+          "DocsId": "M:System.Net.WebClient.DownloadData(System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs#L279C13-L279C42"
+        },
+        {
+          "DocsId": "M:System.Net.WebClient.DownloadData(System.Uri)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs#L283C13-L295C10"
+        },
+        {
+          "DocsId": "M:System.Net.WebClient.DownloadFile(System.String,System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs#L319C13-L319C52"
+        },
+        {
+          "DocsId": "M:System.Net.WebClient.DownloadFile(System.Uri,System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs#L323C13-L355C10"
+        },
+        {
+          "DocsId": "M:System.Net.WebClient.OpenRead(System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs#L358C13-L358C38"
+        },
+        {
+          "DocsId": "M:System.Net.WebClient.OpenRead(System.Uri)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs#L362C13-L382C10"
+        },
+        {
+          "DocsId": "M:System.Net.WebClient.OpenWrite(System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs#L385C13-L385C45"
+        },
+        {
+          "DocsId": "M:System.Net.WebClient.OpenWrite(System.Uri)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs#L388C13-L388C37"
+        },
+        {
+          "DocsId": "M:System.Net.WebClient.OpenWrite(System.String,System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs#L391C13-L391C47"
+        },
+        {
+          "DocsId": "M:System.Net.WebClient.OpenWrite(System.Uri,System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs#L395C13-L420C10"
+        },
+        {
+          "DocsId": "M:System.Net.WebClient.UploadData(System.String,System.Byte[])",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs#L423C13-L423C52"
+        },
+        {
+          "DocsId": "M:System.Net.WebClient.UploadData(System.Uri,System.Byte[])",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs#L426C13-L426C44"
+        },
+        {
+          "DocsId": "M:System.Net.WebClient.UploadData(System.String,System.String,System.Byte[])",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs#L429C13-L429C54"
+        },
+        {
+          "DocsId": "M:System.Net.WebClient.UploadData(System.Uri,System.String,System.Byte[])",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs#L433C13-L448C10"
+        },
+        {
+          "DocsId": "M:System.Net.WebClient.UploadFile(System.String,System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs#L542C13-L542C50"
+        },
+        {
+          "DocsId": "M:System.Net.WebClient.UploadFile(System.Uri,System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs#L545C13-L545C48"
+        },
+        {
+          "DocsId": "M:System.Net.WebClient.UploadFile(System.String,System.String,System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs#L548C13-L548C58"
+        },
+        {
+          "DocsId": "M:System.Net.WebClient.UploadFile(System.Uri,System.String,System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs#L552C13-L582C10"
+        },
+        {
+          "DocsId": "M:System.Net.WebClient.UploadValues(System.String,System.Collections.Specialized.NameValueCollection)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs#L613C13-L613C54"
+        },
+        {
+          "DocsId": "M:System.Net.WebClient.UploadValues(System.Uri,System.Collections.Specialized.NameValueCollection)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs#L616C13-L616C46"
+        },
+        {
+          "DocsId": "M:System.Net.WebClient.UploadValues(System.String,System.String,System.Collections.Specialized.NameValueCollection)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs#L619C13-L619C56"
+        },
+        {
+          "DocsId": "M:System.Net.WebClient.UploadValues(System.Uri,System.String,System.Collections.Specialized.NameValueCollection)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs#L623C13-L647C10"
+        },
+        {
+          "DocsId": "M:System.Net.WebClient.UploadString(System.String,System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs#L650C13-L650C54"
+        },
+        {
+          "DocsId": "M:System.Net.WebClient.UploadString(System.Uri,System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs#L653C13-L653C46"
+        },
+        {
+          "DocsId": "M:System.Net.WebClient.UploadString(System.String,System.String,System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs#L656C13-L656C56"
+        },
+        {
+          "DocsId": "M:System.Net.WebClient.UploadString(System.Uri,System.String,System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs#L660C13-L677C10"
+        },
+        {
+          "DocsId": "M:System.Net.WebClient.DownloadString(System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs#L680C13-L680C44"
+        },
+        {
+          "DocsId": "M:System.Net.WebClient.DownloadString(System.Uri)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs#L684C13-L697C10"
+        },
+        {
+          "DocsId": "M:System.Net.WebClient.OpenReadAsync(System.Uri)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs#L1283C13-L1283C41"
+        },
+        {
+          "DocsId": "M:System.Net.WebClient.OpenReadAsync(System.Uri,System.Object)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs#L16707566C0-L1315C10"
+        },
+        {
+          "DocsId": "M:System.Net.WebClient.OpenWriteAsync(System.Uri)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs#L1318C13-L1318C48"
+        },
+        {
+          "DocsId": "M:System.Net.WebClient.OpenWriteAsync(System.Uri,System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs#L1321C13-L1321C50"
+        },
+        {
+          "DocsId": "M:System.Net.WebClient.OpenWriteAsync(System.Uri,System.String,System.Object)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs#L16707566C0-L1356C10"
+        },
+        {
+          "DocsId": "M:System.Net.WebClient.DownloadStringAsync(System.Uri)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs#L1380C13-L1380C47"
+        },
+        {
+          "DocsId": "M:System.Net.WebClient.DownloadStringAsync(System.Uri,System.Object)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs#L1384C13-L1396C10"
+        },
+        {
+          "DocsId": "M:System.Net.WebClient.DownloadDataAsync(System.Uri)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs#L1406C13-L1406C45"
+        },
+        {
+          "DocsId": "M:System.Net.WebClient.DownloadDataAsync(System.Uri,System.Object)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs#L1410C13-L1422C10"
+        },
+        {
+          "DocsId": "M:System.Net.WebClient.DownloadFileAsync(System.Uri,System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs#L1432C13-L1432C55"
+        },
+        {
+          "DocsId": "M:System.Net.WebClient.DownloadFileAsync(System.Uri,System.String,System.Object)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs#L1436C13-L1452C10"
+        },
+        {
+          "DocsId": "M:System.Net.WebClient.UploadStringAsync(System.Uri,System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs#L1455C13-L1455C57"
+        },
+        {
+          "DocsId": "M:System.Net.WebClient.UploadStringAsync(System.Uri,System.String,System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs#L1458C13-L1458C59"
+        },
+        {
+          "DocsId": "M:System.Net.WebClient.UploadStringAsync(System.Uri,System.String,System.String,System.Object)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs#L1462C13-L1501C10"
+        },
+        {
+          "DocsId": "M:System.Net.WebClient.UploadDataAsync(System.Uri,System.Byte[])",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs#L1504C13-L1504C55"
+        },
+        {
+          "DocsId": "M:System.Net.WebClient.UploadDataAsync(System.Uri,System.String,System.Byte[])",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs#L1507C13-L1507C57"
+        },
+        {
+          "DocsId": "M:System.Net.WebClient.UploadDataAsync(System.Uri,System.String,System.Byte[],System.Object)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs#L16707566C0-L1540C10"
+        },
+        {
+          "DocsId": "M:System.Net.WebClient.UploadFileAsync(System.Uri,System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs#L1543C13-L1543C59"
+        },
+        {
+          "DocsId": "M:System.Net.WebClient.UploadFileAsync(System.Uri,System.String,System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs#L1546C13-L1546C61"
+        },
+        {
+          "DocsId": "M:System.Net.WebClient.UploadFileAsync(System.Uri,System.String,System.String,System.Object)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs#L16707566C0-L1577C10"
+        },
+        {
+          "DocsId": "M:System.Net.WebClient.UploadValuesAsync(System.Uri,System.Collections.Specialized.NameValueCollection)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs#L1580C13-L1580C57"
+        },
+        {
+          "DocsId": "M:System.Net.WebClient.UploadValuesAsync(System.Uri,System.String,System.Collections.Specialized.NameValueCollection)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs#L1583C13-L1583C59"
+        },
+        {
+          "DocsId": "M:System.Net.WebClient.UploadValuesAsync(System.Uri,System.String,System.Collections.Specialized.NameValueCollection,System.Object)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs#L16707566C0-L1616C10"
+        },
+        {
+          "DocsId": "M:System.Net.WebClient.CancelAsync",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs#L1623C13-L1626C10"
+        },
+        {
+          "DocsId": "M:System.Net.WebClient.DownloadStringTaskAsync(System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs#L1629C13-L1629C53"
+        },
+        {
+          "DocsId": "M:System.Net.WebClient.DownloadStringTaskAsync(System.Uri)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs#L16707566C0-L1649C29"
+        },
+        {
+          "DocsId": "M:System.Net.WebClient.OpenReadTaskAsync(System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs#L1653C13-L1653C47"
+        },
+        {
+          "DocsId": "M:System.Net.WebClient.OpenReadTaskAsync(System.Uri)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs#L16707566C0-L1674C29"
+        },
+        {
+          "DocsId": "M:System.Net.WebClient.OpenWriteTaskAsync(System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs#L1678C13-L1678C54"
+        },
+        {
+          "DocsId": "M:System.Net.WebClient.OpenWriteTaskAsync(System.Uri)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs#L1681C13-L1681C46"
+        },
+        {
+          "DocsId": "M:System.Net.WebClient.OpenWriteTaskAsync(System.String,System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs#L1684C13-L1684C56"
+        },
+        {
+          "DocsId": "M:System.Net.WebClient.OpenWriteTaskAsync(System.Uri,System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs#L16707566C0-L1705C29"
+        },
+        {
+          "DocsId": "M:System.Net.WebClient.UploadStringTaskAsync(System.String,System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs#L1709C13-L1709C55"
+        },
+        {
+          "DocsId": "M:System.Net.WebClient.UploadStringTaskAsync(System.Uri,System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs#L1712C13-L1712C55"
+        },
+        {
+          "DocsId": "M:System.Net.WebClient.UploadStringTaskAsync(System.String,System.String,System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs#L1715C13-L1715C65"
+        },
+        {
+          "DocsId": "M:System.Net.WebClient.UploadStringTaskAsync(System.Uri,System.String,System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs#L16707566C0-L1736C29"
+        },
+        {
+          "DocsId": "M:System.Net.WebClient.DownloadDataTaskAsync(System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs#L1740C13-L1740C51"
+        },
+        {
+          "DocsId": "M:System.Net.WebClient.DownloadDataTaskAsync(System.Uri)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs#L16707566C0-L1761C29"
+        },
+        {
+          "DocsId": "M:System.Net.WebClient.DownloadFileTaskAsync(System.String,System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs#L1765C13-L1765C61"
+        },
+        {
+          "DocsId": "M:System.Net.WebClient.DownloadFileTaskAsync(System.Uri,System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs#L16707566C0-L1786C29"
+        },
+        {
+          "DocsId": "M:System.Net.WebClient.UploadDataTaskAsync(System.String,System.Byte[])",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs#L1790C13-L1790C61"
+        },
+        {
+          "DocsId": "M:System.Net.WebClient.UploadDataTaskAsync(System.Uri,System.Byte[])",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs#L1793C13-L1793C53"
+        },
+        {
+          "DocsId": "M:System.Net.WebClient.UploadDataTaskAsync(System.String,System.String,System.Byte[])",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs#L1796C13-L1796C63"
+        },
+        {
+          "DocsId": "M:System.Net.WebClient.UploadDataTaskAsync(System.Uri,System.String,System.Byte[])",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs#L16707566C0-L1817C29"
+        },
+        {
+          "DocsId": "M:System.Net.WebClient.UploadFileTaskAsync(System.String,System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs#L1821C13-L1821C65"
+        },
+        {
+          "DocsId": "M:System.Net.WebClient.UploadFileTaskAsync(System.Uri,System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs#L1824C13-L1824C57"
+        },
+        {
+          "DocsId": "M:System.Net.WebClient.UploadFileTaskAsync(System.String,System.String,System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs#L1827C13-L1827C67"
+        },
+        {
+          "DocsId": "M:System.Net.WebClient.UploadFileTaskAsync(System.Uri,System.String,System.String)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs#L16707566C0-L1848C29"
+        },
+        {
+          "DocsId": "M:System.Net.WebClient.UploadValuesTaskAsync(System.String,System.Collections.Specialized.NameValueCollection)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs#L1852C13-L1852C63"
+        },
+        {
+          "DocsId": "M:System.Net.WebClient.UploadValuesTaskAsync(System.String,System.String,System.Collections.Specialized.NameValueCollection)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs#L1855C13-L1855C65"
+        },
+        {
+          "DocsId": "M:System.Net.WebClient.UploadValuesTaskAsync(System.Uri,System.Collections.Specialized.NameValueCollection)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs#L1858C13-L1858C55"
+        },
+        {
+          "DocsId": "M:System.Net.WebClient.UploadValuesTaskAsync(System.Uri,System.String,System.Collections.Specialized.NameValueCollection)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs#L16707566C0-L1879C29"
+        },
+        {
+          "DocsId": "M:System.Net.WebClient.OnWriteStreamClosed(System.Net.WriteStreamClosedEventArgs)",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs#L1984C84-L1984C85"
+        },
+        {
+          "DocsId": "E:System.Net.WebClient.DownloadStringCompleted",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs"
+        },
+        {
+          "DocsId": "E:System.Net.WebClient.DownloadDataCompleted",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs"
+        },
+        {
+          "DocsId": "E:System.Net.WebClient.DownloadFileCompleted",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs"
+        },
+        {
+          "DocsId": "E:System.Net.WebClient.UploadStringCompleted",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs"
+        },
+        {
+          "DocsId": "E:System.Net.WebClient.UploadDataCompleted",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs"
+        },
+        {
+          "DocsId": "E:System.Net.WebClient.UploadFileCompleted",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs"
+        },
+        {
+          "DocsId": "E:System.Net.WebClient.UploadValuesCompleted",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs"
+        },
+        {
+          "DocsId": "E:System.Net.WebClient.OpenReadCompleted",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs"
+        },
+        {
+          "DocsId": "E:System.Net.WebClient.OpenWriteCompleted",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs"
+        },
+        {
+          "DocsId": "E:System.Net.WebClient.DownloadProgressChanged",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs"
+        },
+        {
+          "DocsId": "E:System.Net.WebClient.UploadProgressChanged",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs"
+        },
+        {
+          "DocsId": "E:System.Net.WebClient.WriteStreamClosed",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs#L1980C79-L1980C80"
+        },
+        {
+          "DocsId": "F:System.Net.WebClient._baseAddress",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs"
+        },
+        {
+          "DocsId": "F:System.Net.WebClient._credentials",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs"
+        },
+        {
+          "DocsId": "F:System.Net.WebClient._headers",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs"
+        },
+        {
+          "DocsId": "F:System.Net.WebClient._requestParameters",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs"
+        },
+        {
+          "DocsId": "F:System.Net.WebClient._webResponse",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs"
+        },
+        {
+          "DocsId": "F:System.Net.WebClient._webRequest",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs"
+        },
+        {
+          "DocsId": "F:System.Net.WebClient._encoding",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs"
+        },
+        {
+          "DocsId": "F:System.Net.WebClient._method",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs"
+        },
+        {
+          "DocsId": "F:System.Net.WebClient._contentLength",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs"
+        },
+        {
+          "DocsId": "F:System.Net.WebClient._initWebClientAsync",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs"
+        },
+        {
+          "DocsId": "F:System.Net.WebClient._canceled",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs"
+        },
+        {
+          "DocsId": "F:System.Net.WebClient._progress",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs"
+        },
+        {
+          "DocsId": "F:System.Net.WebClient._proxy",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs"
+        },
+        {
+          "DocsId": "F:System.Net.WebClient._proxySet",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs"
+        },
+        {
+          "DocsId": "F:System.Net.WebClient._callNesting",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs"
+        },
+        {
+          "DocsId": "F:System.Net.WebClient._asyncOp",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs"
+        },
+        {
+          "DocsId": "F:System.Net.WebClient._downloadDataOperationCompleted",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs"
+        },
+        {
+          "DocsId": "F:System.Net.WebClient._openReadOperationCompleted",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs"
+        },
+        {
+          "DocsId": "F:System.Net.WebClient._openWriteOperationCompleted",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs"
+        },
+        {
+          "DocsId": "F:System.Net.WebClient._downloadStringOperationCompleted",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs"
+        },
+        {
+          "DocsId": "F:System.Net.WebClient._downloadFileOperationCompleted",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs"
+        },
+        {
+          "DocsId": "F:System.Net.WebClient._uploadStringOperationCompleted",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs"
+        },
+        {
+          "DocsId": "F:System.Net.WebClient._uploadDataOperationCompleted",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs"
+        },
+        {
+          "DocsId": "F:System.Net.WebClient._uploadFileOperationCompleted",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs"
+        },
+        {
+          "DocsId": "F:System.Net.WebClient._uploadValuesOperationCompleted",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs"
+        },
+        {
+          "DocsId": "F:System.Net.WebClient._reportDownloadProgressChanged",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs"
+        },
+        {
+          "DocsId": "F:System.Net.WebClient._reportUploadProgressChanged",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs"
+        },
+        {
+          "DocsId": "F:System.Net.WebClient.DownloadStringCompleted",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs"
+        },
+        {
+          "DocsId": "F:System.Net.WebClient.DownloadDataCompleted",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs"
+        },
+        {
+          "DocsId": "F:System.Net.WebClient.DownloadFileCompleted",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs"
+        },
+        {
+          "DocsId": "F:System.Net.WebClient.UploadStringCompleted",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs"
+        },
+        {
+          "DocsId": "F:System.Net.WebClient.UploadDataCompleted",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs"
+        },
+        {
+          "DocsId": "F:System.Net.WebClient.UploadFileCompleted",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs"
+        },
+        {
+          "DocsId": "F:System.Net.WebClient.UploadValuesCompleted",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs"
+        },
+        {
+          "DocsId": "F:System.Net.WebClient.OpenReadCompleted",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs"
+        },
+        {
+          "DocsId": "F:System.Net.WebClient.OpenWriteCompleted",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs"
+        },
+        {
+          "DocsId": "F:System.Net.WebClient.DownloadProgressChanged",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs"
+        },
+        {
+          "DocsId": "F:System.Net.WebClient.UploadProgressChanged",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs"
+        },
+        {
+          "DocsId": "F:System.Net.WebClient.<CachePolicy>k__BackingField",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs"
+        },
+        {
+          "DocsId": "F:System.Net.WebClient.s_parseContentTypeSeparators",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs"
+        },
+        {
+          "DocsId": "F:System.Net.WebClient.s_knownEncodings",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs"
+        },
+        {
+          "DocsId": "F:System.Net.WebClient.<AllowReadStreamBuffering>k__BackingField",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs"
+        },
+        {
+          "DocsId": "F:System.Net.WebClient.<AllowWriteStreamBuffering>k__BackingField",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs"
+        },
+        {
+          "DocsId": "P:System.Net.WebClient.Encoding",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs#L143C19-L143C36"
+        },
+        {
+          "DocsId": "P:System.Net.WebClient.BaseAddress",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs#L154C19-L154C88"
+        },
+        {
+          "DocsId": "P:System.Net.WebClient.Credentials",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs#L177C19-L177C39"
+        },
+        {
+          "DocsId": "P:System.Net.WebClient.UseDefaultCredentials",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs#L183C19-L183C77"
+        },
+        {
+          "DocsId": "P:System.Net.WebClient.Headers",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs#L190C19-L190C65"
+        },
+        {
+          "DocsId": "P:System.Net.WebClient.QueryString",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs#L197C19-L197C75"
+        },
+        {
+          "DocsId": "P:System.Net.WebClient.ResponseHeaders",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs#L201C56-L201C77"
+        },
+        {
+          "DocsId": "P:System.Net.WebClient.Proxy",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs#L205C19-L205C74"
+        },
+        {
+          "DocsId": "P:System.Net.WebClient.CachePolicy",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs#L213C50-L213C54"
+        },
+        {
+          "DocsId": "P:System.Net.WebClient.IsBusy",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs#L215C31-L215C66"
+        },
+        {
+          "DocsId": "P:System.Net.WebClient.AllowReadStreamBuffering",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs#L1972C48-L1972C52"
+        },
+        {
+          "DocsId": "P:System.Net.WebClient.AllowWriteStreamBuffering",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs#L1976C49-L1976C53"
+        },
+        {
+          "DocsId": "T:System.Net.WebClient.ProgressData",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs"
+        },
+        {
+          "DocsId": "T:System.Net.WebClient.WebClientWriteStream",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs"
+        },
+        {
+          "DocsId": "T:System.Net.WebClient.<>c",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs"
+        },
+        {
+          "DocsId": "T:System.Net.WebClient.<>c__DisplayClass163_0",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs"
+        },
+        {
+          "DocsId": "T:System.Net.WebClient.<>c__DisplayClass166_0",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs"
+        },
+        {
+          "DocsId": "T:System.Net.WebClient.<>c__DisplayClass181_0",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs"
+        },
+        {
+          "DocsId": "T:System.Net.WebClient.<>c__DisplayClass184_0",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs"
+        },
+        {
+          "DocsId": "T:System.Net.WebClient.<>c__DisplayClass187_0",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs"
+        },
+        {
+          "DocsId": "T:System.Net.WebClient.<>c__DisplayClass191_0",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs"
+        },
+        {
+          "DocsId": "T:System.Net.WebClient.<>c__DisplayClass193_0",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs"
+        },
+        {
+          "DocsId": "T:System.Net.WebClient.<>c__DisplayClass197_0",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs"
+        },
+        {
+          "DocsId": "T:System.Net.WebClient.<>c__DisplayClass201_0",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs"
+        },
+        {
+          "DocsId": "T:System.Net.WebClient.<>c__DisplayClass203_0",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs"
+        },
+        {
+          "DocsId": "T:System.Net.WebClient.<>c__DisplayClass205_0",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs"
+        },
+        {
+          "DocsId": "T:System.Net.WebClient.<>c__DisplayClass209_0",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs"
+        },
+        {
+          "DocsId": "T:System.Net.WebClient.<>c__DisplayClass213_0",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs"
+        },
+        {
+          "DocsId": "T:System.Net.WebClient.<>c__DisplayClass217_0",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs"
+        },
+        {
+          "DocsId": "T:System.Net.WebClient.<DownloadBitsAsync>d__150",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs"
+        },
+        {
+          "DocsId": "T:System.Net.WebClient.<GetWebResponseTaskAsync>d__112",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs"
+        },
+        {
+          "DocsId": "T:System.Net.WebClient.<UploadBitsAsync>d__152",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs"
+        }
+      ],
+      "DocsId": "T:System.Net.WebClient",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.Net.OpenReadCompletedEventHandler.#ctor(System.Object,System.IntPtr)",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "M:System.Net.OpenReadCompletedEventHandler.Invoke(System.Object,System.Net.OpenReadCompletedEventArgs)",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "M:System.Net.OpenReadCompletedEventHandler.BeginInvoke(System.Object,System.Net.OpenReadCompletedEventArgs,System.AsyncCallback,System.Object)",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "M:System.Net.OpenReadCompletedEventHandler.EndInvoke(System.IAsyncResult)",
+          "SourceLink": ""
+        }
+      ],
+      "DocsId": "T:System.Net.OpenReadCompletedEventHandler",
+      "SourceLink": ""
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.Net.OpenWriteCompletedEventHandler.#ctor(System.Object,System.IntPtr)",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "M:System.Net.OpenWriteCompletedEventHandler.Invoke(System.Object,System.Net.OpenWriteCompletedEventArgs)",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "M:System.Net.OpenWriteCompletedEventHandler.BeginInvoke(System.Object,System.Net.OpenWriteCompletedEventArgs,System.AsyncCallback,System.Object)",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "M:System.Net.OpenWriteCompletedEventHandler.EndInvoke(System.IAsyncResult)",
+          "SourceLink": ""
+        }
+      ],
+      "DocsId": "T:System.Net.OpenWriteCompletedEventHandler",
+      "SourceLink": ""
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.Net.DownloadStringCompletedEventHandler.#ctor(System.Object,System.IntPtr)",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "M:System.Net.DownloadStringCompletedEventHandler.Invoke(System.Object,System.Net.DownloadStringCompletedEventArgs)",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "M:System.Net.DownloadStringCompletedEventHandler.BeginInvoke(System.Object,System.Net.DownloadStringCompletedEventArgs,System.AsyncCallback,System.Object)",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "M:System.Net.DownloadStringCompletedEventHandler.EndInvoke(System.IAsyncResult)",
+          "SourceLink": ""
+        }
+      ],
+      "DocsId": "T:System.Net.DownloadStringCompletedEventHandler",
+      "SourceLink": ""
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.Net.DownloadDataCompletedEventHandler.#ctor(System.Object,System.IntPtr)",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "M:System.Net.DownloadDataCompletedEventHandler.Invoke(System.Object,System.Net.DownloadDataCompletedEventArgs)",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "M:System.Net.DownloadDataCompletedEventHandler.BeginInvoke(System.Object,System.Net.DownloadDataCompletedEventArgs,System.AsyncCallback,System.Object)",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "M:System.Net.DownloadDataCompletedEventHandler.EndInvoke(System.IAsyncResult)",
+          "SourceLink": ""
+        }
+      ],
+      "DocsId": "T:System.Net.DownloadDataCompletedEventHandler",
+      "SourceLink": ""
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.Net.UploadStringCompletedEventHandler.#ctor(System.Object,System.IntPtr)",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "M:System.Net.UploadStringCompletedEventHandler.Invoke(System.Object,System.Net.UploadStringCompletedEventArgs)",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "M:System.Net.UploadStringCompletedEventHandler.BeginInvoke(System.Object,System.Net.UploadStringCompletedEventArgs,System.AsyncCallback,System.Object)",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "M:System.Net.UploadStringCompletedEventHandler.EndInvoke(System.IAsyncResult)",
+          "SourceLink": ""
+        }
+      ],
+      "DocsId": "T:System.Net.UploadStringCompletedEventHandler",
+      "SourceLink": ""
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.Net.UploadDataCompletedEventHandler.#ctor(System.Object,System.IntPtr)",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "M:System.Net.UploadDataCompletedEventHandler.Invoke(System.Object,System.Net.UploadDataCompletedEventArgs)",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "M:System.Net.UploadDataCompletedEventHandler.BeginInvoke(System.Object,System.Net.UploadDataCompletedEventArgs,System.AsyncCallback,System.Object)",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "M:System.Net.UploadDataCompletedEventHandler.EndInvoke(System.IAsyncResult)",
+          "SourceLink": ""
+        }
+      ],
+      "DocsId": "T:System.Net.UploadDataCompletedEventHandler",
+      "SourceLink": ""
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.Net.UploadFileCompletedEventHandler.#ctor(System.Object,System.IntPtr)",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "M:System.Net.UploadFileCompletedEventHandler.Invoke(System.Object,System.Net.UploadFileCompletedEventArgs)",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "M:System.Net.UploadFileCompletedEventHandler.BeginInvoke(System.Object,System.Net.UploadFileCompletedEventArgs,System.AsyncCallback,System.Object)",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "M:System.Net.UploadFileCompletedEventHandler.EndInvoke(System.IAsyncResult)",
+          "SourceLink": ""
+        }
+      ],
+      "DocsId": "T:System.Net.UploadFileCompletedEventHandler",
+      "SourceLink": ""
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.Net.UploadValuesCompletedEventHandler.#ctor(System.Object,System.IntPtr)",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "M:System.Net.UploadValuesCompletedEventHandler.Invoke(System.Object,System.Net.UploadValuesCompletedEventArgs)",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "M:System.Net.UploadValuesCompletedEventHandler.BeginInvoke(System.Object,System.Net.UploadValuesCompletedEventArgs,System.AsyncCallback,System.Object)",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "M:System.Net.UploadValuesCompletedEventHandler.EndInvoke(System.IAsyncResult)",
+          "SourceLink": ""
+        }
+      ],
+      "DocsId": "T:System.Net.UploadValuesCompletedEventHandler",
+      "SourceLink": ""
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.Net.DownloadProgressChangedEventHandler.#ctor(System.Object,System.IntPtr)",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "M:System.Net.DownloadProgressChangedEventHandler.Invoke(System.Object,System.Net.DownloadProgressChangedEventArgs)",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "M:System.Net.DownloadProgressChangedEventHandler.BeginInvoke(System.Object,System.Net.DownloadProgressChangedEventArgs,System.AsyncCallback,System.Object)",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "M:System.Net.DownloadProgressChangedEventHandler.EndInvoke(System.IAsyncResult)",
+          "SourceLink": ""
+        }
+      ],
+      "DocsId": "T:System.Net.DownloadProgressChangedEventHandler",
+      "SourceLink": ""
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.Net.UploadProgressChangedEventHandler.#ctor(System.Object,System.IntPtr)",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "M:System.Net.UploadProgressChangedEventHandler.Invoke(System.Object,System.Net.UploadProgressChangedEventArgs)",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "M:System.Net.UploadProgressChangedEventHandler.BeginInvoke(System.Object,System.Net.UploadProgressChangedEventArgs,System.AsyncCallback,System.Object)",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "M:System.Net.UploadProgressChangedEventHandler.EndInvoke(System.IAsyncResult)",
+          "SourceLink": ""
+        }
+      ],
+      "DocsId": "T:System.Net.UploadProgressChangedEventHandler",
+      "SourceLink": ""
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.Net.WriteStreamClosedEventHandler.#ctor(System.Object,System.IntPtr)",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "M:System.Net.WriteStreamClosedEventHandler.Invoke(System.Object,System.Net.WriteStreamClosedEventArgs)",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "M:System.Net.WriteStreamClosedEventHandler.BeginInvoke(System.Object,System.Net.WriteStreamClosedEventArgs,System.AsyncCallback,System.Object)",
+          "SourceLink": ""
+        },
+        {
+          "DocsId": "M:System.Net.WriteStreamClosedEventHandler.EndInvoke(System.IAsyncResult)",
+          "SourceLink": ""
+        }
+      ],
+      "DocsId": "T:System.Net.WriteStreamClosedEventHandler",
+      "SourceLink": ""
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "F:System.Net.OpenReadCompletedEventArgs._result",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs"
+        },
+        {
+          "DocsId": "P:System.Net.OpenReadCompletedEventArgs.Result",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs#L2015C17-L2016C33"
+        }
+      ],
+      "DocsId": "T:System.Net.OpenReadCompletedEventArgs",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "F:System.Net.OpenWriteCompletedEventArgs._result",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs"
+        },
+        {
+          "DocsId": "P:System.Net.OpenWriteCompletedEventArgs.Result",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs#L2034C17-L2035C33"
+        }
+      ],
+      "DocsId": "T:System.Net.OpenWriteCompletedEventArgs",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "F:System.Net.DownloadStringCompletedEventArgs._result",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs"
+        },
+        {
+          "DocsId": "P:System.Net.DownloadStringCompletedEventArgs.Result",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs#L2053C17-L2054C33"
+        }
+      ],
+      "DocsId": "T:System.Net.DownloadStringCompletedEventArgs",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "F:System.Net.DownloadDataCompletedEventArgs._result",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs"
+        },
+        {
+          "DocsId": "P:System.Net.DownloadDataCompletedEventArgs.Result",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs#L2073C17-L2074C33"
+        }
+      ],
+      "DocsId": "T:System.Net.DownloadDataCompletedEventArgs",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "F:System.Net.UploadStringCompletedEventArgs._result",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs"
+        },
+        {
+          "DocsId": "P:System.Net.UploadStringCompletedEventArgs.Result",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs#L2092C17-L2093C33"
+        }
+      ],
+      "DocsId": "T:System.Net.UploadStringCompletedEventArgs",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "F:System.Net.UploadDataCompletedEventArgs._result",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs"
+        },
+        {
+          "DocsId": "P:System.Net.UploadDataCompletedEventArgs.Result",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs#L2111C17-L2112C33"
+        }
+      ],
+      "DocsId": "T:System.Net.UploadDataCompletedEventArgs",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "F:System.Net.UploadFileCompletedEventArgs._result",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs"
+        },
+        {
+          "DocsId": "P:System.Net.UploadFileCompletedEventArgs.Result",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs#L2130C17-L2131C33"
+        }
+      ],
+      "DocsId": "T:System.Net.UploadFileCompletedEventArgs",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "F:System.Net.UploadValuesCompletedEventArgs._result",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs"
+        },
+        {
+          "DocsId": "P:System.Net.UploadValuesCompletedEventArgs.Result",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs#L2149C17-L2150C33"
+        }
+      ],
+      "DocsId": "T:System.Net.UploadValuesCompletedEventArgs",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "F:System.Net.DownloadProgressChangedEventArgs.<BytesReceived>k__BackingField",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs"
+        },
+        {
+          "DocsId": "F:System.Net.DownloadProgressChangedEventArgs.<TotalBytesToReceive>k__BackingField",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs"
+        },
+        {
+          "DocsId": "P:System.Net.DownloadProgressChangedEventArgs.BytesReceived",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs#L2164C37-L2164C41"
+        },
+        {
+          "DocsId": "P:System.Net.DownloadProgressChangedEventArgs.TotalBytesToReceive",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs#L2165C43-L2165C47"
+        }
+      ],
+      "DocsId": "T:System.Net.DownloadProgressChangedEventArgs",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "F:System.Net.UploadProgressChangedEventArgs.<BytesReceived>k__BackingField",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs"
+        },
+        {
+          "DocsId": "F:System.Net.UploadProgressChangedEventArgs.<TotalBytesToReceive>k__BackingField",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs"
+        },
+        {
+          "DocsId": "F:System.Net.UploadProgressChangedEventArgs.<BytesSent>k__BackingField",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs"
+        },
+        {
+          "DocsId": "F:System.Net.UploadProgressChangedEventArgs.<TotalBytesToSend>k__BackingField",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs"
+        },
+        {
+          "DocsId": "P:System.Net.UploadProgressChangedEventArgs.BytesReceived",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs#L2180C37-L2180C41"
+        },
+        {
+          "DocsId": "P:System.Net.UploadProgressChangedEventArgs.TotalBytesToReceive",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs#L2181C43-L2181C47"
+        },
+        {
+          "DocsId": "P:System.Net.UploadProgressChangedEventArgs.BytesSent",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs#L2182C33-L2182C37"
+        },
+        {
+          "DocsId": "P:System.Net.UploadProgressChangedEventArgs.TotalBytesToSend",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs#L2183C40-L2183C44"
+        }
+      ],
+      "DocsId": "T:System.Net.UploadProgressChangedEventArgs",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs"
+    },
+    {
+      "Members": [
+        {
+          "DocsId": "M:System.Net.WriteStreamClosedEventArgs.#ctor",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs#L2192C9-L2192C48"
+        },
+        {
+          "DocsId": "P:System.Net.WriteStreamClosedEventArgs.Error",
+          "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs#L2196C41-L2196C53"
+        }
+      ],
+      "DocsId": "T:System.Net.WriteStreamClosedEventArgs",
+      "SourceLink": "https://github.com/dotnet/runtime/blob/d099f075e45d2aa6007a22b71b45a08758559f80/src/libraries/System.Net.WebClient/src/System/Net/WebClient.cs"
+    }
+  ]
+}
